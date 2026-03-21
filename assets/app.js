@@ -11,6 +11,8 @@ const state = {
   cityOverview: [],
   restaurants: [],
   userPosition: null,
+  cityFocusOrigin: null,
+  cityFocusName: "",
   geolocationWatchId: null,
   map: null,
   markerGroup: null,
@@ -43,6 +45,9 @@ function setupTabs() {
   for (const button of elements.tabButtons) {
     button.addEventListener("click", () => {
       const tab = button.dataset.tab;
+      if (tab === "map") {
+        clearCityFocus();
+      }
       switchTab(tab);
     });
   }
@@ -147,6 +152,8 @@ function setupMap() {
 function startGeolocation() {
   if (!("geolocation" in navigator)) {
     setStatus("裝置不支援定位，已使用巴黎預設位置。");
+    updateUserMarker();
+    renderNearbyRestaurants();
     return;
   }
 
@@ -157,14 +164,22 @@ function startGeolocation() {
       const lng = position.coords.longitude;
       state.userPosition = { lat, lng };
       updateUserMarker();
-      renderNearbyRestaurants();
-      setStatus("定位成功，已更新附近餐廳。");
+      if (!state.cityFocusOrigin) {
+        renderNearbyRestaurants();
+        setStatus("定位成功，已更新附近餐廳。");
+      } else {
+        setStatus(`定位成功，目前固定顯示 ${state.cityFocusName}。`);
+      }
     },
     () => {
       state.userPosition = null;
       updateUserMarker();
-      renderNearbyRestaurants();
-      setStatus("定位失敗或被拒絕，已使用巴黎預設位置。");
+      if (!state.cityFocusOrigin) {
+        renderNearbyRestaurants();
+        setStatus("定位失敗或被拒絕，已使用巴黎預設位置。");
+      } else {
+        setStatus(`定位失敗或被拒絕，目前固定顯示 ${state.cityFocusName}。`);
+      }
     },
     {
       enableHighAccuracy: true,
@@ -175,13 +190,14 @@ function startGeolocation() {
 }
 
 function updateUserMarker() {
-  const center = state.userPosition || DEFAULT_PARIS;
+  const center = getActiveOrigin();
+  const markerTitle = state.cityFocusOrigin ? `目前檢視：${state.cityFocusName}` : "目前位置";
   if (state.userMarker) {
     state.map.removeLayer(state.userMarker);
     state.map.removeLayer(state.radiusCircle);
   }
 
-  state.userMarker = L.marker([center.lat, center.lng], { title: "目前位置" }).addTo(state.map);
+  state.userMarker = L.marker([center.lat, center.lng], { title: markerTitle }).addTo(state.map);
   state.radiusCircle = L.circle([center.lat, center.lng], {
     radius: NEARBY_KM * 1000,
     color: "#2a4d66",
@@ -192,7 +208,7 @@ function updateUserMarker() {
 }
 
 function renderNearbyRestaurants() {
-  const origin = state.userPosition || DEFAULT_PARIS;
+  const origin = getActiveOrigin();
   const nearby = [];
   for (const place of state.restaurants) {
     const distanceKm = haversineKm(origin.lat, origin.lng, Number(place.lat), Number(place.lng));
@@ -234,8 +250,25 @@ function buildPopup(place) {
 function focusCityOnMap(cityName) {
   if (!state.map) return;
   const cityCenter = CITY_CENTERS[cityName] || DEFAULT_PARIS;
+  state.cityFocusOrigin = cityCenter;
+  state.cityFocusName = cityName || "Paris";
   state.map.setView([cityCenter.lat, cityCenter.lng], 13);
+  updateUserMarker();
   renderNearbyRestaurants();
+  setStatus(`目前固定顯示 ${state.cityFocusName} 附近 2 公里餐廳。`);
+}
+
+function clearCityFocus() {
+  if (!state.cityFocusOrigin) return;
+  state.cityFocusOrigin = null;
+  state.cityFocusName = "";
+  updateUserMarker();
+  renderNearbyRestaurants();
+  setStatus("已切回目前位置模式。");
+}
+
+function getActiveOrigin() {
+  return state.cityFocusOrigin || state.userPosition || DEFAULT_PARIS;
 }
 
 function haversineKm(lat1, lng1, lat2, lng2) {
