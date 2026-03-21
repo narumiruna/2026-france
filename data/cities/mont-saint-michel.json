@@ -90,6 +90,30 @@
     "notes": "【街道層級搜尋結果：La Caserne】與飯店同在 La Caserne 區域。強調全年營業與面向海灣視野，適合作為備選或預算導向晚餐。"
   },
   {
+    "id": "msm-le-relais-du-roy",
+    "name": "Le Relais du Roy",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6147,
+    "lng": -1.5095,
+    "score": 34,
+    "address": "8 Route du Mont Saint-Michel, La Caserne, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Le+Relais+du+Roy+Mont+Saint+Michel",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-21:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://www.pagesjaunes.fr/pros/00254306",
+      "https://www.ot-montsaintmichel.com/en/hotel/hotel-le-relais-du-roy/",
+      "https://en.normandie-tourisme.fr/hotels/hotel-le-relais-du-roy/",
+      "https://www.tripadvisor.com/Hotel_Review-g196646-d260831-Reviews-Le_Relais_du_Roy-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html"
+    ],
+    "notes": "【街道層級搜尋結果：8 Route du Mont Saint-Michel，與 Hôtel Gabriel 同路段，步行數分鐘】諾曼第地區老字號飯店附屬餐廳，供應海鮮、鹽沼羔羊與諾曼第在地料理，可眺望 Mont Saint-Michel 灣景。每日午晚餐供應，無需預約。可作為 La Ferme Saint-Michel 客滿時的備選晚餐。"
+  },
+  {
     "id": "msm-creperie-la-cloche",
     "name": "Crêperie La Cloche",
     "category": "restaurant",

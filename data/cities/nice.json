@@ -280,6 +280,30 @@
     "notes": "【區域層級搜尋結果：Vieux Nice 入口附近】每日 07:00 開始，新鮮長棍三明治、可頌、鹹派均可外帶。Vieux Nice 路線起點補給首選，也可返程外帶。"
   },
   {
+    "id": "nice-hug-cafe",
+    "name": "HUG Café",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.7016,
+    "lng": 7.2683,
+    "score": 35,
+    "address": "2 Rue de Suisse, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=HUG+Cafe+Nice",
+    "price_level": "€",
+    "opening_hours": "Daily 07:30-19:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast"],
+    "source_urls": [
+      "https://www.hugcafenice.com/en",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d23411835-Reviews-Hug_Cafe-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://restaurantguru.com/HUG-Cafe-Nice-Nice",
+      "https://wanderlog.com/place/details/2425353/hug-caf%C3%A9-nice"
+    ],
+    "notes": "【街道層級搜尋結果：Rue de Suisse，靠近聖母大教堂，飯店步行約 12 分鐘】精品咖啡名店，使用 Antibes 在地烘焙豆，供應 Flat White、Chemex、Cortado 等手沖咖啡；另有有機蛋糕、鹹派、三明治、沙拉，素食選項豐富。全週 07:30 起，露台可望聖母大教堂。是城中心往返路線上的優質早餐補給點。"
+  },
+  {
     "id": "nice-hobo-coffee",
     "name": "HOBO Coffee",
     "category": "cafe",
