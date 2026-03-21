@@ -6,6 +6,16 @@ const CITY_CENTERS = {
   "Mont Saint-Michel": { lat: 48.6155, lng: -1.5109 },
   Paris: { lat: 48.847, lng: 2.3014 },
 };
+const CITY_EMOJI = {
+  Avignon: "🏛",
+  Nice: "🌊",
+  "Mont Saint-Michel": "🏰",
+  Paris: "🗼",
+};
+
+function getCityPrefix(cityName) {
+  return (cityName || "").toLowerCase().replace(/\s+/g, "-");
+}
 
 const state = {
   cityOverview: [],
@@ -125,11 +135,17 @@ function renderOverview() {
     node.querySelector(".city-name").textContent = city.city || "Unknown";
     node.querySelector(".city-period").textContent = formatPeriod(city.period);
     node.querySelector(".city-notes").textContent = city.notes || "";
+    node.querySelector(".city-emoji").textContent = CITY_EMOJI[city.city] || "🍴";
     fillList(node.querySelector(".city-highlights"), city.highlights);
     fillList(node.querySelector(".city-dishes"), city.signature_dishes);
     fillList(node.querySelector(".city-areas"), city.areas);
     renderHotel(node.querySelector(".city-hotel"), city.hotel);
     fillList(node.querySelector(".city-constraints"), city.research_strategy?.constraints);
+
+    const cityPrefix = getCityPrefix(city.city);
+    const restCount = state.restaurants.filter((r) => r.id && r.id.startsWith(cityPrefix)).length;
+    const badge = node.querySelector(".city-rest-count");
+    badge.textContent = `🍴 ${restCount} 間`;
 
     const button = node.querySelector(".go-map");
     button.addEventListener("click", () => {
@@ -265,21 +281,39 @@ function renderNearbyRestaurants() {
 function buildPopup(place) {
   const hours = place.opening_hours || "未知";
   const price = place.price_level || "未知";
-  const score = Number.isFinite(Number(place.score)) ? place.score : "未知";
+  const scoreNum = Number(place.score);
+  const scoreValid = Number.isFinite(scoreNum);
+  const scoreDisplay = scoreValid ? String(place.score) : "未知";
+  const scorePct = scoreValid ? Math.min(100, Math.round((scoreNum / 50) * 100)) : 0;
   const note = place.notes || "無";
   const sourceCount = Array.isArray(place.source_urls) ? place.source_urls.length : 0;
+
+  const scoreBarHtml = scoreValid
+    ? `<div class="popup-score-row">
+        <span class="popup-score-label">評分</span>
+        <div class="popup-score-bar">
+          <div class="popup-score-fill" style="width:${scorePct}%"></div>
+        </div>
+        <span class="popup-score-num">${escapeHtml(scoreDisplay)}/50</span>
+       </div>`
+    : "";
+
   return `
     <div class="popup">
-      <h4>${escapeHtml(place.name)}</h4>
-      <p><strong>分類：</strong>${escapeHtml(place.category)}</p>
-      <p><strong>分數：</strong>${escapeHtml(String(score))} / 50</p>
-      <p><strong>距離：</strong>${place.distanceKm.toFixed(2)} km</p>
-      <p><strong>價格帶：</strong>${escapeHtml(price)}</p>
-      <p><strong>營業資訊：</strong>${escapeHtml(hours)}</p>
-      <p><strong>地址：</strong>${escapeHtml(place.address)}</p>
-      <p><strong>來源數：</strong>${sourceCount}</p>
-      <p><strong>備註：</strong>${escapeHtml(note)}</p>
-      <p><a href="${encodeURI(place.google_maps_url)}" target="_blank" rel="noopener">Google Maps</a></p>
+      <h4 class="popup-name">${escapeHtml(place.name)}</h4>
+      ${scoreBarHtml}
+      <hr class="popup-divider" />
+      <div class="popup-rows">
+        <span class="popup-label">分類</span><span class="popup-value">${escapeHtml(place.category)}</span>
+        <span class="popup-label">距離</span><span class="popup-value">${place.distanceKm.toFixed(2)} km</span>
+        <span class="popup-label">價格帶</span><span class="popup-value">${escapeHtml(price)}</span>
+        <span class="popup-label">營業時間</span><span class="popup-value">${escapeHtml(hours)}</span>
+        <span class="popup-label">地址</span><span class="popup-value">${escapeHtml(place.address)}</span>
+        <span class="popup-label">來源數</span><span class="popup-value">${sourceCount}</span>
+        <span class="popup-label">備註</span><span class="popup-value">${escapeHtml(note)}</span>
+      </div>
+      <hr class="popup-divider" />
+      <p style="margin:0"><a href="${encodeURI(place.google_maps_url)}" target="_blank" rel="noopener">📍 Google Maps</a></p>
     </div>
   `;
 }

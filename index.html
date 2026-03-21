@@ -3,7 +3,13 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>France Food Map</title>
+    <title>France Food Map 2026</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&family=Playfair+Display:wght@600;700&display=swap"
+    />
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <link
       rel="stylesheet"
@@ -17,12 +23,23 @@
   </head>
   <body>
     <header class="site-header">
-      <h1>France Food Map 2026</h1>
-      <p>旅程城市總覽與即時附近餐廳地圖</p>
-      <nav class="tabs" aria-label="主要分頁">
-        <button class="tab is-active" data-tab="overview" type="button">Overview</button>
-        <button class="tab" data-tab="map" type="button">Map</button>
-      </nav>
+      <div class="header-inner">
+        <div class="header-title-group">
+          <span class="header-flag" aria-hidden="true">🇫🇷</span>
+          <div>
+            <h1>France Food Map <span class="header-year">2026</span></h1>
+            <p class="header-sub">旅程城市總覽與即時附近餐廳地圖</p>
+          </div>
+        </div>
+        <nav class="tabs" aria-label="主要分頁">
+          <button class="tab is-active" data-tab="overview" type="button">
+            <span class="tab-icon" aria-hidden="true">🗺</span> 總覽
+          </button>
+          <button class="tab" data-tab="map" type="button">
+            <span class="tab-icon" aria-hidden="true">📍</span> 地圖
+          </button>
+        </nav>
+      </div>
     </header>
 
     <main class="container">
@@ -33,40 +50,52 @@
       <section id="map" class="panel" aria-label="地圖頁面">
         <div class="map-meta">
           <p id="map-status">載入中...</p>
-          <p class="meta">附近定義：2 公里</p>
+          <p class="meta"><span aria-hidden="true">📏</span> 附近定義：2 公里</p>
         </div>
         <div id="map-view"></div>
       </section>
     </main>
 
+    <footer class="site-footer">
+      <p>France Food Map 2026 &nbsp;·&nbsp; 資料僅供旅遊參考</p>
+    </footer>
+
     <template id="overview-card-template">
       <article class="city-card">
         <div class="city-head">
-          <h2 class="city-name"></h2>
-          <p class="city-period"></p>
+          <div class="city-head-left">
+            <span class="city-emoji" aria-hidden="true"></span>
+            <h2 class="city-name"></h2>
+          </div>
+          <div class="city-head-right">
+            <span class="city-rest-count" title="餐廳候選數"></span>
+            <p class="city-period"></p>
+          </div>
         </div>
         <p class="city-notes"></p>
         <div class="city-block">
-          <h3>美食亮點</h3>
+          <h3><span aria-hidden="true">✨</span> 美食亮點</h3>
           <ul class="city-highlights"></ul>
         </div>
         <div class="city-block">
-          <h3>代表料理</h3>
+          <h3><span aria-hidden="true">🍽</span> 代表料理</h3>
           <ul class="city-dishes"></ul>
         </div>
         <div class="city-block">
-          <h3>重點區域</h3>
+          <h3><span aria-hidden="true">📌</span> 重點區域</h3>
           <ul class="city-areas"></ul>
         </div>
         <div class="city-block">
-          <h3>住宿</h3>
+          <h3><span aria-hidden="true">🏨</span> 住宿</h3>
           <p class="city-hotel"></p>
         </div>
         <div class="city-block">
-          <h3>注意事項</h3>
+          <h3><span aria-hidden="true">⚠️</span> 注意事項</h3>
           <ul class="city-constraints"></ul>
         </div>
-        <button class="go-map" type="button">在地圖查看</button>
+        <button class="go-map" type="button">
+          <span aria-hidden="true">🗺</span> 在地圖查看
+        </button>
       </article>
     </template>
 
