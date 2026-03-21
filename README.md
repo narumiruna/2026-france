@@ -2,6 +2,8 @@
 
 A static travel food tool for France (May-June 2026), designed for fast on-trip decisions.
 
+Live site: https://narumiruna.github.io/2026-france/
+
 The site currently provides:
 - `Overview` tab: city-level food highlights, areas, and strategy notes.
 - `Map` tab: nearby researched places based on live geolocation.
