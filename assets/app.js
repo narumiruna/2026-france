@@ -61,7 +61,9 @@ function switchTab(tabName) {
     panel.classList.toggle("is-active", panel.id === tabName);
   }
   if (tabName === "map" && state.map) {
-    state.map.invalidateSize();
+    setTimeout(() => state.map.invalidateSize(), 0);
+    updateUserMarker();
+    renderNearbyRestaurants();
   }
 }
 
@@ -282,7 +284,14 @@ function clearCityFocus() {
 }
 
 function getActiveOrigin() {
-  return state.cityFocusOrigin || state.userPosition || DEFAULT_PARIS;
+  if (state.cityFocusOrigin) return state.cityFocusOrigin;
+  if (state.userPosition) {
+    const hasNearby = state.restaurants.some(
+      (r) => haversineKm(state.userPosition.lat, state.userPosition.lng, Number(r.lat), Number(r.lng)) <= NEARBY_KM,
+    );
+    if (hasNearby) return state.userPosition;
+  }
+  return DEFAULT_PARIS;
 }
 
 function haversineKm(lat1, lng1, lat2, lng2) {
