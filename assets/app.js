@@ -11,6 +11,12 @@ const CITY_EMOJI = {
   "Mont Saint-Michel": "🏰",
   Paris: "🗼",
 };
+const CITY_PREFIX = {
+  Avignon: "avignon",
+  Nice: "nice",
+  "Mont Saint-Michel": "msm",
+  Paris: "paris",
+};
 
 function getCityPrefix(cityName) {
   return (cityName || "").toLowerCase().replace(/\s+/g, "-");
@@ -144,7 +150,7 @@ function renderOverview() {
     renderHotel(node.querySelector(".city-hotel"), city.hotel);
     fillList(node.querySelector(".city-constraints"), city.research_strategy?.constraints);
 
-    const cityPrefix = getCityPrefix(city.city);
+    const cityPrefix = CITY_PREFIX[city.city] ?? getCityPrefix(city.city);
     const restCount = state.restaurants.filter((r) => r.id && r.id.startsWith(cityPrefix)).length;
     const badge = node.querySelector(".city-rest-count");
     badge.textContent = `🍴 ${restCount} 間`;
