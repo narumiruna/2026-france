@@ -4,7 +4,9 @@
     "period": "2026-05-30 ~ 2026-06-02",
     "hotel": {
       "name": "Hôtel Ibis Avignon Centre",
-      "google_maps_url": "https://maps.app.goo.gl/CwibRU33sibfCTw36"
+      "google_maps_url": "https://maps.app.goo.gl/CwibRU33sibfCTw36",
+      "lat": 43.9436,
+      "lng": 4.7982
     },
     "trip_info": [
       "舊城區與教皇宮周邊步行可達多數餐廳",
@@ -48,7 +50,9 @@
     "period": "2026-06-02 ~ 2026-06-05",
     "hotel": {
       "name": "ibis Nice Centre Notre-Dame",
-      "google_maps_url": "https://maps.app.goo.gl/jMwRZzqJYn62ouEe9"
+      "google_maps_url": "https://maps.app.goo.gl/jMwRZzqJYn62ouEe9",
+      "lat": 43.7031,
+      "lng": 7.2656
     },
     "trip_info": [
       "海濱與舊城區餐廳密度高，需避開純觀光陷阱店",
@@ -94,7 +98,9 @@
     "period": "2026-06-05 ~ 2026-06-06",
     "hotel": {
       "name": "Hôtel Gabriel - Hôtel Mont Saint Michel",
-      "google_maps_url": "https://maps.app.goo.gl/A4DPp3bC8yJGrco1A"
+      "google_maps_url": "https://maps.app.goo.gl/A4DPp3bC8yJGrco1A",
+      "lat": 48.6155,
+      "lng": -1.5109
     },
     "trip_info": [
       "停留時間短，需以高確定性用餐方案為主",
@@ -137,7 +143,9 @@
     "period": "2026-06-06 ~ 2026-06-10",
     "hotel": {
       "name": "Hôtel ibis Paris Tour Eiffel Cambronne",
-      "google_maps_url": "https://maps.app.goo.gl/tYhTmGU27BXSSpzTA"
+      "google_maps_url": "https://maps.app.goo.gl/tYhTmGU27BXSSpzTA",
+      "lat": 48.847,
+      "lng": 2.3014
     },
     "trip_info": [
       "停留天數最長，適合建立主力 + 備選 + 臨時附近店三層清單",
