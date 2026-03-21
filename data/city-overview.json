@@ -21,7 +21,11 @@
       "Palais des Papes 周邊",
       "Les Halles d'Avignon 周邊"
     ],
-    "top_candidates": [],
+    "top_candidates": [
+      "avignon-la-fourchette",
+      "avignon-lagape",
+      "avignon-latte-re"
+    ],
     "research_strategy": {
       "priorities": [
         "先確認 1-2 間晚餐主力店（可預約）",
@@ -57,7 +61,11 @@
       "Cours Saleya 周邊",
       "Promenade des Anglais 周邊"
     ],
-    "top_candidates": [],
+    "top_candidates": [
+      "nice-la-merenda",
+      "nice-acchiardo",
+      "nice-chez-pipo"
+    ],
     "research_strategy": {
       "priorities": [
         "先建立在地名物清單並對應代表店家",
@@ -92,7 +100,11 @@
       "Mont Saint-Michel 島內",
       "島外接駁區周邊"
     ],
-    "top_candidates": [],
+    "top_candidates": [
+      "msm-la-mere-poulard",
+      "msm-la-sirene",
+      "msm-restaurant-le-relais"
+    ],
     "research_strategy": {
       "priorities": [
         "先鎖 1 間主力餐廳與 1 間備選",
@@ -128,7 +140,11 @@
       "Saint-Germain-des-Prés",
       "Canal Saint-Martin"
     ],
-    "top_candidates": [],
+    "top_candidates": [
+      "paris-septime",
+      "paris-du-pain-et-des-idees",
+      "paris-bouillon-republique"
+    ],
     "research_strategy": {
       "priorities": [
         "先完成高分主力晚餐名單",

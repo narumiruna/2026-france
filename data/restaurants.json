@@ -1,0 +1,258 @@
+[
+  {
+    "id": "avignon-la-fourchette",
+    "name": "La Fourchette",
+    "category": "restaurant",
+    "lat": 43.9485,
+    "lng": 4.8085,
+    "score": 41,
+    "address": "17 Rue Racine, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=La+Fourchette+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 12:00-14:00, 19:00-21:30",
+    "source_urls": [
+      "https://maps.google.com/?q=La+Fourchette+Avignon"
+    ],
+    "notes": "普羅旺斯取向，主力晚餐候選。"
+  },
+  {
+    "id": "avignon-lagape",
+    "name": "L'Agape",
+    "category": "restaurant",
+    "lat": 43.9496,
+    "lng": 4.8064,
+    "score": 39,
+    "address": "2 Place Des Carmes, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=L%27Agape+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 12:00-14:00, 19:00-22:00",
+    "source_urls": [
+      "https://maps.google.com/?q=L%27Agape+Avignon"
+    ],
+    "notes": "舊城區動線友善，適合行程中段用餐。"
+  },
+  {
+    "id": "avignon-les-halles-bistro",
+    "name": "Les Halles Bistro",
+    "category": "restaurant",
+    "lat": 43.9474,
+    "lng": 4.8072,
+    "score": 34,
+    "address": "Place Pie, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Les+Halles+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mon-Sat 11:30-22:00",
+    "source_urls": [
+      "https://maps.google.com/?q=Les+Halles+Avignon"
+    ],
+    "notes": "市場周邊午餐備選。"
+  },
+  {
+    "id": "avignon-latte-re",
+    "name": "L'Atelier de Belinda",
+    "category": "restaurant",
+    "lat": 43.9472,
+    "lng": 4.8054,
+    "score": 36,
+    "address": "48 Place des Corps Saints, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=L%27Atelier+de+Belinda+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-22:00",
+    "source_urls": [
+      "https://maps.google.com/?q=L%27Atelier+de+Belinda+Avignon"
+    ],
+    "notes": "行程彈性較高的穩定備選。"
+  },
+  {
+    "id": "nice-acchiardo",
+    "name": "Acchiardo",
+    "category": "restaurant",
+    "lat": 43.6969,
+    "lng": 7.2757,
+    "score": 40,
+    "address": "38 Rue Droite, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Acchiardo+Nice",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sun 12:00-14:00, 19:00-22:00",
+    "source_urls": [
+      "https://maps.google.com/?q=Acchiardo+Nice"
+    ],
+    "notes": "經典 Niçoise 菜，高優先。"
+  },
+  {
+    "id": "nice-chez-pipo",
+    "name": "Chez Pipo",
+    "category": "restaurant",
+    "lat": 43.7025,
+    "lng": 7.2871,
+    "score": 39,
+    "address": "13 Rue Bavastro, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Chez+Pipo+Nice",
+    "price_level": "€",
+    "opening_hours": "Wed-Mon 11:30-22:00",
+    "source_urls": [
+      "https://maps.google.com/?q=Chez+Pipo+Nice"
+    ],
+    "notes": "Socca 指標店，快速用餐友善。"
+  },
+  {
+    "id": "nice-la-merenda",
+    "name": "La Merenda",
+    "category": "restaurant",
+    "lat": 43.6979,
+    "lng": 7.2758,
+    "score": 42,
+    "address": "4 Rue Raoul Bosio, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=La+Merenda+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mon-Fri 12:00-14:00, 19:00-22:00",
+    "source_urls": [
+      "https://maps.google.com/?q=La+Merenda+Nice"
+    ],
+    "notes": "人氣高，預約與候位策略重要。"
+  },
+  {
+    "id": "nice-fenocchio",
+    "name": "Fenocchio",
+    "category": "dessert",
+    "lat": 43.6974,
+    "lng": 7.2755,
+    "score": 35,
+    "address": "2 Place Rossetti, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Fenocchio+Nice",
+    "price_level": "€",
+    "opening_hours": "Daily 10:00-23:30",
+    "source_urls": [
+      "https://maps.google.com/?q=Fenocchio+Nice"
+    ],
+    "notes": "甜點補給點，適合舊城區步行路線。"
+  },
+  {
+    "id": "msm-la-mere-poulard",
+    "name": "La Mère Poulard",
+    "category": "restaurant",
+    "lat": 48.6359,
+    "lng": -1.5102,
+    "score": 35,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La+Mere+Poulard+Mont+Saint+Michel",
+    "price_level": "€€€",
+    "opening_hours": "Daily 11:30-22:00",
+    "source_urls": [
+      "https://maps.google.com/?q=La+Mere+Poulard+Mont+Saint+Michel"
+    ],
+    "notes": "地標型體驗，可作主力或觀光餐。"
+  },
+  {
+    "id": "msm-restaurant-le-relais",
+    "name": "Le Relais Saint-Michel",
+    "category": "restaurant",
+    "lat": 48.6148,
+    "lng": -1.5088,
+    "score": 33,
+    "address": "La Caserne, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Le+Relais+Saint-Michel",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-21:30",
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Relais+Saint-Michel"
+    ],
+    "notes": "短停留備選，重視可執行性。"
+  },
+  {
+    "id": "msm-la-sirene",
+    "name": "La Sirène",
+    "category": "restaurant",
+    "lat": 48.6362,
+    "lng": -1.5098,
+    "score": 34,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La+Sirene+Mont+Saint+Michel",
+    "price_level": "€€",
+    "opening_hours": "Daily 11:30-21:30",
+    "source_urls": [
+      "https://maps.google.com/?q=La+Sirene+Mont+Saint+Michel"
+    ],
+    "notes": "可作中段補位店，降低排隊風險。"
+  },
+  {
+    "id": "msm-creperie-la-cloche",
+    "name": "Crêperie La Cloche",
+    "category": "restaurant",
+    "lat": 48.6361,
+    "lng": -1.5106,
+    "score": 32,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Creperie+La+Cloche+Mont+Saint+Michel",
+    "price_level": "€",
+    "opening_hours": "Daily 11:00-21:00",
+    "source_urls": [
+      "https://maps.google.com/?q=Creperie+La+Cloche+Mont+Saint+Michel"
+    ],
+    "notes": "快速用餐備選。"
+  },
+  {
+    "id": "paris-septime",
+    "name": "Septime",
+    "category": "restaurant",
+    "lat": 48.853,
+    "lng": 2.3807,
+    "score": 44,
+    "address": "80 Rue de Charonne, 75011 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Septime+Paris",
+    "price_level": "€€€",
+    "opening_hours": "Mon-Fri 12:00-14:00, 19:00-22:00",
+    "source_urls": [
+      "https://maps.google.com/?q=Septime+Paris"
+    ],
+    "notes": "高優先晚餐，預約門檻高。"
+  },
+  {
+    "id": "paris-bouillon-republique",
+    "name": "Bouillon République",
+    "category": "restaurant",
+    "lat": 48.8675,
+    "lng": 2.3636,
+    "score": 36,
+    "address": "39 Boulevard du Temple, 75003 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Bouillon+Republique",
+    "price_level": "€",
+    "opening_hours": "Daily 12:00-23:00",
+    "source_urls": [
+      "https://maps.google.com/?q=Bouillon+Republique"
+    ],
+    "notes": "高性價比備選，適合臨時決策。"
+  },
+  {
+    "id": "paris-du-pain-et-des-idees",
+    "name": "Du Pain et des Idées",
+    "category": "cafe",
+    "lat": 48.8726,
+    "lng": 2.3594,
+    "score": 38,
+    "address": "34 Rue Yves Toudic, 75010 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Du+Pain+et+des+Idees",
+    "price_level": "€",
+    "opening_hours": "Mon-Fri 07:00-19:00",
+    "source_urls": [
+      "https://maps.google.com/?q=Du+Pain+et+des+Idees"
+    ],
+    "notes": "早餐/下午點心穩定選擇。"
+  },
+  {
+    "id": "paris-cafe-de-flore",
+    "name": "Café de Flore",
+    "category": "cafe",
+    "lat": 48.8541,
+    "lng": 2.3321,
+    "score": 34,
+    "address": "172 Boulevard Saint-Germain, 75006 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Cafe+de+Flore+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 07:30-01:30",
+    "source_urls": [
+      "https://maps.google.com/?q=Cafe+de+Flore+Paris"
+    ],
+    "notes": "經典地標咖啡館，觀光區需留意等位。"
+  }
+]
