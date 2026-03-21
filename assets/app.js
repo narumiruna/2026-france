@@ -42,6 +42,7 @@ const elements = {
   tabButtons: document.querySelectorAll(".tab"),
   panels: document.querySelectorAll(".panel"),
   overviewTemplate: document.querySelector("#overview-card-template"),
+  goToLocationBtn: document.querySelector("#go-to-location"),
 };
 
 init().catch((error) => {
@@ -57,6 +58,7 @@ async function init() {
   renderHotelMarkers();
   startGeolocation();
   renderNearbyRestaurants();
+  setupGoToLocation();
 }
 
 function setupTabs() {
@@ -462,6 +464,40 @@ function clearCityFocus() {
   state.cityFocusName = "";
   renderNearbyRestaurants();
   setStatus("已切回目前位置模式。");
+}
+
+function setupGoToLocation() {
+  if (!elements.goToLocationBtn) return;
+  elements.goToLocationBtn.addEventListener("click", goToUserLocation);
+}
+
+function goToUserLocation() {
+  if (!state.map) return;
+  if (state.userPosition) {
+    panToUserPosition(state.userPosition);
+  } else if (!("geolocation" in navigator)) {
+    setStatus("裝置不支援定位。");
+  } else {
+    setStatus("定位中，請稍候...");
+    navigator.geolocation.getCurrentPosition(
+      (position) => {
+        state.userPosition = { lat: position.coords.latitude, lng: position.coords.longitude };
+        panToUserPosition(state.userPosition);
+      },
+      () => {
+        setStatus("定位失敗或被拒絕，無法跳轉至目前位置。");
+      },
+      { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 },
+    );
+  }
+}
+
+function panToUserPosition(position) {
+  state.cityFocusOrigin = null;
+  state.cityFocusName = "";
+  state.map.setView([position.lat, position.lng], 15);
+  setStatus("已移至目前位置。");
+  renderNearbyRestaurants();
 }
 
 function getActiveOrigin() {

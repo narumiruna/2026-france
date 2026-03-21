@@ -384,6 +384,34 @@ body.map-is-active .container {
   color: var(--ink);
 }
 
+.go-to-location {
+  align-self: flex-start;
+  border: none;
+  background: var(--accent);
+  color: #fff;
+  border-radius: var(--radius-btn);
+  padding: 7px 14px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 0.82rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  transition: background var(--transition), box-shadow var(--transition), transform var(--transition);
+  box-shadow: 0 2px 6px rgba(178, 69, 30, 0.25);
+  white-space: nowrap;
+}
+
+.go-to-location:hover {
+  background: var(--accent-dark);
+  box-shadow: 0 4px 12px rgba(178, 69, 30, 0.35);
+  transform: translateY(-1px);
+}
+
+.go-to-location:active {
+  transform: translateY(0);
+}
+
 .meta {
   margin: 0;
   font-size: 0.85rem;
