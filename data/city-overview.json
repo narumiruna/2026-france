@@ -1,0 +1,145 @@
+[
+  {
+    "city": "Avignon",
+    "period": "2026-05-30 ~ 2026-06-02",
+    "trip_info": [
+      "舊城區與教皇宮周邊步行可達多數餐廳",
+      "可優先安排午餐探索、晚餐預約主力餐廳"
+    ],
+    "highlights": [
+      "普羅旺斯料理",
+      "當地市場食材導向餐廳",
+      "舊城區咖啡與甜點店"
+    ],
+    "signature_dishes": [
+      "Daube provençale",
+      "Ratatouille",
+      "Tapenade"
+    ],
+    "areas": [
+      "Intra-muros（舊城區）",
+      "Palais des Papes 周邊",
+      "Les Halles d'Avignon 周邊"
+    ],
+    "top_candidates": [],
+    "research_strategy": {
+      "priorities": [
+        "先確認 1-2 間晚餐主力店（可預約）",
+        "補齊市場周邊高評價午餐與咖啡",
+        "確認週末與週一公休日規則"
+      ],
+      "constraints": [
+        "部分餐廳午晚分段營業，午後可能休息",
+        "熱門店晚餐可能需要提前數天預約"
+      ]
+    },
+    "notes": "先完成舊城區密集研究，避免跨區移動造成用餐時間破碎。"
+  },
+  {
+    "city": "Nice",
+    "period": "2026-06-02 ~ 2026-06-05",
+    "trip_info": [
+      "海濱與舊城區餐廳密度高，需避開純觀光陷阱店",
+      "可安排海鮮與在地小吃雙軸探索"
+    ],
+    "highlights": [
+      "Niçoise 在地料理",
+      "海鮮餐廳",
+      "舊城區小吃與甜點"
+    ],
+    "signature_dishes": [
+      "Salade niçoise",
+      "Socca",
+      "Pissaladière"
+    ],
+    "areas": [
+      "Vieux Nice",
+      "Cours Saleya 周邊",
+      "Promenade des Anglais 周邊"
+    ],
+    "top_candidates": [],
+    "research_strategy": {
+      "priorities": [
+        "先建立在地名物清單並對應代表店家",
+        "海鮮餐廳優先確認新鮮度與評價一致性",
+        "建立 2-3 間低風險備選店"
+      ],
+      "constraints": [
+        "觀光區評價兩極，需提高來源交叉驗證密度",
+        "海邊餐廳價格波動較大，需先確認價格帶"
+      ]
+    },
+    "notes": "Nice 以「避雷」優先，分數與評論穩定度比話題性更重要。"
+  },
+  {
+    "city": "Mont Saint-Michel",
+    "period": "2026-06-05 ~ 2026-06-06",
+    "trip_info": [
+      "停留時間短，需以高確定性用餐方案為主",
+      "島內與周邊餐廳選擇有限，需提前鎖定"
+    ],
+    "highlights": [
+      "Normandy 區域料理",
+      "蛋料理與海鮮",
+      "短停留高效率用餐策略"
+    ],
+    "signature_dishes": [
+      "Omelette de la Mère Poulard",
+      "Moules marinières",
+      "Galette"
+    ],
+    "areas": [
+      "Mont Saint-Michel 島內",
+      "島外接駁區周邊"
+    ],
+    "top_candidates": [],
+    "research_strategy": {
+      "priorities": [
+        "先鎖 1 間主力餐廳與 1 間備選",
+        "確認交通與接駁時間對用餐時段的影響",
+        "確認是否需要提前預約"
+      ],
+      "constraints": [
+        "時間窗口短，現場排隊風險高",
+        "晚間可用選項可能有限"
+      ]
+    },
+    "notes": "此站重點是可執行性，不追求大量選項。"
+  },
+  {
+    "city": "Paris",
+    "period": "2026-06-06 ~ 2026-06-10",
+    "trip_info": [
+      "停留天數最長，適合建立主力 + 備選 + 臨時附近店三層清單",
+      "地圖模式會是旅中主要決策工具"
+    ],
+    "highlights": [
+      "Bistro 與新法式餐廳",
+      "甜點與咖啡",
+      "分區探索（左岸/右岸）"
+    ],
+    "signature_dishes": [
+      "Steak frites",
+      "Croissant",
+      "Crème brûlée"
+    ],
+    "areas": [
+      "Le Marais",
+      "Saint-Germain-des-Prés",
+      "Canal Saint-Martin"
+    ],
+    "top_candidates": [],
+    "research_strategy": {
+      "priorities": [
+        "先完成高分主力晚餐名單",
+        "每個活動區域補齊可即時前往的午餐/咖啡備選",
+        "優先確認預約門檻高的熱門店"
+      ],
+      "constraints": [
+        "熱門餐廳訂位競爭高，需提前規劃",
+        "不同區域移動成本高，需按當日路線配店"
+      ]
+    },
+    "notes": "巴黎資料量最大，維護時以區域分批更新最穩定。"
+  }
+]
