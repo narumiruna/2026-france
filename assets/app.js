@@ -1,10 +1,10 @@
-const DEFAULT_PARIS = { lat: 48.853, lng: 2.3499 };
+const DEFAULT_PARIS = { lat: 48.847, lng: 2.3014 };
 const NEARBY_KM = 2;
 const CITY_CENTERS = {
-  Avignon: { lat: 43.9493, lng: 4.8055 },
-  Nice: { lat: 43.7102, lng: 7.262 },
-  "Mont Saint-Michel": { lat: 48.636, lng: -1.5115 },
-  Paris: { lat: 48.853, lng: 2.3499 },
+  Avignon: { lat: 43.9436, lng: 4.7982 },
+  Nice: { lat: 43.7031, lng: 7.2656 },
+  "Mont Saint-Michel": { lat: 48.6155, lng: -1.5109 },
+  Paris: { lat: 48.847, lng: 2.3014 },
 };
 
 const state = {
