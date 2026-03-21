@@ -748,6 +748,17 @@ body.map-is-active .container {
   }
 }
 
+/* ---- Hotel Marker Icon ---- */
+
+.hotel-marker-icon {
+  background: transparent;
+  border: none;
+  font-size: 1.6rem;
+  line-height: 1;
+  text-align: center;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.35));
+}
+
 /* ---- Footer ---- */
 
 .site-footer {
