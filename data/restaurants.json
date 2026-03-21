@@ -12,11 +12,10 @@
     "opening_hours": "Tue-Sat 12:00-14:00, 19:00-21:30",
     "source_urls": [
       "https://maps.google.com/?q=La+Fourchette+Avignon",
-      "https://www.le-fooding.com/restaurant/la-fourchette-avignon",
-      "https://www.tripadvisor.com/Restaurant_Review-La_Fourchette-Avignon",
-      "https://www.viamichelin.com/web/Restaurant/Avignon-La_Fourchette"
+      "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/avignon/restaurant/la-fourchette",
+      "https://guide.michelin.com/tw/zh_TW/provence-alpes-cote-dazur/avignon/restaurant/la-fourchette"
     ],
-    "notes": "普羅旺斯風格小酒館，在地老字號，週五晚間常客滿需提前預約。主力晚餐首選。"
+    "notes": "主力晚餐首選。MICHELIN 有收錄，且明確提到在地南法風味與常客滿特性；建議提前安排。"
   },
   {
     "id": "avignon-lagape",
@@ -31,11 +30,10 @@
     "opening_hours": "Tue-Sat 12:00-14:00, 19:00-22:00",
     "source_urls": [
       "https://maps.google.com/?q=L%27Agape+Avignon",
-      "https://www.le-fooding.com/restaurant/lagape-avignon",
-      "https://www.tripadvisor.com/Restaurant_Review-LAgape-Avignon",
-      "https://www.viamichelin.com/web/Restaurant/Avignon-LAgape"
+      "https://guide.michelin.com/en/provence-alpes-cote-dazur/avignon/restaurant/l-agape",
+      "https://avignon-tourisme.com/en/offres/lagape-avignon-en-4143605/"
     ],
-    "notes": "Place des Carmes 廣場旁，動線友善。菜單以市場當日食材為主，偏輕食現代法式。適合行程中段用餐，建議提前一日預約。"
+    "notes": "MICHELIN Bib Gourmand 收錄；以季節食材與現代法式為主。適合作為 Avignon 主力備選。"
   },
   {
     "id": "avignon-les-halles-bistro",
@@ -87,7 +85,7 @@
     "source_urls": [
       "https://maps.google.com/?q=Acchiardo+Nice"
     ],
-    "notes": "經典 Niçoise 菜，高優先。"
+    "notes": "經典 Niçoise 菜，高優先。官方站點待補，先維持地圖來源並在旅前再驗證營業時段。"
   },
   {
     "id": "nice-chez-pipo",
@@ -101,9 +99,10 @@
     "price_level": "€",
     "opening_hours": "Wed-Mon 11:30-22:00",
     "source_urls": [
-      "https://maps.google.com/?q=Chez+Pipo+Nice"
+      "https://maps.google.com/?q=Chez+Pipo+Nice",
+      "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/chez-pipo-nice-en-3014203/"
     ],
-    "notes": "Socca 指標店，快速用餐友善。"
+    "notes": "Socca 指標店。地方觀光資料標示近百年傳承，適合排在 Nice 小吃高優先。"
   },
   {
     "id": "nice-la-merenda",
@@ -117,9 +116,10 @@
     "price_level": "€€",
     "opening_hours": "Mon-Fri 12:00-14:00, 19:00-22:00",
     "source_urls": [
-      "https://maps.google.com/?q=La+Merenda+Nice"
+      "https://maps.google.com/?q=La+Merenda+Nice",
+      "https://guide.michelin.com/tw/zh_TW/provence-alpes-cote-dazur/nice/restaurant/la-merenda"
     ],
-    "notes": "人氣高，預約與候位策略重要。"
+    "notes": "MICHELIN Bib Gourmand；包含 pissaladière 等在地經典，對應你 Nice 優先項目。"
   },
   {
     "id": "nice-fenocchio",
@@ -149,9 +149,11 @@
     "price_level": "€€€",
     "opening_hours": "Daily 11:30-22:00",
     "source_urls": [
-      "https://maps.google.com/?q=La+Mere+Poulard+Mont+Saint+Michel"
+      "https://maps.google.com/?q=La+Mere+Poulard+Mont+Saint+Michel",
+      "https://www.lamerepoulard.com/en/",
+      "https://www.ot-montsaintmichel.com/en/restaurant/la-mere-poulard/"
     ],
-    "notes": "地標型體驗，可作主力或觀光餐。"
+    "notes": "Mont Saint-Michel 地標型主力餐；官方與在地旅遊站均確認其招牌 Omelette。"
   },
   {
     "id": "msm-restaurant-le-relais",
@@ -165,9 +167,10 @@
     "price_level": "€€",
     "opening_hours": "Daily 12:00-21:30",
     "source_urls": [
-      "https://maps.google.com/?q=Le+Relais+Saint-Michel"
+      "https://maps.google.com/?q=Le+Relais+Saint-Michel",
+      "https://www.mymontsaintmichel.com/en/our-establishments/restaurant-relais-saint-michel/"
     ],
-    "notes": "短停留備選，重視可執行性。"
+    "notes": "短停留備選。官方資訊強調全年營業與面向海灣視野，適合作為滿位時替代。"
   },
   {
     "id": "msm-la-sirene",
@@ -213,9 +216,11 @@
     "price_level": "€€€",
     "opening_hours": "Mon-Fri 12:00-14:00, 19:00-22:00",
     "source_urls": [
-      "https://maps.google.com/?q=Septime+Paris"
+      "https://maps.google.com/?q=Septime+Paris",
+      "https://www.septime-charonne.fr/en",
+      "https://guide.michelin.com/tw/zh_TW/ile-de-france/paris/restaurant/septime"
     ],
-    "notes": "高優先晚餐，預約門檻高。"
+    "notes": "一星餐廳，高優先晚餐。官方與 MICHELIN 都指出預約競爭高，需提前規劃。"
   },
   {
     "id": "paris-bouillon-republique",
@@ -245,9 +250,10 @@
     "price_level": "€",
     "opening_hours": "Mon-Fri 07:00-19:00",
     "source_urls": [
-      "https://maps.google.com/?q=Du+Pain+et+des+Idees"
+      "https://maps.google.com/?q=Du+Pain+et+des+Idees",
+      "https://www.dupainetdesidees.com/"
     ],
-    "notes": "早餐/下午點心穩定選擇。"
+    "notes": "Paris 咖啡與烘焙高優先點。官方可確認地址與營運資訊。"
   },
   {
     "id": "paris-cafe-de-flore",
@@ -261,7 +267,8 @@
     "price_level": "€€",
     "opening_hours": "Daily 07:30-01:30",
     "source_urls": [
-      "https://maps.google.com/?q=Cafe+de+Flore+Paris"
+      "https://maps.google.com/?q=Cafe+de+Flore+Paris",
+      "https://cafedeflore.fr/"
     ],
     "notes": "經典地標咖啡館，觀光區需留意等位。"
   }
