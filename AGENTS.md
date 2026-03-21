@@ -50,6 +50,7 @@ Current history is minimal (`Initial commit`, `add doc`). Follow a clear, impera
 ## Contributor Notes
 - Do not edit `docs/references/ISESHIMA_AGENTS.md` unless explicitly instructed.
 - Prefer incremental updates over large rewrites to keep review simple.
+- Research progress tracking is mandatory: after any restaurant research completion or meaningful status change, update `PROGRESS.md` in the same session.
 
 ## GOTCHA and TASTE Auto-Update Workflow
 Follow these rules every session:
