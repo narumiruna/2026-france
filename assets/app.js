@@ -26,6 +26,7 @@ const state = {
   geolocationWatchId: null,
   map: null,
   markerGroup: null,
+  hotelMarkers: null,
   userMarker: null,
   radiusCircle: null,
 };
@@ -50,6 +51,7 @@ async function init() {
   renderOverview();
   renderTopPicks();
   setupMap();
+  renderHotelMarkers();
   startGeolocation();
   renderNearbyRestaurants();
 }
@@ -272,6 +274,48 @@ function setupMap() {
 
   state.markerGroup = L.markerClusterGroup();
   state.map.addLayer(state.markerGroup);
+}
+
+function renderHotelMarkers() {
+  if (state.hotelMarkers) {
+    state.map.removeLayer(state.hotelMarkers);
+  }
+  state.hotelMarkers = L.layerGroup();
+
+  const hotelIcon = L.divIcon({
+    className: "hotel-marker-icon",
+    html: '<span aria-hidden="true">🏨</span>',
+    iconSize: [32, 32],
+    iconAnchor: [16, 32],
+    popupAnchor: [0, -34],
+  });
+
+  for (const city of state.cityOverview) {
+    const hotel = city.hotel;
+    if (!hotel?.name || hotel.lat == null || hotel.lng == null) continue;
+    const lat = Number(hotel.lat);
+    const lng = Number(hotel.lng);
+    if (Number.isNaN(lat) || Number.isNaN(lng)) continue;
+
+    const marker = L.marker([lat, lng], { icon: hotelIcon, title: hotel.name });
+    const mapsLinkHtml = hotel.google_maps_url
+      ? `<hr class="popup-divider" /><p style="margin:0"><a href="${safeUrl(hotel.google_maps_url)}" target="_blank" rel="noopener">📍 Google Maps</a></p>`
+      : "";
+    marker.bindPopup(`
+      <div class="popup hotel-popup">
+        <h4 class="popup-name">🏨 ${escapeHtml(hotel.name)}</h4>
+        <hr class="popup-divider" />
+        <div class="popup-rows">
+          <span class="popup-label">城市</span><span class="popup-value">${escapeHtml(city.city)}</span>
+          <span class="popup-label">入住期間</span><span class="popup-value">${escapeHtml(city.period || "")}</span>
+        </div>
+        ${mapsLinkHtml}
+      </div>
+    `);
+    state.hotelMarkers.addLayer(marker);
+  }
+
+  state.map.addLayer(state.hotelMarkers);
 }
 
 function startGeolocation() {
