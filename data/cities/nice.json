@@ -139,5 +139,96 @@
       "https://www.tripadvisor.com/Restaurant_Review-La_Rossettisserie-Nice"
     ],
     "notes": "Place Rossetti 步行可達，烤肉與 Niçoise 料理為主。Fenocchio 周邊備選晚餐。官方指南來源待補充至 4 個。"
+  },
+  {
+    "id": "nice-la-belugue",
+    "name": "La Bélugue",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.7058,
+    "lng": 7.2665,
+    "score": 35,
+    "address": "27 Avenue Malaussena, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=La+Belugue+Nice",
+    "price_level": "€€",
+    "opening_hours": "Daily 07:00-21:00",
+    "visit_priority": "high",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://nice.love-spots.com/manger/cafes-nice/97163-la-belugue.html",
+      "https://www.tripadvisor.fr/Restaurant_Review-g187234-La_Belugue-Nice"
+    ],
+    "notes": "飯店步行約 5 分鐘（同在 Avenue Malaussena）。優雅本地咖啡小館，使用在地食材，供應早餐（€3.5–11）、現磨咖啡、鮮榨果汁。每日 07:00 開始，可外帶，適合出發前快速補給。"
+  },
+  {
+    "id": "nice-chez-davia",
+    "name": "Chez Davia",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.6969,
+    "lng": 7.2723,
+    "score": 40,
+    "address": "11 Bis Rue Grimaldi, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Chez+Davia+Nice",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sun 12:15-14:00, 19:15-21:30",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://guide.michelin.com/en/provence-alpes-cote-dazur/nice/restaurant/chez-davia",
+      "https://lefooding.com/en/restaurants/restaurant-chez-davia-nice",
+      "https://fr.gaultmillau.com/en/restaurants/chez-davia",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d1326339-Reviews-Restaurant_Chez_Davia-Nice"
+    ],
+    "notes": "Michelin Bib Gourmand，1953 年起家族傳承（第三代）。主打在地 Niçoise 菜如 barbajuans、osso buco、linguine au pistou。飯店步行約 15 分鐘。週一公休，建議提前訂位。"
+  },
+  {
+    "id": "nice-boulangerie-jeannot",
+    "name": "Boulangerie Pâtisserie Jeannot",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.6963,
+    "lng": 7.2737,
+    "score": 33,
+    "address": "8 Rue Saint François de Paule, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Boulangerie+Jeannot+Nice",
+    "price_level": "€",
+    "opening_hours": "Daily 07:00-21:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": false,
+    "meal_tags": ["breakfast", "takeout"],
+    "source_urls": [
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d10254215-Reviews-Boulangerie_Patisserie_Jeannot-Nice",
+      "https://www.pagesjaunes.fr/pros/57208182"
+    ],
+    "notes": "Vieux Nice 入口附近，每日 07:00 開始。新鮮長棍三明治、可頌、鹹派均可外帶。適合步行 Vieux Nice 前先取餐，或舊城區探索途中補給。"
+  },
+  {
+    "id": "nice-hobo-coffee",
+    "name": "HOBO Coffee",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.6961,
+    "lng": 7.2766,
+    "score": 36,
+    "address": "5 Bis Rue Sainte-Réparate, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=HOBO+Coffee+Nice",
+    "price_level": "€",
+    "opening_hours": "Daily 09:00-21:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": false,
+    "meal_tags": ["coffee", "breakfast"],
+    "source_urls": [
+      "https://www.hoboshop.fr/",
+      "https://mapstr.com/place/yNMnyDo2URg/hobo-coffee-nice-brunch-cafe-restaurant-coffee_shop-coffee",
+      "https://lefirstrestaurant.fr/hobo-coffee/"
+    ],
+    "notes": "Vieux Nice 舊城核心，精品咖啡代表店。提供早午餐、酪梨吐司、拿鐵；可外帶。Socca 路線途中順道補咖啡的首選。"
   }
 ]

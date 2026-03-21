@@ -122,5 +122,53 @@
       "https://maps.google.com/?q=Maison+Violette+Avignon"
     ],
     "notes": "舊城區傳統甜點與咖啡候選，用於步行路線中的輕食補給。地址與營業時間待核實。"
+  },
+  {
+    "id": "avignon-cafe-tulipe",
+    "name": "Café Tulipe",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.9495,
+    "lng": 4.8073,
+    "score": 36,
+    "address": "7 Rue des Trois Faucons, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Cafe+Tulipe+Avignon",
+    "price_level": "€",
+    "opening_hours": "Mon 09:00-15:00, Tue-Fri 09:00-17:30, Sat 09:30-18:00",
+    "visit_priority": "high",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://tulipeavignon.com/",
+      "https://www.solosophie.com/cafe-tulipe-avignon/",
+      "https://www.provenceguide.co.uk/restaurants/avignon/cafe-tulipe/provence-5171010-1.html",
+      "https://restaurantguru.com/Cafe-tulipe-Avignon"
+    ],
+    "notes": "飯店步行約 10 分鐘，Avignon 公認最佳精品咖啡選項之一。使用 La Marzocco 咖啡機；供應早午餐、自製甜點、蔬食輕食。兼具可外帶。週日公休。"
+  },
+  {
+    "id": "avignon-pollen",
+    "name": "Pollen",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.9480,
+    "lng": 4.8062,
+    "score": 43,
+    "address": "18 Rue Joseph Vernet, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Pollen+Restaurant+Avignon",
+    "price_level": "€€€",
+    "opening_hours": "Mon-Fri 12:00-13:30, 19:30-21:30",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://www.pollen-restaurant.fr/",
+      "https://guide.michelin.com/us/en/provence-alpes-cote-dazur/avignon/restaurant/pollen1000267",
+      "https://lefooding.com/restaurants/pollen",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d14246331-Reviews-Pollen-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Michelin 一星。主廚 Mathieu Desmarest 主導每週更換的季節性套餐，強調在地食材。飯店步行約 10 分鐘；週六日公休，需提前預約。是 Avignon 最高規格晚餐選項。"
   }
 ]
