@@ -32,6 +32,7 @@ const state = {
 
 const elements = {
   mapStatus: document.querySelector("#map-status"),
+  mapSidebarList: document.querySelector("#map-sidebar-list"),
   overviewList: document.querySelector("#overview-list"),
   topPicksList: document.querySelector("#top-picks-list"),
   tabButtons: document.querySelectorAll(".tab"),
@@ -72,6 +73,7 @@ function switchTab(tabName) {
   for (const panel of elements.panels) {
     panel.classList.toggle("is-active", panel.id === tabName);
   }
+  document.body.classList.toggle("map-is-active", tabName === "map");
   if (tabName === "map" && state.map) {
     setTimeout(() => state.map.invalidateSize(), 0);
     updateUserMarker();
@@ -346,6 +348,36 @@ function renderNearbyRestaurants() {
     marker.bindPopup(buildPopup(place));
     state.markerGroup.addLayer(marker);
   }
+
+  renderSidebarList(nearby);
+}
+
+function renderSidebarList(nearby) {
+  const list = elements.mapSidebarList;
+  if (!list) return;
+
+  if (nearby.length === 0) {
+    list.innerHTML = '<p class="sidebar-empty">附近 2 公里內無餐廳</p>';
+    return;
+  }
+
+  const sorted = [...nearby].sort((a, b) => a.distanceKm - b.distanceKm);
+  list.innerHTML = sorted
+    .map(
+      (place) => `
+      <div class="sidebar-item">
+        <div class="sidebar-item-name">${escapeHtml(place.name)}</div>
+        <div class="sidebar-item-meta">
+          <span>${escapeHtml(place.category)}</span>
+          <span>${place.distanceKm.toFixed(2)} km</span>
+          ${place.price_level ? `<span>${escapeHtml(place.price_level)}</span>` : ""}
+        </div>
+        ${place.notes ? `<p class="sidebar-item-notes">${escapeHtml(place.notes)}</p>` : ""}
+        <a class="sidebar-item-link" href="${safeUrl(place.google_maps_url)}" target="_blank" rel="noopener noreferrer">📍 Google Maps</a>
+      </div>
+    `,
+    )
+    .join("");
 }
 
 function buildPopup(place) {
