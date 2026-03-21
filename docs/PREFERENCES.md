@@ -1,5 +1,5 @@
 ---
-name: PREFERENCES
+name: Preferences
 description: 讀這份文件以理解使用者的餐廳偏好。
 ---
 
