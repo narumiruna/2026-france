@@ -10,3 +10,7 @@
 - Preference elicitation format:
   - Before asking the user to choose food options, provide short introductions for each option.
   - Present selectable options with explicit numeric indexes so the user can reply with numbers.
+
+- Candidate search coverage:
+  - During new restaurant research, always include hotel-nearby options in addition to major sightseeing and food districts.
+  - Treat hotel-nearby options as practical fallback candidates for tight schedules or late arrivals.
