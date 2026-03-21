@@ -1,0 +1,126 @@
+[
+  {
+    "id": "avignon-la-fourchette",
+    "name": "La Fourchette",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.9485,
+    "lng": 4.8085,
+    "score": 41,
+    "address": "17 Rue Racine, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=La+Fourchette+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 12:00-14:00, 19:00-21:30",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "source_urls": [
+      "https://maps.google.com/?q=La+Fourchette+Avignon",
+      "https://www.le-fooding.com/restaurant/la-fourchette-avignon",
+      "https://www.tripadvisor.com/Restaurant_Review-La_Fourchette-Avignon",
+      "https://www.viamichelin.com/web/Restaurant/Avignon-La_Fourchette"
+    ],
+    "notes": "普羅旺斯風格小酒館，在地老字號，週五晚間常客滿需提前預約。主力晚餐首選。"
+  },
+  {
+    "id": "avignon-lagape",
+    "name": "L'Agape",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.9496,
+    "lng": 4.8064,
+    "score": 39,
+    "address": "2 Place Des Carmes, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=L%27Agape+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 12:00-14:00, 19:00-22:00",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "source_urls": [
+      "https://maps.google.com/?q=L%27Agape+Avignon",
+      "https://www.le-fooding.com/restaurant/lagape-avignon",
+      "https://www.tripadvisor.com/Restaurant_Review-LAgape-Avignon",
+      "https://www.viamichelin.com/web/Restaurant/Avignon-LAgape"
+    ],
+    "notes": "Place des Carmes 廣場旁，動線友善。菜單以市場當日食材為主，偏輕食現代法式。適合行程中段用餐，建議提前一日預約。"
+  },
+  {
+    "id": "avignon-les-halles-bistro",
+    "name": "Les Halles Bistro",
+    "category": "restaurant",
+    "status": "researching",
+    "lat": 43.9474,
+    "lng": 4.8072,
+    "score": 34,
+    "address": "Place Pie, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Les+Halles+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mon-Sat 11:30-22:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "source_urls": [
+      "https://maps.google.com/?q=Les+Halles+Avignon",
+      "https://www.tripadvisor.com/Restaurant_Review-Les_Halles_Bistro-Avignon",
+      "https://www.yelp.com/biz/les-halles-bistro-avignon"
+    ],
+    "notes": "Les Halles d'Avignon 市場周邊，午餐備選。評價穩定但特色較普通，尚需確認週末營業狀況。待補第 4 個指南型來源。"
+  },
+  {
+    "id": "avignon-latte-re",
+    "name": "L'Atelier de Belinda",
+    "category": "restaurant",
+    "status": "researching",
+    "lat": 43.9472,
+    "lng": 4.8054,
+    "score": 36,
+    "address": "48 Place des Corps Saints, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=L%27Atelier+de+Belinda+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-22:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "source_urls": [
+      "https://maps.google.com/?q=L%27Atelier+de+Belinda+Avignon",
+      "https://www.tripadvisor.com/Restaurant_Review-LAtelier_de_Belinda-Avignon",
+      "https://www.yelp.com/biz/latelier-de-belinda-avignon"
+    ],
+    "notes": "Place des Corps Saints 廣場，每日營業彈性高，適合行程不確定時的穩定備選。尚需確認 Michelin/Le Fooding 收錄情況。待補第 4 個指南型來源。"
+  },
+  {
+    "id": "avignon-christian-etienne",
+    "name": "Christian Etienne",
+    "category": "restaurant",
+    "status": "inbox",
+    "lat": 43.9507,
+    "lng": 4.8067,
+    "score": null,
+    "address": "10 Rue de Mons, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Christian+Etienne+Avignon",
+    "price_level": "€€€",
+    "opening_hours": null,
+    "visit_priority": "medium",
+    "reservation_required": null,
+    "source_urls": [
+      "https://maps.google.com/?q=Christian+Etienne+Avignon"
+    ],
+    "notes": "Palais des Papes 正旁，曾為 Michelin 星級餐廳。價位偏高，需確認目前星級狀態與現任主廚資訊後再評分。"
+  },
+  {
+    "id": "avignon-maison-violette",
+    "name": "Maison Violette",
+    "category": "cafe",
+    "status": "inbox",
+    "lat": 43.9491,
+    "lng": 4.8058,
+    "score": null,
+    "address": "舊城區(確切地址待確認)",
+    "google_maps_url": "https://maps.google.com/?q=Maison+Violette+Avignon",
+    "price_level": "€",
+    "opening_hours": null,
+    "visit_priority": "low",
+    "reservation_required": false,
+    "source_urls": [
+      "https://maps.google.com/?q=Maison+Violette+Avignon"
+    ],
+    "notes": "舊城區傳統甜點與咖啡候選，用於步行路線中的輕食補給。地址與營業時間待核實。"
+  }
+]
