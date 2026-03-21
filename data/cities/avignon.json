@@ -124,6 +124,29 @@
     "notes": "舊城區傳統甜點與咖啡候選，用於步行路線中的輕食補給。地址與營業時間待核實。"
   },
   {
+    "id": "avignon-brunch-coffee",
+    "name": "Brunch Coffee",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.9483,
+    "lng": 4.8079,
+    "score": 35,
+    "address": "6 Rue Mignard, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Brunch+Coffee+Avignon",
+    "price_level": "€",
+    "opening_hours": "Daily 09:30-19:00",
+    "visit_priority": "high",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://brunchcoffee.fr/fr",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d19326682-Reviews-Brunch_Coffee-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.pagesjaunes.fr/pros/58431533"
+    ],
+    "notes": "【街道層級搜尋結果】飯店（12 Bd Saint Dominique）步行約 10 分鐘進入舊城區。每日 09:30 開始，供應自製 bagel、brunch、咖啡、bubble tea。全週開放，外帶方便，是離飯店最近的早餐咖啡首選。"
+  },
+  {
     "id": "avignon-cafe-tulipe",
     "name": "Café Tulipe",
     "category": "cafe",
@@ -145,7 +168,29 @@
       "https://www.provenceguide.co.uk/restaurants/avignon/cafe-tulipe/provence-5171010-1.html",
       "https://restaurantguru.com/Cafe-tulipe-Avignon"
     ],
-    "notes": "飯店步行約 10 分鐘，Avignon 公認最佳精品咖啡選項之一。使用 La Marzocco 咖啡機；供應早午餐、自製甜點、蔬食輕食。兼具可外帶。週日公休。"
+    "notes": "【區域層級搜尋結果】飯店步行約 12 分鐘（舊城內）。Avignon 公認最佳精品咖啡，使用 La Marzocco 咖啡機；供應早午餐、自製甜點、蔬食輕食，可外帶。週日公休。"
+  },
+  {
+    "id": "avignon-pavillon-84",
+    "name": "Pavillon 84",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.9504,
+    "lng": 4.8008,
+    "score": 35,
+    "address": "Allée de l'Oulle, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Pavillon+84+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sun 12:00-23:30",
+    "visit_priority": "high",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d23474615-Reviews-Pavillon_84-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.tripadvisor.fr/Restaurant_Review-g187212-d23474615-Reviews-Pavillon_84-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "【街道/區域層級搜尋結果：Allée de l'Oulle】飯店步行約 8 分鐘，地中海融合料理，戶外遮陰露台。週一公休，其餘每日 12:00 起供應晚餐至 23:30，無需提前預約。是飯店一帶最易入座的晚餐備選。"
   },
   {
     "id": "avignon-pollen",
@@ -169,6 +214,6 @@
       "https://lefooding.com/restaurants/pollen",
       "https://www.tripadvisor.com/Restaurant_Review-g187212-d14246331-Reviews-Pollen-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
     ],
-    "notes": "Michelin 一星。主廚 Mathieu Desmarest 主導每週更換的季節性套餐，強調在地食材。飯店步行約 10 分鐘；週六日公休，需提前預約。是 Avignon 最高規格晚餐選項。"
+    "notes": "【區域層級搜尋結果：Rue Joseph Vernet 周邊】Michelin 一星。主廚 Mathieu Desmarest 主導每週更換季節套餐。飯店步行約 10 分鐘；週六日公休，強烈建議提前預約。Avignon 最高規格晚餐選項。"
   }
 ]

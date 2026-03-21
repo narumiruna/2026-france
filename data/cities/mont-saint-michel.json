@@ -1,0 +1,113 @@
+[
+  {
+    "id": "msm-la-ferme-saint-michel",
+    "name": "La Ferme Saint-Michel",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6150,
+    "lng": -1.5112,
+    "score": 36,
+    "address": "Route du Mont Saint-Michel, La Caserne, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La+Ferme+Saint+Michel+La+Caserne",
+    "price_level": "€€",
+    "opening_hours": "Daily 11:30-21:30",
+    "visit_priority": "high",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://www.restaurantfermesaintmichel.com",
+      "https://www.ot-montsaintmichel.com/restaurant/la-ferme-saint-michel/",
+      "https://www.normandie-tourisme.fr/restaurants/la-ferme-saint-michel/",
+      "https://www.saint-malo-tourisme.com/vivre-comme-chez-nous/ou-manger/restaurants/la-ferme-saint-michel-le-mont-saint-michel-fr-4021104/"
+    ],
+    "notes": "【街道層級搜尋結果：Route du Mont Saint-Michel，與 Hôtel Gabriel 同路段】主打諾曼第在地料理，招牌菜為 agneau de pré-salé（鹽沼羔羊）。每日 11:30-21:30 全天供應，Menu de la Ferme €29 起。是飯店最近的晚餐選項，抵達或出發前均方便安排。"
+  },
+  {
+    "id": "msm-la-mere-poulard",
+    "name": "La Mère Poulard",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6359,
+    "lng": -1.5102,
+    "score": 35,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La+Mere+Poulard+Mont+Saint+Michel",
+    "price_level": "€€€",
+    "opening_hours": "Daily 11:30-22:00",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "hotel_nearby": false,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Mere+Poulard+Mont+Saint+Michel",
+      "https://www.lamerepoulard.com/en/",
+      "https://www.ot-montsaintmichel.com/en/restaurant/la-mere-poulard/"
+    ],
+    "notes": "Mont Saint-Michel 地標型主力餐，島內 Grande Rue 上。招牌 Omelette de la Mère Poulard 為必吃目標。價位偏高，建議提前訂位。"
+  },
+  {
+    "id": "msm-la-sirene",
+    "name": "La Sirène",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6362,
+    "lng": -1.5098,
+    "score": 34,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La+Sirene+Mont+Saint+Michel",
+    "price_level": "€€",
+    "opening_hours": "Daily 11:30-21:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": false,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Sirene+Mont+Saint+Michel"
+    ],
+    "notes": "島內備選，可作 La Mère Poulard 滿位時的替代。"
+  },
+  {
+    "id": "msm-restaurant-le-relais",
+    "name": "Le Relais Saint-Michel",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6148,
+    "lng": -1.5088,
+    "score": 33,
+    "address": "La Caserne, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Le+Relais+Saint-Michel",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-21:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Relais+Saint-Michel",
+      "https://www.mymontsaintmichel.com/en/our-establishments/restaurant-relais-saint-michel/"
+    ],
+    "notes": "【街道層級搜尋結果：La Caserne】與飯店同在 La Caserne 區域。強調全年營業與面向海灣視野，適合作為備選或預算導向晚餐。"
+  },
+  {
+    "id": "msm-creperie-la-cloche",
+    "name": "Crêperie La Cloche",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6361,
+    "lng": -1.5106,
+    "score": 32,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Creperie+La+Cloche+Mont+Saint+Michel",
+    "price_level": "€",
+    "opening_hours": "Daily 11:00-21:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": false,
+    "meal_tags": ["takeout"],
+    "source_urls": [
+      "https://maps.google.com/?q=Creperie+La+Cloche+Mont+Saint+Michel"
+    ],
+    "notes": "島內快速用餐選項，可外帶可麗餅。短停留行程中補給首選，不需預約。"
+  }
+]

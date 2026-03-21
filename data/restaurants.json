@@ -418,5 +418,330 @@
       "https://cafedeflore.fr/"
     ],
     "notes": "經典地標咖啡館，觀光區需留意等位。"
+  },
+  {
+    "id": "avignon-brunch-coffee",
+    "name": "Brunch Coffee",
+    "category": "cafe",
+    "lat": 43.9483,
+    "lng": 4.8079,
+    "score": 35,
+    "address": "6 Rue Mignard, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Brunch+Coffee+Avignon",
+    "price_level": "€",
+    "opening_hours": "Daily 09:30-19:00",
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://brunchcoffee.fr/fr",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d19326682-Reviews-Brunch_Coffee-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.pagesjaunes.fr/pros/58431533"
+    ],
+    "notes": "【街道層級】ibis Avignon（12 Bd Saint Dominique）步行約 10 分鐘。全週開放，自製 bagel、brunch、咖啡，可外帶，最近早餐首選。"
+  },
+  {
+    "id": "avignon-cafe-tulipe",
+    "name": "Café Tulipe",
+    "category": "cafe",
+    "lat": 43.9495,
+    "lng": 4.8073,
+    "score": 36,
+    "address": "7 Rue des Trois Faucons, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Cafe+Tulipe+Avignon",
+    "price_level": "€",
+    "opening_hours": "Mon 09:00-15:00, Tue-Fri 09:00-17:30, Sat 09:30-18:00",
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://tulipeavignon.com/",
+      "https://www.solosophie.com/cafe-tulipe-avignon/",
+      "https://www.provenceguide.co.uk/restaurants/avignon/cafe-tulipe/provence-5171010-1.html",
+      "https://restaurantguru.com/Cafe-tulipe-Avignon"
+    ],
+    "notes": "【區域層級】Avignon 公認最佳精品咖啡。使用 La Marzocco 咖啡機，供應早午餐、自製甜點，可外帶。週日公休。"
+  },
+  {
+    "id": "avignon-pavillon-84",
+    "name": "Pavillon 84",
+    "category": "restaurant",
+    "lat": 43.9504,
+    "lng": 4.8008,
+    "score": 35,
+    "address": "Allée de l'Oulle, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Pavillon+84+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sun 12:00-23:30",
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d23474615-Reviews-Pavillon_84-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "【街道層級：Allée de l'Oulle】飯店步行約 8 分鐘，地中海融合料理，戶外露台。週一公休，無需預約，晚餐至 23:30。飯店最近晚餐備選。"
+  },
+  {
+    "id": "avignon-pollen",
+    "name": "Pollen",
+    "category": "restaurant",
+    "lat": 43.9480,
+    "lng": 4.8062,
+    "score": 43,
+    "address": "18 Rue Joseph Vernet, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Pollen+Restaurant+Avignon",
+    "price_level": "€€€",
+    "opening_hours": "Mon-Fri 12:00-13:30, 19:30-21:30",
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://www.pollen-restaurant.fr/",
+      "https://guide.michelin.com/us/en/provence-alpes-cote-dazur/avignon/restaurant/pollen1000267",
+      "https://lefooding.com/restaurants/pollen",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d14246331-Reviews-Pollen-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "【區域層級】Michelin 一星，飯店步行約 10 分鐘。每週更換季節套餐，週六日公休，強烈建議提前預約。Avignon 最高規格晚餐。"
+  },
+  {
+    "id": "nice-la-belugue",
+    "name": "La Bélugue",
+    "category": "cafe",
+    "lat": 43.7084,
+    "lng": 7.2631,
+    "score": 35,
+    "address": "27 Avenue Malaussena, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=La+Belugue+Nice",
+    "price_level": "€€",
+    "opening_hours": "Daily 07:00-21:00",
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://nice.love-spots.com/manger/cafes-nice/97163-la-belugue.html"
+    ],
+    "notes": "【街道層級：Avenue Malaussena】ibis Nice（41 Rue Lamartine）步行約 5 分鐘。每日 07:00 起，早餐咖啡，可外帶。"
+  },
+  {
+    "id": "nice-verdant-cafe",
+    "name": "Verdant Café & Brunch",
+    "category": "cafe",
+    "lat": 43.7006,
+    "lng": 7.2701,
+    "score": 36,
+    "address": "21 Rue de l'Hôtel des Postes, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Verdant+Cafe+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mon-Fri 08:00-18:00, Sat-Sun 09:00-17:00",
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast"],
+    "source_urls": [
+      "http://verdant-nice.fr/"
+    ],
+    "notes": "【街道層級：Rue de l'Hôtel des Postes，飯店步行約 8 分鐘】早午餐咖啡館，全週開放，供應法式輕食早餐。"
+  },
+  {
+    "id": "nice-la-gauloise",
+    "name": "La Gauloise",
+    "category": "restaurant",
+    "lat": 43.7084,
+    "lng": 7.2632,
+    "score": 37,
+    "address": "28 Avenue Malaussena, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=La+Gauloise+Nice",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 09:00-23:00, Sun 09:00-15:00",
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "http://www.restaurant-lagauloise.fr/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d1048407-Reviews-La_Gauloise-Nice"
+    ],
+    "notes": "【街道層級：Avenue Malaussena，飯店步行約 5 分鐘】區域老字號，海鮮、生蠔、地中海魚料理。週一公休，晚餐至 23:00。"
+  },
+  {
+    "id": "nice-aux-deux-chefs",
+    "name": "Aux Deux Chefs",
+    "category": "restaurant",
+    "lat": 43.7072,
+    "lng": 7.2622,
+    "score": 38,
+    "address": "56 Rue Dabray, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Aux+Deux+Chefs+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mon-Sat 12:00-14:00, Thu-Sat 19:00-22:00",
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://www.auxdeuxchefs.com/",
+      "https://www.tripadvisor.fr/Restaurant_Review-g187234-d2337049-Reviews-Aux_Deux_Chefs-Nice"
+    ],
+    "notes": "【區域層級：Quartier Libération，飯店步行約 8 分鐘】在地 Niçoise 料理，晚餐僅週四至週六。建議提前訂位。"
+  },
+  {
+    "id": "nice-chez-davia",
+    "name": "Chez Davia",
+    "category": "restaurant",
+    "lat": 43.6969,
+    "lng": 7.2723,
+    "score": 40,
+    "address": "11 Bis Rue Grimaldi, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Chez+Davia+Nice",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sun 12:15-14:00, 19:15-21:30",
+    "hotel_nearby": false,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://guide.michelin.com/en/provence-alpes-cote-dazur/nice/restaurant/chez-davia",
+      "https://lefooding.com/en/restaurants/restaurant-chez-davia-nice",
+      "https://fr.gaultmillau.com/en/restaurants/chez-davia"
+    ],
+    "notes": "Michelin Bib Gourmand，第三代家族傳承。在地 Niçoise 菜（osso buco、linguine au pistou）。位於 Vieux Nice 周邊，飯店步行約 20 分鐘。"
+  },
+  {
+    "id": "nice-boulangerie-jeannot",
+    "name": "Boulangerie Pâtisserie Jeannot",
+    "category": "cafe",
+    "lat": 43.6963,
+    "lng": 7.2737,
+    "score": 33,
+    "address": "8 Rue Saint François de Paule, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Boulangerie+Jeannot+Nice",
+    "price_level": "€",
+    "opening_hours": "Daily 07:00-21:00",
+    "hotel_nearby": false,
+    "meal_tags": ["breakfast", "takeout"],
+    "source_urls": [
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d10254215-Reviews-Boulangerie_Patisserie_Jeannot-Nice"
+    ],
+    "notes": "【區域層級：Vieux Nice 入口】每日 07:00 開始，三明治、可頌可外帶，Vieux Nice 路線起點補給首選。"
+  },
+  {
+    "id": "nice-hobo-coffee",
+    "name": "HOBO Coffee",
+    "category": "cafe",
+    "lat": 43.6961,
+    "lng": 7.2766,
+    "score": 36,
+    "address": "5 Bis Rue Sainte-Réparate, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=HOBO+Coffee+Nice",
+    "price_level": "€",
+    "opening_hours": "Daily 09:00-21:00",
+    "hotel_nearby": false,
+    "meal_tags": ["coffee", "breakfast"],
+    "source_urls": [
+      "https://www.hoboshop.fr/"
+    ],
+    "notes": "【區域層級：Vieux Nice 舊城核心】精品咖啡代表店，供應早午餐、酪梨吐司，可外帶。Socca 路線途中順道補咖啡首選。"
+  },
+  {
+    "id": "msm-la-ferme-saint-michel",
+    "name": "La Ferme Saint-Michel",
+    "category": "restaurant",
+    "lat": 48.6150,
+    "lng": -1.5112,
+    "score": 36,
+    "address": "Route du Mont Saint-Michel, La Caserne, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La+Ferme+Saint+Michel+La+Caserne",
+    "price_level": "€€",
+    "opening_hours": "Daily 11:30-21:30",
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://www.restaurantfermesaintmichel.com",
+      "https://www.ot-montsaintmichel.com/restaurant/la-ferme-saint-michel/",
+      "https://www.normandie-tourisme.fr/restaurants/la-ferme-saint-michel/"
+    ],
+    "notes": "【街道層級：Route du Mont Saint-Michel，與 Hôtel Gabriel 同路段】諾曼第在地料理，agneau de pré-salé（鹽沼羔羊）。每日 11:30-21:30，Menu de la Ferme €29 起。"
+  },
+  {
+    "id": "paris-maison-pichard",
+    "name": "Maison Pichard",
+    "category": "cafe",
+    "lat": 48.8419,
+    "lng": 2.3001,
+    "score": 37,
+    "address": "88 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Maison+Pichard+Paris",
+    "price_level": "€",
+    "opening_hours": "Wed-Sun 07:00-13:30, 16:00-20:00",
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://www.myboulange.fr/75/paris/la-maison-pichard-paris-73153",
+      "https://www.justacote.com/paris-75015/boulangerie-patisserie/boulangerie-patisserie-pichard-7482.htm"
+    ],
+    "notes": "【街道層級：88 Rue Cambronne，飯店步行約 10 分鐘】曾奪「巴黎最佳可頌」。週一二公休，餐點可外帶。"
+  },
+  {
+    "id": "paris-wallace",
+    "name": "Brasserie Wallace",
+    "category": "restaurant",
+    "lat": 48.8417,
+    "lng": 2.3002,
+    "score": 36,
+    "address": "90 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Wallace+Brasserie+Cambronne+Paris",
+    "price_level": "€€",
+    "opening_hours": "Mon-Sat 07:00-00:00, Sun 08:00-00:00",
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://www.thefork.fr/restaurant/wallace-r752307",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d7034732-Reviews-Le_Wallace-Paris_Ile_de_France.html"
+    ],
+    "notes": "【街道層級：90 Rue Cambronne，飯店步行約 10 分鐘】傳統法式小酒館，全週開放至深夜，不需預約。飯店街道上最方便晚餐選項。"
+  },
+  {
+    "id": "paris-melt-cambronne",
+    "name": "Melt Cambronne",
+    "category": "restaurant",
+    "lat": 48.8413,
+    "lng": 2.2981,
+    "score": 35,
+    "address": "103 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Melt+Cambronne+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sun 12:00-14:30, 19:00-22:00",
+    "hotel_nearby": true,
+    "meal_tags": ["dinner", "takeout"],
+    "source_urls": [
+      "https://www.meltslowsmokedbarbecue.com/menu-melt-cambronne",
+      "https://www.parisgourmand.com/restaurant-paris/melt-cambronne.html"
+    ],
+    "notes": "【街道層級：103 Rue Cambronne，飯店步行約 12 分鐘】美式慢燻 BBQ，可外帶。非連鎖獨立店，晚間外帶選項。"
+  },
+  {
+    "id": "paris-la-veraison",
+    "name": "La Véraison",
+    "category": "restaurant",
+    "lat": 48.8467,
+    "lng": 2.2920,
+    "score": 38,
+    "address": "64 Rue de la Croix Nivert, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=La+Veraison+Paris+15",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 12:00-14:00, 19:30-22:00",
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://www.laveraison.fr/informations-contact/",
+      "https://www.thefork.com/restaurant/la-veraison-paris-15"
+    ],
+    "notes": "【區域層級：15ème，飯店步行約 8 分鐘】法式 bistronomie，季節週換菜單。晚餐熱門，建議前一天預約。"
+  },
+  {
+    "id": "paris-neige-dete",
+    "name": "Neige d'Été",
+    "category": "restaurant",
+    "lat": 48.8453,
+    "lng": 2.2961,
+    "score": 43,
+    "address": "12 Rue de l'Amiral Roussin, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Neige+d%27Ete+Paris+15",
+    "price_level": "€€€",
+    "opening_hours": "Tue-Sat 19:00-22:00",
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://www.neigedete.fr/fr/",
+      "https://guide.michelin.com/en/ile-de-france/paris/restaurant/neige-d-ete"
+    ],
+    "notes": "【區域層級：15ème，飯店步行約 8 分鐘】Michelin 一星，法式 × 日式套餐，僅晚餐。需提前 2-4 週預約。飯店一帶最高規格晚餐。"
   }
 ]

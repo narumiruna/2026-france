@@ -186,5 +186,120 @@
       "https://cafedeflore.fr/"
     ],
     "notes": "Saint-Germain 經典地標咖啡館，觀光區需留意等位。Le Comptoir du Relais 步行 2 分鐘可達，可搭配同區行程。"
+  },
+  {
+    "id": "paris-maison-pichard",
+    "name": "Maison Pichard",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.8419,
+    "lng": 2.3001,
+    "score": 37,
+    "address": "88 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Maison+Pichard+Paris",
+    "price_level": "€",
+    "opening_hours": "Wed-Sun 07:00-13:30, 16:00-20:00",
+    "visit_priority": "high",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://www.myboulange.fr/75/paris/la-maison-pichard-paris-73153",
+      "https://www.tripadvisor.fr/Restaurant_Review-g187147-d10486885-Reviews-La_Boulange_De_Cambronne-Paris_Ile_de_France.html",
+      "https://www.justacote.com/paris-75015/boulangerie-patisserie/boulangerie-patisserie-pichard-7482.htm"
+    ],
+    "notes": "【街道層級搜尋結果：88 Rue Cambronne，飯店步行約 10 分鐘】巷內老字號烘焙坊，曾奪「巴黎最佳可頌」。Cambronne 街道上唯一夠格的精品烘焙早餐選。週一二公休，餐點可外帶。"
+  },
+  {
+    "id": "paris-wallace",
+    "name": "Brasserie Wallace",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8417,
+    "lng": 2.3002,
+    "score": 36,
+    "address": "90 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Wallace+Brasserie+Cambronne+Paris",
+    "price_level": "€€",
+    "opening_hours": "Mon-Sat 07:00-00:00, Sun 08:00-00:00",
+    "visit_priority": "high",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://www.thefork.fr/restaurant/wallace-r752307",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d7034732-Reviews-Le_Wallace-Paris_Ile_de_France.html",
+      "https://fr.mappy.com/poi/6683f30aaf5b977fd0522c74"
+    ],
+    "notes": "【街道層級搜尋結果：90 Rue Cambronne，飯店步行約 10 分鐘】傳統法式小酒館，全週開放至深夜。Steak frites、bistro 主菜穩定，附露台。是飯店街道上最方便的晚餐選項，不需預約。"
+  },
+  {
+    "id": "paris-melt-cambronne",
+    "name": "Melt Cambronne",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8413,
+    "lng": 2.2981,
+    "score": 35,
+    "address": "103 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Melt+Cambronne+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sun 12:00-14:30, 19:00-22:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": ["dinner", "takeout"],
+    "source_urls": [
+      "https://www.meltslowsmokedbarbecue.com/menu-melt-cambronne",
+      "https://www.parisgourmand.com/restaurant-paris/melt-cambronne.html",
+      "https://www.pagesjaunes.fr/annuaire/rue-cambronne-paris-75/restaurants"
+    ],
+    "notes": "【街道層級搜尋結果：103 Rue Cambronne，飯店步行約 12 分鐘】美式慢燻 BBQ，自製牛胸肉、肋骨、配菜。可外帶，份量大，非連鎖獨立店。適合不想正式坐下用餐的晚間外帶選項。"
+  },
+  {
+    "id": "paris-la-veraison",
+    "name": "La Véraison",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8467,
+    "lng": 2.2920,
+    "score": 38,
+    "address": "64 Rue de la Croix Nivert, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=La+Veraison+Paris+15",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 12:00-14:00, 19:30-22:00",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://www.laveraison.fr/informations-contact/",
+      "https://www.thefork.com/restaurant/la-veraison-paris-15",
+      "https://www.mapquest.com/fr/ile-de-france/la-veraison-526115169"
+    ],
+    "notes": "【區域層級搜尋結果：15ème Cambronne 周邊，飯店步行約 8 分鐘】法式小酒館精緻料理（bistronomie），季節食材，週換菜單。晚餐熱門，建議前一天預約。"
+  },
+  {
+    "id": "paris-neige-dete",
+    "name": "Neige d'Été",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8453,
+    "lng": 2.2961,
+    "score": 43,
+    "address": "12 Rue de l'Amiral Roussin, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Neige+d%27Ete+Paris+15",
+    "price_level": "€€€",
+    "opening_hours": "Tue-Sat 19:00-22:00",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://www.neigedete.fr/fr/",
+      "https://guide.michelin.com/en/ile-de-france/paris/restaurant/neige-d-ete",
+      "https://www.pagesjaunes.fr/pros/55605932"
+    ],
+    "notes": "【區域層級搜尋結果：15ème Cambronne 周邊，飯店步行約 8 分鐘】Michelin 一星。主廚 Hideki Nishi 主導法式 × 日式創意套餐，以海鮮為核心。僅晚餐，週一公休，需提前 2-4 週預約。是飯店一帶最高規格晚餐選項。"
   }
 ]
