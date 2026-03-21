@@ -122,6 +122,60 @@
     "notes": "MICHELIN Bib Gourmand；包含 pissaladière 等在地經典，對應你 Nice 優先項目。"
   },
   {
+    "id": "nice-bistrot-antoine",
+    "name": "Le Bistrot d'Antoine",
+    "category": "restaurant",
+    "lat": 43.6971,
+    "lng": 7.2752,
+    "score": 41,
+    "address": "27 Rue de la Préfecture, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Le+Bistrot+d%27Antoine+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mon-Sat 12:00-14:00, 19:30-22:00",
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Bistrot+d%27Antoine+Nice",
+      "https://guide.michelin.com/tw/zh_TW/provence-alpes-cote-dazur/nice/restaurant/le-bistrot-d-antoine",
+      "https://www.le-fooding.com/restaurant/le-bistrot-dantoine-nice",
+      "https://www.tripadvisor.com/Restaurant_Review-Le_Bistrot_d_Antoine-Nice"
+    ],
+    "notes": "Vieux Nice 老街核心，Michelin Bib Gourmand 收錄。主打 Daube niçoise 與傳統 Niçoise 菜餚，適合晚餐高優先安排。週末訂位競爭高，建議提前 2-3 天預約。"
+  },
+  {
+    "id": "nice-lou-pilha-leva",
+    "name": "Lou Pilha Leva",
+    "category": "restaurant",
+    "lat": 43.6978,
+    "lng": 7.2765,
+    "score": 37,
+    "address": "10-13 Rue du Collet, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Lou+Pilha+Leva+Nice",
+    "price_level": "€",
+    "opening_hours": "Daily 11:00-21:00",
+    "source_urls": [
+      "https://maps.google.com/?q=Lou+Pilha+Leva+Nice",
+      "https://www.tripadvisor.com/Restaurant_Review-Lou_Pilha_Leva-Nice",
+      "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/lou-pilha-leva-nice"
+    ],
+    "notes": "Vieux Nice 傳統小吃站，即點即食。Socca 與 Pissaladière 備選，可作 Chez Pipo 的區域補位。適合午間在舊城區步行時順道補充。"
+  },
+  {
+    "id": "nice-la-rossettisserie",
+    "name": "La Rossettisserie",
+    "category": "restaurant",
+    "lat": 43.6973,
+    "lng": 7.2762,
+    "score": 35,
+    "address": "8 Rue Mascoinat, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=La+Rossettisserie+Nice",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-22:00",
+    "source_urls": [
+      "https://maps.google.com/?q=La+Rossettisserie+Nice",
+      "https://www.tripadvisor.com/Restaurant_Review-La_Rossettisserie-Nice"
+    ],
+    "notes": "Place Rossetti 步行可達，烤肉與 Niçoise 料理為主。適合 Fenocchio 周邊備選晚餐；官方指南來源待補充。"
+  },
+  {
     "id": "nice-fenocchio",
     "name": "Fenocchio",
     "category": "dessert",
@@ -203,6 +257,99 @@
       "https://maps.google.com/?q=Creperie+La+Cloche+Mont+Saint+Michel"
     ],
     "notes": "快速用餐備選。"
+  },
+  {
+    "id": "paris-le-comptoir-du-relais",
+    "name": "Le Comptoir du Relais",
+    "category": "restaurant",
+    "lat": 48.8519,
+    "lng": 2.3391,
+    "score": 43,
+    "address": "9 Carrefour de l'Odéon, 75006 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Le+Comptoir+du+Relais+Paris",
+    "price_level": "€€€",
+    "opening_hours": "Mon-Fri 12:00-14:00, 18:00-23:00; Sat-Sun 12:00-23:00",
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Comptoir+du+Relais+Paris",
+      "https://guide.michelin.com/tw/zh_TW/ile-de-france/paris/restaurant/le-comptoir-du-relais",
+      "https://www.le-fooding.com/restaurant/le-comptoir-du-relais-paris",
+      "https://www.tripadvisor.com/Restaurant_Review-Le_Comptoir_du_Relais-Paris"
+    ],
+    "notes": "Saint-Germain 核心地標 Bistro，Michelin Bib Gourmand。週間晚餐需提前預約，週末長午餐可現場等位。高優先 Bistro 代表，覆蓋左岸區域。"
+  },
+  {
+    "id": "paris-frenchie",
+    "name": "Frenchie",
+    "category": "restaurant",
+    "lat": 48.8635,
+    "lng": 2.3513,
+    "score": 41,
+    "address": "5 Rue du Nil, 75002 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Frenchie+Paris",
+    "price_level": "€€€",
+    "opening_hours": "Tue-Sat 19:00-22:00",
+    "source_urls": [
+      "https://maps.google.com/?q=Frenchie+Paris",
+      "https://www.frenchie-restaurant.com/",
+      "https://guide.michelin.com/tw/zh_TW/ile-de-france/paris/restaurant/frenchie",
+      "https://www.le-fooding.com/restaurant/frenchie-paris"
+    ],
+    "notes": "Sentier 區 neo-bistro，Michelin 一星。僅晚餐開放，訂位競爭高，建議 3-4 週前預約。覆蓋 2 區 / Canal 東側行程。"
+  },
+  {
+    "id": "paris-jacques-genin",
+    "name": "Jacques Genin",
+    "category": "dessert",
+    "lat": 48.8620,
+    "lng": 2.3639,
+    "score": 39,
+    "address": "133 Rue de Turenne, 75003 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Jacques+Genin+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sun 11:00-19:00",
+    "source_urls": [
+      "https://maps.google.com/?q=Jacques+Genin+Paris",
+      "https://www.jacquesgenin.fr/",
+      "https://www.le-fooding.com/restaurant/jacques-genin-paris",
+      "https://www.tripadvisor.com/Restaurant_Review-Jacques_Genin-Paris"
+    ],
+    "notes": "Le Marais 傳奇巧克力與甜點工坊。Millefeuille 與焦糖甜點極具代表性，下午茶補給高優先。週一公休，下午場需提早前往。"
+  },
+  {
+    "id": "paris-cafe-des-musees",
+    "name": "Café des Musées",
+    "category": "restaurant",
+    "lat": 48.8581,
+    "lng": 2.3618,
+    "score": 37,
+    "address": "49 Rue de Turenne, 75003 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Cafe+des+Musees+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-23:00",
+    "source_urls": [
+      "https://maps.google.com/?q=Cafe+des+Musees+Paris",
+      "https://www.tripadvisor.com/Restaurant_Review-Cafe_des_Musees-Paris",
+      "https://www.le-fooding.com/restaurant/cafe-des-musees-paris"
+    ],
+    "notes": "Le Marais 高性價比 Bistro 午餐選。每日開放，Steak frites 與 Entrecôte 評分穩定。周邊美術館行程午餐的優質補位選。"
+  },
+  {
+    "id": "paris-breizh-cafe",
+    "name": "Breizh Café",
+    "category": "restaurant",
+    "lat": 48.8606,
+    "lng": 2.3614,
+    "score": 36,
+    "address": "109 Rue Vieille du Temple, 75003 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Breizh+Cafe+Le+Marais+Paris",
+    "price_level": "€€",
+    "opening_hours": "Wed-Sun 12:00-22:00",
+    "source_urls": [
+      "https://maps.google.com/?q=Breizh+Cafe+Le+Marais+Paris",
+      "https://www.breizhcafe.com/",
+      "https://www.le-fooding.com/restaurant/breizh-cafe-paris"
+    ],
+    "notes": "Le Marais 知名布列塔尼式 crêperie，鹹甜薄餅兼備。週末可能排隊，建議訂位。週一二公休。可點無酒精飲料替代。"
   },
   {
     "id": "paris-septime",

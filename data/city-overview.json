@@ -63,21 +63,23 @@
     ],
     "top_candidates": [
       "nice-la-merenda",
+      "nice-bistrot-antoine",
       "nice-acchiardo",
       "nice-chez-pipo"
     ],
     "research_strategy": {
       "priorities": [
-        "先建立在地名物清單並對應代表店家",
-        "海鮮餐廳優先確認新鮮度與評價一致性",
-        "建立 2-3 間低風險備選店"
+        "La Merenda 與 Le Bistrot d'Antoine 鎖定為晚餐主力（已確認 Bib Gourmand）",
+        "Chez Pipo 排為 Socca 專場；Lou Pilha Leva 作 Vieux Nice 區域補位",
+        "旅前再次確認 Acchiardo 公休日與訂位方式"
       ],
       "constraints": [
+        "La Merenda 不接受電話訂位，需親自前往登記",
         "觀光區評價兩極，需提高來源交叉驗證密度",
         "海邊餐廳價格波動較大，需先確認價格帶"
       ]
     },
-    "notes": "Nice 以「避雷」優先，分數與評論穩定度比話題性更重要。"
+    "notes": "Nice 主力晚餐已確認 2 間（La Merenda / Le Bistrot d'Antoine），備選補齊 3 筆。Daube niçoise 與 Pissaladière 雙線均已有對應店家。"
   },
   {
     "city": "Mont Saint-Michel",
@@ -142,20 +144,22 @@
     ],
     "top_candidates": [
       "paris-septime",
-      "paris-du-pain-et-des-idees",
-      "paris-bouillon-republique"
+      "paris-le-comptoir-du-relais",
+      "paris-frenchie",
+      "paris-du-pain-et-des-idees"
     ],
     "research_strategy": {
       "priorities": [
-        "先完成高分主力晚餐名單",
-        "每個活動區域補齊可即時前往的午餐/咖啡備選",
-        "優先確認預約門檻高的熱門店"
+        "Septime / Frenchie 為高優先晚餐，訂位需 3-4 週前完成",
+        "Le Comptoir du Relais 覆蓋左岸 Saint-Germain 行程",
+        "Le Marais 分區補齊：Jacques Genin（甜點）、Café des Musées（午餐）、Breizh Café（crêperie）"
       ],
       "constraints": [
         "熱門餐廳訂位競爭高，需提前規劃",
-        "不同區域移動成本高，需按當日路線配店"
+        "不同區域移動成本高，需按當日路線配店",
+        "Le Comptoir du Relais 週間晚餐需提前預約，週末長午餐可現場等位"
       ]
     },
-    "notes": "巴黎資料量最大，維護時以區域分批更新最穩定。"
+    "notes": "Paris 分區候選已補齊：11 區（Septime）、6 區（Le Comptoir du Relais / Café de Flore）、3 區（Marais 三選）、2 區（Frenchie）、10 區（Du Pain et des Idées）。"
   }
 ]

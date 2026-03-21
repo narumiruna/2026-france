@@ -1,0 +1,143 @@
+[
+  {
+    "id": "nice-la-merenda",
+    "name": "La Merenda",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.6979,
+    "lng": 7.2758,
+    "score": 42,
+    "address": "4 Rue Raoul Bosio, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=La+Merenda+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mon-Fri 12:00-14:00, 19:00-22:00",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "source_urls": [
+      "https://maps.google.com/?q=La+Merenda+Nice",
+      "https://guide.michelin.com/tw/zh_TW/provence-alpes-cote-dazur/nice/restaurant/la-merenda"
+    ],
+    "notes": "Michelin Bib Gourmand。包含 Pissaladière 等在地經典，對應 Nice 優先項目。現金付款，不接受電話訂位，需親自前往登記。"
+  },
+  {
+    "id": "nice-bistrot-antoine",
+    "name": "Le Bistrot d'Antoine",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.6971,
+    "lng": 7.2752,
+    "score": 41,
+    "address": "27 Rue de la Préfecture, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Le+Bistrot+d%27Antoine+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mon-Sat 12:00-14:00, 19:30-22:00",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Bistrot+d%27Antoine+Nice",
+      "https://guide.michelin.com/tw/zh_TW/provence-alpes-cote-dazur/nice/restaurant/le-bistrot-d-antoine",
+      "https://www.le-fooding.com/restaurant/le-bistrot-dantoine-nice",
+      "https://www.tripadvisor.com/Restaurant_Review-Le_Bistrot_d_Antoine-Nice"
+    ],
+    "notes": "Vieux Nice 老街核心，Michelin Bib Gourmand 收錄。主打 Daube niçoise 與傳統 Niçoise 菜餚。週末訂位競爭高，建議提前 2-3 天預約。"
+  },
+  {
+    "id": "nice-acchiardo",
+    "name": "Acchiardo",
+    "category": "restaurant",
+    "status": "researching",
+    "lat": 43.6969,
+    "lng": 7.2757,
+    "score": 40,
+    "address": "38 Rue Droite, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Acchiardo+Nice",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sun 12:00-14:00, 19:00-22:00",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "source_urls": [
+      "https://maps.google.com/?q=Acchiardo+Nice"
+    ],
+    "notes": "經典 Niçoise 菜，高優先。官方站點待補，先維持地圖來源，旅前需再驗證營業時段與公休日。"
+  },
+  {
+    "id": "nice-chez-pipo",
+    "name": "Chez Pipo",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.7025,
+    "lng": 7.2871,
+    "score": 39,
+    "address": "13 Rue Bavastro, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Chez+Pipo+Nice",
+    "price_level": "€",
+    "opening_hours": "Wed-Mon 11:30-22:00",
+    "visit_priority": "high",
+    "reservation_required": false,
+    "source_urls": [
+      "https://maps.google.com/?q=Chez+Pipo+Nice",
+      "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/chez-pipo-nice-en-3014203/"
+    ],
+    "notes": "Socca 指標店，近百年傳承。Vieux Nice 外圍，需步行或短程接駁。適合排在小吃路線高優先。"
+  },
+  {
+    "id": "nice-lou-pilha-leva",
+    "name": "Lou Pilha Leva",
+    "category": "restaurant",
+    "status": "researching",
+    "lat": 43.6978,
+    "lng": 7.2765,
+    "score": 37,
+    "address": "10-13 Rue du Collet, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Lou+Pilha+Leva+Nice",
+    "price_level": "€",
+    "opening_hours": "Daily 11:00-21:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "source_urls": [
+      "https://maps.google.com/?q=Lou+Pilha+Leva+Nice",
+      "https://www.tripadvisor.com/Restaurant_Review-Lou_Pilha_Leva-Nice",
+      "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/lou-pilha-leva-nice"
+    ],
+    "notes": "Vieux Nice 傳統小吃站，即點即食。Socca 與 Pissaladière 備選，可作 Chez Pipo 的區域補位。指南型來源待補充至 4 個。"
+  },
+  {
+    "id": "nice-fenocchio",
+    "name": "Fenocchio",
+    "category": "dessert",
+    "status": "ready",
+    "lat": 43.6974,
+    "lng": 7.2755,
+    "score": 35,
+    "address": "2 Place Rossetti, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Fenocchio+Nice",
+    "price_level": "€",
+    "opening_hours": "Daily 10:00-23:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "source_urls": [
+      "https://maps.google.com/?q=Fenocchio+Nice"
+    ],
+    "notes": "Place Rossetti 冰淇淋名店，舊城區步行補給點。指南型來源待補充。"
+  },
+  {
+    "id": "nice-la-rossettisserie",
+    "name": "La Rossettisserie",
+    "category": "restaurant",
+    "status": "researching",
+    "lat": 43.6973,
+    "lng": 7.2762,
+    "score": 35,
+    "address": "8 Rue Mascoinat, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=La+Rossettisserie+Nice",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-22:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "source_urls": [
+      "https://maps.google.com/?q=La+Rossettisserie+Nice",
+      "https://www.tripadvisor.com/Restaurant_Review-La_Rossettisserie-Nice"
+    ],
+    "notes": "Place Rossetti 步行可達，烤肉與 Niçoise 料理為主。Fenocchio 周邊備選晚餐。官方指南來源待補充至 4 個。"
+  }
+]

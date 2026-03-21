@@ -1,0 +1,190 @@
+[
+  {
+    "id": "paris-septime",
+    "name": "Septime",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.853,
+    "lng": 2.3807,
+    "score": 44,
+    "address": "80 Rue de Charonne, 75011 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Septime+Paris",
+    "price_level": "€€€",
+    "opening_hours": "Mon-Fri 12:00-14:00, 19:00-22:00",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "source_urls": [
+      "https://maps.google.com/?q=Septime+Paris",
+      "https://www.septime-charonne.fr/en",
+      "https://guide.michelin.com/tw/zh_TW/ile-de-france/paris/restaurant/septime"
+    ],
+    "notes": "Michelin 一星，11 區地標。訂位競爭極高，建議 3-4 週前預約。高優先晚餐首選。"
+  },
+  {
+    "id": "paris-le-comptoir-du-relais",
+    "name": "Le Comptoir du Relais",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8519,
+    "lng": 2.3391,
+    "score": 43,
+    "address": "9 Carrefour de l'Odéon, 75006 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Le+Comptoir+du+Relais+Paris",
+    "price_level": "€€€",
+    "opening_hours": "Mon-Fri 12:00-14:00, 18:00-23:00; Sat-Sun 12:00-23:00",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Comptoir+du+Relais+Paris",
+      "https://guide.michelin.com/tw/zh_TW/ile-de-france/paris/restaurant/le-comptoir-du-relais",
+      "https://www.le-fooding.com/restaurant/le-comptoir-du-relais-paris",
+      "https://www.tripadvisor.com/Restaurant_Review-Le_Comptoir_du_Relais-Paris"
+    ],
+    "notes": "Saint-Germain 核心地標 Bistro，Michelin Bib Gourmand。週間晚餐需提前預約；週末長午餐可現場等位。覆蓋左岸 6 區行程。"
+  },
+  {
+    "id": "paris-frenchie",
+    "name": "Frenchie",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8635,
+    "lng": 2.3513,
+    "score": 41,
+    "address": "5 Rue du Nil, 75002 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Frenchie+Paris",
+    "price_level": "€€€",
+    "opening_hours": "Tue-Sat 19:00-22:00",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "source_urls": [
+      "https://maps.google.com/?q=Frenchie+Paris",
+      "https://www.frenchie-restaurant.com/",
+      "https://guide.michelin.com/tw/zh_TW/ile-de-france/paris/restaurant/frenchie",
+      "https://www.le-fooding.com/restaurant/frenchie-paris"
+    ],
+    "notes": "Sentier 區 neo-bistro，Michelin 一星。僅晚餐開放，訂位需 3-4 週前預約。覆蓋 2 區 / Canal 東側行程。"
+  },
+  {
+    "id": "paris-du-pain-et-des-idees",
+    "name": "Du Pain et des Idées",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.8726,
+    "lng": 2.3594,
+    "score": 38,
+    "address": "34 Rue Yves Toudic, 75010 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Du+Pain+et+des+Idees",
+    "price_level": "€",
+    "opening_hours": "Mon-Fri 07:00-19:00",
+    "visit_priority": "high",
+    "reservation_required": false,
+    "source_urls": [
+      "https://maps.google.com/?q=Du+Pain+et+des+Idees",
+      "https://www.dupainetdesidees.com/"
+    ],
+    "notes": "Canal Saint-Martin 周邊烘焙咖啡高優先點。週末公休，早晨排隊常見，建議平日早場前往。"
+  },
+  {
+    "id": "paris-jacques-genin",
+    "name": "Jacques Genin",
+    "category": "dessert",
+    "status": "ready",
+    "lat": 48.8620,
+    "lng": 2.3639,
+    "score": 39,
+    "address": "133 Rue de Turenne, 75003 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Jacques+Genin+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sun 11:00-19:00",
+    "visit_priority": "high",
+    "reservation_required": false,
+    "source_urls": [
+      "https://maps.google.com/?q=Jacques+Genin+Paris",
+      "https://www.jacquesgenin.fr/",
+      "https://www.le-fooding.com/restaurant/jacques-genin-paris",
+      "https://www.tripadvisor.com/Restaurant_Review-Jacques_Genin-Paris"
+    ],
+    "notes": "Le Marais 傳奇巧克力與甜點工坊。Millefeuille 與焦糖甜點極具代表性。週一公休，下午場需提早前往，甜點現點現組合。"
+  },
+  {
+    "id": "paris-bouillon-republique",
+    "name": "Bouillon République",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8675,
+    "lng": 2.3636,
+    "score": 36,
+    "address": "39 Boulevard du Temple, 75003 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Bouillon+Republique",
+    "price_level": "€",
+    "opening_hours": "Daily 12:00-23:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "source_urls": [
+      "https://maps.google.com/?q=Bouillon+Republique"
+    ],
+    "notes": "高性價比傳統法式 Bouillon，適合臨時決策或輕鬆午餐。來源待補充指南型至 4 個。"
+  },
+  {
+    "id": "paris-cafe-des-musees",
+    "name": "Café des Musées",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8581,
+    "lng": 2.3618,
+    "score": 37,
+    "address": "49 Rue de Turenne, 75003 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Cafe+des+Musees+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-23:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "source_urls": [
+      "https://maps.google.com/?q=Cafe+des+Musees+Paris",
+      "https://www.tripadvisor.com/Restaurant_Review-Cafe_des_Musees-Paris",
+      "https://www.le-fooding.com/restaurant/cafe-des-musees-paris"
+    ],
+    "notes": "Le Marais 高性價比 Bistro 午餐選。Steak frites 與 Entrecôte 評分穩定，每日開放。指南型來源待補充至 4 個。"
+  },
+  {
+    "id": "paris-breizh-cafe",
+    "name": "Breizh Café",
+    "category": "restaurant",
+    "status": "researching",
+    "lat": 48.8606,
+    "lng": 2.3614,
+    "score": 36,
+    "address": "109 Rue Vieille du Temple, 75003 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Breizh+Cafe+Le+Marais+Paris",
+    "price_level": "€€",
+    "opening_hours": "Wed-Sun 12:00-22:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "source_urls": [
+      "https://maps.google.com/?q=Breizh+Cafe+Le+Marais+Paris",
+      "https://www.breizhcafe.com/",
+      "https://www.le-fooding.com/restaurant/breizh-cafe-paris"
+    ],
+    "notes": "Le Marais 知名布列塔尼式 crêperie。鹹甜薄餅兼備，可點無酒精飲料。週末可能排隊建議訂位，週一二公休。指南型來源待補充至 4 個。"
+  },
+  {
+    "id": "paris-cafe-de-flore",
+    "name": "Café de Flore",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.8541,
+    "lng": 2.3321,
+    "score": 34,
+    "address": "172 Boulevard Saint-Germain, 75006 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Cafe+de+Flore+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 07:30-01:30",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "source_urls": [
+      "https://maps.google.com/?q=Cafe+de+Flore+Paris",
+      "https://cafedeflore.fr/"
+    ],
+    "notes": "Saint-Germain 經典地標咖啡館，觀光區需留意等位。Le Comptoir du Relais 步行 2 分鐘可達，可搭配同區行程。"
+  }
+]
