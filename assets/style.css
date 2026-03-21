@@ -108,6 +108,14 @@ body {
   font-size: 0.92rem;
 }
 
+.city-hotel {
+  margin: 0;
+}
+
+.city-hotel a {
+  color: #0a5dab;
+}
+
 .city-block h3 {
   margin: 0 0 4px;
   font-size: 0.9rem;

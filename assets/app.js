@@ -128,6 +128,7 @@ function renderOverview() {
     fillList(node.querySelector(".city-highlights"), city.highlights);
     fillList(node.querySelector(".city-dishes"), city.signature_dishes);
     fillList(node.querySelector(".city-areas"), city.areas);
+    renderHotel(node.querySelector(".city-hotel"), city.hotel);
     fillList(node.querySelector(".city-constraints"), city.research_strategy?.constraints);
 
     const button = node.querySelector(".go-map");
@@ -137,6 +138,26 @@ function renderOverview() {
     });
     elements.overviewList.appendChild(node);
   }
+}
+
+function renderHotel(container, hotel) {
+  container.innerHTML = "";
+  if (!hotel?.name) {
+    container.textContent = "待補資料";
+    return;
+  }
+
+  if (!hotel.google_maps_url) {
+    container.textContent = hotel.name;
+    return;
+  }
+
+  const link = document.createElement("a");
+  link.href = encodeURI(hotel.google_maps_url);
+  link.target = "_blank";
+  link.rel = "noopener";
+  link.textContent = hotel.name;
+  container.appendChild(link);
 }
 
 function fillList(container, values) {
