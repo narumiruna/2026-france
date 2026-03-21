@@ -50,3 +50,24 @@ Current history is minimal (`Initial commit`, `add doc`). Follow a clear, impera
 ## Contributor Notes
 - Do not edit `docs/references/ISESHIMA_AGENTS.md` unless explicitly instructed.
 - Prefer incremental updates over large rewrites to keep review simple.
+
+## GOTCHA and TASTE Auto-Update Workflow
+Follow these rules every session:
+
+1. Session start checks:
+   - Check whether `GOTCHA.md` and `TASTE.md` exist in the project root.
+   - If present, read relevant entries before proposing fixes or recommendations.
+
+2. Auto-create `GOTCHA.md` on mistakes:
+   - If an implementation/debugging mistake happens and `GOTCHA.md` does not exist, create it immediately.
+   - Add a new entry in the same session describing only non-obvious, experience-derived pitfalls.
+   - Keep each entry actionable: symptom, root cause, and prevention rule.
+
+3. Auto-create or update `TASTE.md` on stable preferences:
+   - If the user expresses a reusable preference and `TASTE.md` does not exist, create it immediately.
+   - Add or update entries in the same session with concrete decision rules.
+   - Store only stable, repeatable preferences (not one-off requests).
+
+4. Scope and quality:
+   - Do not duplicate foundational rules already defined in `AGENTS.md`.
+   - Keep entries concise and enforceable.
