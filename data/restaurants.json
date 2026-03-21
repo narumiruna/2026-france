@@ -437,7 +437,7 @@
       "https://www.tripadvisor.com/Restaurant_Review-g187212-d19326682-Reviews-Brunch_Coffee-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
       "https://www.pagesjaunes.fr/pros/58431533"
     ],
-    "notes": "【街道層級】ibis Avignon（12 Bd Saint Dominique）步行約 10 分鐘。全週開放，自製 bagel、brunch、咖啡，可外帶，最近早餐首選。"
+    "notes": "【街道層級：Rue Mignard，飯店步行約 10 分鐘】全週開放，自製 bagel、brunch、咖啡，可外帶，最近早餐首選。"
   },
   {
     "id": "avignon-cafe-tulipe",
@@ -458,7 +458,7 @@
       "https://www.provenceguide.co.uk/restaurants/avignon/cafe-tulipe/provence-5171010-1.html",
       "https://restaurantguru.com/Cafe-tulipe-Avignon"
     ],
-    "notes": "【區域層級】Avignon 公認最佳精品咖啡。使用 La Marzocco 咖啡機，供應早午餐、自製甜點，可外帶。週日公休。"
+    "notes": "【區域層級：Rue des Trois Faucons，飯店步行約 12 分鐘】Avignon 公認最佳精品咖啡，可外帶。週日公休。"
   },
   {
     "id": "avignon-pavillon-84",
@@ -476,7 +476,7 @@
     "source_urls": [
       "https://www.tripadvisor.com/Restaurant_Review-g187212-d23474615-Reviews-Pavillon_84-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
     ],
-    "notes": "【街道層級：Allée de l'Oulle】飯店步行約 8 分鐘，地中海融合料理，戶外露台。週一公休，無需預約，晚餐至 23:30。飯店最近晚餐備選。"
+    "notes": "【街道層級：Allée de l'Oulle，飯店步行約 8 分鐘】地中海融合料理，戶外露台。週一公休，不需預約，晚餐至 23:30。"
   },
   {
     "id": "avignon-pollen",
@@ -497,7 +497,7 @@
       "https://lefooding.com/restaurants/pollen",
       "https://www.tripadvisor.com/Restaurant_Review-g187212-d14246331-Reviews-Pollen-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
     ],
-    "notes": "【區域層級】Michelin 一星，飯店步行約 10 分鐘。每週更換季節套餐，週六日公休，強烈建議提前預約。Avignon 最高規格晚餐。"
+    "notes": "【區域層級：Rue Joseph Vernet，飯店步行約 10 分鐘】Michelin 一星，季節套餐每週更換。週六日公休，強烈建議提前預約。Avignon 最高規格晚餐。"
   },
   {
     "id": "nice-la-belugue",
@@ -515,7 +515,7 @@
     "source_urls": [
       "https://nice.love-spots.com/manger/cafes-nice/97163-la-belugue.html"
     ],
-    "notes": "【街道層級：Avenue Malaussena】ibis Nice（41 Rue Lamartine）步行約 5 分鐘。每日 07:00 起，早餐咖啡，可外帶。"
+    "notes": "【街道層級：Avenue Malaussena，飯店步行約 5 分鐘】每日 07:00 起，早餐咖啡，可外帶。"
   },
   {
     "id": "nice-verdant-cafe",
@@ -609,7 +609,7 @@
     "source_urls": [
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d10254215-Reviews-Boulangerie_Patisserie_Jeannot-Nice"
     ],
-    "notes": "【區域層級：Vieux Nice 入口】每日 07:00 開始，三明治、可頌可外帶，Vieux Nice 路線起點補給首選。"
+    "notes": "【區域層級：Vieux Nice 入口，飯店步行約 20 分鐘】每日 07:00 開始，三明治、可頌可外帶，Vieux Nice 路線起點補給首選。"
   },
   {
     "id": "nice-hobo-coffee",
@@ -627,7 +627,7 @@
     "source_urls": [
       "https://www.hoboshop.fr/"
     ],
-    "notes": "【區域層級：Vieux Nice 舊城核心】精品咖啡代表店，供應早午餐、酪梨吐司，可外帶。Socca 路線途中順道補咖啡首選。"
+    "notes": "【區域層級：Vieux Nice 舊城核心，飯店步行約 25 分鐘】精品咖啡代表店，供應早午餐、酪梨吐司，可外帶。Socca 路線途中順道補咖啡首選。"
   },
   {
     "id": "msm-la-ferme-saint-michel",
@@ -666,7 +666,7 @@
       "https://www.myboulange.fr/75/paris/la-maison-pichard-paris-73153",
       "https://www.justacote.com/paris-75015/boulangerie-patisserie/boulangerie-patisserie-pichard-7482.htm"
     ],
-    "notes": "【街道層級：88 Rue Cambronne，飯店步行約 10 分鐘】曾奪「巴黎最佳可頌」。週一二公休，餐點可外帶。"
+    "notes": "【街道層級：88 Rue Cambronne，飯店步行約 10 分鐘】曾奪「巴黎最佳可頌」的精品烘焙坊。週一二公休，餐點可外帶。"
   },
   {
     "id": "paris-wallace",
@@ -723,7 +723,7 @@
       "https://www.laveraison.fr/informations-contact/",
       "https://www.thefork.com/restaurant/la-veraison-paris-15"
     ],
-    "notes": "【區域層級：15ème，飯店步行約 8 分鐘】法式 bistronomie，季節週換菜單。晚餐熱門，建議前一天預約。"
+    "notes": "【區域層級：Rue de la Croix Nivert，飯店步行約 8 分鐘】法式 bistronomie，季節週換菜單。晚餐熱門，建議前一天預約。"
   },
   {
     "id": "paris-neige-dete",
@@ -742,6 +742,6 @@
       "https://www.neigedete.fr/fr/",
       "https://guide.michelin.com/en/ile-de-france/paris/restaurant/neige-d-ete"
     ],
-    "notes": "【區域層級：15ème，飯店步行約 8 分鐘】Michelin 一星，法式 × 日式套餐，僅晚餐。需提前 2-4 週預約。飯店一帶最高規格晚餐。"
+    "notes": "【區域層級：Rue de l'Amiral Roussin，飯店步行約 8 分鐘】Michelin 一星，法式 × 日式套餐，僅晚餐。需提前 2-4 週預約。飯店一帶最高規格晚餐。"
   }
 ]
