@@ -192,6 +192,30 @@
     "notes": "【街道/區域層級搜尋結果：Allée de l'Oulle】飯店步行約 8 分鐘，地中海融合料理，戶外遮陰露台。週一公休，其餘每日 12:00 起供應晚餐至 23:30，無需提前預約。是飯店一帶最易入座的晚餐備選。"
   },
   {
+    "id": "avignon-acte-2",
+    "name": "Acte 2",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.9488,
+    "lng": 4.8086,
+    "score": 42,
+    "address": "3 Bis Rue de la Petite Calade, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Acte+2+Restaurant+Avignon",
+    "price_level": "€€€",
+    "opening_hours": "Tue-Fri 19:15-21:30, Sat 12:00-13:15, 19:15-21:30",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://www.restaurantacte2.com/",
+      "https://guide.michelin.com/us/en/provence-alpes-cote-dazur/avignon/restaurant/acte-2",
+      "https://fr.gaultmillau.com/en/restaurants/restaurant--acte-2-",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d23898191-Reviews-Acte_2_Avignon-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "【飯店步行範圍搜尋結果：舊城中心】Michelin 與 Gault&Millau 雙榜認可。僅 16 席，主廚 Grégory 供應每週更換季節套餐（晚間 6 道 €74；週六午餐 €45）；餐廳合夥人 Déborah 主導有機自然酒單。飯店步行約 8-10 分鐘（進入舊城區）。週一、週日公休，需提前預約並支付訂金。是 Avignon 舊城最值得一訪的精緻晚餐選項之一。"
+  },
+  {
     "id": "avignon-pollen",
     "name": "Pollen",
     "category": "restaurant",

@@ -1,5 +1,50 @@
 [
   {
+    "id": "paris-maison-landemaine",
+    "name": "Maison Landemaine Cambronne",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.8421,
+    "lng": 2.3007,
+    "score": 35,
+    "address": "7 Place Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Maison+Landemaine+Cambronne+Paris",
+    "price_level": "€",
+    "opening_hours": "Daily 07:00-20:30",
+    "visit_priority": "high",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://uneboulangerie.fr/75/paris/maison-landemaine-cambronne-10vi",
+      "https://www.meilleursrestaurantsparis.fr/categorie/boulangerie/la-boulange-de-cambronne-boulangerie-paris-15",
+      "https://www.tripadvisor.fr/Restaurant_Review-g187147-d10486885-Reviews-La_Boulange_De_Cambronne-Paris_Ile_de_France.html"
+    ],
+    "notes": "【街道層級搜尋結果：Maison Landemaine，Place Cambronne，飯店步行約 2 分鐘】知名精品連鎖烘焙坊，提供優質可頌、pain au chocolat、各式維也納麵包及外帶咖啡。每日 07:00 起，是 Cambronne 廣場上最方便的早餐外帶首選。"
+  },
+  {
+    "id": "paris-cafe-cambronne",
+    "name": "Café Cambronne",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.8420,
+    "lng": 2.3005,
+    "score": 33,
+    "address": "5 Place Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Cafe+Cambronne+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 08:00-02:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "dinner"],
+    "source_urls": [
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d2298449-Reviews-Cafe_Cambronne-Paris_Ile_de_France.html",
+      "https://unilocal.fr/france/paris/caffe-cambronne-58364"
+    ],
+    "notes": "【街道層級搜尋結果：Café Cambronne，Place Cambronne，飯店步行約 2 分鐘】傳統巴黎街角咖啡館，提供早午餐（咖啡、可頌、tartine、歐姆蛋）及法式午晚餐，深夜至 02:00。廣場露台可戶外用餐，是飯店一帶全日隨時入座的便利選項。"
+  },
+  {
     "id": "paris-septime",
     "name": "Septime",
     "category": "restaurant",
