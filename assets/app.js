@@ -102,12 +102,26 @@ function isValidRestaurant(place) {
   return true;
 }
 
+function formatPeriod(period) {
+  if (!period) return "";
+  const parts = period.split(" ~ ");
+  if (parts.length !== 2) return period;
+  const [start, end] = parts;
+  const startMs = Date.parse(start);
+  const endMs = Date.parse(end);
+  if (Number.isNaN(startMs) || Number.isNaN(endMs)) return period;
+  const nights = Math.round((endMs - startMs) / (1000 * 60 * 60 * 24));
+  const shortStart = start.length >= 8 ? start.slice(5) : start;
+  const shortEnd = end.length >= 8 ? end.slice(5) : end;
+  return `${shortStart} ~ ${shortEnd}（${nights} 晚）`;
+}
+
 function renderOverview() {
   elements.overviewList.innerHTML = "";
   for (const city of state.cityOverview) {
     const node = elements.overviewTemplate.content.cloneNode(true);
     node.querySelector(".city-name").textContent = city.city || "Unknown";
-    node.querySelector(".city-period").textContent = city.period || "";
+    node.querySelector(".city-period").textContent = formatPeriod(city.period);
     node.querySelector(".city-notes").textContent = city.notes || "";
     fillList(node.querySelector(".city-highlights"), city.highlights);
     fillList(node.querySelector(".city-dishes"), city.signature_dishes);
