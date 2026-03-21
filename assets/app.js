@@ -366,7 +366,14 @@ function updateUserMarker() {
     state.map.removeLayer(state.radiusCircle);
   }
 
-  state.userMarker = L.marker([center.lat, center.lng], { title: markerTitle }).addTo(state.map);
+  state.userMarker = L.circleMarker([center.lat, center.lng], {
+    radius: 8,
+    color: "#c0392b",
+    weight: 2,
+    fillColor: "#e74c3c",
+    fillOpacity: 0.9,
+    title: markerTitle,
+  }).addTo(state.map);
   state.radiusCircle = L.circle([center.lat, center.lng], {
     radius: NEARBY_KM * 1000,
     color: "#2a4d66",
