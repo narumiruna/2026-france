@@ -35,6 +35,9 @@
           <button class="tab is-active" data-tab="overview" type="button">
             <span class="tab-icon" aria-hidden="true">🗺</span> 總覽
           </button>
+          <button class="tab" data-tab="top-picks" type="button">
+            <span class="tab-icon" aria-hidden="true">⭐</span> 精選
+          </button>
           <button class="tab" data-tab="map" type="button">
             <span class="tab-icon" aria-hidden="true">📍</span> 地圖
           </button>
@@ -45,6 +48,10 @@
     <main class="container">
       <section id="overview" class="panel is-active" aria-label="城市美食總覽">
         <div id="overview-list" class="overview-grid"></div>
+      </section>
+
+      <section id="top-picks" class="panel" aria-label="各城市精選餐廳">
+        <div id="top-picks-list"></div>
       </section>
 
       <section id="map" class="panel" aria-label="地圖頁面">
