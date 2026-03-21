@@ -14,6 +14,10 @@
 - Candidate search coverage:
   - During new restaurant research, always include hotel-nearby options in addition to major sightseeing and food districts.
   - Treat hotel-nearby options as practical fallback candidates for tight schedules or late arrivals.
-  - For hotel-nearby search, confirm hotel address/area/street first, then search in order: street-nearby food before area-nearby food.
-  - Do not use hotel-name keyword search as the primary discovery method.
-  - Exception: only extracted geographic terms (street/area/city) may be used as standalone queries; never use the full hotel name string.
+  - Hotel-nearby search methodology:
+    1. First confirm the hotel's exact address (street name, area, district).
+    2. Search for food options on/near that specific street first.
+    3. Then expand to the surrounding neighborhood/district.
+    4. Do not use hotel-name keyword search as the primary discovery method.
+    5. Exception: only extracted geographic terms (street/area/city) may be used as standalone queries; never use the full hotel name string.
+  - Tag all hotel-nearby entries with `hotel_nearby: true` and appropriate `meal_tags` (coffee, breakfast, dinner, takeout).
