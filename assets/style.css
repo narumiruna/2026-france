@@ -362,6 +362,12 @@ body {
   overflow: hidden;
 }
 
+@media (max-width: 720px) {
+  #map-view {
+    height: clamp(300px, 55svh, 480px);
+  }
+}
+
 /* ---- Map Popup ---- */
 
 .popup {
@@ -445,6 +451,198 @@ body {
 
 .popup a:hover {
   text-decoration: underline;
+}
+
+/* ---- Top Picks ---- */
+
+.top-picks-city {
+  margin-bottom: 32px;
+}
+
+.top-picks-city-heading {
+  font-family: "Playfair Display", "Noto Sans TC", serif;
+  font-size: 1.3rem;
+  color: var(--ink);
+  margin: 0 0 14px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--accent-light);
+}
+
+.top-picks-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+}
+
+.top-picks-card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-card);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  box-shadow: var(--card-shadow);
+  transition: box-shadow var(--transition), transform var(--transition);
+}
+
+.top-picks-card:hover {
+  box-shadow: var(--card-shadow-hover);
+  transform: translateY(-2px);
+}
+
+.tpc-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.tpc-name {
+  font-family: "Playfair Display", "Noto Sans TC", serif;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.tpc-category {
+  font-size: 0.75rem;
+  color: var(--ink-muted);
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 2px 8px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.tpc-score-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.tpc-score-label {
+  font-size: 0.78rem;
+  color: var(--ink-muted);
+  white-space: nowrap;
+}
+
+.tpc-score-bar {
+  flex: 1;
+  background: #ede8df;
+  border-radius: 999px;
+  height: 6px;
+  overflow: hidden;
+}
+
+.tpc-score-fill {
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #c5903a, #b2451e);
+}
+
+.tpc-score-num {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+.tpc-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.tpc-badge {
+  font-size: 0.78rem;
+  font-weight: 700;
+  background: var(--accent-light);
+  color: var(--accent);
+  border-radius: 999px;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+
+.tpc-hours {
+  font-size: 0.78rem;
+  color: var(--ink-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.tpc-notes {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--ink-muted);
+  line-height: 1.5;
+  padding: 8px 10px;
+  background: var(--bg);
+  border-left: 3px solid var(--gold);
+  border-radius: 0 8px 8px 0;
+  flex: 1;
+}
+
+.tpc-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-top: auto;
+  flex-wrap: wrap;
+}
+
+.tpc-map-link {
+  color: var(--blue);
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color var(--transition);
+}
+
+.tpc-map-link:hover {
+  color: var(--blue-dark);
+  text-decoration: underline;
+}
+
+.tpc-go-map {
+  border: none;
+  background: var(--blue);
+  color: #fff;
+  border-radius: 8px;
+  padding: 7px 12px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 0.82rem;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  transition: background var(--transition), box-shadow var(--transition), transform var(--transition);
+  box-shadow: 0 2px 6px rgba(42, 77, 102, 0.2);
+  white-space: nowrap;
+}
+
+.tpc-go-map:hover {
+  background: var(--blue-dark);
+  box-shadow: 0 4px 10px rgba(42, 77, 102, 0.3);
+  transform: translateY(-1px);
+}
+
+.tpc-go-map:active {
+  transform: translateY(0);
+}
+
+@media (max-width: 720px) {
+  .top-picks-list {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* ---- Footer ---- */

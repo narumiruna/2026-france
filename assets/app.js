@@ -33,6 +33,7 @@ const state = {
 const elements = {
   mapStatus: document.querySelector("#map-status"),
   overviewList: document.querySelector("#overview-list"),
+  topPicksList: document.querySelector("#top-picks-list"),
   tabButtons: document.querySelectorAll(".tab"),
   panels: document.querySelectorAll(".panel"),
   overviewTemplate: document.querySelector("#overview-card-template"),
@@ -46,6 +47,7 @@ async function init() {
   setupTabs();
   await loadData();
   renderOverview();
+  renderTopPicks();
   setupMap();
   startGeolocation();
   renderNearbyRestaurants();
@@ -156,6 +158,74 @@ function renderOverview() {
   }
 }
 
+function renderTopPicks() {
+  elements.topPicksList.innerHTML = "";
+  const restById = Object.fromEntries(state.restaurants.map((r) => [r.id, r]));
+
+  for (const city of state.cityOverview) {
+    const candidates = (city.top_candidates || [])
+      .map((id) => restById[id])
+      .filter(Boolean);
+    if (candidates.length === 0) continue;
+
+    const section = document.createElement("section");
+    section.className = "top-picks-city";
+
+    const heading = document.createElement("h2");
+    heading.className = "top-picks-city-heading";
+    heading.textContent = `${CITY_EMOJI[city.city] || "🍴"} ${city.city}`;
+    section.appendChild(heading);
+
+    const list = document.createElement("ul");
+    list.className = "top-picks-list";
+
+    for (const place of candidates) {
+      const li = document.createElement("li");
+      li.className = "top-picks-card";
+
+      const scoreNum = Number(place.score);
+      const scoreValid = Number.isFinite(scoreNum);
+      const scorePct = scoreValid ? Math.min(100, Math.round((scoreNum / 50) * 100)) : 0;
+
+      li.innerHTML = `
+        <div class="tpc-header">
+          <span class="tpc-name">${escapeHtml(place.name)}</span>
+          <span class="tpc-category">${escapeHtml(place.category)}</span>
+        </div>
+        ${
+          scoreValid
+            ? `<div class="tpc-score-row">
+                <span class="tpc-score-label">評分</span>
+                <div class="tpc-score-bar"><div class="tpc-score-fill" style="width:${scorePct}%"></div></div>
+                <span class="tpc-score-num">${escapeHtml(String(place.score))}/50</span>
+               </div>`
+            : ""
+        }
+        <div class="tpc-meta">
+          ${place.price_level ? `<span class="tpc-badge">${escapeHtml(place.price_level)}</span>` : ""}
+          ${place.opening_hours ? `<span class="tpc-hours">${escapeHtml(place.opening_hours)}</span>` : ""}
+        </div>
+        ${place.notes ? `<p class="tpc-notes">${escapeHtml(place.notes)}</p>` : ""}
+        <div class="tpc-footer">
+          <a class="tpc-map-link" href="${safeUrl(place.google_maps_url)}" target="_blank" rel="noopener">📍 Google Maps</a>
+          <button class="tpc-go-map" type="button" data-city="${escapeHtml(city.city)}">🗺 在地圖查看</button>
+        </div>
+      `;
+
+      li.querySelector(".tpc-go-map").addEventListener("click", (e) => {
+        const cityName = e.currentTarget.dataset.city;
+        switchTab("map");
+        focusCityOnMap(cityName);
+      });
+
+      list.appendChild(li);
+    }
+
+    section.appendChild(list);
+    elements.topPicksList.appendChild(section);
+  }
+}
+
 function renderHotel(container, hotel) {
   container.innerHTML = "";
   if (!hotel?.name) {
@@ -169,7 +239,7 @@ function renderHotel(container, hotel) {
   }
 
   const link = document.createElement("a");
-  link.href = encodeURI(hotel.google_maps_url);
+  link.href = safeUrl(hotel.google_maps_url);
   link.target = "_blank";
   link.rel = "noopener";
   link.textContent = hotel.name;
@@ -313,7 +383,7 @@ function buildPopup(place) {
         <span class="popup-label">備註</span><span class="popup-value">${escapeHtml(note)}</span>
       </div>
       <hr class="popup-divider" />
-      <p style="margin:0"><a href="${encodeURI(place.google_maps_url)}" target="_blank" rel="noopener">📍 Google Maps</a></p>
+      <p style="margin:0"><a href="${safeUrl(place.google_maps_url)}" target="_blank" rel="noopener">📍 Google Maps</a></p>
     </div>
   `;
 }
@@ -372,6 +442,11 @@ function escapeHtml(text) {
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#039;");
+}
+
+function safeUrl(url) {
+  if (typeof url !== "string") return "#";
+  return url.startsWith("https://") || url.startsWith("http://") ? encodeURI(url) : "#";
 }
 
 window.addEventListener("beforeunload", () => {
