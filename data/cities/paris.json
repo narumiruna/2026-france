@@ -346,5 +346,115 @@
       "https://www.pagesjaunes.fr/pros/55605932"
     ],
     "notes": "【區域層級搜尋結果：15ème Cambronne 周邊，飯店步行約 8 分鐘】Michelin 一星。主廚 Hideki Nishi 主導法式 × 日式創意套餐，以海鮮為核心。僅晚餐，週一公休，需提前 2-4 週預約。是飯店一帶最高規格晚餐選項。"
+  },
+  {
+    "id": "paris-beurre-noisette",
+    "name": "Le Beurre Noisette",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8357,
+    "lng": 2.2849,
+    "score": 41,
+    "address": "68 Rue Vasco de Gama, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Le+Beurre+Noisette+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tue-Fri 12:00-13:45, 19:00-21:45; Sat 19:00-21:45; Sun-Mon Closed",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/beurre-noisette",
+      "https://www.restaurantbeurrenoisette.com/",
+      "https://www.thefork.com/restaurant/le-beurre-noisette-r4751",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d718808-Reviews-Le_Beurre_Noisette-Paris_Ile_de_France.html"
+    ],
+    "notes": "【區域層級搜尋結果：15ème Cambronne 周邊】Michelin 推薦傳統法餐，主打經典 bistro 與季節菜。距飯店約 10-15 分鐘車程，適合作為飯店周邊高品質晚餐備案。"
+  },
+  {
+    "id": "paris-los-a-moelle",
+    "name": "L'Os à Moelle",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8381,
+    "lng": 2.2816,
+    "score": 39,
+    "address": "3 Rue Vasco de Gama, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=L%27Os+a+Moelle+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tue-Thu 12:00-14:00, 19:00-22:00; Fri 12:00-14:00, 19:00-23:00; Sat 19:00-23:00; Sun-Mon Closed",
+    "visit_priority": "medium",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d718190-Reviews-L_Os_a_Moelle-Paris_Ile_de_France.html",
+      "https://fr.gaultmillau.com/en/restaurants/l-os-a-moelle-restaurant-paris-15",
+      "https://maps.google.com/?q=L%27Os+a+Moelle+Paris"
+    ],
+    "notes": "【區域層級搜尋結果：15ème Cambronne 周邊】老派法式 bistro 取向，內臟與骨髓料理是店內代表。屬飯店周邊可行備選，建議先預約晚餐時段。"
+  },
+  {
+    "id": "paris-bistrot-paul-bert",
+    "name": "Bistrot Paul Bert",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8522,
+    "lng": 2.3849,
+    "score": 42,
+    "address": "18 Rue Paul Bert, 75011 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Bistrot+Paul+Bert+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 12:00-14:00, 19:30-23:00; Sun-Mon Closed",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/bistrot-paul-bert",
+      "https://bistrotpaulbert.fr/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d719048-Reviews-Bistrot_Paul_Bert-Paris_Ile_de_France.html"
+    ],
+    "notes": "11 區經典 bistro 名店，Michelin 推薦，主打傳統法式家常與 steak frites。熱門時段常滿位，建議提早預約。"
+  },
+  {
+    "id": "paris-le-servan",
+    "name": "Le Servan",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8610,
+    "lng": 2.3815,
+    "score": 41,
+    "address": "32 Rue Saint-Maur, 75011 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Le+Servan+Paris",
+    "price_level": "€€",
+    "opening_hours": "Mon-Sat 12:00-14:00, 19:30-22:30; Sun Closed",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/le-servan",
+      "https://www.leservan.fr/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d6870838-Reviews-Le_Servan-Paris_Ile_de_France.html"
+    ],
+    "notes": "11 區人氣現代法式餐廳，料理帶法式基底與亞洲風味，屬高需求店家。依偏好可選擇不含酒精搭配的單點策略。"
+  },
+  {
+    "id": "paris-parcelles",
+    "name": "Parcelles",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8632,
+    "lng": 2.3566,
+    "score": 40,
+    "address": "13 Rue Chapon, 75003 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Parcelles+Paris",
+    "price_level": "€€€",
+    "opening_hours": "Mon-Fri 12:00-13:45, 19:00-22:00; Sat-Sun Closed",
+    "visit_priority": "medium",
+    "reservation_required": true,
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/parcelles",
+      "https://www.parcelles-paris.fr/en/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d23630393-Reviews-Parcelles-Paris_Ile_de_France.html"
+    ],
+    "notes": "Le Marais 附近復古風格 bistro，Michelin 推薦傳統法餐。平日午晚餐可安排，週末通常不營業，需依實際訂位頁再確認。"
   }
 ]
