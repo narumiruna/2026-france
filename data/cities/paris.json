@@ -565,5 +565,120 @@
       "https://www.tripadvisor.com/Restaurant_Review-g187147-d21289189-Reviews-Les_Petits_Parisiens-Paris_Ile_de_France.html"
     ],
     "notes": "14 區口碑法式小酒館，Michelin 推薦傳統料理並兼顧價格帶。平日午晚餐可排，週末休息，適合作為左岸南側備選。"
+  },
+  {
+    "id": "paris-le-moulin-croix-nivert",
+    "name": "Le Moulin de la Croix Nivert",
+    "category": "cafe",
+    "status": "researching",
+    "lat": 48.845947,
+    "lng": 2.298991,
+    "score": 36,
+    "address": "39 Rue de la Croix Nivert, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Le+Moulin+de+la+Croix+Nivert+Paris",
+    "price_level": "€",
+    "opening_hours": "Tue-Fri 07:00-20:30; Sat 07:00-20:00; Sun 07:00-14:00; Mon Closed",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://uneboulangerie.fr/75/paris/le-moulin-de-la-croix-nivert-oxj",
+      "https://www.facebook.com/Le-moulin-de-la-croix-nivert-127397740750411",
+      "https://nominatim.openstreetmap.org/search?format=jsonv2&limit=1&q=39+Rue+de+la+Croix+Nivert+75015+Paris"
+    ],
+    "notes": "【街道層級搜尋結果：Rue de la Croix Nivert，距 Cambronne 一帶步行可達】早餐與外帶友善，平日開門早、週日僅上午。此筆先列 researching，待補指南型來源（Michelin/Le Fooding/Gault&Millau）。"
+  },
+  {
+    "id": "paris-laboulangerie-laos",
+    "name": "Laboulangerie",
+    "category": "cafe",
+    "status": "researching",
+    "lat": 48.850083,
+    "lng": 2.300968,
+    "score": 35,
+    "address": "10 Rue du Laos, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Laboulangerie+Rue+du+Laos+Paris",
+    "price_level": "€",
+    "opening_hours": "Mon-Fri 06:30-20:00; Sat-Sun Closed",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://uneboulangerie.fr/75/paris/laboulangerie-1jtf",
+      "https://www.google.com/maps/search/?api=1&query=48.8501,2.301&query_place_id=ChIJFdj0JJZx5kcRQERcOyU7ODk",
+      "https://nominatim.openstreetmap.org/search?q=Laboulangerie+Rue+du+Laos+Paris&format=jsonv2&limit=5&addressdetails=1&extratags=1"
+    ],
+    "notes": "【區域層級搜尋結果：La Motte-Picquet / Cambronne 周邊】平日早開、可外帶，適合行程日早餐補位。此筆先列 researching，待補指南型來源與更多評論來源。"
+  },
+  {
+    "id": "paris-quatre-heures-cambronne",
+    "name": "Quatre Heures - Cambronne",
+    "category": "cafe",
+    "status": "researching",
+    "lat": 48.8410564,
+    "lng": 2.3040844,
+    "score": 34,
+    "address": "113 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Quatre+Heures+Cambronne+Paris",
+    "price_level": "€",
+    "opening_hours": "Hours not confirmed (check before visit)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://quatreheures.fr/",
+      "https://www.facebook.com/quatreheures.cookies/",
+      "https://nominatim.openstreetmap.org/search?q=Quatre+Heures+Cambronne+Paris&format=jsonv2&limit=5&addressdetails=1&extratags=1"
+    ],
+    "notes": "【街道層級搜尋結果：113 Rue Cambronne】官網可確認品牌存在與社群入口，OSM 可確認座標與電話。營業時段與指南型來源尚待補齊，先列 researching。"
+  },
+  {
+    "id": "paris-boulangerie-barlan",
+    "name": "Boulangerie Barlan",
+    "category": "cafe",
+    "status": "researching",
+    "lat": 48.8463596,
+    "lng": 2.3017044,
+    "score": 35,
+    "address": "22 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Boulangerie+Barlan+Paris",
+    "price_level": "€",
+    "opening_hours": "Mon-Fri 06:30-20:30; Sat-Sun Closed",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://uneboulangerie.fr/75/paris/boulangerie-barlan-sdp",
+      "http://www.facebook.com/pages/La-Boulange-De-Cambronne/220101095013963",
+      "https://nominatim.openstreetmap.org/search?format=jsonv2&limit=1&q=22+Rue+Cambronne+75015+Paris"
+    ],
+    "notes": "【街道層級搜尋結果：Rue Cambronne，飯店步行可達】本輪以 Playwright 蒐集官方社群頁 + 在地店家資料頁 + OSM/Nominatim 座標，先列 researching；待下一輪補齊指南型來源後再評估升級 ready。"
+  },
+  {
+    "id": "paris-merci-jerome-motte-picquet",
+    "name": "Merci Jérôme",
+    "category": "cafe",
+    "status": "researching",
+    "lat": 48.8494302,
+    "lng": 2.29804,
+    "score": 36,
+    "address": "66 Avenue de la Motte-Picquet, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Merci+Jerome+Motte+Picquet+Paris",
+    "price_level": "€",
+    "opening_hours": "Daily 07:00-20:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://mercijerome.com/boulangerie-de-la-motte-picquet/",
+      "https://uneboulangerie.fr/75/paris/merci-jerome-16ne",
+      "https://nominatim.openstreetmap.org/search?format=jsonv2&limit=5&q=Merci+Jerome+66+Avenue+de+la+Motte-Picquet+Paris"
+    ],
+    "notes": "【區域層級搜尋結果：La Motte-Picquet 一帶】官方頁可核對地址與營業時段，在地資料頁可補服務資訊，OSM/Nominatim 可核對座標。依本輪限制先列 researching，待補 Michelin/Le Fooding/Gault&Millau 後再升級。"
   }
 ]
