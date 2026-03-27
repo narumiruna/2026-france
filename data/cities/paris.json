@@ -456,5 +456,114 @@
       "https://www.tripadvisor.com/Restaurant_Review-g187147-d23630393-Reviews-Parcelles-Paris_Ile_de_France.html"
     ],
     "notes": "Le Marais 附近復古風格 bistro，Michelin 推薦傳統法餐。平日午晚餐可安排，週末通常不營業，需依實際訂位頁再確認。"
+  },
+  {
+    "id": "paris-biscotte",
+    "name": "Biscotte",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8362,
+    "lng": 2.2913,
+    "score": 40,
+    "address": "22 Rue Desnouettes, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Biscotte+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 19:00-22:00; Sun-Mon Closed",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": ["dinner"],
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/biscotte",
+      "https://www.restaurant-biscotte.com/en/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d13972930-Reviews-Restaurant_Biscotte-Paris_Ile_de_France.html"
+    ],
+    "notes": "【區域層級搜尋結果：15ème Cambronne 周邊】Michelin 推薦現代法式小館，菜單短、偏季節性。僅晚餐時段營業，距飯店交通便利，適合作為 15ème 實用晚餐備案。"
+  },
+  {
+    "id": "paris-l-accolade",
+    "name": "L'Accolade",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8372,
+    "lng": 2.2892,
+    "score": 39,
+    "address": "208 Rue de la Croix-Nivert, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=L%27Accolade+Paris",
+    "price_level": "€€",
+    "opening_hours": "Mon-Fri 12:00-14:00, 19:00-22:00; Sat-Sun Closed",
+    "visit_priority": "medium",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": ["lunch", "dinner"],
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/l-accolade508642",
+      "https://www.laccoladeparis.com/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d10311013-Reviews-L_Accolade-Paris_Ile_de_France.html"
+    ],
+    "notes": "【區域層級搜尋結果：15ème Cambronne 周邊】Michelin 推薦現代法餐，平日午晚餐皆可安排、週末休。可作為飯店周邊平日正餐備案。"
+  },
+  {
+    "id": "paris-clamato",
+    "name": "Clamato",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8536,
+    "lng": 2.3808,
+    "score": 42,
+    "address": "80 Rue de Charonne, 75011 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Clamato+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-22:30",
+    "visit_priority": "high",
+    "reservation_required": false,
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/clamato",
+      "https://www.clamato-charonne.fr/en/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d8114882-Reviews-Clamato-Paris_Ile_de_France.html"
+    ],
+    "notes": "11 區人氣海鮮名店（Michelin Bib Gourmand），主打共享盤與生熟海鮮。官方與 Michelin 均標示不接受訂位，建議提早到店排隊。"
+  },
+  {
+    "id": "paris-le-chardenoux",
+    "name": "Le Chardenoux",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8528,
+    "lng": 2.3850,
+    "score": 41,
+    "address": "1 Rue Jules-Valles, 75011 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Le+Chardenoux+Paris",
+    "price_level": "€€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-23:00",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/le-chardenoux",
+      "https://restaurantlechardenoux.com/en/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d729183-Reviews-Le_Chardenoux_Cyril_Lignac-Paris_Ile_de_France.html"
+    ],
+    "notes": "11 區歷史建築級老牌 bistro，由 Cyril Lignac 團隊經營，偏經典法餐與海鮮。每日午晚餐營業，適合安排為穩定主力晚餐。"
+  },
+  {
+    "id": "paris-les-petits-parisiens",
+    "name": "Les Petits Parisiens",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8249,
+    "lng": 2.3204,
+    "score": 39,
+    "address": "49 Avenue Jean Moulin, 75014 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Les+Petits+Parisiens+Paris",
+    "price_level": "€€",
+    "opening_hours": "Mon-Fri 12:00-14:00, 19:00-22:00; Sat-Sun Closed",
+    "visit_priority": "medium",
+    "reservation_required": true,
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/les-petits-parisiens",
+      "https://petits-parisiens.fr/en",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d21289189-Reviews-Les_Petits_Parisiens-Paris_Ile_de_France.html"
+    ],
+    "notes": "14 區口碑法式小酒館，Michelin 推薦傳統料理並兼顧價格帶。平日午晚餐可排，週末休息，適合作為左岸南側備選。"
   }
 ]
