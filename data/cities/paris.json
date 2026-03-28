@@ -236,7 +236,7 @@
     "id": "paris-maison-pichard",
     "name": "Maison Pichard",
     "category": "cafe",
-    "status": "ready",
+    "status": "rejected",
     "lat": 48.8419,
     "lng": 2.3001,
     "score": 37,
@@ -244,6 +244,9 @@
     "google_maps_url": "https://maps.google.com/?q=Maison+Pichard+Paris",
     "price_level": "€",
     "opening_hours": "Wed-Sun 07:00-13:30, 16:00-20:00",
+    "is_closed": true,
+    "closure_checked_at": "2026-03-28",
+    "closure_note": "2026-03-28 交叉比對店家資料頁，已標示為永久歇業（Permanently closed / Definitivement ferme）。條目保留於資料庫避免後續重複研究誤納入。",
     "visit_priority": "high",
     "reservation_required": false,
     "hotel_nearby": true,
@@ -251,9 +254,11 @@
     "source_urls": [
       "https://www.myboulange.fr/75/paris/la-maison-pichard-paris-73153",
       "https://www.justacote.com/paris-75015/boulangerie-patisserie/boulangerie-patisserie-pichard-7482.htm",
-      "http://annuaire-boulangerie.fr/les-boulangeries-par-arrondissement/boulangeries-15-eme-arrondissement-de-paris-75015/boulangerie-pichard-rue-de-cambronne-a-paris/"
+      "http://annuaire-boulangerie.fr/les-boulangeries-par-arrondissement/boulangeries-15-eme-arrondissement-de-paris-75015/boulangerie-pichard-rue-de-cambronne-a-paris/",
+      "https://wanderlog.com/place/details/387541/la-maison-pichard",
+      "https://restaurantguru.com/Boulangerie-Pichard-Paris"
     ],
-    "notes": "【街道層級搜尋結果：88 Rue Cambronne，飯店步行約 10 分鐘】巷內老字號烘焙坊，曾奪「巴黎最佳可頌」。Cambronne 街道上唯一夠格的精品烘焙早餐選。週一二公休，餐點可外帶。"
+    "notes": "【歷史保留：88 Rue Cambronne】此店已於 2026-03-28 註記為永久歇業，保留條目僅供研究記錄與去重；UI 不顯示。"
   },
   {
     "id": "paris-wallace",

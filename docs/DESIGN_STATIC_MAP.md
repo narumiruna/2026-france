@@ -75,6 +75,11 @@ description: 靜態餐廳網站設計文件（地圖頁 + 城市總覽頁）。
 - `source_urls`: 來源連結陣列
 - `notes`: 備註（推薦理由、注意事項等）
 
+建議狀態欄位（用於維護與顯示控制）：
+- `is_closed`（可選，布林）：若為 `true` 表示已確認歇業，資料保留作為研究記錄與去重用途。
+- `closure_checked_at`（可選，字串日期）：最後一次確認歇業日期（`YYYY-MM-DD`）。
+- `closure_note`（可選，字串）：歇業判定依據摘要。
+
 每個城市總覽至少包含以下欄位：
 - `city`: 城市名稱（例如 `Paris`）
 - `period`: 停留日期區間（例如 `2026-06-06 ~ 2026-06-10`）
@@ -97,6 +102,7 @@ description: 靜態餐廳網站設計文件（地圖頁 + 城市總覽頁）。
 - `overview` 頁每個城市卡片至少顯示：`period`, `highlights`, `signature_dishes`, `areas`, `research_strategy.constraints`。
 - `map` 頁需顯示定位狀態（定位中/定位失敗/資料載入狀態）。
 - popup 內容需可快速判斷是否值得前往（分數、類型、地址、連結、備註）。
+- `is_closed: true` 的店家不可顯示於 `overview` 計數、`top picks`、`map` marker 與側欄清單。
 
 ## 6. 驗收標準
 - `overview` 分頁可顯示各城市摘要，內容對應 `city-overview.json`。

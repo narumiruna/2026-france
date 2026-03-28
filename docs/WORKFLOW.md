@@ -20,6 +20,8 @@ description: 讀這份文件以快速理解專案工作流程。
 - 每筆候選至少先有：`name`, `category`, `address`, `google_maps_url`。  
 - 候選狀態僅可使用：`inbox`, `researching`, `ready`, `rejected`。  
 - 不可直接刪除候選；若不採用，改為 `rejected` 並記錄原因。  
+- 若店家確認為永久歇業，不可刪除條目；需補上 `is_closed: true`、`closure_checked_at`、`closure_note`，並將城市檔狀態改為 `rejected`。  
+- 歇業店條目僅作研究記錄與去重用途，`notes` 必須標明「歷史保留」。  
 - 搜尋覆蓋範圍必須同時包含：
   - 重要觀光區與美食區。
   - 飯店步行可達範圍內的餐廳（優先作為旅中低風險備選）。  

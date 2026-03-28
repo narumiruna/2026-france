@@ -104,7 +104,9 @@ async function loadData() {
   const restaurants = await restaurantsResp.json();
 
   state.cityOverview = Array.isArray(cityOverview) ? cityOverview : [];
-  state.restaurants = Array.isArray(restaurants) ? restaurants.filter(isValidRestaurant) : [];
+  state.restaurants = Array.isArray(restaurants)
+    ? restaurants.filter((place) => isValidRestaurant(place) && !isClosedRestaurant(place))
+    : [];
 }
 
 function isValidRestaurant(place) {
@@ -122,6 +124,10 @@ function isValidRestaurant(place) {
     return false;
   }
   return true;
+}
+
+function isClosedRestaurant(place) {
+  return place?.is_closed === true;
 }
 
 function formatPeriod(period) {
