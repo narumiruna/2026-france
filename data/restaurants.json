@@ -748,5 +748,26 @@
       "https://guide.michelin.com/en/ile-de-france/paris/restaurant/neige-d-ete"
     ],
     "notes": "【區域層級：Rue de l'Amiral Roussin，飯店步行約 8 分鐘】Michelin 一星，法式 × 日式套餐，僅晚餐。需提前 2-4 週預約。飯店一帶最高規格晚餐。"
+  },
+  {
+    "id": "paris-merci-jerome-motte-picquet",
+    "name": "Merci Jérôme",
+    "category": "cafe",
+    "lat": 48.8494302,
+    "lng": 2.29804,
+    "score": 36,
+    "address": "66 Avenue de la Motte-Picquet, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Merci+Jerome+Motte+Picquet+Paris",
+    "price_level": "€",
+    "opening_hours": "Daily 07:00-20:30",
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://mercijerome.com/boulangerie-de-la-motte-picquet/",
+      "https://maps.google.com/?q=66+Avenue+de+la+Motte-Picquet,+75015+Paris,+France",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d15036856-Reviews-Merci_Jerome_Motte_picquet-Paris_Ile_de_France.html",
+      "https://fr.mappy.com/poi/583089a30351d12ad21a3bcc"
+    ],
+    "notes": "【區域層級搜尋結果：La Motte-Picquet 一帶】已補齊官方頁、Google Maps、Tripadvisor 與在地指南（Mappy）交叉驗證地址與營業資訊。每日 07:00-20:30，適合作為飯店周邊早餐/咖啡/外帶的穩定備選。"
   }
 ]

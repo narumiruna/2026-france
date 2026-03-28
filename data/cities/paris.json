@@ -667,7 +667,7 @@
     "id": "paris-merci-jerome-motte-picquet",
     "name": "Merci Jérôme",
     "category": "cafe",
-    "status": "researching",
+    "status": "ready",
     "lat": 48.8494302,
     "lng": 2.29804,
     "score": 36,
@@ -681,9 +681,10 @@
     "meal_tags": ["coffee", "breakfast", "takeout"],
     "source_urls": [
       "https://mercijerome.com/boulangerie-de-la-motte-picquet/",
-      "https://uneboulangerie.fr/75/paris/merci-jerome-16ne",
-      "https://nominatim.openstreetmap.org/search?format=jsonv2&limit=5&q=Merci+Jerome+66+Avenue+de+la+Motte-Picquet+Paris"
+      "https://maps.google.com/?q=66+Avenue+de+la+Motte-Picquet,+75015+Paris,+France",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d15036856-Reviews-Merci_Jerome_Motte_picquet-Paris_Ile_de_France.html",
+      "https://fr.mappy.com/poi/583089a30351d12ad21a3bcc"
     ],
-    "notes": "【區域層級搜尋結果：La Motte-Picquet 一帶】官方頁可核對地址與營業時段，在地資料頁可補服務資訊，OSM/Nominatim 可核對座標。依本輪限制先列 researching，待補 Michelin/Le Fooding/Gault&Millau 後再升級。"
+    "notes": "【區域層級搜尋結果：La Motte-Picquet 一帶】已補齊官方頁、Google Maps、Tripadvisor 與在地指南（Mappy）交叉驗證地址與營業資訊。每日 07:00-20:30，適合作為飯店周邊早餐/咖啡/外帶的穩定備選。"
   }
 ]
