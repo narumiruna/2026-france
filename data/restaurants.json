@@ -748,5 +748,90 @@
       "https://guide.michelin.com/en/ile-de-france/paris/restaurant/neige-d-ete"
     ],
     "notes": "【區域層級：Rue de l'Amiral Roussin，飯店步行約 8 分鐘】Michelin 一星，法式 × 日式套餐，僅晚餐。需提前 2-4 週預約。飯店一帶最高規格晚餐。"
+  },
+  {
+    "id": "paris-merci-jerome-motte-picquet",
+    "name": "Merci Jérôme",
+    "category": "cafe",
+    "lat": 48.8494302,
+    "lng": 2.29804,
+    "score": 36,
+    "address": "66 Avenue de la Motte-Picquet, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Merci+Jerome+Motte+Picquet+Paris",
+    "price_level": "€",
+    "opening_hours": "Daily 07:00-20:30",
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://mercijerome.com/boulangerie-de-la-motte-picquet/",
+      "https://maps.google.com/?q=66+Avenue+de+la+Motte-Picquet,+75015+Paris,+France",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d15036856-Reviews-Merci_Jerome_Motte_picquet-Paris_Ile_de_France.html",
+      "https://fr.mappy.com/poi/583089a30351d12ad21a3bcc"
+    ],
+    "notes": "【區域層級搜尋結果：La Motte-Picquet 一帶】已補齊官方頁、Google Maps、Tripadvisor 與在地指南（Mappy）交叉驗證地址與營業資訊。每日 07:00-20:30，適合作為飯店周邊早餐/咖啡/外帶的穩定備選。"
+  },
+  {
+    "id": "paris-le-moulin-croix-nivert",
+    "name": "Le Moulin de la Croix Nivert",
+    "category": "cafe",
+    "lat": 48.845947,
+    "lng": 2.298991,
+    "score": 36,
+    "address": "39 Rue de la Croix Nivert, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Le+Moulin+de+la+Croix+Nivert+Paris",
+    "price_level": "€",
+    "opening_hours": "Tue-Fri 07:00-20:30; Sat 07:00-20:00; Sun 07:00-14:00; Mon Closed",
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Moulin+de+la+Croix+Nivert+39+Rue+de+la+Croix+Nivert,+75015+Paris",
+      "https://www.tripadvisor.fr/Restaurant_Review-g187147-d15017991-Reviews-Le_Moulin_de_la_Croix_Nivert-Paris_Ile_de_France.html",
+      "https://restaurantguru.com/Le-Moulin-de-la-Croix-Nivert-Paris",
+      "https://fr.mappy.com/poi/54dea25ee4b0007be50c3f53"
+    ],
+    "notes": "【街道層級搜尋結果：Rue de la Croix Nivert，距 Cambronne 一帶步行可達】已補齊 Google Maps、Tripadvisor、Restaurant Guru、Mappy 交叉驗證地址與時段。早餐與外帶友善，平日開門早、週日僅上午，可作旅中快速補給主力備選。"
+  },
+  {
+    "id": "paris-laboulangerie-laos",
+    "name": "Laboulangerie",
+    "category": "cafe",
+    "lat": 48.850083,
+    "lng": 2.300968,
+    "score": 35,
+    "address": "10 Rue du Laos, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Laboulangerie+Rue+du+Laos+Paris",
+    "price_level": "€",
+    "opening_hours": "Mon-Fri 06:30-20:00; Sat-Sun Closed",
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://www.google.com/maps/search/10+Rue+du+Laos,+75015+Paris",
+      "https://fr.mappy.com/poi/65602bdf1db9922353205556",
+      "https://www.pagesjaunes.fr/pros/62611810",
+      "https://uneboulangerie.fr/75/paris/laboulangerie-1jtf"
+    ],
+    "notes": "【區域層級搜尋結果：La Motte-Picquet / Cambronne 周邊】已補齊 Google Maps、Mappy、PagesJaunes 與在地烘焙指南交叉驗證。平日 06:30 開門、可外帶，適合行程日早餐補位。"
+  },
+  {
+    "id": "paris-boulangerie-barlan",
+    "name": "Boulangerie Barlan",
+    "category": "cafe",
+    "lat": 48.8463596,
+    "lng": 2.3017044,
+    "score": 35,
+    "address": "22 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Boulangerie+Barlan+Paris",
+    "price_level": "€",
+    "opening_hours": "Mon-Fri 06:30-20:30; Sat-Sun Closed",
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "source_urls": [
+      "https://maps.google.com/?q=22+Rue+Cambronne,+75015+Paris",
+      "https://www.pagesjaunes.fr/pros/56209890",
+      "https://fr.mappy.com/poi/64019732f903d612a9d4bacd",
+      "https://uneboulangerie.fr/75/paris/boulangerie-barlan-sdp",
+      "https://www.alentoor.fr/paris15/alimentation/112849-la-boulangerie-de-cambronne-boulangerie-barlan"
+    ],
+    "notes": "【街道層級搜尋結果：Rue Cambronne，飯店步行可達】已補齊 Google Maps、PagesJaunes、Mappy 與在地指南來源，營業資訊一致為平日 06:30-20:30、週末休息。可作早餐/外帶穩定備選。"
   }
 ]
