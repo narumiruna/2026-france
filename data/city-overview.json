@@ -25,12 +25,17 @@
     "areas": [
       "Intra-muros（舊城區）",
       "Palais des Papes 周邊",
+      "Place de l'Horloge 周邊",
       "Les Halles d'Avignon 周邊"
     ],
     "top_candidates": [
       "avignon-la-fourchette",
       "avignon-lagape",
-      "avignon-latte-re"
+      "avignon-acte-2",
+      "avignon-pollen",
+      "avignon-la-mirande",
+      "avignon-le-gout-du-jour",
+      "avignon-christian-etienne"
     ],
     "research_strategy": {
       "priorities": [
