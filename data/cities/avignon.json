@@ -45,45 +45,46 @@
   },
   {
     "id": "avignon-les-halles-bistro",
-    "name": "Les Halles Bistro",
+    "name": "Cuisine Centr'Halles",
     "category": "restaurant",
-    "status": "researching",
+    "status": "confirmed",
     "lat": 43.9474,
     "lng": 4.8072,
     "score": 34,
-    "address": "Place Pie, 84000 Avignon",
+    "address": "18 Place Pie (Les Halles Centrales), 84000 Avignon",
     "google_maps_url": "https://maps.google.com/?q=Les+Halles+Avignon",
     "price_level": "€€",
-    "opening_hours": "Mon-Sat 11:30-22:00",
+    "opening_hours": "Tue-Sun 10:00-14:00（Mon 公休）",
     "visit_priority": "medium",
     "reservation_required": false,
     "source_urls": [
-      "https://maps.google.com/?q=Les+Halles+Avignon",
-      "https://www.tripadvisor.com/Restaurant_Review-Les_Halles_Bistro-Avignon",
-      "https://www.yelp.com/biz/les-halles-bistro-avignon"
+      "https://www.cuisine-centrhalles-restaurant-avignon.com/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d13219971-Reviews-Cuisine_Centr_Halles-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
+      "https://en.grandavignon-destinations.fr/restaurant/cuisine-centrhalles/"
     ],
-    "notes": "Les Halles d'Avignon 市場周邊，午餐備選。評價穩定但特色較普通，尚需確認週末營業狀況。待補第 4 個指南型來源。"
+    "notes": "【⚠️ 名稱更正】原記為「Les Halles Bistro」，實際餐廳為 Cuisine Centr'Halles，主廚 Jonathan Chiri。位於 Les Halles Centrales 市場內（18 Place Pie）。每日更換菜單，現場明爐料理，兼辦料理教學。Michelin/Le Fooding 均未收錄，屬當地高人氣非指南型餐廳。官方網站：cuisine-centrhalles-restaurant-avignon.com"
   },
   {
     "id": "avignon-latte-re",
     "name": "L'Atelier de Belinda",
     "category": "restaurant",
-    "status": "researching",
+    "status": "confirmed",
     "lat": 43.9472,
     "lng": 4.8054,
     "score": 36,
-    "address": "48 Place des Corps Saints, 84000 Avignon",
+    "address": "17 Place des Corps Saints, 84000 Avignon",
     "google_maps_url": "https://maps.google.com/?q=L%27Atelier+de+Belinda+Avignon",
     "price_level": "€€",
-    "opening_hours": "Daily 12:00-14:30, 19:00-22:00",
+    "opening_hours": "Daily 12:00-14:30, 19:00-22:00（預約建議）",
     "visit_priority": "medium",
     "reservation_required": false,
     "source_urls": [
-      "https://maps.google.com/?q=L%27Atelier+de+Belinda+Avignon",
-      "https://www.tripadvisor.com/Restaurant_Review-LAtelier_de_Belinda-Avignon",
-      "https://www.yelp.com/biz/latelier-de-belinda-avignon"
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d3580906-Reviews-L_Atelier_de_Belinda-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
+      "https://lacarte.menu/restaurants/avignon/latelier-de-belinda",
+      "https://restaurant.restaurants-de-france.fr/l-atelier-de-belinda-1960243.html",
+      "https://fr.restaurantguru.com/LAtelier-de-Belinda-Avignon"
     ],
-    "notes": "Place des Corps Saints 廣場，每日營業彈性高，適合行程不確定時的穩定備選。尚需確認 Michelin/Le Fooding 收錄情況。待補第 4 個指南型來源。"
+    "notes": "【⚠️ 地址更正】正確地址為 17 Place des Corps Saints（非 48）。無官方網站。Michelin/Le Fooding 均未收錄。約 26 席小館，菜單每日更換，以黑板書寫。Tripadvisor 4.7-4.8/5（數百則評語），評價極佳。€20-35，有素食/純素/無麩質選項。電話：+33 4 90 82 69 53"
   },
   {
     "id": "avignon-christian-etienne",
@@ -142,7 +143,11 @@
     "visit_priority": "high",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://brunchcoffee.fr/fr",
       "https://www.tripadvisor.com/Restaurant_Review-g187212-d19326682-Reviews-Brunch_Coffee-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
@@ -165,7 +170,11 @@
     "visit_priority": "high",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://tulipeavignon.com/",
       "https://www.solosophie.com/cafe-tulipe-avignon/",
@@ -189,7 +198,9 @@
     "visit_priority": "high",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://www.tripadvisor.com/Restaurant_Review-g187212-d23474615-Reviews-Pavillon_84-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
     ],
@@ -210,7 +221,9 @@
     "visit_priority": "high",
     "reservation_required": true,
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://www.restaurantacte2.com/",
       "https://guide.michelin.com/us/en/provence-alpes-cote-dazur/avignon/restaurant/acte-2",
@@ -224,7 +237,7 @@
     "name": "Pollen",
     "category": "restaurant",
     "status": "ready",
-    "lat": 43.9480,
+    "lat": 43.948,
     "lng": 4.8062,
     "score": 43,
     "address": "18 Rue Joseph Vernet, 84000 Avignon",
@@ -234,7 +247,9 @@
     "visit_priority": "high",
     "reservation_required": true,
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://www.pollen-restaurant.fr/",
       "https://guide.michelin.com/us/en/provence-alpes-cote-dazur/avignon/restaurant/pollen1000267",
@@ -271,8 +286,8 @@
     "name": "Le Goût du Jour",
     "category": "restaurant",
     "status": "ready",
-    "lat": 43.9490,
-    "lng": 4.8080,
+    "lat": 43.949,
+    "lng": 4.808,
     "score": 40,
     "address": "20 Rue Saint-Étienne, 84000 Avignon",
     "google_maps_url": "https://maps.google.com/?q=Le+Gout+du+Jour+Avignon",
@@ -327,7 +342,10 @@
     "visit_priority": "medium",
     "reservation_required": true,
     "hotel_nearby": true,
-    "meal_tags": ["lunch", "dinner"],
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
     "source_urls": [
       "https://maps.google.com/?q=Les+Grands+Bateaux+de+Provence+Avignon",
       "https://www.thefork.com/restaurant/grands-bateaux-de-provence-r815108",
@@ -351,7 +369,9 @@
     "visit_priority": "medium",
     "reservation_required": true,
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://www.restaurantfoudefafa.com/",
       "https://maps.google.com/?q=Fou+de+Fafa+Avignon",
@@ -375,7 +395,10 @@
     "visit_priority": "medium",
     "reservation_required": true,
     "hotel_nearby": true,
-    "meal_tags": ["lunch", "dinner"],
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
     "source_urls": [
       "https://restaurant-lecochonbleu.fr/",
       "https://maps.google.com/?q=Le+Cochon+Bleu+Avignon",
@@ -389,8 +412,8 @@
     "name": "Hiély-Lucullus",
     "category": "restaurant",
     "status": "ready",
-    "lat": 43.9490,
-    "lng": 4.8060,
+    "lat": 43.949,
+    "lng": 4.806,
     "score": 43,
     "address": "5 Rue de la République, 84000 Avignon",
     "google_maps_url": "https://maps.google.com/?q=Hiely+Lucullus+Avignon",
@@ -399,7 +422,10 @@
     "visit_priority": "high",
     "reservation_required": true,
     "hotel_nearby": true,
-    "meal_tags": ["lunch", "dinner"],
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
     "source_urls": [
       "https://www.hiely-lucullus.com/",
       "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/avignon/restaurant/hiely-lucullus",
@@ -412,7 +438,7 @@
     "id": "avignon-ma-belle-cuisine",
     "name": "Ma Belle Cuisine",
     "category": "restaurant",
-    "status": "researching",
+    "status": "confirmed",
     "lat": 43.9489,
     "lng": 4.8078,
     "score": 33,
@@ -423,20 +449,24 @@
     "visit_priority": "medium",
     "reservation_required": true,
     "hotel_nearby": true,
-    "meal_tags": ["lunch", "dinner"],
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
     "source_urls": [
-      "https://maps.google.com/?q=Ma+Belle+Cuisine+Avignon",
+      "https://www.ma-belle-cuisine.fr",
       "https://www.tripadvisor.com/Restaurant_Review-g187212-d8452905-Reviews-Ma_Belle_Cuisine-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.pagesjaunes.fr/pros/56097066",
       "https://restaurantguru.com/Restaurant-Spaghetti-1-Avignon",
       "https://www.eat-list.fr/avignon-84000/restaurant-italien-71/ma-belle-cuisine-81873"
     ],
-    "notes": "【區域層級：Rue Félix Gras，飯店步行約 10 分鐘】Tripadvisor 4.6/5（近 500 則），義大利/法式/地中海料理，以食材新鮮與親切服務著稱。週日、一公休。待補指南型來源（Michelin/Le Fooding）。"
+    "notes": "【區域層級：Rue Félix Gras，飯店步行約 10 分鐘】Tripadvisor 4.6/5（近 500 則）+ Traveler's Choice 獎。義大利/法式/地中海料理，以手工義大利麵、柴燒披薩著稱，有素食/純素選項。官方網站：ma-belle-cuisine.fr。Michelin/Le Fooding 均未收錄。週日、一公休；Tue-Sat 12:00-14:00 & 19:00-21:30。電話：+33 4 90 82 48 73"
   },
   {
     "id": "avignon-la-soupape",
     "name": "La Sou'Pape",
     "category": "restaurant",
-    "status": "researching",
+    "status": "confirmed",
     "lat": 43.9487,
     "lng": 4.8068,
     "score": 30,
@@ -447,13 +477,15 @@
     "visit_priority": "low",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["lunch"],
-    "source_urls": [
-      "https://maps.google.com/?q=La+Sou+Pape+Avignon",
-      "https://www.tripadvisor.com/Restaurant_Review-g187212-d9809662-Reviews-La_Sou_Pape-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
-      "https://restaurantguru.com/La-Soupape-Avignon",
-      "https://www.pagesjaunes.fr/pros/55918195"
+    "meal_tags": [
+      "lunch"
     ],
-    "notes": "【區域層級：Rue de la Grande Fusterie，飯店步行約 10 分鐘】平價午餐小館，以每日特餐（plat du jour）、沙拉、漢堡為主，蔬食友善。週一至五僅供午餐，週末公休。是行程彈性午間的低成本備選。待補指南型來源。"
+    "source_urls": [
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d9809662-Reviews-La_Sou_Pape-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.pagesjaunes.fr/pros/55918195",
+      "https://restaurantguru.com/La-Soupape-Avignon",
+      "https://jrbistronomie.fr/la-soupape/"
+    ],
+    "notes": "【區域層級：Rue de la Grande Fusterie，飯店步行約 10 分鐘】無官方網站。Tripadvisor 4.8/5（440+ 則），是 Avignon 最高評分午餐小館之一。每日特餐、沙拉、漢堡（含素食選項）。週一至五僅供午餐（12:00-14:00），週末公休。Michelin/Le Fooding 均未收錄。電話：+33 9 81 46 23 34"
   }
 ]
