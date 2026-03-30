@@ -77,19 +77,24 @@
     "areas": [
       "Vieux Nice",
       "Cours Saleya 周邊",
-      "Promenade des Anglais 周邊"
+      "Promenade des Anglais 周邊",
+      "Quartier Libération / 飯店周邊（ibis Nice Centre Notre-Dame）"
     ],
     "top_candidates": [
       "nice-la-merenda",
       "nice-bistrot-antoine",
       "nice-acchiardo",
-      "nice-chez-pipo"
+      "nice-chez-pipo",
+      "nice-la-route-du-miam",
+      "nice-restaurant-linstant",
+      "nice-a-la-table-du-marche"
     ],
     "research_strategy": {
       "priorities": [
         "La Merenda 與 Le Bistrot d'Antoine 鎖定為晚餐主力（已確認 Bib Gourmand）",
         "Chez Pipo 排為 Socca 專場；Lou Pilha Leva 作 Vieux Nice 區域補位",
-        "旅前再次確認 Acchiardo 公休日與訂位方式"
+        "旅前再次確認 Acchiardo 公休日與訂位方式",
+        "飯店周邊（Libération 區）已補強 10 筆 hotel_nearby，含早餐（Panivore、Chez Les Garçons）、全日（La Femme du Boulanger）、晚餐（La Route du Miam、Brasserie Le Gambetta、Restaurant L'Instant）"
       ],
       "constraints": [
         "La Merenda 不接受電話訂位，需親自前往登記",
@@ -97,7 +102,7 @@
         "海邊餐廳價格波動較大，需先確認價格帶"
       ]
     },
-    "notes": "Nice 主力晚餐已確認 2 間（La Merenda / Le Bistrot d'Antoine），備選補齊 3 筆。Daube niçoise 與 Pissaladière 雙線均已有對應店家。"
+    "notes": "Nice 主力晚餐已確認 2 間（La Merenda / Le Bistrot d'Antoine），備選補齊 3 筆。Daube niçoise 與 Pissaladière 雙線均已有對應店家。飯店周邊（Quartier Libération）補強 10 筆 hotel_nearby 候選（餐廳 + 咖啡/早餐），可覆蓋各時段低風險備選。"
   },
   {
     "city": "Mont Saint-Michel",
