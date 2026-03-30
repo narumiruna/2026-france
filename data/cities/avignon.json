@@ -371,7 +371,7 @@
     "address": "9 Rue d'Annanelle, 84000 Avignon",
     "google_maps_url": "https://maps.google.com/?q=Le+Cochon+Bleu+Avignon",
     "price_level": "€€",
-    "opening_hours": "Tue-Sat 12:00-14:00, 19:00-22:00（Mon-Sun 公休）",
+    "opening_hours": "Tue-Sat 12:00-14:00, 19:00-22:00（Sun-Mon 公休）",
     "visit_priority": "medium",
     "reservation_required": true,
     "hotel_nearby": true,
