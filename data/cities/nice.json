@@ -155,7 +155,11 @@
     "visit_priority": "high",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://nice.love-spots.com/manger/cafes-nice/97163-la-belugue.html",
       "https://www.tripadvisor.fr/Restaurant_Review-g187234-La_Belugue-Nice"
@@ -177,7 +181,10 @@
     "visit_priority": "high",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast"],
+    "meal_tags": [
+      "coffee",
+      "breakfast"
+    ],
     "source_urls": [
       "http://verdant-nice.fr/",
       "https://bonsrestaurants.fr/restaurants/verdant-nice/",
@@ -200,7 +207,9 @@
     "visit_priority": "high",
     "reservation_required": true,
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "http://www.restaurant-lagauloise.fr/",
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d1048407-Reviews-La_Gauloise-Nice",
@@ -224,7 +233,9 @@
     "visit_priority": "high",
     "reservation_required": true,
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://www.auxdeuxchefs.com/",
       "https://www.tripadvisor.fr/Restaurant_Review-g187234-d2337049-Reviews-Aux_Deux_Chefs-Nice",
@@ -248,7 +259,9 @@
     "visit_priority": "high",
     "reservation_required": true,
     "hotel_nearby": false,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://guide.michelin.com/en/provence-alpes-cote-dazur/nice/restaurant/chez-davia",
       "https://lefooding.com/en/restaurants/restaurant-chez-davia-nice",
@@ -272,7 +285,10 @@
     "visit_priority": "medium",
     "reservation_required": false,
     "hotel_nearby": false,
-    "meal_tags": ["breakfast", "takeout"],
+    "meal_tags": [
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d10254215-Reviews-Boulangerie_Patisserie_Jeannot-Nice",
       "https://www.pagesjaunes.fr/pros/57208182"
@@ -294,7 +310,10 @@
     "visit_priority": "medium",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast"],
+    "meal_tags": [
+      "coffee",
+      "breakfast"
+    ],
     "source_urls": [
       "https://www.hugcafenice.com/en",
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d23411835-Reviews-Hug_Cafe-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
@@ -318,7 +337,10 @@
     "visit_priority": "medium",
     "reservation_required": false,
     "hotel_nearby": false,
-    "meal_tags": ["coffee", "breakfast"],
+    "meal_tags": [
+      "coffee",
+      "breakfast"
+    ],
     "source_urls": [
       "https://www.hoboshop.fr/",
       "https://mapstr.com/place/yNMnyDo2URg/hobo-coffee-nice-brunch-cafe-restaurant-coffee_shop-coffee",
@@ -424,7 +446,7 @@
     "category": "restaurant",
     "status": "ready",
     "lat": 43.6964,
-    "lng": 7.2760,
+    "lng": 7.276,
     "score": 38,
     "address": "5 Rue Saint Vincent, 06300 Nice",
     "google_maps_url": "https://maps.google.com/?q=Bar+des+Oiseaux+Nice",
@@ -463,5 +485,276 @@
       "https://nice.city-life.fr/Sortir/Nice/Restaurants/587/Le-Safari?lang=en"
     ],
     "notes": "1972 年起立店，Cours Saleya 花市旁地標。主打 Niçoise 與普羅旺斯料理：Bagna Cauda、Daube Niçoise、手工 Ravioli、大蒜蛋黃醬蔬菜盤（Grand Aioli）。觀光客與當地人混雜，露台位置絕佳。每日中午至午夜，可選不訂位。"
+  },
+  {
+    "id": "nice-la-route-du-miam",
+    "name": "La Route du Miam",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.7157,
+    "lng": 7.2638,
+    "score": 40,
+    "address": "1 Rue Molière, 06100 Nice",
+    "google_maps_url": "https://maps.google.com/?q=La+Route+du+Miam+Nice",
+    "price_level": "€€",
+    "opening_hours": "Thu-Sat 20:00-22:00",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Route+du+Miam+Nice",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d1111880-Reviews-La_Route_Du_Miam-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.tripadvisor.fr/Restaurant_Review-g187234-d1111880-Reviews-La_Route_Du_Miam-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://restaurantguru.com/La-Route-du-Miam-Nice"
+    ],
+    "notes": "【區域層級搜尋結果：Quartier Libération，飯店步行約 10 分鐘】Tripadvisor 4.8/5（2600+ 評論），Travelers' Choice 多年獲獎。主打西南法料理（鴨胸、油封鴨腿等），家庭氣氛，位子少訂位需提前數週。僅週四至週六晚間 20:00 起，錯過窗口需改日。"
+  },
+  {
+    "id": "nice-brasserie-le-gambetta",
+    "name": "Brasserie Le Gambetta",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.7167,
+    "lng": 7.2672,
+    "score": 36,
+    "address": "1 Place du Général de Gaulle, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Brasserie+Le+Gambetta+Nice",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-22:30",
+    "visit_priority": "medium",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://brasserielegambetta.fr/",
+      "https://www.pagesjaunes.fr/pros/50088357",
+      "https://nice.love-spots.com/manger/restaurants-nice/79744-le-gambetta.html",
+      "https://www.petitfute.com/v33027-nice-06000/c1165-restaurants/c4-cuisine-francaise/c1-bistrot-brasserie/386305-le-gambetta.html"
+    ],
+    "notes": "【區域層級搜尋結果：Quartier Libération / Place du Général de Gaulle，飯店步行約 10 分鐘】解放廣場地標性海鮮/小館，供應生蠔、整盤海鮮、牛排、尼斯料理等，每日午晚全開。週五六營業至 22:30。建議提前預訂晚餐。"
+  },
+  {
+    "id": "nice-restaurant-linstant",
+    "name": "Restaurant L'Instant",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.7152,
+    "lng": 7.2643,
+    "score": 37,
+    "address": "9 Rue Clément Roassal, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Restaurant+L+Instant+Nice",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 12:00-14:30, 18:30-22:00; Sun 12:00-15:00",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Restaurant+L+Instant+Nice",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d2098012-Reviews-Restaurant_L_Instant-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.tripadvisor.fr/Restaurant_Review-g187234-d2098012-Reviews-Restaurant_L_Instant-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.pagesjaunes.fr/pros/09675077"
+    ],
+    "notes": "【區域層級搜尋結果：Quartier Libération，飯店步行約 10 分鐘】Tripadvisor Travelers' Choice，4.4/5。法式/地中海料理，主打「fait maison」家常菜，偏 bistronomique 創意路線。設有露台，接受各類飲食需求。週一公休，週日僅午餐。建議訂位。"
+  },
+  {
+    "id": "nice-braise",
+    "name": "Braise",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.7162,
+    "lng": 7.2669,
+    "score": 35,
+    "address": "6 Place de la Gare du Sud, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Braise+restaurant+Nice",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 08:00-23:30, Sun 08:00-18:00",
+    "visit_priority": "medium",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://www.braise-restaurant.com/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d28652310-Reviews-Braise-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.thefork.fr/restaurant/braise-r828422",
+      "https://nice.love-spots.com/en/eating-out/restaurants/97584-braise.html"
+    ],
+    "notes": "【區域層級搜尋結果：Place de la Gare du Sud / Libération，飯店步行約 10 分鐘】以木火碳烤為主題的現代餐廳，供應碳烤魚（鯛魚、鱸魚 €21.5）、扇貝（€26）、羊排（€28）、特選牛肉等，搭配時令蔬菜。週一公休。週二至六從早餐時段到深夜 23:30。建議晚餐訂位。"
+  },
+  {
+    "id": "nice-a-la-table-du-marche",
+    "name": "À la Table du Marché",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.7191,
+    "lng": 7.262,
+    "score": 37,
+    "address": "24 Boulevard Joseph Garnier, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=A+la+Table+du+Marche+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mon-Wed 12:00-14:30, Thu-Sat 12:00-14:30, 19:00-22:30",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://www.la-table-du-marche-restaurant-nice.fr/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d1999483-Reviews-A_la_Table_du_Marche-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.pagesjaunes.fr/pros/54238286",
+      "https://fr.mappy.com/poi/4d6dd201b9eb250730f9cfc3"
+    ],
+    "notes": "【區域層級搜尋結果：Boulevard Joseph Garnier / Libération 以北，飯店步行約 12 分鐘】市場鮮料理，每日更換黑板菜單，以在地食材為核心。午餐每日開放，晚餐僅週四至六，週日公休。典型 bistronomique 路線，建議預約晚餐。"
+  },
+  {
+    "id": "nice-la-femme-du-boulanger",
+    "name": "La Femme du Boulanger",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.7072,
+    "lng": 7.2666,
+    "score": 34,
+    "address": "3 Rue du Commandant Raffalli, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=La+Femme+du+Boulanger+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mon-Sun 09:00-22:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "lunch"
+    ],
+    "source_urls": [
+      "https://lafemmeduboulanger.shop/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d7168532-Reviews-La_Femme_du_Boulanger-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.explorenicecotedazur.com/restaurant/la-femme-du-boulanger-restaurant-bar/",
+      "https://www.petitfute.com/v33027-nice-06000/c1165-restaurants/c4-cuisine-francaise/1545661-la-femme-du-boulanger.html"
+    ],
+    "notes": "【街道層級搜尋結果：Rue du Commandant Raffalli，飯店步行約 5 分鐘】全日供應法式 tartines（開放式酸麵包三明治）、法吐司、早午餐拼盤等，並提供 vegan 及無麩質選項。每日 09:00-22:00，適合飯店早餐補給或輕食晚間小食。"
+  },
+  {
+    "id": "nice-panivore",
+    "name": "Panivore",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.7124,
+    "lng": 7.267,
+    "score": 33,
+    "address": "14 Avenue du Maréchal Foch, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Panivore+Nice",
+    "price_level": "€",
+    "opening_hours": "Mon-Sat 07:30-15:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "breakfast",
+      "lunch",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://www.panivore.fr/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d21279682-Reviews-Panivore-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.explorenicecotedazur.com/en/restaurant/panivore/",
+      "https://provence-alpes-cotedazur.com/sejourner/restaurants/tous-les-restaurants/panivore-nice-fr-4135099/"
+    ],
+    "notes": "【街道層級搜尋結果：Avenue du Maréchal Foch，飯店步行約 3 分鐘】Tripadvisor 4.7/5。外帶麵包三明治概念店，套餐（pain garni + 配菜 + 甜點 + 飲料 €12.80），全使用有機在地食材。週日公休，07:30 開始供應，適合出行前快速抓早餐或打包午餐。"
+  },
+  {
+    "id": "nice-chez-les-garcons",
+    "name": "Chez Les Garçons",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.7135,
+    "lng": 7.2672,
+    "score": 34,
+    "address": "1 Rue Niépce, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Chez+Les+Garcons+Nice",
+    "price_level": "€€",
+    "opening_hours": "Wed-Sun 09:00-17:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast"
+    ],
+    "source_urls": [
+      "https://chez-les-garcons.com/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d15114397-Reviews-Chez_Les_Garcons-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.tripadvisor.fr/Restaurant_Review-g187234-d15114397-Reviews-Chez_Les_Garcons-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.nicematin.com/conso-shopping/au-restaurantchez-les-garcons-a-nice-on-est-comme-a-la-maison-389714"
+    ],
+    "notes": "【街道層級搜尋結果：Rue Niépce / Libération 周邊，飯店步行約 5 分鐘】復古風格早午餐咖啡館，主打 bagels、avocado toast、brioche perdue、granola bowl 等。以有機食材、自製甜點聞名，附設桌遊。週一、二公休；週末早到避免排隊。"
+  },
+  {
+    "id": "nice-la-brioche-chaude",
+    "name": "La Brioche Chaude",
+    "category": "cafe",
+    "status": "researching",
+    "lat": 43.7048,
+    "lng": 7.2685,
+    "score": 31,
+    "address": "50 Avenue Jean Médecin, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=La+Brioche+Chaude+Nice",
+    "price_level": "€",
+    "opening_hours": "Daily 07:30-20:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Brioche+Chaude+Nice",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d7787469-Reviews-La_Brioche_Chaude-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.pagesjaunes.fr/pros/01838370"
+    ],
+    "notes": "【街道層級搜尋結果：Avenue Jean Médecin，飯店步行約 8 分鐘】每日 07:30 開始的傳統烘焙坊，供應可頌、布里歐許、咖啡，是 Jean Médecin 購物大道上的平價早餐選項。指南型來源待補充至 4 個後再升級 ready。"
+  },
+  {
+    "id": "nice-le-bonjour",
+    "name": "Le Bonjour",
+    "category": "restaurant",
+    "status": "researching",
+    "lat": 43.7163,
+    "lng": 7.2674,
+    "score": 32,
+    "address": "Place de la Gare du Sud, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Le+Bonjour+Nice+Liberation",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-22:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Bonjour+Nice+Liberation",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d21058191-Reviews-Le_Bonjour-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.petitfute.com/v33027-nice-06000/c1165-restaurants/c1029-cuisine-regionale/c19-restaurant-provencal/2057918-le-bonjour.html",
+      "https://nicepresse.com/nice-le-bonjour-un-restaurant-a-lambiance-100-locale/"
+    ],
+    "notes": "【區域層級搜尋結果：Place de la Gare du Sud / Libération，飯店步行約 10 分鐘】解放廣場旁在地 Niçoise/Provençal 料理，100% 當地氛圍，PMU 式咖啡-小館複合，午晚皆供，價格實惠。待補精確門牌號後升級 ready。"
   }
 ]
