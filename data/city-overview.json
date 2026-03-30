@@ -3,10 +3,11 @@
     "city": "Avignon",
     "period": "2026-05-30 ~ 2026-06-02",
     "hotel": {
-      "name": "Hôtel Ibis Avignon Centre",
+      "name": "ibis Avignon Centre Pont de l'Europe",
+      "address": "12 Boulevard Saint Dominique, 84000 Avignon",
       "google_maps_url": "https://maps.app.goo.gl/CwibRU33sibfCTw36",
-      "lat": 43.9436,
-      "lng": 4.7982
+      "lat": 43.9437,
+      "lng": 4.7981
     },
     "trip_info": [
       "舊城區與教皇宮周邊步行可達多數餐廳",
@@ -56,6 +57,7 @@
     "period": "2026-06-02 ~ 2026-06-05",
     "hotel": {
       "name": "ibis Nice Centre Notre-Dame",
+      "address": "41 Rue Lamartine, 06000 Nice",
       "google_maps_url": "https://maps.app.goo.gl/jMwRZzqJYn62ouEe9",
       "lat": 43.7042,
       "lng": 7.2653
@@ -109,6 +111,7 @@
     "period": "2026-06-05 ~ 2026-06-06",
     "hotel": {
       "name": "Hôtel Gabriel - Hôtel Mont Saint Michel",
+      "address": "Route du Mont Saint-Michel, 50170 Le Mont-Saint-Michel",
       "google_maps_url": "https://maps.app.goo.gl/A4DPp3bC8yJGrco1A",
       "lat": 48.6155,
       "lng": -1.5109
@@ -153,7 +156,8 @@
     "city": "Paris",
     "period": "2026-06-06 ~ 2026-06-10",
     "hotel": {
-      "name": "Hôtel ibis Paris Tour Eiffel Cambronne",
+      "name": "ibis Paris Tour Eiffel Cambronne 15ème",
+      "address": "2 Rue Cambronne, 75015 Paris",
       "google_maps_url": "https://maps.app.goo.gl/tYhTmGU27BXSSpzTA",
       "lat": 48.847,
       "lng": 2.3014
