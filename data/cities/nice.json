@@ -737,7 +737,7 @@
   {
     "id": "nice-le-bonjour",
     "name": "Le Bonjour",
-    "category": "restaurant",
+    "category": "cafe",
     "status": "ready",
     "lat": 43.7163,
     "lng": 7.2674,
@@ -751,7 +751,7 @@
     "hotel_nearby": true,
     "meal_tags": [
       "lunch",
-      "dinner"
+      "breakfast"
     ],
     "source_urls": [
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d21058191-Reviews-Le_Bonjour-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",

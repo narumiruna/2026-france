@@ -37,21 +37,21 @@
   },
   {
     "id": "avignon-les-halles-bistro",
-    "name": "Les Halles Bistro",
+    "name": "Cuisine Centr'Halles",
     "category": "restaurant",
     "lat": 43.9474,
     "lng": 4.8072,
     "score": 34,
-    "address": "Place Pie, 84000 Avignon",
+    "address": "18 Place Pie (Les Halles Centrales), 84000 Avignon",
     "google_maps_url": "https://maps.google.com/?q=Les+Halles+Avignon",
     "price_level": "€€",
-    "opening_hours": "Mon-Sat 11:30-22:00",
+    "opening_hours": "Tue-Sun 10:00-14:00（Mon 公休）",
     "source_urls": [
-      "https://maps.google.com/?q=Les+Halles+Avignon",
-      "https://www.tripadvisor.com/Restaurant_Review-Les_Halles_Bistro-Avignon",
-      "https://www.yelp.com/biz/les-halles-bistro-avignon"
+      "https://www.cuisine-centrhalles-restaurant-avignon.com/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d13219971-Reviews-Cuisine_Centr_Halles-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
+      "https://en.grandavignon-destinations.fr/restaurant/cuisine-centrhalles/"
     ],
-    "notes": "市場周邊午餐備選。評價穩定但特色較普通，週末營業狀況待確認。"
+    "notes": "【⚠️ 名稱更正】原記為「Les Halles Bistro」，實際餐廳為 Cuisine Centr'Halles，主廚 Jonathan Chiri。位於 Les Halles Centrales 市場內（18 Place Pie）。每日更換菜單，現場明爐料理，兼辦料理教學。Michelin/Le Fooding 均未收錄，屬當地高人氣非指南型餐廳。官方網站：cuisine-centrhalles-restaurant-avignon.com"
   },
   {
     "id": "avignon-latte-re",
@@ -60,16 +60,17 @@
     "lat": 43.9472,
     "lng": 4.8054,
     "score": 36,
-    "address": "48 Place des Corps Saints, 84000 Avignon",
+    "address": "17 Place des Corps Saints, 84000 Avignon",
     "google_maps_url": "https://maps.google.com/?q=L%27Atelier+de+Belinda+Avignon",
     "price_level": "€€",
-    "opening_hours": "Daily 12:00-14:30, 19:00-22:00",
+    "opening_hours": "Daily 12:00-14:30, 19:00-22:00（預約建議）",
     "source_urls": [
-      "https://maps.google.com/?q=L%27Atelier+de+Belinda+Avignon",
-      "https://www.tripadvisor.com/Restaurant_Review-LAtelier_de_Belinda-Avignon",
-      "https://www.yelp.com/biz/latelier-de-belinda-avignon"
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d3580906-Reviews-L_Atelier_de_Belinda-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
+      "https://lacarte.menu/restaurants/avignon/latelier-de-belinda",
+      "https://restaurant.restaurants-de-france.fr/l-atelier-de-belinda-1960243.html",
+      "https://fr.restaurantguru.com/LAtelier-de-Belinda-Avignon"
     ],
-    "notes": "Place des Corps Saints 廣場，每日營業彈性高。行程不確定時的穩定備選，Michelin/Le Fooding 收錄狀況待確認。"
+    "notes": "【⚠️ 地址更正】正確地址為 17 Place des Corps Saints（非 48）。無官方網站。Michelin/Le Fooding 均未收錄。約 26 席小館，菜單每日更換，以黑板書寫。Tripadvisor 4.7-4.8/5（數百則評語），評價極佳。€20-35，有素食/純素/無麩質選項。電話：+33 4 90 82 69 53"
   },
   {
     "id": "nice-acchiardo",
@@ -83,9 +84,11 @@
     "price_level": "€€",
     "opening_hours": "Tue-Sun 12:00-14:00, 19:00-22:00",
     "source_urls": [
-      "https://maps.google.com/?q=Acchiardo+Nice"
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d1105157-Reviews-Acchiardo-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.explorenicecotedazur.com/en/restaurant/restaurant-acchiardo/",
+      "https://restaurantguru.com/Acchiardo-Nice"
     ],
-    "notes": "經典 Niçoise 菜，高優先。官方站點待補，先維持地圖來源並在旅前再驗證營業時段。"
+    "notes": "1927 年創業第四代家族餐廳，傳統 Niçoise 料理代表。無官網、無 Michelin、無 Le Fooding 收錄。Tripadvisor 4.5/5（2,000+ 則）。營業時段請旅前電話確認（+33 4 93 85 51 16），週末可能公休。強烈建議訂位。"
   },
   {
     "id": "nice-chez-pipo",
@@ -152,11 +155,11 @@
     "price_level": "€",
     "opening_hours": "Daily 11:00-21:00",
     "source_urls": [
-      "https://maps.google.com/?q=Lou+Pilha+Leva+Nice",
-      "https://www.tripadvisor.com/Restaurant_Review-Lou_Pilha_Leva-Nice",
+      "https://loupilhaleva.shop/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d1105097-Reviews-Lou_Pilha_Leva-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
       "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/lou-pilha-leva-nice"
     ],
-    "notes": "Vieux Nice 傳統小吃站，即點即食。Socca 與 Pissaladière 備選，可作 Chez Pipo 的區域補位。適合午間在舊城區步行時順道補充。"
+    "notes": "Vieux Nice 傳統小吃站，即點即食。Socca 與 Pissaladière 備選。有官方網站 loupilhaleva.shop，無 Michelin、無 Le Fooding 收錄。Tripadvisor Nice Quick Bites #14（3.4/5，570+ 則）。"
   },
   {
     "id": "nice-la-rossettisserie",
@@ -168,12 +171,14 @@
     "address": "8 Rue Mascoinat, 06300 Nice",
     "google_maps_url": "https://maps.google.com/?q=La+Rossettisserie+Nice",
     "price_level": "€€",
-    "opening_hours": "Daily 12:00-22:00",
+    "opening_hours": "Daily 12:00-14:00, 18:30-22:00",
     "source_urls": [
-      "https://maps.google.com/?q=La+Rossettisserie+Nice",
-      "https://www.tripadvisor.com/Restaurant_Review-La_Rossettisserie-Nice"
+      "https://www.larossettisserie.com/en/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d1582742-Reviews-La_Rossettisserie-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.explorenicecotedazur.com/en/restaurant/restaurant-la-rossettisserie/",
+      "https://www.academiedugout.fr/adresses/la-rossettiserie_1416"
     ],
-    "notes": "Place Rossetti 步行可達，烤肉與 Niçoise 料理為主。適合 Fenocchio 周邊備選晚餐；官方指南來源待補充。"
+    "notes": "有官方網站 larossettisserie.com，無 Michelin、無 Le Fooding 收錄。Tripadvisor 4.4/5（1,300+ 則）、Restaurant Guru 4.4/5（3,000+ 則）。10 人以上需訂位，小團體可直接前往。Académie du Goût 有收錄。"
   },
   {
     "id": "nice-fenocchio",
@@ -756,12 +761,13 @@
       "dinner"
     ],
     "source_urls": [
-      "https://maps.google.com/?q=Ma+Belle+Cuisine+Avignon",
+      "https://www.ma-belle-cuisine.fr",
       "https://www.tripadvisor.com/Restaurant_Review-g187212-d8452905-Reviews-Ma_Belle_Cuisine-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.pagesjaunes.fr/pros/56097066",
       "https://restaurantguru.com/Restaurant-Spaghetti-1-Avignon",
       "https://www.eat-list.fr/avignon-84000/restaurant-italien-71/ma-belle-cuisine-81873"
     ],
-    "notes": "【區域層級：Rue Félix Gras，飯店步行約 10 分鐘】Tripadvisor 4.6/5（近 500 則），義大利/法式/地中海料理，以食材新鮮與親切服務著稱。週日、一公休。待補指南型來源（Michelin/Le Fooding）。"
+    "notes": "【區域層級：Rue Félix Gras，飯店步行約 10 分鐘】Tripadvisor 4.6/5（近 500 則）+ Traveler's Choice 獎。義大利/法式/地中海料理，以手工義大利麵、柴燒披薩著稱，有素食/純素選項。官方網站：ma-belle-cuisine.fr。Michelin/Le Fooding 均未收錄。週日、一公休；Tue-Sat 12:00-14:00 & 19:00-21:30。電話：+33 4 90 82 48 73"
   },
   {
     "id": "avignon-la-soupape",
@@ -782,12 +788,12 @@
       "lunch"
     ],
     "source_urls": [
-      "https://maps.google.com/?q=La+Sou+Pape+Avignon",
       "https://www.tripadvisor.com/Restaurant_Review-g187212-d9809662-Reviews-La_Sou_Pape-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.pagesjaunes.fr/pros/55918195",
       "https://restaurantguru.com/La-Soupape-Avignon",
-      "https://www.pagesjaunes.fr/pros/55918195"
+      "https://jrbistronomie.fr/la-soupape/"
     ],
-    "notes": "【區域層級：Rue de la Grande Fusterie，飯店步行約 10 分鐘】平價午餐小館，以每日特餐（plat du jour）、沙拉、漢堡為主，蔬食友善。週一至五僅供午餐，週末公休。是行程彈性午間的低成本備選。待補指南型來源。"
+    "notes": "【區域層級：Rue de la Grande Fusterie，飯店步行約 10 分鐘】無官方網站。Tripadvisor 4.8/5（440+ 則），是 Avignon 最高評分午餐小館之一。每日特餐、沙拉、漢堡（含素食選項）。週一至五僅供午餐（12:00-14:00），週末公休。Michelin/Le Fooding 均未收錄。電話：+33 9 81 46 23 34"
   },
   {
     "name": "La Bélugue",
@@ -808,7 +814,8 @@
     "source_urls": [
       "https://nice.love-spots.com/manger/cafes-nice/97163-la-belugue.html"
     ],
-    "notes": "【街道層級：Avenue Malaussena，飯店步行約 5 分鐘】每日 07:00 起，早餐咖啡，可外帶。"
+    "notes": "【街道層級：Avenue Malaussena，飯店步行約 5 分鐘】每日 07:00 起，早餐咖啡，可外帶。",
+    "id": "nice-la-belugue"
   },
   {
     "id": "nice-verdant-cafe",
@@ -1527,5 +1534,52 @@
       "https://www.nicematin.com/conso-shopping/au-restaurantchez-les-garcons-a-nice-on-est-comme-a-la-maison-389714"
     ],
     "notes": "【街道層級：Rue Niépce / Libération 周邊，飯店步行約 5 分鐘】復古風格早午餐咖啡館，bagels、avocado toast、brioche perdue，有機食材自製甜點，附設桌遊。週一、二公休。"
+  },
+  {
+    "id": "nice-la-brioche-chaude",
+    "name": "La Brioche Chaude",
+    "category": "cafe",
+    "lat": 43.7048,
+    "lng": 7.2685,
+    "score": 31,
+    "address": "50 Avenue Jean Médecin, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=La+Brioche+Chaude+Nice",
+    "price_level": "€",
+    "opening_hours": "Daily 07:30-20:00",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d7787469-Reviews-La_Brioche_Chaude-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.pagesjaunes.fr/pros/01838370",
+      "https://restaurantguru.com/la-brioche-chaude-Nice"
+    ],
+    "notes": "無官網（僅 Facebook），無 Michelin、無 Le Fooding 收錄。Tripadvisor Nice #9（4.8/5，320+ 則），評分極高。每日 07:30–20:00 全年無休。Jean Médecin 大道上平價優質早餐首選。"
+  },
+  {
+    "id": "nice-le-bonjour",
+    "name": "Le Bonjour",
+    "category": "cafe",
+    "lat": 43.7163,
+    "lng": 7.2674,
+    "score": 32,
+    "address": "6 Place de la Gare du Sud, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Le+Bonjour+Nice+Liberation",
+    "price_level": "€€",
+    "opening_hours": "Mon-Sat 08:00-19:00, Sun 08:00-13:30",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "breakfast"
+    ],
+    "source_urls": [
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d21058191-Reviews-Le_Bonjour-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.petitfute.com/v33027-nice-06000/c1165-restaurants/c1029-cuisine-regionale/c19-restaurant-provencal/2057918-le-bonjour.html",
+      "https://nicepresse.com/nice-le-bonjour-un-restaurant-a-lambiance-100-locale/"
+    ],
+    "notes": "精確地址：6 Place de la Gare du Sud。無官網，無 Michelin、無 Le Fooding 收錄。Petit Futé 有收錄（普羅旺斯料理分類）。營業時段為咖啡館型（非晚餐）：週一至六 08:00–19:00、週日 08:00–13:30，**不提供晚餐**。適合午餐或早午餐，非晚餐選項。"
   }
 ]
