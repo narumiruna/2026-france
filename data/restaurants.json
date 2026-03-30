@@ -431,7 +431,11 @@
     "price_level": "€",
     "opening_hours": "Daily 09:30-19:00",
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://brunchcoffee.fr/fr",
       "https://www.tripadvisor.com/Restaurant_Review-g187212-d19326682-Reviews-Brunch_Coffee-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
@@ -451,7 +455,11 @@
     "price_level": "€",
     "opening_hours": "Mon 09:00-15:00, Tue-Fri 09:00-17:30, Sat 09:30-18:00",
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://tulipeavignon.com/",
       "https://www.solosophie.com/cafe-tulipe-avignon/",
@@ -472,7 +480,9 @@
     "price_level": "€€",
     "opening_hours": "Tue-Sun 12:00-23:30",
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://www.tripadvisor.com/Restaurant_Review-g187212-d23474615-Reviews-Pavillon_84-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
     ],
@@ -490,7 +500,9 @@
     "price_level": "€€€",
     "opening_hours": "Mon-Fri 12:00-13:30, 19:30-21:30",
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://www.pollen-restaurant.fr/",
       "https://guide.michelin.com/us/en/provence-alpes-cote-dazur/avignon/restaurant/pollen1000267",
@@ -498,6 +510,124 @@
       "https://www.tripadvisor.com/Restaurant_Review-g187212-d14246331-Reviews-Pollen-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
     ],
     "notes": "【區域層級：Rue Joseph Vernet，飯店步行約 10 分鐘】Michelin 一星，季節套餐每週更換。週六日公休，強烈建議提前預約。Avignon 最高規格晚餐。"
+  },
+  {
+    "id": "avignon-christian-etienne",
+    "name": "Sevin",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.9507,
+    "lng": 4.8067,
+    "score": 42,
+    "address": "10 Rue de Mons, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Restaurant+Sevin+Avignon",
+    "price_level": "€€€€",
+    "opening_hours": "Mon-Tue 12:00-13:30, 19:30-21:00; Fri-Sat 12:00-13:30, 19:30-21:00; Sun 12:00-13:30（Wed-Thu 公休）",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "source_urls": [
+      "https://www.restaurantsevin.fr/",
+      "https://guide.michelin.com/en/provence-alpes-cote-dazur/avignon/restaurant/restaurant-sevin",
+      "https://www.thefork.com/restaurant/restaurant-sevin-guilhem-sevin-r829557",
+      "https://avignon-tourisme.com/en/offres/restaurant-sevin-avignon-en-4143649/",
+      "https://www.provenceguide.co.uk/restaurants/avignon/restaurant-sevin/provence-4616578-1.html"
+    ],
+    "notes": "【更名確認】原 Christian Etienne 餐廳於 2020 年更名為 Sevin，由長期副主廚 Guilhem Sevin 接手。Palais des Papes 正旁，Michelin 推薦。週三、週四公休；週日限午餐。套餐 €50–€160，以番茄、松露等當季食材為核心，是 Palais des Papes 周邊最具指南認可的精緻餐廳。需提前預約。"
+  },
+  {
+    "id": "avignon-acte-2",
+    "name": "Acte 2",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.9488,
+    "lng": 4.8086,
+    "score": 42,
+    "address": "3 Bis Rue de la Petite Calade, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Acte+2+Restaurant+Avignon",
+    "price_level": "€€€",
+    "opening_hours": "Tue-Fri 19:15-21:30, Sat 12:00-13:15, 19:15-21:30",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "dinner"
+    ],
+    "source_urls": [
+      "https://www.restaurantacte2.com/",
+      "https://guide.michelin.com/us/en/provence-alpes-cote-dazur/avignon/restaurant/acte-2",
+      "https://fr.gaultmillau.com/en/restaurants/restaurant--acte-2-",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d23898191-Reviews-Acte_2_Avignon-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "【飯店步行範圍搜尋結果：舊城中心】Michelin 與 Gault&Millau 雙榜認可。僅 16 席，主廚 Grégory 供應每週更換季節套餐（晚間 6 道 €74；週六午餐 €45）；餐廳合夥人 Déborah 主導有機自然酒單。飯店步行約 8-10 分鐘（進入舊城區）。週一、週日公休，需提前預約並支付訂金。是 Avignon 舊城最值得一訪的精緻晚餐選項之一。"
+  },
+  {
+    "id": "avignon-la-mirande",
+    "name": "La Mirande",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.9508,
+    "lng": 4.8057,
+    "score": 45,
+    "address": "4 Place de l'Amirande, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=La+Mirande+Restaurant+Avignon",
+    "price_level": "€€€€",
+    "opening_hours": "Thu-Sun 12:30-13:30, 19:30-21:30（季節性調整，建議事先確認）",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "landmark_nearby": "Palais des Papes",
+    "source_urls": [
+      "https://www.la-mirande.fr/fr/restaurants-avignon-provence.html",
+      "https://guide.michelin.com/gb/en/provence-alpes-cote-dazur/avignon/restaurant/la-mirande",
+      "https://en.grandavignon-destinations.fr/restaurant/la-mirande-le-restaurant-gastronomique/",
+      "https://www.thefork.com/restaurant/le-restaurant-la-mirande-r654465"
+    ],
+    "notes": "【景點周邊：Palais des Papes 正旁】Michelin 1 星 + 綠星（2025，永續料理）。主廚 Michele Donvito 主理季節套餐（3/5/7 道），菜單 €80–€195。座落於 5 星歷史酒店內，露台可望教皇宮牆。最多 32 席（主廳）。是 Avignon 最具歷史氛圍的高規格晚餐首選，需提前數週預約。"
+  },
+  {
+    "id": "avignon-le-gout-du-jour",
+    "name": "Le Goût du Jour",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.9490,
+    "lng": 4.8080,
+    "score": 40,
+    "address": "20 Rue Saint-Étienne, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Le+Gout+du+Jour+Avignon",
+    "price_level": "€€€",
+    "opening_hours": "Mon, Thu-Sun 12:00-13:30, 19:00-21:30（Tue-Wed 公休）",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "landmark_nearby": "Palais des Papes",
+    "source_urls": [
+      "https://legoutdujour84.com/",
+      "https://guide.michelin.com/sg/en/provence-alpes-cote-dazur/avignon/restaurant/le-gout-du-jour",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d6154502-Reviews-Le_Gout_du_Jour-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
+      "https://avignon-tourisme.com/en/offres/restaurant-le-gout-du-jour-avignon-en-4143638/"
+    ],
+    "notes": "【景點周邊：舊城區，Palais des Papes 步行約 5 分鐘】Michelin 推薦。主廚 Julien Chazal 主理視覺精緻的現代法式季節料理。午間套餐 €25（含一杯酒）；晚間品嚐菜單 3 道 €55–€60 / 4 道 €69 / 6 道 €80–€85。約 40 席，氣氛溫馨。週二、三公休，需提前預約。"
+  },
+  {
+    "id": "avignon-brasserie-horloge",
+    "name": "Brasserie de l'Horloge",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.9499,
+    "lng": 4.8058,
+    "score": 32,
+    "address": "26 Place de l'Horloge, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Brasserie+de+l+Horloge+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-21:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "landmark_nearby": "Place de l'Horloge",
+    "source_urls": [
+      "https://www.thefork.com/restaurant/brasserie-de-l-horloge-r412083",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d14904279-Reviews-Brasserie_de_l_Horloge-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
+      "https://en.grandavignon-destinations.fr/restaurant/brasserie-de-lhorloge/",
+      "https://www.provenceguide.com/restaurants/avignon/brasserie-de-lhorloge/provence-5091992-1.html"
+    ],
+    "notes": "【景點周邊：Place de l'Horloge 廣場正面，對望歌劇院】普羅旺斯傳統小酒館，招牌菜 Agnolade d'Avignon（慢燉羊肉）。每日午晚全開，無需預約，是行程彈性日的穩定備選。主菜 €19–€26，平均餐費約 €25–€33/人。"
   },
   {
     "id": "nice-la-belugue",
@@ -511,7 +641,11 @@
     "price_level": "€€",
     "opening_hours": "Daily 07:00-21:00",
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://nice.love-spots.com/manger/cafes-nice/97163-la-belugue.html"
     ],
@@ -529,7 +663,10 @@
     "price_level": "€€",
     "opening_hours": "Mon-Fri 08:00-18:00, Sat-Sun 09:00-17:00",
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast"],
+    "meal_tags": [
+      "coffee",
+      "breakfast"
+    ],
     "source_urls": [
       "http://verdant-nice.fr/"
     ],
@@ -547,7 +684,9 @@
     "price_level": "€€",
     "opening_hours": "Tue-Sat 09:00-23:00, Sun 09:00-15:00",
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "http://www.restaurant-lagauloise.fr/",
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d1048407-Reviews-La_Gauloise-Nice"
@@ -566,7 +705,9 @@
     "price_level": "€€",
     "opening_hours": "Mon-Sat 12:00-14:00, Thu-Sat 19:00-22:00",
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://www.auxdeuxchefs.com/",
       "https://www.tripadvisor.fr/Restaurant_Review-g187234-d2337049-Reviews-Aux_Deux_Chefs-Nice"
@@ -585,7 +726,9 @@
     "price_level": "€€",
     "opening_hours": "Tue-Sun 12:15-14:00, 19:15-21:30",
     "hotel_nearby": false,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://guide.michelin.com/en/provence-alpes-cote-dazur/nice/restaurant/chez-davia",
       "https://lefooding.com/en/restaurants/restaurant-chez-davia-nice",
@@ -605,7 +748,10 @@
     "price_level": "€",
     "opening_hours": "Daily 07:00-21:00",
     "hotel_nearby": false,
-    "meal_tags": ["breakfast", "takeout"],
+    "meal_tags": [
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d10254215-Reviews-Boulangerie_Patisserie_Jeannot-Nice"
     ],
@@ -623,7 +769,10 @@
     "price_level": "€",
     "opening_hours": "Daily 09:00-21:00",
     "hotel_nearby": false,
-    "meal_tags": ["coffee", "breakfast"],
+    "meal_tags": [
+      "coffee",
+      "breakfast"
+    ],
     "source_urls": [
       "https://www.hoboshop.fr/"
     ],
@@ -641,7 +790,9 @@
     "price_level": "€€",
     "opening_hours": "Daily 11:30-21:30",
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://www.restaurantfermesaintmichel.com",
       "https://www.ot-montsaintmichel.com/restaurant/la-ferme-saint-michel/",
@@ -664,7 +815,11 @@
     "closure_checked_at": "2026-03-28",
     "closure_note": "2026-03-28 交叉比對店家資料頁，已標示為永久歇業（Permanently closed / Definitivement ferme）。條目保留於資料庫避免後續重複研究誤納入。",
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://www.myboulange.fr/75/paris/la-maison-pichard-paris-73153",
       "https://www.justacote.com/paris-75015/boulangerie-patisserie/boulangerie-patisserie-pichard-7482.htm",
@@ -685,7 +840,9 @@
     "price_level": "€€",
     "opening_hours": "Mon-Sat 07:00-00:00, Sun 08:00-00:00",
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://www.thefork.fr/restaurant/wallace-r752307",
       "https://www.tripadvisor.com/Restaurant_Review-g187147-d7034732-Reviews-Le_Wallace-Paris_Ile_de_France.html"
@@ -704,7 +861,10 @@
     "price_level": "€€",
     "opening_hours": "Tue-Sun 12:00-14:30, 19:00-22:00",
     "hotel_nearby": true,
-    "meal_tags": ["dinner", "takeout"],
+    "meal_tags": [
+      "dinner",
+      "takeout"
+    ],
     "source_urls": [
       "https://www.meltslowsmokedbarbecue.com/menu-melt-cambronne",
       "https://www.parisgourmand.com/restaurant-paris/melt-cambronne.html"
@@ -723,7 +883,9 @@
     "price_level": "€€",
     "opening_hours": "Tue-Sat 12:00-14:00, 19:30-22:00",
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://www.laveraison.fr/informations-contact/",
       "https://www.thefork.com/restaurant/la-veraison-paris-15"
@@ -742,7 +904,9 @@
     "price_level": "€€€",
     "opening_hours": "Tue-Sat 19:00-22:00",
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://www.neigedete.fr/fr/",
       "https://guide.michelin.com/en/ile-de-france/paris/restaurant/neige-d-ete"
@@ -761,7 +925,11 @@
     "price_level": "€",
     "opening_hours": "Daily 07:00-20:30",
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://mercijerome.com/boulangerie-de-la-motte-picquet/",
       "https://maps.google.com/?q=66+Avenue+de+la+Motte-Picquet,+75015+Paris,+France",
@@ -782,7 +950,11 @@
     "price_level": "€",
     "opening_hours": "Tue-Fri 07:00-20:30; Sat 07:00-20:00; Sun 07:00-14:00; Mon Closed",
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://maps.google.com/?q=Le+Moulin+de+la+Croix+Nivert+39+Rue+de+la+Croix+Nivert,+75015+Paris",
       "https://www.tripadvisor.fr/Restaurant_Review-g187147-d15017991-Reviews-Le_Moulin_de_la_Croix_Nivert-Paris_Ile_de_France.html",
@@ -803,7 +975,11 @@
     "price_level": "€",
     "opening_hours": "Mon-Fri 06:30-20:00; Sat-Sun Closed",
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://www.google.com/maps/search/10+Rue+du+Laos,+75015+Paris",
       "https://fr.mappy.com/poi/65602bdf1db9922353205556",
@@ -824,7 +1000,11 @@
     "price_level": "€",
     "opening_hours": "Mon-Fri 06:30-20:30; Sat-Sun Closed",
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://maps.google.com/?q=22+Rue+Cambronne,+75015+Paris",
       "https://www.pagesjaunes.fr/pros/56209890",
