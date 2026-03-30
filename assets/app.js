@@ -1,6 +1,6 @@
 const DEFAULT_PARIS = { lat: 48.847, lng: 2.3014 };
 const CITY_CENTERS = {
-  Avignon: { lat: 43.9436, lng: 4.7982 },
+  Avignon: { lat: 43.9437, lng: 4.7981 },
   Nice: { lat: 43.7042, lng: 7.2653 },
   "Mont Saint-Michel": { lat: 48.6155, lng: -1.5109 },
   Paris: { lat: 48.847, lng: 2.3014 },
@@ -319,6 +319,7 @@ function renderHotelMarkers() {
         <div class="popup-rows">
           <span class="popup-label">城市</span><span class="popup-value">${escapeHtml(city.city)}</span>
           <span class="popup-label">入住期間</span><span class="popup-value">${escapeHtml(city.period || "")}</span>
+          ${hotel.address ? `<span class="popup-label">地址</span><span class="popup-value">${escapeHtml(hotel.address)}</span>` : ""}
         </div>
         ${mapsLinkHtml}
       </div>
