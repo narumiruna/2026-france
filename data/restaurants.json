@@ -779,6 +779,27 @@
     "notes": "【區域層級：Vieux Nice 舊城核心，飯店步行約 25 分鐘】精品咖啡代表店，供應早午餐、酪梨吐司，可外帶。Socca 路線途中順道補咖啡首選。"
   },
   {
+    "id": "nice-hug-cafe",
+    "name": "HUG Café",
+    "category": "cafe",
+    "lat": 43.7016,
+    "lng": 7.2683,
+    "score": 35,
+    "address": "2 Rue de Suisse, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=HUG+Cafe+Nice",
+    "price_level": "€",
+    "opening_hours": "Daily 07:30-19:00",
+    "hotel_nearby": true,
+    "meal_tags": ["coffee", "breakfast"],
+    "source_urls": [
+      "https://www.hugcafenice.com/en",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d23411835-Reviews-Hug_Cafe-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://restaurantguru.com/HUG-Cafe-Nice-Nice",
+      "https://wanderlog.com/place/details/2425353/hug-caf%C3%A9-nice"
+    ],
+    "notes": "【街道層級搜尋結果：Rue de Suisse，靠近聖母大教堂，飯店步行約 12 分鐘】精品咖啡名店，使用 Antibes 在地烘焙豆。供應 Flat White、手沖咖啡及有機蛋糕、鹹派、三明治，素食選項豐富。全週 07:30 起，露台可望聖母大教堂。"
+  },
+  {
     "id": "msm-la-ferme-saint-michel",
     "name": "La Ferme Saint-Michel",
     "category": "restaurant",
@@ -1013,5 +1034,119 @@
       "https://www.alentoor.fr/paris15/alimentation/112849-la-boulangerie-de-cambronne-boulangerie-barlan"
     ],
     "notes": "【街道層級搜尋結果：Rue Cambronne，飯店步行可達】已補齊 Google Maps、PagesJaunes、Mappy 與在地指南來源，營業資訊一致為平日 06:30-20:30、週末休息。可作早餐/外帶穩定備選。"
+  },
+  {
+    "id": "nice-flaveur",
+    "name": "Flaveur",
+    "category": "restaurant",
+    "lat": 43.6982,
+    "lng": 7.2697,
+    "score": 47,
+    "address": "25 Rue Gubernatis, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Flaveur+Nice",
+    "price_level": "€€€€",
+    "opening_hours": "Tue-Sat 12:00-13:30, 19:30-21:15",
+    "source_urls": [
+      "https://guide.michelin.com/us/en/provence-alpes-cote-dazur/nice/restaurant/flaveur",
+      "https://www.restaurant-flaveur.com/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d1591476-Reviews-Flaveur-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.explorenicecotedazur.com/en/restaurant/restaurant-flaveur/"
+    ],
+    "notes": "Michelin 2 顆星（2018 年起）。主廚 Gaël 與 Mickaël Tourteaux 以地中海食材融合全球風味，創意精緻料理。近 Place Masséna，座位僅約 20 席，務必提前訂位。週日週一公休；品嚐套餐約 €150–220 起。"
+  },
+  {
+    "id": "nice-jan",
+    "name": "JAN",
+    "category": "restaurant",
+    "lat": 43.6967,
+    "lng": 7.2752,
+    "score": 44,
+    "address": "12 Rue Lascaris, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=JAN+Restaurant+Nice",
+    "price_level": "€€€€",
+    "opening_hours": "Tue-Sat 19:00-22:00",
+    "source_urls": [
+      "https://guide.michelin.com/kr/en/provence-alpes-cote-dazur/nice/restaurant/jan",
+      "https://janonline.com/restaurantjan/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d4975072-Reviews-JAN-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.explorenicecotedazur.com/en/restaurant/restaurant-jan/"
+    ],
+    "notes": "Michelin 1 顆星（2016 年起）。南非主廚 Jan Hendrik van der Westhuizen 以南非食材與法式技法打造個人化套餐菜單。位於 Vieux Nice，僅供晚餐，座位約 20 席。週日週一公休；套餐約 €180–250。"
+  },
+  {
+    "id": "nice-les-agitateurs",
+    "name": "Les Agitateurs",
+    "category": "restaurant",
+    "lat": 43.6971,
+    "lng": 7.2764,
+    "score": 43,
+    "address": "24 Rue Bonaparte, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Les+Agitateurs+Nice",
+    "price_level": "€€€€",
+    "opening_hours": "Mon, Thu-Fri 19:30-22:00; Sat-Sun 12:00-14:00, 19:30-22:00",
+    "source_urls": [
+      "https://guide.michelin.com/en/provence-alpes-cote-dazur/nice/restaurant/les-agitateurs",
+      "https://lesagitateurs.com/",
+      "https://fr.gaultmillau.com/en/restaurants/les-agitateurs",
+      "https://www.tripadvisor.com.au/Restaurant_Review-g187234-d14106279-Reviews-Les_Agitateurs-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Michelin 1 顆星（2021 年起）。主廚 Samuel Victori 以普羅旺斯當季食材為核心，創意精緻料理。位於 Vieux Nice 近 Colline du Château 一帶。週二週三公休；午餐僅週六週日；晚餐套餐約 €135–185。"
+  },
+  {
+    "id": "nice-le-bistrot-gourmand",
+    "name": "Le Bistrot Gourmand",
+    "category": "restaurant",
+    "lat": 43.6981,
+    "lng": 7.2675,
+    "score": 40,
+    "address": "3 Rue Desboutin, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Le+Bistrot+Gourmand+Nice",
+    "price_level": "€€€",
+    "opening_hours": "Daily 10:00-22:30",
+    "source_urls": [
+      "https://guide.michelin.com/en/provence-alpes-cote-dazur/nice/restaurant/le-bistrot-gourmand",
+      "https://www.bistrotgourmand.net/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d6587612-Reviews-Le_Bistrot_Gourmand-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.pagesjaunes.fr/pros/02404743"
+    ],
+    "notes": "Michelin Bib Gourmand。近 Place Masséna，以法式料理與時令食材為主，全日開放從早餐至晚餐。菜色包括魚湯、鴨胸、燉牛臉頰等。平均消費約 €42–45 每人；建議訂位尤其晚餐時段。"
+  },
+  {
+    "id": "nice-bar-des-oiseaux",
+    "name": "Bar des Oiseaux",
+    "category": "restaurant",
+    "lat": 43.6964,
+    "lng": 7.2760,
+    "score": 38,
+    "address": "5 Rue Saint Vincent, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Bar+des+Oiseaux+Nice",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 12:00-13:45, 19:00-21:45",
+    "source_urls": [
+      "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/nice/restaurant/bar-des-oiseaux",
+      "https://www.explorenicecotedazur.com/fiche/le-bar-des-oiseaux/",
+      "https://www.obonparis.com/en/magazine/le-bar-des-oiseaux-old-town-vieux-nice-restaurant",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d952000-Reviews-Bar_des_Oiseaux-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Michelin Guide 收錄。位於 Vieux Nice 核心，法式與地中海料理，手工義式麵食為特色。黑板菜單隨市場日日更換，午間套餐約 €20 起，物超所值。週日週一公休；建議訂位。"
+  },
+  {
+    "id": "nice-le-safari",
+    "name": "Le Safari",
+    "category": "restaurant",
+    "lat": 43.6959,
+    "lng": 7.2748,
+    "score": 36,
+    "address": "1 Cours Saleya, 06300 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Le+Safari+Nice",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-00:00",
+    "source_urls": [
+      "https://www.restaurantsafari.fr/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d952443-Reviews-Le_Safari-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.petitfute.com/v33027-nice-06000/c1165-restaurants/c4-cuisine-francaise/c1-bistrot-brasserie/277448-le-safari.html",
+      "https://nice.city-life.fr/Sortir/Nice/Restaurants/587/Le-Safari?lang=en"
+    ],
+    "notes": "1972 年起立店，Cours Saleya 花市旁地標。主打 Niçoise 與普羅旺斯料理：Bagna Cauda、Daube Niçoise、手工 Ravioli、大蒜蛋黃醬蔬菜盤（Grand Aioli）。觀光客與當地人混雜，露台位置絕佳。每日中午至午夜，可選不訂位。"
   }
 ]
