@@ -17,6 +17,16 @@
   --transition: 0.2s ease;
   --font-family-base: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
   --map-sidebar-width: 360px;
+
+  /* City accent colors */
+  --city-avignon: #7c5cbf;
+  --city-nice: #2e86ab;
+  --city-msm: #5a8a6c;
+  --city-paris: #c75b7a;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 * {
@@ -97,6 +107,39 @@ body.map-is-active {
 }
 
 /* ---- Tabs ---- */
+
+.trip-banner {
+  background: linear-gradient(135deg, #3b2816 0%, #5a3e28 100%);
+  color: #ffe8d0;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  font-size: 0.82rem;
+  flex-wrap: wrap;
+}
+
+.trip-banner-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  white-space: nowrap;
+}
+
+.trip-banner-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+.trip-banner-sep {
+  color: rgba(255, 232, 208, 0.35);
+  font-size: 0.7rem;
+  user-select: none;
+}
 
 .tabs {
   display: inline-flex;
@@ -199,6 +242,32 @@ body.map-is-active .container {
   box-shadow: var(--card-shadow-hover);
   transform: translateY(-2px);
 }
+
+/* City-specific accent borders */
+.city-card[data-city] {
+  border-top: 4px solid var(--city-accent, var(--gold));
+}
+
+/* Card entrance animation */
+@keyframes card-enter {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.city-card {
+  animation: card-enter 0.45s ease both;
+}
+
+.city-card:nth-child(1) { animation-delay: 0s; }
+.city-card:nth-child(2) { animation-delay: 0.08s; }
+.city-card:nth-child(3) { animation-delay: 0.16s; }
+.city-card:nth-child(4) { animation-delay: 0.24s; }
 
 .city-head {
   display: flex;
@@ -596,7 +665,7 @@ body.map-is-active .container {
   color: var(--ink);
   margin: 0 0 14px;
   padding-bottom: 8px;
-  border-bottom: 2px solid var(--accent-light);
+  border-bottom: 3px solid var(--accent-light);
 }
 
 .top-picks-list {
@@ -623,6 +692,39 @@ body.map-is-active .container {
 .top-picks-card:hover {
   box-shadow: var(--card-shadow-hover);
   transform: translateY(-2px);
+}
+
+.top-picks-card {
+  animation: card-enter 0.4s ease both;
+}
+
+.top-picks-card:nth-child(1) { animation-delay: 0s; }
+.top-picks-card:nth-child(2) { animation-delay: 0.06s; }
+.top-picks-card:nth-child(3) { animation-delay: 0.12s; }
+.top-picks-card:nth-child(4) { animation-delay: 0.18s; }
+.top-picks-card:nth-child(5) { animation-delay: 0.24s; }
+.top-picks-card:nth-child(6) { animation-delay: 0.30s; }
+.top-picks-card:nth-child(7) { animation-delay: 0.36s; }
+
+/* Top picks rank badge */
+.tpc-rank {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: var(--gold);
+  color: #fff;
+  font-size: 0.78rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  box-shadow: 0 1px 3px rgba(197, 144, 58, 0.35);
+}
+
+/* Top picks city section accent */
+.top-picks-city[data-city] .top-picks-city-heading {
+  border-bottom-color: var(--city-accent, var(--accent-light));
 }
 
 .tpc-header {
@@ -792,14 +894,24 @@ body.map-is-active .container {
 .site-footer {
   border-top: 1px solid var(--line);
   text-align: center;
-  padding: 14px 20px;
+  padding: 18px 20px;
   font-size: 0.8rem;
   color: var(--ink-muted);
-  background: var(--panel);
+  background: linear-gradient(180deg, var(--panel) 0%, #f5ede0 100%);
 }
 
 .site-footer p {
   margin: 0;
+}
+
+.footer-cities {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 6px;
+  font-size: 1.1rem;
+  letter-spacing: 0.1em;
 }
 
 /* ---- Responsive ---- */

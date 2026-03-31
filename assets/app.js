@@ -18,6 +18,15 @@ const CITY_PREFIX = {
   Paris: "paris",
 };
 
+const CITY_COLORS = {
+  Avignon: "var(--city-avignon)",
+  Nice: "var(--city-nice)",
+  "Mont Saint-Michel": "var(--city-msm)",
+  Paris: "var(--city-paris)",
+};
+
+const DEFAULT_CITY_COLOR = "var(--gold)";
+
 function getCityPrefix(cityName) {
   return (cityName || "").toLowerCase().replace(/\s+/g, "-");
 }
@@ -43,6 +52,7 @@ const elements = {
   panels: document.querySelectorAll(".panel"),
   overviewTemplate: document.querySelector("#overview-card-template"),
   goToLocationBtn: document.querySelector("#go-to-location"),
+  tripBanner: document.querySelector("#trip-banner"),
 };
 
 init().catch((error) => {
@@ -52,6 +62,7 @@ init().catch((error) => {
 async function init() {
   setupTabs();
   await loadData();
+  renderTripBanner();
   renderOverview();
   renderTopPicks();
   setupMap();
@@ -144,6 +155,28 @@ function formatPeriod(period) {
   return `${shortStart} ~ ${shortEnd}（${nights} 晚）`;
 }
 
+function renderTripBanner() {
+  if (!elements.tripBanner) return;
+  const cities = state.cityOverview;
+  if (cities.length === 0) {
+    elements.tripBanner.style.display = "none";
+    return;
+  }
+
+  const items = cities.map((city, i) => {
+    const prefix = CITY_PREFIX[city.city] ?? getCityPrefix(city.city);
+    const color = CITY_COLORS[city.city] || DEFAULT_CITY_COLOR;
+    const shortPeriod = formatPeriod(city.period);
+    const sep =
+      i < cities.length - 1
+        ? '<span class="trip-banner-sep" aria-hidden="true">›</span>'
+        : "";
+    return `<span class="trip-banner-item"><span class="trip-banner-dot" style="background:${color}"></span>${escapeHtml(CITY_EMOJI[city.city] || "📍")} ${escapeHtml(city.city)} <small>${escapeHtml(shortPeriod)}</small></span>${sep}`;
+  });
+
+  elements.tripBanner.innerHTML = items.join("");
+}
+
 function renderOverview() {
   elements.overviewList.innerHTML = "";
   for (const city of state.cityOverview) {
@@ -159,6 +192,11 @@ function renderOverview() {
     fillList(node.querySelector(".city-constraints"), city.research_strategy?.constraints);
 
     const cityPrefix = CITY_PREFIX[city.city] ?? getCityPrefix(city.city);
+    const card = node.querySelector(".city-card");
+    if (card) {
+      card.dataset.city = cityPrefix;
+      card.style.setProperty("--city-accent", CITY_COLORS[city.city] || DEFAULT_CITY_COLOR);
+    }
     const restCount = state.restaurants.filter((r) => r.id && r.id.startsWith(cityPrefix)).length;
     const badge = node.querySelector(".city-rest-count");
     badge.textContent = `🍴 ${restCount} 間`;
@@ -184,6 +222,9 @@ function renderTopPicks() {
 
     const section = document.createElement("section");
     section.className = "top-picks-city";
+    const cityPrefix = CITY_PREFIX[city.city] ?? getCityPrefix(city.city);
+    section.dataset.city = cityPrefix;
+    section.style.setProperty("--city-accent", CITY_COLORS[city.city] || DEFAULT_CITY_COLOR);
 
     const heading = document.createElement("h2");
     heading.className = "top-picks-city-heading";
@@ -193,7 +234,7 @@ function renderTopPicks() {
     const list = document.createElement("ul");
     list.className = "top-picks-list";
 
-    for (const place of candidates) {
+    for (const [rankIndex, place] of candidates.entries()) {
       const li = document.createElement("li");
       li.className = "top-picks-card";
 
@@ -203,6 +244,7 @@ function renderTopPicks() {
 
       li.innerHTML = `
         <div class="tpc-header">
+          <span class="tpc-rank">${rankIndex + 1}</span>
           <span class="tpc-name">${escapeHtml(place.name)}</span>
           <span class="tpc-category">${escapeHtml(place.category)}</span>
         </div>
