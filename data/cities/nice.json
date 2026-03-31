@@ -45,7 +45,7 @@
     "id": "nice-acchiardo",
     "name": "Acchiardo",
     "category": "restaurant",
-    "status": "researching",
+    "status": "ready",
     "lat": 43.6969,
     "lng": 7.2757,
     "score": 40,
@@ -56,9 +56,11 @@
     "visit_priority": "high",
     "reservation_required": true,
     "source_urls": [
-      "https://maps.google.com/?q=Acchiardo+Nice"
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d1105157-Reviews-Acchiardo-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.explorenicecotedazur.com/en/restaurant/restaurant-acchiardo/",
+      "https://restaurantguru.com/Acchiardo-Nice"
     ],
-    "notes": "經典 Niçoise 菜，高優先。官方站點待補，先維持地圖來源，旅前需再驗證營業時段與公休日。"
+    "notes": "1927 年創業第四代家族餐廳，傳統 Niçoise 料理代表。無官網、無 Michelin、無 Le Fooding 收錄。Tripadvisor 4.5/5（2,000+ 則）。營業時段請旅前電話確認（+33 4 93 85 51 16），週末可能公休。強烈建議訂位。"
   },
   {
     "id": "nice-chez-pipo",
@@ -84,7 +86,7 @@
     "id": "nice-lou-pilha-leva",
     "name": "Lou Pilha Leva",
     "category": "restaurant",
-    "status": "researching",
+    "status": "ready",
     "lat": 43.6978,
     "lng": 7.2765,
     "score": 37,
@@ -95,11 +97,11 @@
     "visit_priority": "medium",
     "reservation_required": false,
     "source_urls": [
-      "https://maps.google.com/?q=Lou+Pilha+Leva+Nice",
-      "https://www.tripadvisor.com/Restaurant_Review-Lou_Pilha_Leva-Nice",
+      "https://loupilhaleva.shop/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d1105097-Reviews-Lou_Pilha_Leva-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
       "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/lou-pilha-leva-nice"
     ],
-    "notes": "Vieux Nice 傳統小吃站，即點即食。Socca 與 Pissaladière 備選，可作 Chez Pipo 的區域補位。指南型來源待補充至 4 個。"
+    "notes": "Vieux Nice 傳統小吃站，即點即食。Socca 與 Pissaladière 備選。有官方網站 loupilhaleva.shop，無 Michelin、無 Le Fooding 收錄。Tripadvisor Nice Quick Bites #14（3.4/5，570+ 則）。"
   },
   {
     "id": "nice-fenocchio",
@@ -124,21 +126,23 @@
     "id": "nice-la-rossettisserie",
     "name": "La Rossettisserie",
     "category": "restaurant",
-    "status": "researching",
+    "status": "ready",
     "lat": 43.6973,
     "lng": 7.2762,
     "score": 35,
     "address": "8 Rue Mascoinat, 06300 Nice",
     "google_maps_url": "https://maps.google.com/?q=La+Rossettisserie+Nice",
     "price_level": "€€",
-    "opening_hours": "Daily 12:00-22:00",
+    "opening_hours": "Daily 12:00-14:00, 18:30-22:00",
     "visit_priority": "low",
     "reservation_required": false,
     "source_urls": [
-      "https://maps.google.com/?q=La+Rossettisserie+Nice",
-      "https://www.tripadvisor.com/Restaurant_Review-La_Rossettisserie-Nice"
+      "https://www.larossettisserie.com/en/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187234-d1582742-Reviews-La_Rossettisserie-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.explorenicecotedazur.com/en/restaurant/restaurant-la-rossettisserie/",
+      "https://www.academiedugout.fr/adresses/la-rossettiserie_1416"
     ],
-    "notes": "Place Rossetti 步行可達，烤肉與 Niçoise 料理為主。Fenocchio 周邊備選晚餐。官方指南來源待補充至 4 個。"
+    "notes": "有官方網站 larossettisserie.com，無 Michelin、無 Le Fooding 收錄。Tripadvisor 4.4/5（1,300+ 則）、Restaurant Guru 4.4/5（3,000+ 則）。10 人以上需訂位，小團體可直接前往。Académie du Goût 有收錄。"
   },
   {
     "id": "nice-la-belugue",
@@ -707,7 +711,7 @@
     "id": "nice-la-brioche-chaude",
     "name": "La Brioche Chaude",
     "category": "cafe",
-    "status": "researching",
+    "status": "ready",
     "lat": 43.7048,
     "lng": 7.2685,
     "score": 31,
@@ -724,37 +728,36 @@
       "takeout"
     ],
     "source_urls": [
-      "https://maps.google.com/?q=La+Brioche+Chaude+Nice",
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d7787469-Reviews-La_Brioche_Chaude-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
-      "https://www.pagesjaunes.fr/pros/01838370"
+      "https://www.pagesjaunes.fr/pros/01838370",
+      "https://restaurantguru.com/la-brioche-chaude-Nice"
     ],
-    "notes": "【街道層級搜尋結果：Avenue Jean Médecin，飯店步行約 8 分鐘】每日 07:30 開始的傳統烘焙坊，供應可頌、布里歐許、咖啡，是 Jean Médecin 購物大道上的平價早餐選項。指南型來源待補充至 4 個後再升級 ready。"
+    "notes": "無官網（僅 Facebook），無 Michelin、無 Le Fooding 收錄。Tripadvisor Nice #9（4.8/5，320+ 則），評分極高。每日 07:30–20:00 全年無休。Jean Médecin 大道上平價優質早餐首選。"
   },
   {
     "id": "nice-le-bonjour",
     "name": "Le Bonjour",
-    "category": "restaurant",
-    "status": "researching",
+    "category": "cafe",
+    "status": "ready",
     "lat": 43.7163,
     "lng": 7.2674,
     "score": 32,
-    "address": "Place de la Gare du Sud, 06000 Nice",
+    "address": "6 Place de la Gare du Sud, 06000 Nice",
     "google_maps_url": "https://maps.google.com/?q=Le+Bonjour+Nice+Liberation",
     "price_level": "€€",
-    "opening_hours": "Daily 12:00-14:30, 19:00-22:00",
+    "opening_hours": "Mon-Sat 08:00-19:00, Sun 08:00-13:30",
     "visit_priority": "low",
     "reservation_required": false,
     "hotel_nearby": true,
     "meal_tags": [
       "lunch",
-      "dinner"
+      "breakfast"
     ],
     "source_urls": [
-      "https://maps.google.com/?q=Le+Bonjour+Nice+Liberation",
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d21058191-Reviews-Le_Bonjour-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
       "https://www.petitfute.com/v33027-nice-06000/c1165-restaurants/c1029-cuisine-regionale/c19-restaurant-provencal/2057918-le-bonjour.html",
       "https://nicepresse.com/nice-le-bonjour-un-restaurant-a-lambiance-100-locale/"
     ],
-    "notes": "【區域層級搜尋結果：Place de la Gare du Sud / Libération，飯店步行約 10 分鐘】解放廣場旁在地 Niçoise/Provençal 料理，100% 當地氛圍，PMU 式咖啡-小館複合，午晚皆供，價格實惠。待補精確門牌號後升級 ready。"
+    "notes": "精確地址：6 Place de la Gare du Sud。無官網，無 Michelin、無 Le Fooding 收錄。Petit Futé 有收錄（普羅旺斯料理分類）。營業時段為咖啡館型（非晚餐）：週一至六 08:00–19:00、週日 08:00–13:30，**不提供晚餐**。適合午餐或早午餐，非晚餐選項。"
   }
 ]
