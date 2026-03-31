@@ -54,7 +54,7 @@ function loadGoogleMaps(apiKey) {
 
 function loadMarkerClusterer() {
   return new Promise((resolve, reject) => {
-    if (window.markerClusterer) {
+    if (window.markerClusterer?.MarkerClusterer) {
       resolve();
       return;
     }
@@ -364,10 +364,15 @@ function setupMap() {
   state.map = new google.maps.Map(mapEl, {
     center: { lat: DEFAULT_PARIS.lat, lng: DEFAULT_PARIS.lng },
     zoom: 13,
-    mapId: "france-food-map",
     gestureHandling: "greedy",
   });
   state.infoWindow = new google.maps.InfoWindow();
+  if (window.markerClusterer?.MarkerClusterer) {
+    state.markerClusterer = new markerClusterer.MarkerClusterer({
+      map: state.map,
+      markers: [],
+    });
+  }
   state.map.addListener("idle", renderNearbyRestaurants);
 }
 
@@ -384,6 +389,7 @@ function renderHotelMarkers() {
     const lng = Number(hotel.lng);
     if (Number.isNaN(lat) || Number.isNaN(lng)) continue;
 
+    // Use invisible base icon with emoji label to distinguish hotel markers
     const marker = new google.maps.Marker({
       position: { lat, lng },
       map: state.map,
@@ -495,11 +501,8 @@ function renderNearbyRestaurants() {
   }
   state.restaurantMarkers = newMarkers;
 
-  if (window.markerClusterer && newMarkers.length > 0) {
-    state.markerClusterer = new markerClusterer.MarkerClusterer({
-      map: state.map,
-      markers: newMarkers,
-    });
+  if (state.markerClusterer) {
+    state.markerClusterer.addMarkers(newMarkers);
   } else {
     for (const marker of newMarkers) {
       marker.setMap(state.map);
