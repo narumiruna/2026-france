@@ -878,7 +878,7 @@ body.map-is-active .container {
   }
 }
 
-/* ---- Hotel Marker Icon ---- */
+/* ---- Hotel Marker ---- */
 
 .hotel-marker-icon {
   background: transparent;
@@ -886,7 +886,18 @@ body.map-is-active .container {
   font-size: 1.6rem;
   line-height: 1;
   text-align: center;
-  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.35));
+}
+
+/* ---- Google Maps InfoWindow overrides ---- */
+
+.gm-style .gm-style-iw-c {
+  border-radius: 12px !important;
+  padding: 0 !important;
+}
+
+.gm-style .gm-style-iw-d {
+  overflow: auto !important;
+  padding: 12px 14px !important;
 }
 
 /* ---- Footer ---- */

@@ -31,6 +31,42 @@ function getCityPrefix(cityName) {
   return (cityName || "").toLowerCase().replace(/\s+/g, "-");
 }
 
+function getApiKey() {
+  const params = new URLSearchParams(window.location.search);
+  return params.get("key") || "";
+}
+
+function loadGoogleMaps(apiKey) {
+  return new Promise((resolve, reject) => {
+    if (window.google?.maps) {
+      resolve();
+      return;
+    }
+    const script = document.createElement("script");
+    script.src = `https://maps.googleapis.com/maps/api/js?key=${encodeURIComponent(apiKey)}&libraries=marker`;
+    script.async = true;
+    script.defer = true;
+    script.onload = resolve;
+    script.onerror = () => reject(new Error("無法載入 Google Maps API，請確認 API key 是否正確。"));
+    document.head.appendChild(script);
+  });
+}
+
+function loadMarkerClusterer() {
+  return new Promise((resolve, reject) => {
+    if (window.markerClusterer) {
+      resolve();
+      return;
+    }
+    const script = document.createElement("script");
+    script.src = "https://unpkg.com/@googlemaps/markerclusterer@2.5.3/dist/index.min.js";
+    script.async = true;
+    script.onload = resolve;
+    script.onerror = () => reject(new Error("無法載入 MarkerClusterer。"));
+    document.head.appendChild(script);
+  });
+}
+
 const state = {
   cityOverview: [],
   restaurants: [],
@@ -39,8 +75,10 @@ const state = {
   cityFocusName: "",
   geolocationWatchId: null,
   map: null,
-  markerGroup: null,
-  hotelMarkers: null,
+  restaurantMarkers: [],
+  hotelMarkers: [],
+  markerClusterer: null,
+  infoWindow: null,
 };
 
 const elements = {
@@ -61,7 +99,11 @@ init().catch((error) => {
 
 async function init() {
   setupTabs();
-  await loadData();
+  const apiKey = getApiKey();
+  if (!apiKey) {
+    setStatus("請在網址加上 ?key=YOUR_API_KEY 以載入 Google Maps。");
+  }
+  await Promise.all([loadData(), loadGoogleMaps(apiKey), loadMarkerClusterer()]);
   renderTripBanner();
   renderOverview();
   renderTopPicks();
@@ -93,7 +135,7 @@ function switchTab(tabName) {
   }
   document.body.classList.toggle("map-is-active", tabName === "map");
   if (tabName === "map" && state.map) {
-    setTimeout(() => state.map.invalidateSize(), 0);
+    setTimeout(() => google.maps.event.trigger(state.map, "resize"), 0);
     renderNearbyRestaurants();
   }
 }
@@ -318,30 +360,22 @@ function fillList(container, values) {
 }
 
 function setupMap() {
-  state.map = L.map("map-view").setView([DEFAULT_PARIS.lat, DEFAULT_PARIS.lng], 13);
-  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    maxZoom: 19,
-    attribution: "&copy; OpenStreetMap contributors",
-  }).addTo(state.map);
-
-  state.markerGroup = L.markerClusterGroup();
-  state.map.addLayer(state.markerGroup);
-  state.map.on("moveend", renderNearbyRestaurants);
+  const mapEl = document.getElementById("map-view");
+  state.map = new google.maps.Map(mapEl, {
+    center: { lat: DEFAULT_PARIS.lat, lng: DEFAULT_PARIS.lng },
+    zoom: 13,
+    mapId: "france-food-map",
+    gestureHandling: "greedy",
+  });
+  state.infoWindow = new google.maps.InfoWindow();
+  state.map.addListener("idle", renderNearbyRestaurants);
 }
 
 function renderHotelMarkers() {
-  if (state.hotelMarkers) {
-    state.map.removeLayer(state.hotelMarkers);
+  for (const marker of state.hotelMarkers) {
+    marker.setMap(null);
   }
-  state.hotelMarkers = L.layerGroup();
-
-  const hotelIcon = L.divIcon({
-    className: "hotel-marker-icon",
-    html: '<span aria-hidden="true">🏨</span>',
-    iconSize: [32, 32],
-    iconAnchor: [16, 32],
-    popupAnchor: [0, -34],
-  });
+  state.hotelMarkers = [];
 
   for (const city of state.cityOverview) {
     const hotel = city.hotel;
@@ -350,11 +384,25 @@ function renderHotelMarkers() {
     const lng = Number(hotel.lng);
     if (Number.isNaN(lat) || Number.isNaN(lng)) continue;
 
-    const marker = L.marker([lat, lng], { icon: hotelIcon, title: hotel.name });
+    const marker = new google.maps.Marker({
+      position: { lat, lng },
+      map: state.map,
+      title: hotel.name,
+      label: {
+        text: "🏨",
+        fontSize: "1.5rem",
+      },
+      icon: {
+        path: google.maps.SymbolPath.CIRCLE,
+        scale: 0,
+      },
+      zIndex: 1000,
+    });
+
     const mapsLinkHtml = hotel.google_maps_url
       ? `<hr class="popup-divider" /><p style="margin:0"><a href="${safeUrl(hotel.google_maps_url)}" target="_blank" rel="noopener">📍 Google Maps</a></p>`
       : "";
-    marker.bindPopup(`
+    const contentString = `
       <div class="popup hotel-popup">
         <h4 class="popup-name">🏨 ${escapeHtml(hotel.name)}</h4>
         <hr class="popup-divider" />
@@ -365,11 +413,13 @@ function renderHotelMarkers() {
         </div>
         ${mapsLinkHtml}
       </div>
-    `);
-    state.hotelMarkers.addLayer(marker);
+    `;
+    marker.addListener("click", () => {
+      state.infoWindow.setContent(contentString);
+      state.infoWindow.open(state.map, marker);
+    });
+    state.hotelMarkers.push(marker);
   }
-
-  state.map.addLayer(state.hotelMarkers);
 }
 
 function startGeolocation() {
@@ -409,22 +459,51 @@ function startGeolocation() {
 function renderNearbyRestaurants() {
   if (!state.map) return;
   const bounds = state.map.getBounds();
+  if (!bounds) return;
   const origin = getActiveOrigin();
   const visible = [];
   for (const place of state.restaurants) {
     const lat = Number(place.lat);
     const lng = Number(place.lng);
-    if (bounds.contains([lat, lng])) {
+    if (bounds.contains({ lat, lng })) {
       const distanceKm = haversineKm(origin.lat, origin.lng, lat, lng);
       visible.push({ ...place, distanceKm });
     }
   }
 
-  state.markerGroup.clearLayers();
+  // Remove old restaurant markers
+  for (const marker of state.restaurantMarkers) {
+    marker.setMap(null);
+  }
+  state.restaurantMarkers = [];
+  if (state.markerClusterer) {
+    state.markerClusterer.clearMarkers();
+  }
+
+  const newMarkers = [];
   for (const place of visible) {
-    const marker = L.marker([Number(place.lat), Number(place.lng)]);
-    marker.bindPopup(buildPopup(place));
-    state.markerGroup.addLayer(marker);
+    const marker = new google.maps.Marker({
+      position: { lat: Number(place.lat), lng: Number(place.lng) },
+      title: place.name,
+    });
+    const popupContent = buildPopup(place);
+    marker.addListener("click", () => {
+      state.infoWindow.setContent(popupContent);
+      state.infoWindow.open(state.map, marker);
+    });
+    newMarkers.push(marker);
+  }
+  state.restaurantMarkers = newMarkers;
+
+  if (window.markerClusterer && newMarkers.length > 0) {
+    state.markerClusterer = new markerClusterer.MarkerClusterer({
+      map: state.map,
+      markers: newMarkers,
+    });
+  } else {
+    for (const marker of newMarkers) {
+      marker.setMap(state.map);
+    }
   }
 
   renderSidebarList(visible);
@@ -503,7 +582,8 @@ function focusCityOnMap(cityName) {
   const cityCenter = CITY_CENTERS[cityName] || DEFAULT_PARIS;
   state.cityFocusOrigin = cityCenter;
   state.cityFocusName = cityName || "Paris";
-  state.map.setView([cityCenter.lat, cityCenter.lng], 13);
+  state.map.setCenter({ lat: cityCenter.lat, lng: cityCenter.lng });
+  state.map.setZoom(13);
   setStatus(`正在顯示 ${state.cityFocusName}。`);
 }
 
@@ -544,7 +624,8 @@ function goToUserLocation() {
 function panToUserPosition(position) {
   state.cityFocusOrigin = null;
   state.cityFocusName = "";
-  state.map.setView([position.lat, position.lng], 15);
+  state.map.setCenter({ lat: position.lat, lng: position.lng });
+  state.map.setZoom(15);
   setStatus("已移至目前位置。");
   renderNearbyRestaurants();
 }
