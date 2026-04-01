@@ -131,26 +131,29 @@
       "Galette"
     ],
     "areas": [
-      "Mont Saint-Michel 島內",
-      "島外接駁區周邊"
+      "Mont Saint-Michel 島內（Grande Rue）",
+      "La Caserne（島外接駁區，飯店周邊）"
     ],
     "top_candidates": [
       "msm-la-mere-poulard",
-      "msm-la-sirene",
-      "msm-restaurant-le-relais"
+      "msm-le-pre-sale",
+      "msm-la-ferme-saint-michel",
+      "msm-le-relais-du-roy",
+      "msm-la-sirene"
     ],
     "research_strategy": {
       "priorities": [
-        "先鎖 1 間主力餐廳與 1 間備選",
-        "確認交通與接駁時間對用餐時段的影響",
-        "確認是否需要提前預約"
+        "La Ferme Saint-Michel 與 Le Pré Salé 為飯店同區域晚餐雙選（均可預約）",
+        "La Mère Poulard 為島內體驗型必訪（但需管理期待值）",
+        "Brioche Dorée 為出發前唯一早餐選項（飯店早餐外）",
+        "Crêperie La Sirène 與 Crêperie La Cloche 為島內午餐備選（注意公休日）"
       ],
       "constraints": [
         "時間窗口短，現場排隊風險高",
         "晚間可用選項可能有限"
       ]
     },
-    "notes": "此站重點是可執行性，不追求大量選項。"
+    "notes": "此站重點是可執行性。La Caserne 區域已補齊晚餐（2 筆）與早餐（1 筆）選項；島內補齊午餐可麗餅選項（2 筆）。全部 8 筆候選均為 ready，來源已補強至 4 筆以上。"
   },
   {
     "city": "Paris",
