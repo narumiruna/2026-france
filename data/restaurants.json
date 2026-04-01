@@ -206,13 +206,14 @@
     "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
     "google_maps_url": "https://maps.google.com/?q=La+Mere+Poulard+Mont+Saint+Michel",
     "price_level": "€€€",
-    "opening_hours": "Daily 11:30-22:00",
+    "opening_hours": "Daily 11:30-16:00 & 18:30-21:00",
     "source_urls": [
       "https://maps.google.com/?q=La+Mere+Poulard+Mont+Saint+Michel",
-      "https://www.lamerepoulard.com/en/",
-      "https://www.ot-montsaintmichel.com/en/restaurant/la-mere-poulard/"
+      "https://www.aubergelamerepoulard.com/en/restaurant-at-mont-st-michel/",
+      "https://www.ot-montsaintmichel.com/en/restaurant/auberge-de-la-mere-poulard/",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d1368563-Reviews-La_Mere_Poulard-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html"
     ],
-    "notes": "Mont Saint-Michel 地標型主力餐；官方與在地旅遊站均確認其招牌 Omelette。"
+    "notes": "Mont Saint-Michel 地標型主力餐，島內 Grande Rue 上。招牌 Omelette de la Mère Poulard 為必吃目標。2025 年新任主廚 Killian Rosini 加入。Tripadvisor 2.7/5（5,500+ 則），評價兩極：體驗獨特但價位偏高。建議提前訂位。"
   },
   {
     "id": "msm-restaurant-le-relais",
@@ -224,28 +225,33 @@
     "address": "La Caserne, 50170 Le Mont-Saint-Michel",
     "google_maps_url": "https://maps.google.com/?q=Le+Relais+Saint-Michel",
     "price_level": "€€",
-    "opening_hours": "Daily 12:00-21:30",
+    "opening_hours": "Daily 12:00-15:00 & 19:00-21:30",
     "source_urls": [
       "https://maps.google.com/?q=Le+Relais+Saint-Michel",
-      "https://www.mymontsaintmichel.com/en/our-establishments/restaurant-relais-saint-michel/"
+      "https://www.mymontsaintmichel.com/en/our-establishments/restaurant-relais-saint-michel/",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d3207105-Reviews-Le_Relais_Saint_Michel-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html",
+      "https://www.ot-montsaintmichel.com/en/restaurant/le-relais-saint-michel/"
     ],
-    "notes": "短停留備選。官方資訊強調全年營業與面向海灣視野，適合作為滿位時替代。"
+    "notes": "【街道層級搜尋結果：La Caserne】與飯店同在 La Caserne 區域。Tripadvisor 約 3/5，以 Mont Saint-Michel 灣景聞名，海鮮與鹽沼羔羊為主菜。適合作為備選或景觀導向晚餐。"
   },
   {
     "id": "msm-la-sirene",
-    "name": "La Sirène",
-    "category": "restaurant",
+    "name": "Crêperie La Sirène",
+    "category": "creperie",
     "lat": 48.6362,
     "lng": -1.5098,
     "score": 34,
     "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
     "google_maps_url": "https://maps.google.com/?q=La+Sirene+Mont+Saint+Michel",
     "price_level": "€€",
-    "opening_hours": "Daily 11:30-21:30",
+    "opening_hours": "Sun-Wed & Sat 11:45-15:30; Thu-Fri Closed",
     "source_urls": [
-      "https://maps.google.com/?q=La+Sirene+Mont+Saint+Michel"
+      "https://maps.google.com/?q=Creperie+La+Sirene+Mont+Saint+Michel",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d2002373-Reviews-Creperie_La_Sirene_Mont_Saint_Michel-Mont_Saint_Michel_Manche_Basse_Normandie_Nor.html",
+      "https://www.ot-montsaintmichel.com/restaurant/creperie-la-sirene/",
+      "https://en.normandie-tourisme.fr/restaurants/creperie-la-sirene/"
     ],
-    "notes": "可作中段補位店，降低排隊風險。"
+    "notes": "島內隱藏可麗餅名店，Tripadvisor Traveller's Choice，高評價可麗餅與 galette。位於紀念品店樓上，需走旋轉樓梯。週四五公休，建議抵達時間在開門時段前往避免排隊。僅供午餐，非晚餐選項。"
   },
   {
     "id": "msm-creperie-la-cloche",
@@ -257,11 +263,14 @@
     "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
     "google_maps_url": "https://maps.google.com/?q=Creperie+La+Cloche+Mont+Saint+Michel",
     "price_level": "€",
-    "opening_hours": "Daily 11:00-21:00",
+    "opening_hours": "Tue-Sat 12:00-17:00; Sun-Mon Closed",
     "source_urls": [
-      "https://maps.google.com/?q=Creperie+La+Cloche+Mont+Saint+Michel"
+      "https://maps.google.com/?q=Creperie+La+Cloche+Mont+Saint+Michel",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d2489556-Reviews-Creperie_La_Cloche-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html",
+      "https://lescreperies.fr/50/le-mont-saint-michel/la-cloche-3zm",
+      "https://www.petitfute.com/v5502-le-mont-saint-michel-50170/c1165-restaurants/c1029-cuisine-regionale/c6-creperie/1752408-la-cloche.html"
     ],
-    "notes": "快速用餐備選。"
+    "notes": "島內快速用餐選項。Tripadvisor 4.0/5（590+ 則），甜鹹可麗餅、galette、蘋果酒均受好評。週日一公休，週二至六僅午間營業。有高腳椅、素食選項，可外帶。"
   },
   {
     "id": "paris-le-comptoir-du-relais",
@@ -986,9 +995,10 @@
     "source_urls": [
       "https://www.restaurantfermesaintmichel.com",
       "https://www.ot-montsaintmichel.com/restaurant/la-ferme-saint-michel/",
-      "https://www.normandie-tourisme.fr/restaurants/la-ferme-saint-michel/"
+      "https://www.normandie-tourisme.fr/restaurants/la-ferme-saint-michel/",
+      "https://www.saint-malo-tourisme.com/vivre-comme-chez-nous/ou-manger/restaurants/la-ferme-saint-michel-le-mont-saint-michel-fr-4021104/"
     ],
-    "notes": "【街道層級：Route du Mont Saint-Michel，與 Hôtel Gabriel 同路段】諾曼第在地料理，agneau de pré-salé（鹽沼羔羊）。每日 11:30-21:30，Menu de la Ferme €29 起。"
+    "notes": "【街道層級搜尋結果：Route du Mont Saint-Michel，與 Hôtel Gabriel 同路段】主打諾曼第在地料理，招牌菜為 agneau de pré-salé（鹽沼羔羊）。每日 11:30-21:30 全天供應，Menu de la Ferme €29 起。是飯店最近的晚餐選項，抵達或出發前均方便安排。"
   },
   {
     "id": "paris-maison-pichard",
@@ -1581,5 +1591,492 @@
       "https://nicepresse.com/nice-le-bonjour-un-restaurant-a-lambiance-100-locale/"
     ],
     "notes": "精確地址：6 Place de la Gare du Sud。無官網，無 Michelin、無 Le Fooding 收錄。Petit Futé 有收錄（普羅旺斯料理分類）。營業時段為咖啡館型（非晚餐）：週一至六 08:00–19:00、週日 08:00–13:30，**不提供晚餐**。適合午餐或早午餐，非晚餐選項。"
+  },
+  {
+    "id": "msm-le-relais-du-roy",
+    "name": "Le Relais du Roy",
+    "category": "restaurant",
+    "lat": 48.6147,
+    "lng": -1.5095,
+    "score": 34,
+    "address": "8 Route du Mont Saint-Michel, La Caserne, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Le+Relais+du+Roy+Mont+Saint+Michel",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-21:00",
+    "source_urls": [
+      "https://www.pagesjaunes.fr/pros/00254306",
+      "https://www.ot-montsaintmichel.com/en/hotel/hotel-le-relais-du-roy/",
+      "https://en.normandie-tourisme.fr/hotels/hotel-le-relais-du-roy/",
+      "https://www.tripadvisor.com/Hotel_Review-g196646-d260831-Reviews-Le_Relais_du_Roy-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html"
+    ],
+    "notes": "【街道層級搜尋結果：8 Route du Mont Saint-Michel，與 Hôtel Gabriel 同路段，步行數分鐘】諾曼第地區老字號飯店附屬餐廳，供應海鮮、鹽沼羔羊與諾曼第在地料理，可眺望 Mont Saint-Michel 灣景。每日午晚餐供應，無需預約。可作為 La Ferme Saint-Michel 客滿時的備選晚餐。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "dinner"
+    ],
+    "reservation_required": false,
+    "visit_priority": "medium"
+  },
+  {
+    "id": "msm-le-pre-sale",
+    "name": "Le Pré Salé",
+    "category": "restaurant",
+    "lat": 48.6148,
+    "lng": -1.509,
+    "score": 38,
+    "address": "Route du Mont Saint-Michel, La Caserne, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Restaurant+Le+Pre+Sale+Mont+Saint+Michel",
+    "price_level": "€€€",
+    "opening_hours": "Daily 12:00-14:00 & 19:00-21:00",
+    "source_urls": [
+      "https://restaurants.le-mont-saint-michel.com/en/our-restaurants/le-pre-sale/",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d970142-Reviews-Restaurant_Le_Pre_Sale-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html",
+      "https://www.ot-montsaintmichel.com/en/restaurant/le-pre-sale/",
+      "https://restaurantguru.com/Le-Pre-Sale-Pontorson"
+    ],
+    "notes": "【街道層級搜尋結果：Route du Mont Saint-Michel，與 Hôtel Gabriel 同區域 La Caserne】Tripadvisor #3（4.0/5，1,300+ 則），主打鹽沼羔羊（agneau de pré-salé）與諾曼第海鮮。Menu €44 起。Mercure 飯店附設餐廳，但餐飲品質受旅客好評。可作為 La Ferme Saint-Michel 之外的第二晚餐選項。建議提前預約。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "reservation_required": true,
+    "visit_priority": "high"
+  },
+  {
+    "id": "msm-brioche-doree",
+    "name": "Brioche Dorée",
+    "category": "cafe",
+    "lat": 48.6151,
+    "lng": -1.5105,
+    "score": 30,
+    "address": "La Caserne, Route du Mont Saint-Michel, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Brioche+Doree+La+Caserne+Mont+Saint+Michel",
+    "price_level": "€",
+    "opening_hours": "Daily 08:00-17:00",
+    "source_urls": [
+      "https://www.pagesjaunes.fr/pros/52348604",
+      "https://fr.mappy.com/poi/61f0550773bdb66d28327165",
+      "https://www.tripadvisor.co.uk/Restaurants-g196646-zfp2-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html",
+      "https://restaurantguru.com/breakfast-Mont-Saint-Michel-m9619"
+    ],
+    "notes": "【街道層級搜尋結果：La Caserne，與 Hôtel Gabriel 同區域】連鎖烘焙咖啡館，每日 08:00 起營業。可麗餅、可頌、咖啡、三明治，適合出發前快速早餐或外帶。價格實惠，無需預約。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "reservation_required": false,
+    "visit_priority": "medium"
+  },
+  {
+    "id": "paris-maison-landemaine",
+    "name": "Maison Landemaine Cambronne",
+    "category": "cafe",
+    "lat": 48.8421,
+    "lng": 2.3007,
+    "score": 35,
+    "address": "7 Place Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Maison+Landemaine+Cambronne+Paris",
+    "price_level": "€",
+    "opening_hours": "Daily 07:00-20:30",
+    "source_urls": [
+      "https://uneboulangerie.fr/75/paris/maison-landemaine-cambronne-10vi",
+      "https://www.meilleursrestaurantsparis.fr/categorie/boulangerie/la-boulange-de-cambronne-boulangerie-paris-15",
+      "https://www.tripadvisor.fr/Restaurant_Review-g187147-d10486885-Reviews-La_Boulange_De_Cambronne-Paris_Ile_de_France.html"
+    ],
+    "notes": "【街道層級搜尋結果：Maison Landemaine，Place Cambronne，飯店步行約 2 分鐘】知名精品連鎖烘焙坊，提供優質可頌、pain au chocolat、各式維也納麵包及外帶咖啡。每日 07:00 起，是 Cambronne 廣場上最方便的早餐外帶首選。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "reservation_required": false,
+    "visit_priority": "high"
+  },
+  {
+    "id": "paris-cafe-cambronne",
+    "name": "Café Cambronne",
+    "category": "cafe",
+    "lat": 48.842,
+    "lng": 2.3005,
+    "score": 33,
+    "address": "5 Place Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Cafe+Cambronne+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 08:00-02:00",
+    "source_urls": [
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d2298449-Reviews-Cafe_Cambronne-Paris_Ile_de_France.html",
+      "https://unilocal.fr/france/paris/caffe-cambronne-58364"
+    ],
+    "notes": "【街道層級搜尋結果：Café Cambronne，Place Cambronne，飯店步行約 2 分鐘】傳統巴黎街角咖啡館，提供早午餐（咖啡、可頌、tartine、歐姆蛋）及法式午晚餐，深夜至 02:00。廣場露台可戶外用餐，是飯店一帶全日隨時入座的便利選項。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "dinner"
+    ],
+    "reservation_required": false,
+    "visit_priority": "medium"
+  },
+  {
+    "id": "paris-beurre-noisette",
+    "name": "Le Beurre Noisette",
+    "category": "restaurant",
+    "lat": 48.8357,
+    "lng": 2.2849,
+    "score": 41,
+    "address": "68 Rue Vasco de Gama, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Le+Beurre+Noisette+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tue-Fri 12:00-13:45, 19:00-21:45; Sat 19:00-21:45; Sun-Mon Closed",
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/beurre-noisette",
+      "https://www.restaurantbeurrenoisette.com/",
+      "https://www.thefork.com/restaurant/le-beurre-noisette-r4751",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d718808-Reviews-Le_Beurre_Noisette-Paris_Ile_de_France.html"
+    ],
+    "notes": "【區域層級搜尋結果：15ème Cambronne 周邊】Michelin 推薦傳統法餐，主打經典 bistro 與季節菜。距飯店約 10-15 分鐘車程，適合作為飯店周邊高品質晚餐備案。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "dinner"
+    ],
+    "reservation_required": true,
+    "visit_priority": "high"
+  },
+  {
+    "id": "paris-los-a-moelle",
+    "name": "L'Os à Moelle",
+    "category": "restaurant",
+    "lat": 48.8381,
+    "lng": 2.2816,
+    "score": 39,
+    "address": "3 Rue Vasco de Gama, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=L%27Os+a+Moelle+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tue-Thu 12:00-14:00, 19:00-22:00; Fri 12:00-14:00, 19:00-23:00; Sat 19:00-23:00; Sun-Mon Closed",
+    "source_urls": [
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d718190-Reviews-L_Os_a_Moelle-Paris_Ile_de_France.html",
+      "https://fr.gaultmillau.com/en/restaurants/l-os-a-moelle-restaurant-paris-15",
+      "https://maps.google.com/?q=L%27Os+a+Moelle+Paris"
+    ],
+    "notes": "【區域層級搜尋結果：15ème Cambronne 周邊】老派法式 bistro 取向，內臟與骨髓料理是店內代表。屬飯店周邊可行備選，建議先預約晚餐時段。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "dinner"
+    ],
+    "reservation_required": true,
+    "visit_priority": "medium"
+  },
+  {
+    "id": "paris-bistrot-paul-bert",
+    "name": "Bistrot Paul Bert",
+    "category": "restaurant",
+    "lat": 48.8522,
+    "lng": 2.3849,
+    "score": 42,
+    "address": "18 Rue Paul Bert, 75011 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Bistrot+Paul+Bert+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 12:00-14:00, 19:30-23:00; Sun-Mon Closed",
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/bistrot-paul-bert",
+      "https://bistrotpaulbert.fr/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d719048-Reviews-Bistrot_Paul_Bert-Paris_Ile_de_France.html"
+    ],
+    "notes": "11 區經典 bistro 名店，Michelin 推薦，主打傳統法式家常與 steak frites。熱門時段常滿位，建議提早預約。",
+    "reservation_required": true,
+    "visit_priority": "high"
+  },
+  {
+    "id": "paris-le-servan",
+    "name": "Le Servan",
+    "category": "restaurant",
+    "lat": 48.861,
+    "lng": 2.3815,
+    "score": 41,
+    "address": "32 Rue Saint-Maur, 75011 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Le+Servan+Paris",
+    "price_level": "€€",
+    "opening_hours": "Mon-Sat 12:00-14:00, 19:30-22:30; Sun Closed",
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/le-servan",
+      "https://www.leservan.fr/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d6870838-Reviews-Le_Servan-Paris_Ile_de_France.html"
+    ],
+    "notes": "11 區人氣現代法式餐廳，料理帶法式基底與亞洲風味，屬高需求店家。依偏好可選擇不含酒精搭配的單點策略。",
+    "reservation_required": true,
+    "visit_priority": "high"
+  },
+  {
+    "id": "paris-parcelles",
+    "name": "Parcelles",
+    "category": "restaurant",
+    "lat": 48.8632,
+    "lng": 2.3566,
+    "score": 40,
+    "address": "13 Rue Chapon, 75003 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Parcelles+Paris",
+    "price_level": "€€€",
+    "opening_hours": "Mon-Fri 12:00-13:45, 19:00-22:00; Sat-Sun Closed",
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/parcelles",
+      "https://www.parcelles-paris.fr/en/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d23630393-Reviews-Parcelles-Paris_Ile_de_France.html"
+    ],
+    "notes": "Le Marais 附近復古風格 bistro，Michelin 推薦傳統法餐。平日午晚餐可安排，週末通常不營業，需依實際訂位頁再確認。",
+    "reservation_required": true,
+    "visit_priority": "medium"
+  },
+  {
+    "id": "paris-biscotte",
+    "name": "Biscotte",
+    "category": "restaurant",
+    "lat": 48.8362,
+    "lng": 2.2913,
+    "score": 40,
+    "address": "22 Rue Desnouettes, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Biscotte+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 19:00-22:00; Sun-Mon Closed",
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/biscotte",
+      "https://www.restaurant-biscotte.com/en/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d13972930-Reviews-Restaurant_Biscotte-Paris_Ile_de_France.html"
+    ],
+    "notes": "【區域層級搜尋結果：15ème Cambronne 周邊】Michelin 推薦現代法式小館，菜單短、偏季節性。僅晚餐時段營業，距飯店交通便利，適合作為 15ème 實用晚餐備案。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "dinner"
+    ],
+    "reservation_required": true,
+    "visit_priority": "high"
+  },
+  {
+    "id": "paris-l-accolade",
+    "name": "L'Accolade",
+    "category": "restaurant",
+    "lat": 48.8372,
+    "lng": 2.2892,
+    "score": 39,
+    "address": "208 Rue de la Croix-Nivert, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=L%27Accolade+Paris",
+    "price_level": "€€",
+    "opening_hours": "Mon-Fri 12:00-14:00, 19:00-22:00; Sat-Sun Closed",
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/l-accolade508642",
+      "https://www.laccoladeparis.com/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d10311013-Reviews-L_Accolade-Paris_Ile_de_France.html"
+    ],
+    "notes": "【區域層級搜尋結果：15ème Cambronne 周邊】Michelin 推薦現代法餐，平日午晚餐皆可安排、週末休。可作為飯店周邊平日正餐備案。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "reservation_required": true,
+    "visit_priority": "medium"
+  },
+  {
+    "id": "paris-clamato",
+    "name": "Clamato",
+    "category": "restaurant",
+    "lat": 48.8536,
+    "lng": 2.3808,
+    "score": 42,
+    "address": "80 Rue de Charonne, 75011 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Clamato+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-22:30",
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/clamato",
+      "https://www.clamato-charonne.fr/en/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d8114882-Reviews-Clamato-Paris_Ile_de_France.html"
+    ],
+    "notes": "11 區人氣海鮮名店（Michelin Bib Gourmand），主打共享盤與生熟海鮮。官方與 Michelin 均標示不接受訂位，建議提早到店排隊。",
+    "reservation_required": false,
+    "visit_priority": "high"
+  },
+  {
+    "id": "paris-le-chardenoux",
+    "name": "Le Chardenoux",
+    "category": "restaurant",
+    "lat": 48.8528,
+    "lng": 2.385,
+    "score": 41,
+    "address": "1 Rue Jules-Valles, 75011 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Le+Chardenoux+Paris",
+    "price_level": "€€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-23:00",
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/le-chardenoux",
+      "https://restaurantlechardenoux.com/en/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d729183-Reviews-Le_Chardenoux_Cyril_Lignac-Paris_Ile_de_France.html"
+    ],
+    "notes": "11 區歷史建築級老牌 bistro，由 Cyril Lignac 團隊經營，偏經典法餐與海鮮。每日午晚餐營業，適合安排為穩定主力晚餐。",
+    "reservation_required": true,
+    "visit_priority": "high"
+  },
+  {
+    "id": "paris-les-petits-parisiens",
+    "name": "Les Petits Parisiens",
+    "category": "restaurant",
+    "lat": 48.8249,
+    "lng": 2.3204,
+    "score": 39,
+    "address": "49 Avenue Jean Moulin, 75014 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Les+Petits+Parisiens+Paris",
+    "price_level": "€€",
+    "opening_hours": "Mon-Fri 12:00-14:00, 19:00-22:00; Sat-Sun Closed",
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/les-petits-parisiens",
+      "https://petits-parisiens.fr/en",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d21289189-Reviews-Les_Petits_Parisiens-Paris_Ile_de_France.html"
+    ],
+    "notes": "14 區口碑法式小酒館，Michelin 推薦傳統料理並兼顧價格帶。平日午晚餐可排，週末休息，適合作為左岸南側備選。",
+    "reservation_required": true,
+    "visit_priority": "medium"
+  },
+  {
+    "id": "paris-quatre-heures-cambronne",
+    "name": "Quatre Heures - Cambronne",
+    "category": "cafe",
+    "lat": 48.8410564,
+    "lng": 2.3040844,
+    "score": 34,
+    "address": "113 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Quatre+Heures+Cambronne+Paris",
+    "price_level": "€",
+    "opening_hours": "Wed-Sat 11:00-19:00; Sun-Tue Closed",
+    "source_urls": [
+      "https://quatreheures.fr/",
+      "https://www.pagesjaunes.fr/pros/63502328",
+      "https://www.mapstr.com/place/jbX0ek0pub/quatre-heures-cambronne-paris-gouter-patisserie-cookies-cookie-boulangerie",
+      "https://wanderlog.com/place/details/9498206/quatre-heures-cambronne"
+    ],
+    "notes": "【街道層級搜尋結果：113 Rue Cambronne，飯店步行約 12 分鐘】主打手工 cookies 的精品甜點坊，口味獨特（抹茶、開心果、柚子、焦糖等）。週三至六 11:00-19:00 營業，適合下午散步休憩時外帶甜點。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "reservation_required": false,
+    "visit_priority": "medium"
+  },
+  {
+    "id": "paris-lami-jean",
+    "name": "L'Ami Jean",
+    "category": "restaurant",
+    "lat": 48.86,
+    "lng": 2.3033,
+    "score": 42,
+    "address": "27 Rue Malar, 75007 Paris",
+    "google_maps_url": "https://maps.google.com/?q=L%27Ami+Jean+Paris",
+    "price_level": "€€€",
+    "opening_hours": "Tue-Sat 12:00-14:00, 19:00-23:30; Sun-Mon Closed",
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/l-ami-jean",
+      "https://lamijean.fr/",
+      "https://fr.gaultmillau.com/en/restaurants/l-ami-jean",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d718818-Reviews-L_Ami_Jean-Paris_Ile_de_France.html"
+    ],
+    "notes": "7 區知名傳統 Bistro，Michelin 推薦 + Gault&Millau 評分。主廚 Stéphane Jégo 料理融合法式與巴斯克風味，份量紮實。距 Eiffel Tower 步行約 10 分鐘，適合作為 7 區主力晚餐。",
+    "reservation_required": true,
+    "visit_priority": "high"
+  },
+  {
+    "id": "paris-le-casse-noix",
+    "name": "Le Casse Noix",
+    "category": "restaurant",
+    "lat": 48.8546,
+    "lng": 2.29,
+    "score": 41,
+    "address": "56 Rue de la Fédération, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Le+Casse+Noix+Paris",
+    "price_level": "€€",
+    "opening_hours": "Mon-Fri 12:00-14:00, 19:00-22:00; Sat-Sun Closed",
+    "source_urls": [
+      "https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/le-casse-noix",
+      "https://www.le-cassenoix.fr/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d2192483-Reviews-Le_Casse_Noix-Paris_Ile_de_France.html",
+      "https://parisbymouth.com/our-guide-to-paris-le-casse-noix/"
+    ],
+    "notes": "【區域層級搜尋結果：15ème，飯店步行約 15 分鐘】Michelin Bib Gourmand 認證，傳統法式 Bistro 精緻料理。主廚家族背景為 MOF（法國最佳工藝師），pâté en croûte 與 boudin blanc 為招牌。Menu 約 €44，平日午晚餐營業，週末休息。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "reservation_required": true,
+    "visit_priority": "high"
+  },
+  {
+    "id": "paris-la-fontaine-de-mars",
+    "name": "La Fontaine de Mars",
+    "category": "restaurant",
+    "lat": 48.8577,
+    "lng": 2.3019,
+    "score": 40,
+    "address": "129 Rue Saint-Dominique, 75007 Paris",
+    "google_maps_url": "https://maps.google.com/?q=La+Fontaine+de+Mars+Paris",
+    "price_level": "€€€",
+    "opening_hours": "Mon-Fri 12:00-15:00, 19:00-23:00; Sat-Sun 12:30-15:30, 19:00-23:00",
+    "source_urls": [
+      "https://www.fontaine-de-mars.com/",
+      "https://lefooding.com/en/restaurants/restaurant-la-fontaine-de-mars-paris-14",
+      "https://fr.gaultmillau.com/en/restaurants/la-fontaine-de-mars",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d718664-Reviews-La_Fontaine_de_Mars-Paris_Ile_de_France.html"
+    ],
+    "notes": "7 區經典巴黎 Bistro，1908 年開業至今。主打西南法料理（cassoulet、confit de canard），紅白格紋桌布經典氛圍。距 Eiffel Tower 約 5 分鐘步行，Le Fooding + Gault&Millau 收錄。每日午晚餐營業。",
+    "reservation_required": true,
+    "visit_priority": "medium"
+  },
+  {
+    "id": "paris-stohrer",
+    "name": "Stohrer",
+    "category": "dessert",
+    "lat": 48.8647,
+    "lng": 2.3467,
+    "score": 38,
+    "address": "51 Rue Montorgueil, 75002 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Stohrer+Paris",
+    "price_level": "€€",
+    "opening_hours": "Mon-Sat 08:00-20:30; Sun 08:00-20:00",
+    "source_urls": [
+      "https://stohrer.fr/our-shops/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d1893254-Reviews-Patisserie_Stohrer-Paris_Ile_de_France.html",
+      "https://www.timeout.com/paris/en/shopping/the-best-patisseries-in-paris",
+      "https://www.france-table-voyage.com/2025/01/04/stohrer-la-plus-ancienne-patisserie-de-paris/"
+    ],
+    "notes": "巴黎最古老的甜點店（1730 年創立），Rue Montorgueil 地標。經典 millefeuille 為必嚐甜點，另有 baba au rhum（店家首創）、各式糕點。每日營業，建議早場前往以確保品項齊全。",
+    "reservation_required": false,
+    "visit_priority": "high"
+  },
+  {
+    "id": "paris-boot-cafe",
+    "name": "Boot Café",
+    "category": "cafe",
+    "lat": 48.8621,
+    "lng": 2.3636,
+    "score": 35,
+    "address": "19 Rue du Pont aux Choux, 75003 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Boot+Cafe+Paris",
+    "price_level": "€",
+    "opening_hours": "Tue-Fri 08:30-16:30; Sat 10:00-18:00; Sun-Mon Closed",
+    "source_urls": [
+      "https://specialtycoffee.paris/shops/boot-cafe",
+      "https://coffeebook.net/best-coffee-shop-paris/",
+      "https://www.parisbouge.com/places/2588",
+      "https://fr-foodie.org/paris/boot-cafe/"
+    ],
+    "notes": "Le Marais 精品咖啡指標名店，由舊鞋匠鋪改裝。使用 La Marzocco 與 La Cabra 豆源，主打 espresso、V60、Chemex。巴黎第三波咖啡文化代表，適合 Le Marais 行程中安排咖啡時段。",
+    "meal_tags": [
+      "coffee"
+    ],
+    "reservation_required": false,
+    "visit_priority": "medium"
   }
 ]

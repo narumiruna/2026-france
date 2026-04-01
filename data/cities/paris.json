@@ -195,22 +195,23 @@
     "id": "paris-breizh-cafe",
     "name": "Breizh Café",
     "category": "restaurant",
-    "status": "researching",
+    "status": "ready",
     "lat": 48.8606,
     "lng": 2.3614,
     "score": 36,
     "address": "109 Rue Vieille du Temple, 75003 Paris",
     "google_maps_url": "https://maps.google.com/?q=Breizh+Cafe+Le+Marais+Paris",
     "price_level": "€€",
-    "opening_hours": "Wed-Sun 12:00-22:00",
+    "opening_hours": "Daily 09:00-23:00",
     "visit_priority": "medium",
     "reservation_required": false,
     "source_urls": [
-      "https://maps.google.com/?q=Breizh+Cafe+Le+Marais+Paris",
-      "https://www.breizhcafe.com/",
-      "https://www.le-fooding.com/restaurant/breizh-cafe-paris"
+      "https://www.breizhcafe.com/le-marais",
+      "https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/breizh-cafe",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d968731-Reviews-Breizh_Cafe_Le_Marais-Paris_Ile_de_France.html",
+      "https://parisjetaime.com/eng/restaurant/breizh-cafe-p414"
     ],
-    "notes": "Le Marais 知名布列塔尼式 crêperie。鹹甜薄餅兼備，可點無酒精飲料。週末可能排隊建議訂位，週一二公休。指南型來源待補充至 4 個。"
+    "notes": "Le Marais 知名布列塔尼式 crêperie，Michelin Guide 收錄。鹹甜薄餅兼備，可點無酒精飲料。每日營業，建議訂位避免等位。"
   },
   {
     "id": "paris-cafe-de-flore",
@@ -623,24 +624,25 @@
     "id": "paris-quatre-heures-cambronne",
     "name": "Quatre Heures - Cambronne",
     "category": "cafe",
-    "status": "researching",
+    "status": "ready",
     "lat": 48.8410564,
     "lng": 2.3040844,
     "score": 34,
     "address": "113 Rue Cambronne, 75015 Paris",
     "google_maps_url": "https://maps.google.com/?q=Quatre+Heures+Cambronne+Paris",
     "price_level": "€",
-    "opening_hours": "Hours not confirmed (check before visit)",
+    "opening_hours": "Wed-Sat 11:00-19:00; Sun-Tue Closed",
     "visit_priority": "medium",
     "reservation_required": false,
     "hotel_nearby": true,
     "meal_tags": ["coffee", "breakfast", "takeout"],
     "source_urls": [
       "https://quatreheures.fr/",
-      "https://www.facebook.com/quatreheures.cookies/",
-      "https://nominatim.openstreetmap.org/search?q=Quatre+Heures+Cambronne+Paris&format=jsonv2&limit=5&addressdetails=1&extratags=1"
+      "https://www.pagesjaunes.fr/pros/63502328",
+      "https://www.mapstr.com/place/jbX0ek0pub/quatre-heures-cambronne-paris-gouter-patisserie-cookies-cookie-boulangerie",
+      "https://wanderlog.com/place/details/9498206/quatre-heures-cambronne"
     ],
-    "notes": "【街道層級搜尋結果：113 Rue Cambronne】官網可確認品牌存在與社群入口，OSM 可確認座標與電話。營業時段與指南型來源尚待補齊，先列 researching。"
+    "notes": "【街道層級搜尋結果：113 Rue Cambronne，飯店步行約 12 分鐘】主打手工 cookies 的精品甜點坊，口味獨特（抹茶、開心果、柚子、焦糖等）。週三至六 11:00-19:00 營業，適合下午散步休憩時外帶甜點。"
   },
   {
     "id": "paris-boulangerie-barlan",
@@ -690,5 +692,118 @@
       "https://fr.mappy.com/poi/583089a30351d12ad21a3bcc"
     ],
     "notes": "【區域層級搜尋結果：La Motte-Picquet 一帶】已補齊官方頁、Google Maps、Tripadvisor 與在地指南（Mappy）交叉驗證地址與營業資訊。每日 07:00-20:30，適合作為飯店周邊早餐/咖啡/外帶的穩定備選。"
+  },
+  {
+    "id": "paris-lami-jean",
+    "name": "L'Ami Jean",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8600,
+    "lng": 2.3033,
+    "score": 42,
+    "address": "27 Rue Malar, 75007 Paris",
+    "google_maps_url": "https://maps.google.com/?q=L%27Ami+Jean+Paris",
+    "price_level": "€€€",
+    "opening_hours": "Tue-Sat 12:00-14:00, 19:00-23:30; Sun-Mon Closed",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "source_urls": [
+      "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/l-ami-jean",
+      "https://lamijean.fr/",
+      "https://fr.gaultmillau.com/en/restaurants/l-ami-jean",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d718818-Reviews-L_Ami_Jean-Paris_Ile_de_France.html"
+    ],
+    "notes": "7 區知名傳統 Bistro，Michelin 推薦 + Gault&Millau 評分。主廚 Stéphane Jégo 料理融合法式與巴斯克風味，份量紮實。距 Eiffel Tower 步行約 10 分鐘，適合作為 7 區主力晚餐。"
+  },
+  {
+    "id": "paris-le-casse-noix",
+    "name": "Le Casse Noix",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8546,
+    "lng": 2.2900,
+    "score": 41,
+    "address": "56 Rue de la Fédération, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Le+Casse+Noix+Paris",
+    "price_level": "€€",
+    "opening_hours": "Mon-Fri 12:00-14:00, 19:00-22:00; Sat-Sun Closed",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": ["lunch", "dinner"],
+    "source_urls": [
+      "https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/le-casse-noix",
+      "https://www.le-cassenoix.fr/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d2192483-Reviews-Le_Casse_Noix-Paris_Ile_de_France.html",
+      "https://parisbymouth.com/our-guide-to-paris-le-casse-noix/"
+    ],
+    "notes": "【區域層級搜尋結果：15ème，飯店步行約 15 分鐘】Michelin Bib Gourmand 認證，傳統法式 Bistro 精緻料理。主廚家族背景為 MOF（法國最佳工藝師），pâté en croûte 與 boudin blanc 為招牌。Menu 約 €44，平日午晚餐營業，週末休息。"
+  },
+  {
+    "id": "paris-la-fontaine-de-mars",
+    "name": "La Fontaine de Mars",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8577,
+    "lng": 2.3019,
+    "score": 40,
+    "address": "129 Rue Saint-Dominique, 75007 Paris",
+    "google_maps_url": "https://maps.google.com/?q=La+Fontaine+de+Mars+Paris",
+    "price_level": "€€€",
+    "opening_hours": "Mon-Fri 12:00-15:00, 19:00-23:00; Sat-Sun 12:30-15:30, 19:00-23:00",
+    "visit_priority": "medium",
+    "reservation_required": true,
+    "source_urls": [
+      "https://www.fontaine-de-mars.com/",
+      "https://lefooding.com/en/restaurants/restaurant-la-fontaine-de-mars-paris-14",
+      "https://fr.gaultmillau.com/en/restaurants/la-fontaine-de-mars",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d718664-Reviews-La_Fontaine_de_Mars-Paris_Ile_de_France.html"
+    ],
+    "notes": "7 區經典巴黎 Bistro，1908 年開業至今。主打西南法料理（cassoulet、confit de canard），紅白格紋桌布經典氛圍。距 Eiffel Tower 約 5 分鐘步行，Le Fooding + Gault&Millau 收錄。每日午晚餐營業。"
+  },
+  {
+    "id": "paris-stohrer",
+    "name": "Stohrer",
+    "category": "dessert",
+    "status": "ready",
+    "lat": 48.8647,
+    "lng": 2.3467,
+    "score": 38,
+    "address": "51 Rue Montorgueil, 75002 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Stohrer+Paris",
+    "price_level": "€€",
+    "opening_hours": "Mon-Sat 08:00-20:30; Sun 08:00-20:00",
+    "visit_priority": "high",
+    "reservation_required": false,
+    "source_urls": [
+      "https://stohrer.fr/our-shops/",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d1893254-Reviews-Patisserie_Stohrer-Paris_Ile_de_France.html",
+      "https://www.timeout.com/paris/en/shopping/the-best-patisseries-in-paris",
+      "https://www.france-table-voyage.com/2025/01/04/stohrer-la-plus-ancienne-patisserie-de-paris/"
+    ],
+    "notes": "巴黎最古老的甜點店（1730 年創立），Rue Montorgueil 地標。經典 millefeuille 為必嚐甜點，另有 baba au rhum（店家首創）、各式糕點。每日營業，建議早場前往以確保品項齊全。"
+  },
+  {
+    "id": "paris-boot-cafe",
+    "name": "Boot Café",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.8621,
+    "lng": 2.3636,
+    "score": 35,
+    "address": "19 Rue du Pont aux Choux, 75003 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Boot+Cafe+Paris",
+    "price_level": "€",
+    "opening_hours": "Tue-Fri 08:30-16:30; Sat 10:00-18:00; Sun-Mon Closed",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "meal_tags": ["coffee"],
+    "source_urls": [
+      "https://specialtycoffee.paris/shops/boot-cafe",
+      "https://coffeebook.net/best-coffee-shop-paris/",
+      "https://www.parisbouge.com/places/2588",
+      "https://fr-foodie.org/paris/boot-cafe/"
+    ],
+    "notes": "Le Marais 精品咖啡指標名店，由舊鞋匠鋪改裝。使用 La Marzocco 與 La Cabra 豆源，主打 espresso、V60、Chemex。巴黎第三波咖啡文化代表，適合 Le Marais 行程中安排咖啡時段。"
   }
 ]

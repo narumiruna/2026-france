@@ -4,7 +4,7 @@
     "name": "La Ferme Saint-Michel",
     "category": "restaurant",
     "status": "ready",
-    "lat": 48.6150,
+    "lat": 48.615,
     "lng": -1.5112,
     "score": 36,
     "address": "Route du Mont Saint-Michel, La Caserne, 50170 Le Mont-Saint-Michel",
@@ -14,7 +14,9 @@
     "visit_priority": "high",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://www.restaurantfermesaintmichel.com",
       "https://www.ot-montsaintmichel.com/restaurant/la-ferme-saint-michel/",
@@ -34,22 +36,25 @@
     "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
     "google_maps_url": "https://maps.google.com/?q=La+Mere+Poulard+Mont+Saint+Michel",
     "price_level": "€€€",
-    "opening_hours": "Daily 11:30-22:00",
+    "opening_hours": "Daily 11:30-16:00 & 18:30-21:00",
     "visit_priority": "high",
     "reservation_required": true,
     "hotel_nearby": false,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://maps.google.com/?q=La+Mere+Poulard+Mont+Saint+Michel",
-      "https://www.lamerepoulard.com/en/",
-      "https://www.ot-montsaintmichel.com/en/restaurant/la-mere-poulard/"
+      "https://www.aubergelamerepoulard.com/en/restaurant-at-mont-st-michel/",
+      "https://www.ot-montsaintmichel.com/en/restaurant/auberge-de-la-mere-poulard/",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d1368563-Reviews-La_Mere_Poulard-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html"
     ],
-    "notes": "Mont Saint-Michel 地標型主力餐，島內 Grande Rue 上。招牌 Omelette de la Mère Poulard 為必吃目標。價位偏高，建議提前訂位。"
+    "notes": "Mont Saint-Michel 地標型主力餐，島內 Grande Rue 上。招牌 Omelette de la Mère Poulard 為必吃目標。2025 年新任主廚 Killian Rosini 加入。Tripadvisor 2.7/5（5,500+ 則），評價兩極：體驗獨特但價位偏高。建議提前訂位。"
   },
   {
     "id": "msm-la-sirene",
-    "name": "La Sirène",
-    "category": "restaurant",
+    "name": "Crêperie La Sirène",
+    "category": "creperie",
     "status": "ready",
     "lat": 48.6362,
     "lng": -1.5098,
@@ -57,15 +62,21 @@
     "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
     "google_maps_url": "https://maps.google.com/?q=La+Sirene+Mont+Saint+Michel",
     "price_level": "€€",
-    "opening_hours": "Daily 11:30-21:30",
+    "opening_hours": "Sun-Wed & Sat 11:45-15:30; Thu-Fri Closed",
     "visit_priority": "medium",
     "reservation_required": false,
     "hotel_nearby": false,
-    "meal_tags": ["dinner"],
-    "source_urls": [
-      "https://maps.google.com/?q=La+Sirene+Mont+Saint+Michel"
+    "meal_tags": [
+      "lunch",
+      "takeout"
     ],
-    "notes": "島內備選，可作 La Mère Poulard 滿位時的替代。"
+    "source_urls": [
+      "https://maps.google.com/?q=Creperie+La+Sirene+Mont+Saint+Michel",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d2002373-Reviews-Creperie_La_Sirene_Mont_Saint_Michel-Mont_Saint_Michel_Manche_Basse_Normandie_Nor.html",
+      "https://www.ot-montsaintmichel.com/restaurant/creperie-la-sirene/",
+      "https://en.normandie-tourisme.fr/restaurants/creperie-la-sirene/"
+    ],
+    "notes": "島內隱藏可麗餅名店，Tripadvisor Traveller's Choice，高評價可麗餅與 galette。位於紀念品店樓上，需走旋轉樓梯。週四五公休，建議抵達時間在開門時段前往避免排隊。僅供午餐，非晚餐選項。"
   },
   {
     "id": "msm-restaurant-le-relais",
@@ -78,16 +89,20 @@
     "address": "La Caserne, 50170 Le Mont-Saint-Michel",
     "google_maps_url": "https://maps.google.com/?q=Le+Relais+Saint-Michel",
     "price_level": "€€",
-    "opening_hours": "Daily 12:00-21:30",
+    "opening_hours": "Daily 12:00-15:00 & 19:00-21:30",
     "visit_priority": "medium",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://maps.google.com/?q=Le+Relais+Saint-Michel",
-      "https://www.mymontsaintmichel.com/en/our-establishments/restaurant-relais-saint-michel/"
+      "https://www.mymontsaintmichel.com/en/our-establishments/restaurant-relais-saint-michel/",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d3207105-Reviews-Le_Relais_Saint_Michel-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html",
+      "https://www.ot-montsaintmichel.com/en/restaurant/le-relais-saint-michel/"
     ],
-    "notes": "【街道層級搜尋結果：La Caserne】與飯店同在 La Caserne 區域。強調全年營業與面向海灣視野，適合作為備選或預算導向晚餐。"
+    "notes": "【街道層級搜尋結果：La Caserne】與飯店同在 La Caserne 區域。Tripadvisor 約 3/5，以 Mont Saint-Michel 灣景聞名，海鮮與鹽沼羔羊為主菜。適合作為備選或景觀導向晚餐。"
   },
   {
     "id": "msm-le-relais-du-roy",
@@ -104,7 +119,9 @@
     "visit_priority": "medium",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://www.pagesjaunes.fr/pros/00254306",
       "https://www.ot-montsaintmichel.com/en/hotel/hotel-le-relais-du-roy/",
@@ -124,14 +141,75 @@
     "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
     "google_maps_url": "https://maps.google.com/?q=Creperie+La+Cloche+Mont+Saint+Michel",
     "price_level": "€",
-    "opening_hours": "Daily 11:00-21:00",
+    "opening_hours": "Tue-Sat 12:00-17:00; Sun-Mon Closed",
     "visit_priority": "medium",
     "reservation_required": false,
     "hotel_nearby": false,
-    "meal_tags": ["takeout"],
-    "source_urls": [
-      "https://maps.google.com/?q=Creperie+La+Cloche+Mont+Saint+Michel"
+    "meal_tags": [
+      "lunch",
+      "takeout"
     ],
-    "notes": "島內快速用餐選項，可外帶可麗餅。短停留行程中補給首選，不需預約。"
+    "source_urls": [
+      "https://maps.google.com/?q=Creperie+La+Cloche+Mont+Saint+Michel",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d2489556-Reviews-Creperie_La_Cloche-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html",
+      "https://lescreperies.fr/50/le-mont-saint-michel/la-cloche-3zm",
+      "https://www.petitfute.com/v5502-le-mont-saint-michel-50170/c1165-restaurants/c1029-cuisine-regionale/c6-creperie/1752408-la-cloche.html"
+    ],
+    "notes": "島內快速用餐選項。Tripadvisor 4.0/5（590+ 則），甜鹹可麗餅、galette、蘋果酒均受好評。週日一公休，週二至六僅午間營業。有高腳椅、素食選項，可外帶。"
+  },
+  {
+    "id": "msm-le-pre-sale",
+    "name": "Le Pré Salé",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6148,
+    "lng": -1.509,
+    "score": 38,
+    "address": "Route du Mont Saint-Michel, La Caserne, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Restaurant+Le+Pre+Sale+Mont+Saint+Michel",
+    "price_level": "€€€",
+    "opening_hours": "Daily 12:00-14:00 & 19:00-21:00",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://restaurants.le-mont-saint-michel.com/en/our-restaurants/le-pre-sale/",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d970142-Reviews-Restaurant_Le_Pre_Sale-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html",
+      "https://www.ot-montsaintmichel.com/en/restaurant/le-pre-sale/",
+      "https://restaurantguru.com/Le-Pre-Sale-Pontorson"
+    ],
+    "notes": "【街道層級搜尋結果：Route du Mont Saint-Michel，與 Hôtel Gabriel 同區域 La Caserne】Tripadvisor #3（4.0/5，1,300+ 則），主打鹽沼羔羊（agneau de pré-salé）與諾曼第海鮮。Menu €44 起。Mercure 飯店附設餐廳，但餐飲品質受旅客好評。可作為 La Ferme Saint-Michel 之外的第二晚餐選項。建議提前預約。"
+  },
+  {
+    "id": "msm-brioche-doree",
+    "name": "Brioche Dorée",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.6151,
+    "lng": -1.5105,
+    "score": 30,
+    "address": "La Caserne, Route du Mont Saint-Michel, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Brioche+Doree+La+Caserne+Mont+Saint+Michel",
+    "price_level": "€",
+    "opening_hours": "Daily 08:00-17:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://www.pagesjaunes.fr/pros/52348604",
+      "https://fr.mappy.com/poi/61f0550773bdb66d28327165",
+      "https://www.tripadvisor.co.uk/Restaurants-g196646-zfp2-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html",
+      "https://restaurantguru.com/breakfast-Mont-Saint-Michel-m9619"
+    ],
+    "notes": "【街道層級搜尋結果：La Caserne，與 Hôtel Gabriel 同區域】連鎖烘焙咖啡館，每日 08:00 起營業。可麗餅、可頌、咖啡、三明治，適合出發前快速早餐或外帶。價格實惠，無需預約。"
   }
 ]
