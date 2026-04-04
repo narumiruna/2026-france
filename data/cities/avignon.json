@@ -187,7 +187,7 @@
     "id": "avignon-pavillon-84",
     "name": "Pavillon 84",
     "category": "restaurant",
-    "status": "ready",
+    "status": "rejected",
     "lat": 43.9504,
     "lng": 4.8008,
     "score": 35,
@@ -487,5 +487,90 @@
       "https://jrbistronomie.fr/la-soupape/"
     ],
     "notes": "【區域層級：Rue de la Grande Fusterie，飯店步行約 10 分鐘】無官方網站。Tripadvisor 4.8/5（440+ 則），是 Avignon 最高評分午餐小館之一。每日特餐、沙拉、漢堡（含素食選項）。週一至五僅供午餐（12:00-14:00），週末公休。Michelin/Le Fooding 均未收錄。電話：+33 9 81 46 23 34"
+  },
+  {
+    "id": "avignon-premiere-edition",
+    "name": "Première Édition",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.951,
+    "lng": 4.8088,
+    "score": 42,
+    "address": "5 Rue Prévôt, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Première+Édition+Avignon",
+    "price_level": "€€€",
+    "opening_hours": "Tue-Sat 12:15-14:00; Wed-Sat 19:15-22:00; Mon & Sun closed",
+    "hotel_nearby": false,
+    "landmark_nearby": "Palais des Papes",
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "visit_priority": "high",
+    "reservation_required": true,
+    "source_urls": [
+      "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/avignon/restaurant/premiere-edition",
+      "https://lefooding.com/en/restaurants/premiere-edition",
+      "https://fr.gaultmillau.com/en/restaurants/premiere-edition",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d24172501-Reviews-Premiere_Edition-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
+      "https://premiereedition.fr/"
+    ],
+    "notes": "【舊城區：Rue Prévôt，鄰近 Palais des Papes】Michelin Guide France 2025 + Le Fooding + Gault&Millau 三指南同步收錄。雙主廚（Aurélie & Jonathan）料理結合普羅旺斯食材與創意 comfort food 手法，Tripadvisor 4.4/5。週二~六午餐（12:15-14:00），週三~六晚餐（19:15-22:00）；週一、日全日公休。需提前預約。"
+  },
+  {
+    "id": "avignon-bibendum",
+    "name": "Bibendum",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.9487,
+    "lng": 4.8056,
+    "score": 39,
+    "address": "83 Rue Joseph Vernet, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Bibendum+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 12:00-14:00 & 19:30-21:30; Mon & Sun closed",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "visit_priority": "medium",
+    "reservation_required": true,
+    "source_urls": [
+      "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/avignon/restaurant/bibendum",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d25182587-Reviews-Bibendum-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
+      "https://www.bibendumavignon.fr",
+      "https://jrbistronomie.fr/bibendum/",
+      "https://restaurant.restaurants-de-france.fr/bibendum-1974565.html"
+    ],
+    "notes": "【飯店步行約 12 分鐘：83 Rue Joseph Vernet（與 Pollen 同街）】Michelin Bib Gourmand 2025，Pollen 主廚 Mathieu Desmarest 創辦的姊妹館。14 世紀修道院迴廊改建，環境別緻，提供 tapas、起司吧、調酒與生物動力葡萄酒。Tripadvisor 3.8/5。週二~六 12:00-14:00 & 19:30-21:30；週一、日公休。Festival 期間加開週一。官網 bibendumavignon.fr。"
+  },
+  {
+    "id": "avignon-le-joat",
+    "name": "Le Joat",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.9486,
+    "lng": 4.8061,
+    "score": 41,
+    "address": "19 Rue des Trois Faucons, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Le+Joat+Avignon",
+    "price_level": "€€€",
+    "opening_hours": "Mon-Sat 12:00-13:30 & 19:00-21:30; Sun closed",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "visit_priority": "high",
+    "reservation_required": true,
+    "source_urls": [
+      "https://guide.michelin.com/en/provence-alpes-cote-dazur/avignon/restaurant/le-joat",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d28477607-Reviews-Le_Joat-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
+      "https://lejoat.com/",
+      "https://www.thefork.fr/restaurant/le-joat-r843170",
+      "https://www.petitfute.com/v33549-avignon-84000/c1165-restaurants/c4-cuisine-francaise/1681959-le-joat.html"
+    ],
+    "notes": "【飯店步行約 12 分鐘：19 Rue des Trois Faucons（Fou de Fafa 隔壁）】Michelin Guide + Petit Futé + TheFork 收錄，Pollen 出身主廚 Joris Tixador 主理。現代法式創作料理，食材精選，季節性菜單。套餐 €27（午餐二道）至 €60（六道晚餐）。週一~六 12:00-13:30 & 19:00-21:30；週日公休。強烈建議預約。"
   }
 ]
