@@ -62,10 +62,14 @@
         <aside class="map-sidebar">
           <div class="map-meta">
             <p id="map-status">載入中...</p>
-            <button id="go-to-location" class="go-to-location" type="button">
-              <span aria-hidden="true">📍</span> 跳到目前位置
-            </button>
+            <div class="map-meta-actions">
+              <button id="go-to-location" class="go-to-location" type="button">
+                <span aria-hidden="true">📍</span> 跳到目前位置
+              </button>
+              <div id="city-focus-chip-container"></div>
+            </div>
           </div>
+          <div id="map-filter-bar" class="map-filter-bar" role="group" aria-label="城市篩選"></div>
           <div id="map-sidebar-list" class="map-sidebar-list"></div>
         </aside>
         <div id="map-view"></div>

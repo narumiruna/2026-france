@@ -439,11 +439,18 @@ body.map-is-active .container {
 .map-meta {
   display: flex;
   flex-direction: column;
-  gap: 4px;
+  gap: 6px;
   padding: 12px 16px;
   background: var(--panel);
   border-bottom: 1px solid var(--line);
   flex-shrink: 0;
+}
+
+.map-meta-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
 }
 
 #map-status {
@@ -508,6 +515,25 @@ body.map-is-active .container {
   flex-direction: column;
   gap: 4px;
   font-size: 0.88rem;
+  cursor: pointer;
+  transition: background var(--transition), border-color var(--transition), box-shadow var(--transition);
+}
+
+.sidebar-item:hover {
+  background: var(--panel);
+  border-color: var(--gold);
+  box-shadow: 0 2px 6px rgba(34, 32, 29, 0.08);
+}
+
+.sidebar-item.is-active {
+  background: var(--accent-light);
+  border-color: var(--accent);
+  box-shadow: 0 2px 8px rgba(178, 69, 30, 0.12);
+}
+
+.sidebar-item:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
 }
 
 .sidebar-item-name {
@@ -530,6 +556,11 @@ body.map-is-active .container {
   border: 1px solid var(--line);
   border-radius: 999px;
   padding: 1px 7px;
+}
+
+.sidebar-item-meta .sidebar-item-score {
+  background: var(--accent-light);
+  border-color: transparent;
 }
 
 .sidebar-item-notes {
@@ -914,7 +945,109 @@ body.map-is-active .container {
   letter-spacing: 0.1em;
 }
 
+/* ---- Map Filter Bar ---- */
+
+.map-filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--line);
+  flex-shrink: 0;
+  background: var(--panel);
+}
+
+.map-filter-chip {
+  border: 1px solid var(--line);
+  background: var(--bg);
+  color: var(--ink-muted);
+  border-radius: 999px;
+  padding: 4px 12px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background var(--transition), color var(--transition), border-color var(--transition), box-shadow var(--transition);
+  white-space: nowrap;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.map-filter-chip:hover {
+  background: var(--panel);
+  color: var(--ink);
+  border-color: var(--ink-muted);
+}
+
+.map-filter-chip.is-active {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+  box-shadow: 0 2px 6px rgba(178, 69, 30, 0.25);
+}
+
+/* ---- City Focus Chip ---- */
+
+.city-focus-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: var(--accent-light);
+  color: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  padding: 3px 6px 3px 10px;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.city-focus-chip-dismiss {
+  border: none;
+  background: rgba(178, 69, 30, 0.12);
+  color: var(--accent);
+  cursor: pointer;
+  padding: 2px 5px;
+  line-height: 1;
+  font-size: 0.75rem;
+  border-radius: 999px;
+  display: flex;
+  align-items: center;
+  transition: background var(--transition), color var(--transition);
+}
+
+.city-focus-chip-dismiss:hover {
+  background: var(--accent);
+  color: #fff;
+}
+
+/* ---- City-coloured Map Marker Dots ---- */
+
+.city-marker-dot {
+  display: block;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: 2.5px solid rgba(255, 255, 255, 0.95);
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4);
+}
+
+/* ---- Sidebar Item Score Badge ---- */
+
+.sidebar-item-score {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  background: var(--accent-light);
+  color: var(--accent);
+  border-radius: 999px;
+  padding: 1px 6px;
+  white-space: nowrap;
+}
+
 /* ---- Responsive ---- */
+
 
 @media (max-width: 720px) {
   .site-header h1 {
