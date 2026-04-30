@@ -25,10 +25,43 @@ const CITY_COLORS = {
   Paris: "var(--city-paris)",
 };
 
+/* Actual hex values used for Leaflet DivIcon (CSS vars don't resolve in inline styles) */
+const CITY_HEX_COLORS = {
+  Avignon: "#7c5cbf",
+  Nice: "#2e86ab",
+  "Mont Saint-Michel": "#5a8a6c",
+  Paris: "#c75b7a",
+};
+
 const DEFAULT_CITY_COLOR = "var(--gold)";
+const DEFAULT_HEX_COLOR = "#c5903a";
+
+/* Reverse map: city prefix → city name */
+const PREFIX_TO_CITY = Object.fromEntries(
+  Object.entries(CITY_PREFIX).map(([city, prefix]) => [prefix, city]),
+);
 
 function getCityPrefix(cityName) {
   return (cityName || "").toLowerCase().replace(/\s+/g, "-");
+}
+
+function getCityFromId(id) {
+  if (!id) return null;
+  for (const [prefix, city] of Object.entries(PREFIX_TO_CITY)) {
+    if (id.startsWith(prefix + "-")) return city;
+  }
+  return null;
+}
+
+function createCityMarkerIcon(cityName) {
+  const color = CITY_HEX_COLORS[cityName] || DEFAULT_HEX_COLOR;
+  return L.divIcon({
+    className: "",
+    html: `<span class="city-marker-dot" style="background:${color}"></span>`,
+    iconSize: [12, 12],
+    iconAnchor: [6, 6],
+    popupAnchor: [0, -10],
+  });
 }
 
 const state = {
@@ -41,6 +74,8 @@ const state = {
   map: null,
   markerGroup: null,
   hotelMarkers: null,
+  markerById: {},
+  cityFilter: null,
 };
 
 const elements = {
@@ -53,6 +88,8 @@ const elements = {
   overviewTemplate: document.querySelector("#overview-card-template"),
   goToLocationBtn: document.querySelector("#go-to-location"),
   tripBanner: document.querySelector("#trip-banner"),
+  mapFilterBar: document.querySelector("#map-filter-bar"),
+  cityFocusChipContainer: document.querySelector("#city-focus-chip-container"),
 };
 
 init().catch((error) => {
@@ -67,6 +104,7 @@ async function init() {
   renderTopPicks();
   setupMap();
   renderHotelMarkers();
+  renderMapFilterBar();
   startGeolocation();
   renderNearbyRestaurants();
   setupGoToLocation();
@@ -421,10 +459,17 @@ function renderNearbyRestaurants() {
   }
 
   state.markerGroup.clearLayers();
+  state.markerById = {};
   for (const place of visible) {
-    const marker = L.marker([Number(place.lat), Number(place.lng)]);
+    const cityName = getCityFromId(place.id);
+    const icon = createCityMarkerIcon(cityName);
+    const marker = L.marker([Number(place.lat), Number(place.lng)], { icon });
     marker.bindPopup(buildPopup(place));
+    marker.on("click", () => {
+      highlightSidebarItem(place.id);
+    });
     state.markerGroup.addLayer(marker);
+    state.markerById[place.id] = marker;
   }
 
   renderSidebarList(visible);
@@ -434,28 +479,50 @@ function renderSidebarList(visible) {
   const list = elements.mapSidebarList;
   if (!list) return;
 
-  if (visible.length === 0) {
+  const filtered = state.cityFilter
+    ? visible.filter((p) => getCityFromId(p.id) === state.cityFilter)
+    : visible;
+
+  if (filtered.length === 0) {
     list.innerHTML = '<p class="sidebar-empty">目前地圖範圍內無餐廳</p>';
     return;
   }
 
-  const sorted = [...visible].sort((a, b) => a.distanceKm - b.distanceKm);
-  list.innerHTML = sorted
-    .map(
-      (place) => `
-      <div class="sidebar-item">
-        <div class="sidebar-item-name">${escapeHtml(place.name)}</div>
-        <div class="sidebar-item-meta">
-          <span>${escapeHtml(place.category)}</span>
-          <span>${place.distanceKm.toFixed(2)} km</span>
-          ${place.price_level ? `<span>${escapeHtml(place.price_level)}</span>` : ""}
-        </div>
-        ${place.notes ? `<p class="sidebar-item-notes">${escapeHtml(place.notes)}</p>` : ""}
-        <a class="sidebar-item-link" href="${safeUrl(place.google_maps_url)}" target="_blank" rel="noopener noreferrer">📍 Google Maps</a>
+  const sorted = [...filtered].sort((a, b) => a.distanceKm - b.distanceKm);
+  list.innerHTML = "";
+
+  for (const place of sorted) {
+    const scoreNum = Number(place.score);
+    const scoreValid = Number.isFinite(scoreNum);
+
+    const div = document.createElement("div");
+    div.className = "sidebar-item";
+    div.dataset.id = place.id;
+    div.innerHTML = `
+      <div class="sidebar-item-name">${escapeHtml(place.name)}</div>
+      <div class="sidebar-item-meta">
+        <span>${escapeHtml(place.category)}</span>
+        <span>${place.distanceKm.toFixed(2)} km</span>
+        ${place.price_level ? `<span>${escapeHtml(place.price_level)}</span>` : ""}
+        ${scoreValid ? `<span class="sidebar-item-score">★ ${escapeHtml(String(place.score))}/50</span>` : ""}
       </div>
-    `,
-    )
-    .join("");
+      ${place.notes ? `<p class="sidebar-item-notes">${escapeHtml(place.notes)}</p>` : ""}
+      <a class="sidebar-item-link" href="${safeUrl(place.google_maps_url)}" target="_blank" rel="noopener noreferrer">📍 Google Maps</a>
+    `;
+
+    div.addEventListener("click", (e) => {
+      if (e.target.closest("a")) return;
+      highlightSidebarItem(place.id);
+      const marker = state.markerById[place.id];
+      if (marker) {
+        state.markerGroup.zoomToShowLayer(marker, () => {
+          marker.openPopup();
+        });
+      }
+    });
+
+    list.appendChild(div);
+  }
 }
 
 function buildPopup(place) {
@@ -498,6 +565,73 @@ function buildPopup(place) {
   `;
 }
 
+function highlightSidebarItem(id) {
+  const list = elements.mapSidebarList;
+  if (!list) return;
+  for (const item of list.querySelectorAll(".sidebar-item")) {
+    item.classList.toggle("is-active", item.dataset.id === id);
+  }
+  const active = list.querySelector(`.sidebar-item[data-id="${id}"]`);
+  if (active) {
+    active.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  }
+}
+
+function renderMapFilterBar() {
+  const bar = elements.mapFilterBar;
+  if (!bar) return;
+  bar.innerHTML = "";
+
+  const allChip = document.createElement("button");
+  allChip.type = "button";
+  allChip.className = `map-filter-chip${state.cityFilter === null ? " is-active" : ""}`;
+  allChip.textContent = "全部";
+  allChip.addEventListener("click", () => {
+    state.cityFilter = null;
+    renderMapFilterBar();
+    renderNearbyRestaurants();
+  });
+  bar.appendChild(allChip);
+
+  for (const city of state.cityOverview) {
+    const cityName = city.city;
+    const chip = document.createElement("button");
+    chip.type = "button";
+    chip.className = `map-filter-chip${state.cityFilter === cityName ? " is-active" : ""}`;
+    chip.textContent = `${CITY_EMOJI[cityName] || "📍"} ${cityName}`;
+    chip.addEventListener("click", () => {
+      state.cityFilter = cityName;
+      renderMapFilterBar();
+      renderNearbyRestaurants();
+    });
+    bar.appendChild(chip);
+  }
+}
+
+function updateCityFocusChip() {
+  const container = elements.cityFocusChipContainer;
+  if (!container) return;
+  container.innerHTML = "";
+  if (!state.cityFocusName) return;
+
+  const chip = document.createElement("div");
+  chip.className = "city-focus-chip";
+  const label = document.createElement("span");
+  label.textContent = `📍 ${state.cityFocusName}`;
+  const dismiss = document.createElement("button");
+  dismiss.type = "button";
+  dismiss.className = "city-focus-chip-dismiss";
+  dismiss.setAttribute("aria-label", "清除城市聚焦");
+  dismiss.setAttribute("title", "清除城市聚焦");
+  dismiss.textContent = "✕";
+  dismiss.addEventListener("click", () => {
+    clearCityFocus();
+  });
+  chip.appendChild(label);
+  chip.appendChild(dismiss);
+  container.appendChild(chip);
+}
+
 function focusCityOnMap(cityName) {
   if (!state.map) return;
   const cityCenter = CITY_CENTERS[cityName] || DEFAULT_PARIS;
@@ -505,12 +639,14 @@ function focusCityOnMap(cityName) {
   state.cityFocusName = cityName || "Paris";
   state.map.setView([cityCenter.lat, cityCenter.lng], 13);
   setStatus(`正在顯示 ${state.cityFocusName}。`);
+  updateCityFocusChip();
 }
 
 function clearCityFocus() {
   if (!state.cityFocusOrigin) return;
   state.cityFocusOrigin = null;
   state.cityFocusName = "";
+  updateCityFocusChip();
   renderNearbyRestaurants();
   setStatus("已切回目前位置模式。");
 }
