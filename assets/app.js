@@ -47,10 +47,8 @@ function getCityPrefix(cityName) {
 
 function getCityFromId(id) {
   if (!id) return null;
-  for (const [prefix, city] of Object.entries(PREFIX_TO_CITY)) {
-    if (id.startsWith(prefix + "-")) return city;
-  }
-  return null;
+  const prefix = id.split("-")[0];
+  return PREFIX_TO_CITY[prefix] ?? null;
 }
 
 function createCityMarkerIcon(cityName) {
@@ -467,8 +465,7 @@ function renderNearbyRestaurants() {
     marker.bindPopup(buildPopup(place));
     marker.on("click", () => {
       highlightSidebarItem(place.id);
-    });
-    state.markerGroup.addLayer(marker);
+    });    state.markerGroup.addLayer(marker);
     state.markerById[place.id] = marker;
   }
 
@@ -512,13 +509,7 @@ function renderSidebarList(visible) {
 
     div.addEventListener("click", (e) => {
       if (e.target.closest("a")) return;
-      highlightSidebarItem(place.id);
-      const marker = state.markerById[place.id];
-      if (marker) {
-        state.markerGroup.zoomToShowLayer(marker, () => {
-          marker.openPopup();
-        });
-      }
+      selectRestaurant(place.id);
     });
 
     list.appendChild(div);
@@ -565,13 +556,23 @@ function buildPopup(place) {
   `;
 }
 
+function selectRestaurant(id) {
+  highlightSidebarItem(id);
+  const marker = state.markerById[id];
+  if (marker) {
+    state.markerGroup.zoomToShowLayer(marker, () => {
+      marker.openPopup();
+    });
+  }
+}
+
 function highlightSidebarItem(id) {
   const list = elements.mapSidebarList;
   if (!list) return;
   for (const item of list.querySelectorAll(".sidebar-item")) {
     item.classList.toggle("is-active", item.dataset.id === id);
   }
-  const active = list.querySelector(`.sidebar-item[data-id="${id}"]`);
+  const active = list.querySelector(`.sidebar-item[data-id="${CSS.escape(id)}"]`);
   if (active) {
     active.scrollIntoView({ behavior: "smooth", block: "nearest" });
   }
