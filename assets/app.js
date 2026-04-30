@@ -465,7 +465,8 @@ function renderNearbyRestaurants() {
     marker.bindPopup(buildPopup(place));
     marker.on("click", () => {
       highlightSidebarItem(place.id);
-    });    state.markerGroup.addLayer(marker);
+    });
+    state.markerGroup.addLayer(marker);
     state.markerById[place.id] = marker;
   }
 
@@ -495,6 +496,9 @@ function renderSidebarList(visible) {
     const div = document.createElement("div");
     div.className = "sidebar-item";
     div.dataset.id = place.id;
+    div.setAttribute("tabindex", "0");
+    div.setAttribute("role", "button");
+    div.setAttribute("aria-label", place.name);
     div.innerHTML = `
       <div class="sidebar-item-name">${escapeHtml(place.name)}</div>
       <div class="sidebar-item-meta">
@@ -510,6 +514,13 @@ function renderSidebarList(visible) {
     div.addEventListener("click", (e) => {
       if (e.target.closest("a")) return;
       selectRestaurant(place.id);
+    });
+
+    div.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        selectRestaurant(place.id);
+      }
     });
 
     list.appendChild(div);
@@ -644,7 +655,6 @@ function focusCityOnMap(cityName) {
 }
 
 function clearCityFocus() {
-  if (!state.cityFocusOrigin) return;
   state.cityFocusOrigin = null;
   state.cityFocusName = "";
   updateCityFocusChip();
@@ -681,6 +691,7 @@ function goToUserLocation() {
 function panToUserPosition(position) {
   state.cityFocusOrigin = null;
   state.cityFocusName = "";
+  updateCityFocusChip();
   state.map.setView([position.lat, position.lng], 15);
   setStatus("已移至目前位置。");
   renderNearbyRestaurants();
