@@ -73,6 +73,35 @@
     "notes": "【⚠️ 地址更正】正確地址為 17 Place des Corps Saints（非 48）。無官方網站。Michelin/Le Fooding 均未收錄。約 26 席小館，菜單每日更換，以黑板書寫。Tripadvisor 4.7-4.8/5（數百則評語），評價極佳。€20-35，有素食/純素/無麩質選項。電話：+33 4 90 82 69 53"
   },
   {
+    "id": "avignon-maison-violette",
+    "name": "Maison Violette",
+    "category": "cafe",
+    "lat": 43.948784,
+    "lng": 4.804361,
+    "score": 32,
+    "address": "25 Rue Saint-Agricol, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Maison+Violette+25+Rue+Saint-Agricol+Avignon",
+    "price_level": "€",
+    "opening_hours": "Tue-Sat 07:30-19:00（Sun-Mon 公休；Les Halles 分店 Tue-Sun 07:30-13:30）",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "dessert",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Maison+Violette+25+Rue+Saint-Agricol+Avignon",
+      "https://maisonviolette.com/",
+      "https://maisonviolette.com/saint-agricol/",
+      "https://fr.gaultmillau.com/fr/artisans/la-maison-violette",
+      "https://www.petitfute.com/v33549-avignon-84000/c650-produits-gourmands-vins/c1107-pains-gateaux-chocolats-glaces/c667-boulangerie/1465285-maison-violette-boulangerie-naturelle.html",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d12479051-Reviews-Maison_Violette-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
+      "https://fr.restaurantguru.com/Maison-Violette-Avignon"
+    ],
+    "notes": "自然派麵包/甜點連鎖，Avignon 舊城內有多個分店。本筆以 Saint-Agricol 為地圖點；官方列示 Saint-Agricol Tue-Sat 07:30-19:00，Les Halles 分店 Tue-Sun 07:30-13:30，可作週日早上備案。Gault&Millau 與 Petit Futé 收錄，適合早餐、咖啡、甜點與外帶。負評風險：Tripadvisor 3.5/5（約 90 則）與 Restaurant Guru 3.8/5（約 399 則）顯示體驗穩定度普通；因此定位為低成本補位，不作專程主力。"
+  },
+  {
     "id": "nice-acchiardo",
     "name": "Acchiardo",
     "category": "restaurant",
