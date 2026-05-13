@@ -525,5 +525,257 @@
       "https://www.pagesjaunes.fr/pros/09152621"
     ],
     "notes": "Beauvoir 常見的傳統法式正餐選項，短程車程可達。提供穩定午晚餐時段，可作 Mont Saint-Michel 站的外圍補位餐廳。"
+  },
+  {
+    "id": "msm-restaurant-du-guesclin",
+    "name": "Restaurant Du Guesclin",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6369,
+    "lng": -1.5115,
+    "score": 33,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Restaurant+Du+Guesclin+Grande+Rue%2C+50170+Le+Mont-Saint-Michel",
+    "price_level": "€€€",
+    "opening_hours": "Daily 11:30-14:00, 18:30-20:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Restaurant+Du+Guesclin+Mont+Saint+Michel",
+      "https://www.duguesclin.com/restaurant-duguesclin/",
+      "https://restaurantguru.com/Hotel-Duguesclin-Le-Mont-Saint-Michel"
+    ],
+    "notes": "島內 Grande Rue 上的旅館餐廳，屬進島動線上的景觀型備案；當 La Mère Poulard 等熱門店客滿時可改選。"
+  },
+  {
+    "id": "msm-mont-burger",
+    "name": "Mont Burger",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6251,
+    "lng": -1.5147,
+    "score": 30,
+    "address": "La Caserne, Route du Mont-Saint-Michel, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Mont+Burger+La+Caserne%2C+Route+du+Mont-Saint-Michel%2C+50170+Le+Mont-Saint-Michel",
+    "price_level": "€",
+    "opening_hours": "Daily 11:30-19:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Mont+Burger+Mont+Saint+Michel",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d19696278-Reviews-Mont_Burger-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html"
+    ],
+    "notes": "La Caserne 的快速漢堡補位，適合晚到或趕接駁時快速解決一餐。"
+  },
+  {
+    "id": "msm-au-pelerin",
+    "name": "Au Pelerin",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6368,
+    "lng": -1.5114,
+    "score": 30,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Au+Pelerin+Grande+Rue%2C+50170+Le+Mont-Saint-Michel",
+    "price_level": "€€",
+    "opening_hours": "Mon-Sat 12:00-19:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Au+Pelerin+Mont+Saint+Michel",
+      "https://restaurantguru.com/Au-Pelerin-Le-Mont-Saint-Michel"
+    ],
+    "notes": "島內較冷門的 pizza / 法式餐館，適合避開主街熱門店排隊時改走次選。"
+  },
+  {
+    "id": "msm-le-tripot",
+    "name": "Le Tripot",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6362,
+    "lng": -1.5107,
+    "score": 30,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Le+Tripot+Grande+Rue%2C+50170+Le+Mont-Saint-Michel",
+    "price_level": "€€",
+    "opening_hours": "Daily 11:30-18:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "lunch"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Tripot+Mont+Saint+Michel",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d1847105-Reviews-Le_Tripot-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html"
+    ],
+    "notes": "Grande Rue 上的午間補位選項，適合進島時快速找座位吃熱食或喝咖啡。"
+  },
+  {
+    "id": "msm-la-fringale",
+    "name": "La Fringale",
+    "category": "creperie",
+    "status": "ready",
+    "lat": 48.6367,
+    "lng": -1.5113,
+    "score": 30,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La+Fringale+Grande+Rue%2C+50170+Le+Mont-Saint-Michel",
+    "price_level": "€",
+    "opening_hours": "Daily 09:30-20:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Fringale+Mont+Saint+Michel",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d2034488-Reviews-La_Fringale-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html"
+    ],
+    "notes": "島內快取型可麗餅/點心店，適合不想排正式餐廳時快速補充熱食。"
+  },
+  {
+    "id": "msm-la-coquille",
+    "name": "La Coquille",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6366,
+    "lng": -1.5111,
+    "score": 31,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La+Coquille+Grande+Rue%2C+50170+Le+Mont-Saint-Michel",
+    "price_level": "€€",
+    "opening_hours": "Daily 11:30-20:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Coquille+Mont+Saint+Michel",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d2201652-Reviews-La_Coquille-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html"
+    ],
+    "notes": "主打海鮮與可麗餅的島內補位店，適合在體驗型店家之外保留一個較務實的正餐備案。"
+  },
+  {
+    "id": "msm-le-chapeau-rouge",
+    "name": "Le Chapeau Rouge",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6369,
+    "lng": -1.5116,
+    "score": 30,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Le+Chapeau+Rouge+Grande+Rue%2C+50170+Le+Mont-Saint-Michel",
+    "price_level": "€€",
+    "opening_hours": "Daily 11:30-19:30（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Chapeau+Rouge+Mont+Saint+Michel",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d8640018-Reviews-Le_Chapeau_Rouge-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html"
+    ],
+    "notes": "島內用餐高峰時的保底型 brasserie，座位量較大，適合團體或不想久等時改選。"
+  },
+  {
+    "id": "msm-les-terrasses-de-la-baie",
+    "name": "Les Terrasses de la Baie",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6118,
+    "lng": -1.5133,
+    "score": 32,
+    "address": "6 Route du Mont Saint Michel, 50170 Beauvoir",
+    "google_maps_url": "https://maps.google.com/?q=Les+Terrasses+de+la+Baie+6+Route+du+Mont+Saint+Michel%2C+50170+Beauvoir",
+    "price_level": "€€",
+    "opening_hours": "Daily 11:30-22:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les+Terrasses+de+la+Baie+Beauvoir",
+      "https://restaurantguru.com/Les-Terrasses-de-la-Baie-Beauvoir"
+    ],
+    "notes": "Beauvoir 路段的較大容量 brasserie，可在島內與 La Caserne 都太擁擠時改往外圍用餐。"
+  },
+  {
+    "id": "msm-le-bar-a-crepes",
+    "name": "Le Bar à Crêpes",
+    "category": "creperie",
+    "status": "ready",
+    "lat": 48.6114,
+    "lng": -1.5127,
+    "score": 30,
+    "address": "9 Route du Mont Saint Michel, 50170 Beauvoir",
+    "google_maps_url": "https://maps.google.com/?q=Le+Bar+%C3%A0+Cr%C3%AApes+9+Route+du+Mont+Saint+Michel%2C+50170+Beauvoir",
+    "price_level": "€",
+    "opening_hours": "Daily 11:30-17:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Bar+a+Crepes+Beauvoir",
+      "https://www.petitfute.co.uk/v5250-mont-saint-michel-50170/c1165-restaurants/c1029-cuisine-francaise-regionale/c6-creperie/1762451-le-bar-a-crepes.html"
+    ],
+    "notes": "Beauvoir 路線上的可麗餅快取補位，適合離開 Mont 前最後補一餐或點心。"
+  },
+  {
+    "id": "msm-la-vieille-auberge",
+    "name": "La Vieille Auberge",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6353,
+    "lng": -1.5116,
+    "score": 31,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La+Vieille+Auberge+Grande+Rue%2C+50170+Le+Mont-Saint-Michel",
+    "price_level": "€€€",
+    "opening_hours": "Daily 12:00-14:00, 18:30-20:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Vieille+Auberge+Mont+Saint+Michel",
+      "https://www.booking.com/hotel/fr/la-vieille-auberge-le-mont-saint-michel.en-gb.html"
+    ],
+    "notes": "歷史旅館附設餐廳，屬於島內晚餐保底選項，適合希望留在 Mont 內解決正餐時使用。"
   }
 ]

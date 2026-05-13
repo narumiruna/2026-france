@@ -2801,5 +2801,1021 @@
       "https://fr.mappy.com/poi/6683f30aaf5b977fd0522c74"
     ],
     "notes": "【街道層級搜尋結果：90 Rue Cambronne，飯店步行約 10 分鐘】傳統法式小酒館，全週開放至深夜。Steak frites、bistro 主菜穩定，附露台。是飯店街道上最方便的晚餐選項，不需預約。"
+  },
+  {
+    "id": "avignon-cafe-saint-jean",
+    "name": "Cafe Saint Jean",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.9434,
+    "lng": 4.8025,
+    "score": 31,
+    "address": "8 Rue du Général Leclerc, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Cafe+Saint+Jean+8+Rue+du+G%C3%A9n%C3%A9ral+Leclerc%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Daily 08:00-22:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "lunch"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Cafe+Saint+Jean+Avignon",
+      "https://www.thefork.com/restaurant/cafe-saint-jean-r647111",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d4341381-Reviews-Cafe_Saint_Jean-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "位於飯店走向 Avignon Centre 車站與舊城入口的動線上，適合補早餐、咖啡或簡單午餐；屬於住宿附近低風險臨時補位。"
+  },
+  {
+    "id": "avignon-le-26",
+    "name": "Le 26",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.94704,
+    "lng": 4.80845,
+    "score": 34,
+    "address": "26 Rue des Trois Faucons, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Le+26+26+Rue+des+Trois+Faucons%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sun 12:00-14:00, 19:00-21:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+26+Avignon",
+      "https://www.thefork.com/restaurant/le-26-r571103",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d7763299-Reviews-Le_26-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Rue des Trois Faucons 上的新補位晚餐選項，從飯店穿過舊城主動線即可抵達；適合既有主力店客滿時改訂。"
+  },
+  {
+    "id": "avignon-tulipe-cafe",
+    "name": "Tulipe Café",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.94395,
+    "lng": 4.80722,
+    "score": 31,
+    "address": "32 Rue Thiers, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Tulipe+Caf%C3%A9+32+Rue+Thiers%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Daily 08:30-17:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "lunch"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Tulipe+Cafe+Avignon",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d25100210-Reviews-Tulipe_Cafe-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "靠近車站與舊城入口，適合進出城時快速補咖啡、甜點或簡單午餐，能補強飯店到舊城之間的白天備案。"
+  },
+  {
+    "id": "avignon-french-coffee-shop",
+    "name": "French Coffee Shop",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.94451,
+    "lng": 4.80572,
+    "score": 30,
+    "address": "22 Rue de la République, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=French+Coffee+Shop+22+Rue+de+la+R%C3%A9publique%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Mon-Sat 08:00-19:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=French+Coffee+Shop+Avignon",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d6501344-Reviews-French_Coffee_Shop-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Rue de la République 上的連鎖咖啡補位，午後休息風險較低；適合飯店附近臨時外帶咖啡與點心。"
+  },
+  {
+    "id": "avignon-regusto",
+    "name": "Regusto",
+    "category": "dessert",
+    "status": "ready",
+    "lat": 43.9449,
+    "lng": 4.80517,
+    "score": 30,
+    "address": "6 Rue de la République, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Regusto+6+Rue+de+la+R%C3%A9publique%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Daily 11:00-20:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "dessert",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Regusto+Avignon",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d23228744-Reviews-Regusto-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "位於飯店與舊城核心之間，可作午後甜點或外帶冰品補給，補足住宿動線上的甜食備案。"
+  },
+  {
+    "id": "avignon-le-cid-cafe",
+    "name": "Le Cid Café",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.94901,
+    "lng": 4.80585,
+    "score": 31,
+    "address": "13 Place de l'Horloge, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Le+Cid+Caf%C3%A9+13+Place+de+l%27Horloge%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Daily 09:00-23:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Cid+Cafe+Avignon",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d1171836-Reviews-Le_Cid_Cafe-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Place de l’Horloge 大露台型餐酒館，營業時段彈性高，適合住宿點晚回城時臨時入座。"
+  },
+  {
+    "id": "avignon-green-bagel-cafe",
+    "name": "Green Bagel Café",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.94822,
+    "lng": 4.806,
+    "score": 32,
+    "address": "9 Rue Saint-Agricol, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Green+Bagel+Caf%C3%A9+9+Rue+Saint-Agricol%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Daily 10:00-18:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "lunch",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Green+Bagel+Cafe+Avignon",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d14953455-Reviews-Green_Bagel_Cafe-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Saint-Agricol 動線上的 bagel / 輕食補位，適合午餐與外帶，能強化飯店周邊非傳統法餐的快速方案。"
+  },
+  {
+    "id": "avignon-patisserie-vernet",
+    "name": "Pâtisserie Vernet",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.94648,
+    "lng": 4.80454,
+    "score": 32,
+    "address": "30 Rue Vernet, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=P%C3%A2tisserie+Vernet+30+Rue+Vernet%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Tue-Sat 08:00-18:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "breakfast",
+      "dessert",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Patisserie+Vernet+Avignon",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d4460931-Reviews-Patisserie_Vernet-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Vernet 街上的糕點外帶點，適合早餐、下午茶與野餐補給，可補足飯店周邊甜點/麵包覆蓋。"
+  },
+  {
+    "id": "avignon-chez-lisette",
+    "name": "Chez Lisette",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.94613,
+    "lng": 4.80842,
+    "score": 31,
+    "address": "18 Place Pie, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Chez+Lisette+18+Place+Pie%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Tue-Sun 09:00-18:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "dessert"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Chez+Lisette+Avignon",
+      "https://wanderlog.com/list/geoCategory/4848/best-bakeries-in-avignon"
+    ],
+    "notes": "Place Pie / Les Halles 一帶的甜點咖啡補位，適合市場區逛完後就近休息，延伸住宿附近下午茶備案。"
+  },
+  {
+    "id": "avignon-le-goeland",
+    "name": "Le Goéland",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.94651,
+    "lng": 4.80416,
+    "score": 30,
+    "address": "3 Rue de la Petite Fusterie, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Le+Go%C3%A9land+3+Rue+de+la+Petite+Fusterie%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Daily 09:00-20:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "lunch"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Goeland+Avignon",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d11690397-Reviews-Le_Goeland-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "靠近 Rue de la Petite Fusterie 的輕食/咖啡補位，適合在舊城南側活動時就近解決飲料與簡餐。"
+  },
+  {
+    "id": "nice-cafe-de-max",
+    "name": "Café de Max",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.7085,
+    "lng": 7.2672,
+    "score": 33,
+    "address": "16 Rue Pertinax, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Caf%C3%A9+de+Max+16+Rue+Pertinax%2C+06000+Nice",
+    "price_level": "€",
+    "opening_hours": "Mon-Sat 08:00-17:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Cafe+de+Max+Nice",
+      "https://www.tripadvisor.fr/Restaurant_Review-g187234-d18497900-Reviews-Cafe_de_Max-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Rue Pertinax 就在飯店後方街區，適合作為最近距離的精品咖啡 / 早餐補位。"
+  },
+  {
+    "id": "nice-delices-de-tunis",
+    "name": "Délices de Tunis",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.7047,
+    "lng": 7.2653,
+    "score": 31,
+    "address": "8 Rue de Lépante, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=D%C3%A9lices+de+Tunis+8+Rue+de+L%C3%A9pante%2C+06000+Nice",
+    "price_level": "€",
+    "opening_hours": "Daily 07:30-19:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Delices+de+Tunis+Nice",
+      "https://www.tripadvisor.fr/Restaurant_Review-g187234-d7818882-Reviews-Delices_de_Tunis-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Rue de Lépante 的突尼西亞麵包與甜點店，適合外帶早餐與點心，補強飯店步行圈的便宜快速方案。"
+  },
+  {
+    "id": "nice-thats-amore",
+    "name": "That's Amore",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.7056,
+    "lng": 7.2658,
+    "score": 32,
+    "address": "18 Rue Lamartine, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=That%27s+Amore+18+Rue+Lamartine%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-22:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Thats+Amore+Nice",
+      "https://fr.restaurantguru.com/Thats-Amore-Nice"
+    ],
+    "notes": "就在 Rue Lamartine 上，離飯店非常近，可作為晚到或想吃義式 comfort food 時的低風險晚餐備案。"
+  },
+  {
+    "id": "nice-leau-de-vie",
+    "name": "L'Eau de Vie",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.7059,
+    "lng": 7.2667,
+    "score": 33,
+    "address": "15 Rue Biscarra, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=L%27Eau+de+Vie+15+Rue+Biscarra%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 12:00-14:00, 19:00-22:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=L%27Eau+de+Vie+Nice",
+      "https://www.tripadvisor.fr/Restaurant_Review-g187234-d13193416-Reviews-L_Eau_de_Vie-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Rue Biscarra 的在地小館，離飯店近又偏安靜，可補強 Libération 與 Jean Médecin 間的正餐選擇。"
+  },
+  {
+    "id": "nice-le-libertea",
+    "name": "Le Liber’Tea",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.7083,
+    "lng": 7.2648,
+    "score": 32,
+    "address": "35 Avenue Malaussena, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Le+Liber%E2%80%99Tea+35+Avenue+Malaussena%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 09:00-18:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "dessert",
+      "lunch"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+LiberTea+Nice",
+      "https://lefooding.com/fr/restaurants/le-liber-te"
+    ],
+    "notes": "Libération 市場旁的茶館甜點補位，適合早餐後段、輕午餐或下午茶，並有無麩質/純素選項。"
+  },
+  {
+    "id": "nice-chez-mireille",
+    "name": "Chez Mireille",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.707,
+    "lng": 7.2649,
+    "score": 33,
+    "address": "7 Avenue Malaussena, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Chez+Mireille+7+Avenue+Malaussena%2C+06000+Nice",
+    "price_level": "€",
+    "opening_hours": "Mon-Sat 08:00-16:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "breakfast",
+      "lunch",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Chez+Mireille+Nice",
+      "https://www.tripadvisor.fr/Restaurant_Review-g187234-d1883579-Reviews-Chez_Mireille-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Avenue Malaussena 上的在地小吃補位，可補 pan bagnat / pissaladière / socca 類快速午餐與外帶。"
+  },
+  {
+    "id": "nice-brioche-doree-jean-medecin",
+    "name": "La Brioche Dorée",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.7053,
+    "lng": 7.2639,
+    "score": 30,
+    "address": "64 Avenue Jean Médecin, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=La+Brioche+Dor%C3%A9e+64+Avenue+Jean+M%C3%A9decin%2C+06000+Nice",
+    "price_level": "€",
+    "opening_hours": "Daily 07:30-20:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Brioche+Doree+Jean+Medecin+Nice",
+      "https://www.briochedoree.fr/restaurants/064-nice-medicin/"
+    ],
+    "notes": "Jean Médecin 大道上的連鎖烘焙咖啡館，開店早且穩定，適合一早趕行程時快速外帶。"
+  },
+  {
+    "id": "nice-bulliz",
+    "name": "Bulliz",
+    "category": "dessert",
+    "status": "ready",
+    "lat": 43.7052,
+    "lng": 7.269,
+    "score": 31,
+    "address": "19 Rue Pastorelli, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Bulliz+19+Rue+Pastorelli%2C+06000+Nice",
+    "price_level": "€",
+    "opening_hours": "Daily 10:00-18:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "dessert",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Bulliz+Nice",
+      "https://www.bulliz.fr/"
+    ],
+    "notes": "Rue Pastorelli 的泡芙甜點專門店，適合回飯店前帶甜點，補強 Jean Médecin 方向的下午茶選項。"
+  },
+  {
+    "id": "nice-le-17-a-table",
+    "name": "Le 17 à table",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.7049,
+    "lng": 7.2635,
+    "score": 38,
+    "address": "17 Rue d’Italie, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Le+17+%C3%A0+table+17+Rue+d%E2%80%99Italie%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mon-Fri 12:00-14:00, 19:00-21:30（週末公休）",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+17+a+table+Nice",
+      "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/nice/restaurant/le-17-a-table"
+    ],
+    "notes": "Rue d’Italie 上的 Michelin 收錄小館，從飯店步行可達，是住宿周邊少數可升級為預約型正餐的新增主力。"
+  },
+  {
+    "id": "nice-kiosque-chez-tintin",
+    "name": "Kiosque Chez Tintin",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.7078,
+    "lng": 7.2641,
+    "score": 34,
+    "address": "Place du Général de Gaulle, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Kiosque+Chez+Tintin+Place+du+G%C3%A9n%C3%A9ral+de+Gaulle%2C+06000+Nice",
+    "price_level": "€",
+    "opening_hours": "Tue-Sun 09:00-16:00（需依市場日再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Kiosque+Chez+Tintin+Nice",
+      "https://en.nicetourisme.com/places-to-eat/1009-kiosque-chez-tintin"
+    ],
+    "notes": "Libération 廣場市場旁的 socca 補位，從飯店走 10 分鐘內可達，適合市場日快吃快走。"
+  },
+  {
+    "id": "msm-restaurant-du-guesclin",
+    "name": "Restaurant Du Guesclin",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6369,
+    "lng": -1.5115,
+    "score": 33,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Restaurant+Du+Guesclin+Grande+Rue%2C+50170+Le+Mont-Saint-Michel",
+    "price_level": "€€€",
+    "opening_hours": "Daily 11:30-14:00, 18:30-20:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Restaurant+Du+Guesclin+Mont+Saint+Michel",
+      "https://www.duguesclin.com/restaurant-duguesclin/",
+      "https://restaurantguru.com/Hotel-Duguesclin-Le-Mont-Saint-Michel"
+    ],
+    "notes": "島內 Grande Rue 上的旅館餐廳，屬進島動線上的景觀型備案；當 La Mère Poulard 等熱門店客滿時可改選。"
+  },
+  {
+    "id": "msm-mont-burger",
+    "name": "Mont Burger",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6251,
+    "lng": -1.5147,
+    "score": 30,
+    "address": "La Caserne, Route du Mont-Saint-Michel, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Mont+Burger+La+Caserne%2C+Route+du+Mont-Saint-Michel%2C+50170+Le+Mont-Saint-Michel",
+    "price_level": "€",
+    "opening_hours": "Daily 11:30-19:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Mont+Burger+Mont+Saint+Michel",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d19696278-Reviews-Mont_Burger-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html"
+    ],
+    "notes": "La Caserne 的快速漢堡補位，適合晚到或趕接駁時快速解決一餐。"
+  },
+  {
+    "id": "msm-au-pelerin",
+    "name": "Au Pelerin",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6368,
+    "lng": -1.5114,
+    "score": 30,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Au+Pelerin+Grande+Rue%2C+50170+Le+Mont-Saint-Michel",
+    "price_level": "€€",
+    "opening_hours": "Mon-Sat 12:00-19:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Au+Pelerin+Mont+Saint+Michel",
+      "https://restaurantguru.com/Au-Pelerin-Le-Mont-Saint-Michel"
+    ],
+    "notes": "島內較冷門的 pizza / 法式餐館，適合避開主街熱門店排隊時改走次選。"
+  },
+  {
+    "id": "msm-le-tripot",
+    "name": "Le Tripot",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6362,
+    "lng": -1.5107,
+    "score": 30,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Le+Tripot+Grande+Rue%2C+50170+Le+Mont-Saint-Michel",
+    "price_level": "€€",
+    "opening_hours": "Daily 11:30-18:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "lunch"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Tripot+Mont+Saint+Michel",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d1847105-Reviews-Le_Tripot-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html"
+    ],
+    "notes": "Grande Rue 上的午間補位選項，適合進島時快速找座位吃熱食或喝咖啡。"
+  },
+  {
+    "id": "msm-la-fringale",
+    "name": "La Fringale",
+    "category": "creperie",
+    "status": "ready",
+    "lat": 48.6367,
+    "lng": -1.5113,
+    "score": 30,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La+Fringale+Grande+Rue%2C+50170+Le+Mont-Saint-Michel",
+    "price_level": "€",
+    "opening_hours": "Daily 09:30-20:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Fringale+Mont+Saint+Michel",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d2034488-Reviews-La_Fringale-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html"
+    ],
+    "notes": "島內快取型可麗餅/點心店，適合不想排正式餐廳時快速補充熱食。"
+  },
+  {
+    "id": "msm-la-coquille",
+    "name": "La Coquille",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6366,
+    "lng": -1.5111,
+    "score": 31,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La+Coquille+Grande+Rue%2C+50170+Le+Mont-Saint-Michel",
+    "price_level": "€€",
+    "opening_hours": "Daily 11:30-20:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Coquille+Mont+Saint+Michel",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d2201652-Reviews-La_Coquille-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html"
+    ],
+    "notes": "主打海鮮與可麗餅的島內補位店，適合在體驗型店家之外保留一個較務實的正餐備案。"
+  },
+  {
+    "id": "msm-le-chapeau-rouge",
+    "name": "Le Chapeau Rouge",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6369,
+    "lng": -1.5116,
+    "score": 30,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Le+Chapeau+Rouge+Grande+Rue%2C+50170+Le+Mont-Saint-Michel",
+    "price_level": "€€",
+    "opening_hours": "Daily 11:30-19:30（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Chapeau+Rouge+Mont+Saint+Michel",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d8640018-Reviews-Le_Chapeau_Rouge-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html"
+    ],
+    "notes": "島內用餐高峰時的保底型 brasserie，座位量較大，適合團體或不想久等時改選。"
+  },
+  {
+    "id": "msm-les-terrasses-de-la-baie",
+    "name": "Les Terrasses de la Baie",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6118,
+    "lng": -1.5133,
+    "score": 32,
+    "address": "6 Route du Mont Saint Michel, 50170 Beauvoir",
+    "google_maps_url": "https://maps.google.com/?q=Les+Terrasses+de+la+Baie+6+Route+du+Mont+Saint+Michel%2C+50170+Beauvoir",
+    "price_level": "€€",
+    "opening_hours": "Daily 11:30-22:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les+Terrasses+de+la+Baie+Beauvoir",
+      "https://restaurantguru.com/Les-Terrasses-de-la-Baie-Beauvoir"
+    ],
+    "notes": "Beauvoir 路段的較大容量 brasserie，可在島內與 La Caserne 都太擁擠時改往外圍用餐。"
+  },
+  {
+    "id": "msm-le-bar-a-crepes",
+    "name": "Le Bar à Crêpes",
+    "category": "creperie",
+    "status": "ready",
+    "lat": 48.6114,
+    "lng": -1.5127,
+    "score": 30,
+    "address": "9 Route du Mont Saint Michel, 50170 Beauvoir",
+    "google_maps_url": "https://maps.google.com/?q=Le+Bar+%C3%A0+Cr%C3%AApes+9+Route+du+Mont+Saint+Michel%2C+50170+Beauvoir",
+    "price_level": "€",
+    "opening_hours": "Daily 11:30-17:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Bar+a+Crepes+Beauvoir",
+      "https://www.petitfute.co.uk/v5250-mont-saint-michel-50170/c1165-restaurants/c1029-cuisine-francaise-regionale/c6-creperie/1762451-le-bar-a-crepes.html"
+    ],
+    "notes": "Beauvoir 路線上的可麗餅快取補位，適合離開 Mont 前最後補一餐或點心。"
+  },
+  {
+    "id": "msm-la-vieille-auberge",
+    "name": "La Vieille Auberge",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6353,
+    "lng": -1.5116,
+    "score": 31,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La+Vieille+Auberge+Grande+Rue%2C+50170+Le+Mont-Saint-Michel",
+    "price_level": "€€€",
+    "opening_hours": "Daily 12:00-14:00, 18:30-20:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Vieille+Auberge+Mont+Saint+Michel",
+      "https://www.booking.com/hotel/fr/la-vieille-auberge-le-mont-saint-michel.en-gb.html"
+    ],
+    "notes": "歷史旅館附設餐廳，屬於島內晚餐保底選項，適合希望留在 Mont 內解決正餐時使用。"
+  },
+  {
+    "id": "paris-les-freres-bretons",
+    "name": "Les Frères Bretons",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8461,
+    "lng": 2.2945,
+    "score": 34,
+    "address": "90 Rue du Théâtre, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Les+Fr%C3%A8res+Bretons+90+Rue+du+Th%C3%A9%C3%A2tre%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sun 12:00-14:30, 19:00-22:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les+Freres+Bretons+Paris",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d4989697-Reviews-Les_Freres_Bretons-Paris_Ile_de_France.html"
+    ],
+    "notes": "Rue du Théâtre 上的可麗餅正餐補位，從 Cambronne 可步行抵達，能補強住宿附近的平價晚餐選項。"
+  },
+  {
+    "id": "paris-le-cherine",
+    "name": "Le Cherine",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.846,
+    "lng": 2.2944,
+    "score": 32,
+    "address": "62 Rue de la Croix Nivert, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Le+Cherine+62+Rue+de+la+Croix+Nivert%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-22:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Cherine+Paris",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d10771002-Reviews-Le_Cherine-Paris_Ile_de_France.html"
+    ],
+    "notes": "Croix Nivert 上的黎巴嫩餐廳，提供和法式小館不同的晚餐備案，適合連住多天換口味。"
+  },
+  {
+    "id": "paris-il-tronchetto",
+    "name": "Il Tronchetto",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8466,
+    "lng": 2.2877,
+    "score": 32,
+    "address": "114 Rue Saint-Charles, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Il+Tronchetto+114+Rue+Saint-Charles%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-22:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Il+Tronchetto+Paris",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d2223117-Reviews-Il_Tronchetto-Paris_Ile_de_France.html"
+    ],
+    "notes": "Saint-Charles 方向的義式正餐補位，對應酒店西側步行圈，適合不想再往熱區移動時使用。"
+  },
+  {
+    "id": "paris-lescudella",
+    "name": "L'Escudella",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8482,
+    "lng": 2.3134,
+    "score": 39,
+    "address": "41 Avenue de Saxe, 75007 Paris",
+    "google_maps_url": "https://maps.google.com/?q=L%27Escudella+41+Avenue+de+Saxe%2C+75007+Paris",
+    "price_level": "€€€",
+    "opening_hours": "Tue-Sat 12:00-14:00, 19:00-22:00（需旅前再確認）",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=L%27Escudella+Paris",
+      "https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/l-escudella"
+    ],
+    "notes": "Avenue de Saxe 的 Michelin 收錄正餐，從飯店延伸到 7 區仍屬可步行範圍，可作較升級版的住宿周邊晚餐。"
+  },
+  {
+    "id": "paris-la-gauloise",
+    "name": "Restaurant La Gauloise",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8516,
+    "lng": 2.3049,
+    "score": 31,
+    "address": "59 Avenue de la Motte-Picquet, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Restaurant+La+Gauloise+59+Avenue+de+la+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 07:00-01:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Restaurant+La+Gauloise+Paris",
+      "https://fr.restaurantguru.com/La-Gauloise-Paris"
+    ],
+    "notes": "Motte-Picquet 大道上的長時段 brasserie，適合早出晚歸時保留一個幾乎隨時可入座的法式備案。"
+  },
+  {
+    "id": "paris-le-filippo",
+    "name": "Le Filippo",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8447,
+    "lng": 2.3035,
+    "score": 31,
+    "address": "54 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Le+Filippo+54+Rue+Cambronne%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-22:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Filippo+Paris",
+      "https://www.thefork.fr/restaurant/le-filippo-r393013"
+    ],
+    "notes": "就在 Rue Cambronne 上，離飯店非常近，適合回飯店前臨時找一間穩定的義式晚餐。"
+  },
+  {
+    "id": "paris-sushi-q",
+    "name": "Sushi Q",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8449,
+    "lng": 2.2994,
+    "score": 30,
+    "address": "33 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Sushi+Q+33+Rue+Cambronne%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 11:30-14:30, 18:30-22:30（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Sushi+Q+Paris",
+      "https://fr.restaurantguru.com/Sushi-Q-Paris"
+    ],
+    "notes": "Cambronne 線上的日料 / 外帶補位，適合需要快速外帶回飯店或想換成輕食晚餐時使用。"
+  },
+  {
+    "id": "paris-les-favorites",
+    "name": "Les Favorites",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.8442,
+    "lng": 2.3144,
+    "score": 32,
+    "address": "125 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Les+Favorites+125+Rue+Cambronne%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 08:00-23:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les+Favorites+Paris",
+      "https://www.thefork.fr/restaurant/les-favorites-r496731"
+    ],
+    "notes": "Rue Cambronne 東段的全日咖啡/小館，能補足住宿周邊從早餐到晚餐的長時段彈性。"
+  },
+  {
+    "id": "paris-primerose",
+    "name": "Primerose",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8522,
+    "lng": 2.3045,
+    "score": 31,
+    "address": "64 Avenue de la Motte-Picquet, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Primerose+64+Avenue+de+la+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-22:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Primerose+Paris",
+      "https://fr.restaurantguru.com/Primerose-Paris"
+    ],
+    "notes": "Motte-Picquet 上的傳統 bistro 補位，步行可接到 Eiffel / École Militaire 方向行程。"
+  },
+  {
+    "id": "paris-gwons-dining",
+    "name": "Gwon's Dining",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8448,
+    "lng": 2.3024,
+    "score": 30,
+    "address": "51 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Gwon%27s+Dining+51+Rue+Cambronne%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sun 18:30-22:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Gwons+Dining+Paris",
+      "https://www.thefork.fr/restaurant/gwon-s-dining-r416695"
+    ],
+    "notes": "Cambronne 周邊的韓式晚餐補位，適合連住多晚時保留非法餐的就近替代方案。"
   }
 ]

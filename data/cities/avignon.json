@@ -615,5 +615,263 @@
       "https://www.petitfute.com/v33549-avignon-84000/c1165-restaurants/c4-cuisine-francaise/1681959-le-joat.html"
     ],
     "notes": "【飯店步行約 12 分鐘：19 Rue des Trois Faucons（Fou de Fafa 隔壁）】Michelin Guide + Petit Futé + TheFork 收錄，Pollen 出身主廚 Joris Tixador 主理。現代法式創作料理，食材精選，季節性菜單。套餐 €27（午餐二道）至 €60（六道晚餐）。週一~六 12:00-13:30 & 19:00-21:30；週日公休。強烈建議預約。"
+  },
+  {
+    "id": "avignon-cafe-saint-jean",
+    "name": "Cafe Saint Jean",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.9434,
+    "lng": 4.8025,
+    "score": 31,
+    "address": "8 Rue du Général Leclerc, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Cafe+Saint+Jean+8+Rue+du+G%C3%A9n%C3%A9ral+Leclerc%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Daily 08:00-22:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "lunch"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Cafe+Saint+Jean+Avignon",
+      "https://www.thefork.com/restaurant/cafe-saint-jean-r647111",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d4341381-Reviews-Cafe_Saint_Jean-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "位於飯店走向 Avignon Centre 車站與舊城入口的動線上，適合補早餐、咖啡或簡單午餐；屬於住宿附近低風險臨時補位。"
+  },
+  {
+    "id": "avignon-le-26",
+    "name": "Le 26",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.94704,
+    "lng": 4.80845,
+    "score": 34,
+    "address": "26 Rue des Trois Faucons, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Le+26+26+Rue+des+Trois+Faucons%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sun 12:00-14:00, 19:00-21:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+26+Avignon",
+      "https://www.thefork.com/restaurant/le-26-r571103",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d7763299-Reviews-Le_26-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Rue des Trois Faucons 上的新補位晚餐選項，從飯店穿過舊城主動線即可抵達；適合既有主力店客滿時改訂。"
+  },
+  {
+    "id": "avignon-tulipe-cafe",
+    "name": "Tulipe Café",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.94395,
+    "lng": 4.80722,
+    "score": 31,
+    "address": "32 Rue Thiers, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Tulipe+Caf%C3%A9+32+Rue+Thiers%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Daily 08:30-17:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "lunch"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Tulipe+Cafe+Avignon",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d25100210-Reviews-Tulipe_Cafe-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "靠近車站與舊城入口，適合進出城時快速補咖啡、甜點或簡單午餐，能補強飯店到舊城之間的白天備案。"
+  },
+  {
+    "id": "avignon-french-coffee-shop",
+    "name": "French Coffee Shop",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.94451,
+    "lng": 4.80572,
+    "score": 30,
+    "address": "22 Rue de la République, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=French+Coffee+Shop+22+Rue+de+la+R%C3%A9publique%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Mon-Sat 08:00-19:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=French+Coffee+Shop+Avignon",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d6501344-Reviews-French_Coffee_Shop-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Rue de la République 上的連鎖咖啡補位，午後休息風險較低；適合飯店附近臨時外帶咖啡與點心。"
+  },
+  {
+    "id": "avignon-regusto",
+    "name": "Regusto",
+    "category": "dessert",
+    "status": "ready",
+    "lat": 43.9449,
+    "lng": 4.80517,
+    "score": 30,
+    "address": "6 Rue de la République, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Regusto+6+Rue+de+la+R%C3%A9publique%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Daily 11:00-20:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "dessert",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Regusto+Avignon",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d23228744-Reviews-Regusto-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "位於飯店與舊城核心之間，可作午後甜點或外帶冰品補給，補足住宿動線上的甜食備案。"
+  },
+  {
+    "id": "avignon-le-cid-cafe",
+    "name": "Le Cid Café",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.94901,
+    "lng": 4.80585,
+    "score": 31,
+    "address": "13 Place de l'Horloge, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Le+Cid+Caf%C3%A9+13+Place+de+l%27Horloge%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Daily 09:00-23:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Cid+Cafe+Avignon",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d1171836-Reviews-Le_Cid_Cafe-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Place de l’Horloge 大露台型餐酒館，營業時段彈性高，適合住宿點晚回城時臨時入座。"
+  },
+  {
+    "id": "avignon-green-bagel-cafe",
+    "name": "Green Bagel Café",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.94822,
+    "lng": 4.806,
+    "score": 32,
+    "address": "9 Rue Saint-Agricol, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Green+Bagel+Caf%C3%A9+9+Rue+Saint-Agricol%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Daily 10:00-18:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "lunch",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Green+Bagel+Cafe+Avignon",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d14953455-Reviews-Green_Bagel_Cafe-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Saint-Agricol 動線上的 bagel / 輕食補位，適合午餐與外帶，能強化飯店周邊非傳統法餐的快速方案。"
+  },
+  {
+    "id": "avignon-patisserie-vernet",
+    "name": "Pâtisserie Vernet",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.94648,
+    "lng": 4.80454,
+    "score": 32,
+    "address": "30 Rue Vernet, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=P%C3%A2tisserie+Vernet+30+Rue+Vernet%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Tue-Sat 08:00-18:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "breakfast",
+      "dessert",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Patisserie+Vernet+Avignon",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d4460931-Reviews-Patisserie_Vernet-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Vernet 街上的糕點外帶點，適合早餐、下午茶與野餐補給，可補足飯店周邊甜點/麵包覆蓋。"
+  },
+  {
+    "id": "avignon-chez-lisette",
+    "name": "Chez Lisette",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.94613,
+    "lng": 4.80842,
+    "score": 31,
+    "address": "18 Place Pie, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Chez+Lisette+18+Place+Pie%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Tue-Sun 09:00-18:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "dessert"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Chez+Lisette+Avignon",
+      "https://wanderlog.com/list/geoCategory/4848/best-bakeries-in-avignon"
+    ],
+    "notes": "Place Pie / Les Halles 一帶的甜點咖啡補位，適合市場區逛完後就近休息，延伸住宿附近下午茶備案。"
+  },
+  {
+    "id": "avignon-le-goeland",
+    "name": "Le Goéland",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.94651,
+    "lng": 4.80416,
+    "score": 30,
+    "address": "3 Rue de la Petite Fusterie, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Le+Go%C3%A9land+3+Rue+de+la+Petite+Fusterie%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Daily 09:00-20:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "lunch"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Goeland+Avignon",
+      "https://www.tripadvisor.com/Restaurant_Review-g187212-d11690397-Reviews-Le_Goeland-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "靠近 Rue de la Petite Fusterie 的輕食/咖啡補位，適合在舊城南側活動時就近解決飲料與簡餐。"
   }
 ]
