@@ -14,7 +14,11 @@
     "visit_priority": "high",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://uneboulangerie.fr/75/paris/maison-landemaine-cambronne-10vi",
       "https://www.meilleursrestaurantsparis.fr/categorie/boulangerie/la-boulange-de-cambronne-boulangerie-paris-15",
@@ -27,7 +31,7 @@
     "name": "Café Cambronne",
     "category": "cafe",
     "status": "ready",
-    "lat": 48.8420,
+    "lat": 48.842,
     "lng": 2.3005,
     "score": 33,
     "address": "5 Place Cambronne, 75015 Paris",
@@ -37,7 +41,11 @@
     "visit_priority": "medium",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "dinner"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "dinner"
+    ],
     "source_urls": [
       "https://www.tripadvisor.com/Restaurant_Review-g187147-d2298449-Reviews-Cafe_Cambronne-Paris_Ile_de_France.html",
       "https://unilocal.fr/france/paris/caffe-cambronne-58364"
@@ -85,7 +93,12 @@
       "https://www.le-fooding.com/restaurant/le-comptoir-du-relais-paris",
       "https://www.tripadvisor.com/Restaurant_Review-Le_Comptoir_du_Relais-Paris"
     ],
-    "notes": "Saint-Germain 核心地標 Bistro，Michelin Bib Gourmand。週間晚餐需提前預約；週末長午餐可現場等位。覆蓋左岸 6 區行程。"
+    "notes": "Saint-Germain 核心地標 Bistro，Michelin Bib Gourmand。週間晚餐需提前預約；週末長午餐可現場等位。覆蓋左岸 6 區行程。可由住宿點搭同側左岸動線快速抵達，作為住宿附近延伸晚餐備選。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "paris-frenchie",
@@ -134,7 +147,7 @@
     "name": "Jacques Genin",
     "category": "dessert",
     "status": "ready",
-    "lat": 48.8620,
+    "lat": 48.862,
     "lng": 2.3639,
     "score": 39,
     "address": "133 Rue de Turenne, 75003 Paris",
@@ -231,7 +244,13 @@
       "https://maps.google.com/?q=Cafe+de+Flore+Paris",
       "https://cafedeflore.fr/"
     ],
-    "notes": "Saint-Germain 經典地標咖啡館，觀光區需留意等位。Le Comptoir du Relais 步行 2 分鐘可達，可搭配同區行程。"
+    "notes": "Saint-Germain 經典地標咖啡館，觀光區需留意等位。Le Comptoir du Relais 步行 2 分鐘可達，可搭配同區行程。雖非最近一圈，但仍屬左岸可從住宿點直達的咖啡館備案，可納入住宿周邊延伸清單。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "dessert"
+    ]
   },
   {
     "id": "paris-maison-pichard",
@@ -251,7 +270,11 @@
     "visit_priority": "high",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://www.myboulange.fr/75/paris/la-maison-pichard-paris-73153",
       "https://www.justacote.com/paris-75015/boulangerie-patisserie/boulangerie-patisserie-pichard-7482.htm",
@@ -276,7 +299,9 @@
     "visit_priority": "high",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://www.thefork.fr/restaurant/wallace-r752307",
       "https://www.tripadvisor.com/Restaurant_Review-g187147-d7034732-Reviews-Le_Wallace-Paris_Ile_de_France.html",
@@ -299,7 +324,10 @@
     "visit_priority": "medium",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["dinner", "takeout"],
+    "meal_tags": [
+      "dinner",
+      "takeout"
+    ],
     "source_urls": [
       "https://www.meltslowsmokedbarbecue.com/menu-melt-cambronne",
       "https://www.parisgourmand.com/restaurant-paris/melt-cambronne.html",
@@ -313,7 +341,7 @@
     "category": "restaurant",
     "status": "ready",
     "lat": 48.8467,
-    "lng": 2.2920,
+    "lng": 2.292,
     "score": 38,
     "address": "64 Rue de la Croix Nivert, 75015 Paris",
     "google_maps_url": "https://maps.google.com/?q=La+Veraison+Paris+15",
@@ -322,7 +350,9 @@
     "visit_priority": "high",
     "reservation_required": true,
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://www.laveraison.fr/informations-contact/",
       "https://www.thefork.com/restaurant/la-veraison-paris-15",
@@ -345,7 +375,9 @@
     "visit_priority": "high",
     "reservation_required": true,
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://www.neigedete.fr/fr/",
       "https://guide.michelin.com/en/ile-de-france/paris/restaurant/neige-d-ete",
@@ -368,7 +400,9 @@
     "visit_priority": "high",
     "reservation_required": true,
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/beurre-noisette",
       "https://www.restaurantbeurrenoisette.com/",
@@ -392,7 +426,9 @@
     "visit_priority": "medium",
     "reservation_required": true,
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://www.tripadvisor.com/Restaurant_Review-g187147-d718190-Reviews-L_Os_a_Moelle-Paris_Ile_de_France.html",
       "https://fr.gaultmillau.com/en/restaurants/l-os-a-moelle-restaurant-paris-15",
@@ -426,7 +462,7 @@
     "name": "Le Servan",
     "category": "restaurant",
     "status": "ready",
-    "lat": 48.8610,
+    "lat": 48.861,
     "lng": 2.3815,
     "score": 41,
     "address": "32 Rue Saint-Maur, 75011 Paris",
@@ -478,7 +514,9 @@
     "visit_priority": "high",
     "reservation_required": true,
     "hotel_nearby": true,
-    "meal_tags": ["dinner"],
+    "meal_tags": [
+      "dinner"
+    ],
     "source_urls": [
       "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/biscotte",
       "https://www.restaurant-biscotte.com/en/",
@@ -501,7 +539,10 @@
     "visit_priority": "medium",
     "reservation_required": true,
     "hotel_nearby": true,
-    "meal_tags": ["lunch", "dinner"],
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
     "source_urls": [
       "https://guide.michelin.com/us/en/ile-de-france/paris/restaurant/l-accolade508642",
       "https://www.laccoladeparis.com/",
@@ -536,7 +577,7 @@
     "category": "restaurant",
     "status": "ready",
     "lat": 48.8528,
-    "lng": 2.3850,
+    "lng": 2.385,
     "score": 41,
     "address": "1 Rue Jules-Valles, 75011 Paris",
     "google_maps_url": "https://maps.google.com/?q=Le+Chardenoux+Paris",
@@ -587,7 +628,11 @@
     "visit_priority": "medium",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://maps.google.com/?q=Le+Moulin+de+la+Croix+Nivert+39+Rue+de+la+Croix+Nivert,+75015+Paris",
       "https://www.tripadvisor.fr/Restaurant_Review-g187147-d15017991-Reviews-Le_Moulin_de_la_Croix_Nivert-Paris_Ile_de_France.html",
@@ -611,7 +656,11 @@
     "visit_priority": "medium",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://www.google.com/maps/search/10+Rue+du+Laos,+75015+Paris",
       "https://fr.mappy.com/poi/65602bdf1db9922353205556",
@@ -635,7 +684,11 @@
     "visit_priority": "medium",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://quatreheures.fr/",
       "https://www.pagesjaunes.fr/pros/63502328",
@@ -659,7 +712,11 @@
     "visit_priority": "medium",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://maps.google.com/?q=22+Rue+Cambronne,+75015+Paris",
       "https://www.pagesjaunes.fr/pros/56209890",
@@ -684,7 +741,11 @@
     "visit_priority": "medium",
     "reservation_required": false,
     "hotel_nearby": true,
-    "meal_tags": ["coffee", "breakfast", "takeout"],
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
     "source_urls": [
       "https://mercijerome.com/boulangerie-de-la-motte-picquet/",
       "https://maps.google.com/?q=66+Avenue+de+la+Motte-Picquet,+75015+Paris,+France",
@@ -698,7 +759,7 @@
     "name": "L'Ami Jean",
     "category": "restaurant",
     "status": "ready",
-    "lat": 48.8600,
+    "lat": 48.86,
     "lng": 2.3033,
     "score": 42,
     "address": "27 Rue Malar, 75007 Paris",
@@ -713,7 +774,12 @@
       "https://fr.gaultmillau.com/en/restaurants/l-ami-jean",
       "https://www.tripadvisor.com/Restaurant_Review-g187147-d718818-Reviews-L_Ami_Jean-Paris_Ile_de_France.html"
     ],
-    "notes": "7 區知名傳統 Bistro，Michelin 推薦 + Gault&Millau 評分。主廚 Stéphane Jégo 料理融合法式與巴斯克風味，份量紮實。距 Eiffel Tower 步行約 10 分鐘，適合作為 7 區主力晚餐。"
+    "notes": "7 區知名傳統 Bistro，Michelin 推薦 + Gault&Millau 評分。主廚 Stéphane Jégo 料理融合法式與巴斯克風味，份量紮實。距 Eiffel Tower 步行約 10 分鐘，適合作為 7 區主力晚餐。飯店步行約 18 分鐘可達，屬住宿附近高品質預約型 bistro。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "paris-le-casse-noix",
@@ -721,7 +787,7 @@
     "category": "restaurant",
     "status": "ready",
     "lat": 48.8546,
-    "lng": 2.2900,
+    "lng": 2.29,
     "score": 41,
     "address": "56 Rue de la Fédération, 75015 Paris",
     "google_maps_url": "https://maps.google.com/?q=Le+Casse+Noix+Paris",
@@ -730,7 +796,10 @@
     "visit_priority": "high",
     "reservation_required": true,
     "hotel_nearby": true,
-    "meal_tags": ["lunch", "dinner"],
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
     "source_urls": [
       "https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/le-casse-noix",
       "https://www.le-cassenoix.fr/",
@@ -759,7 +828,12 @@
       "https://fr.gaultmillau.com/en/restaurants/la-fontaine-de-mars",
       "https://www.tripadvisor.com/Restaurant_Review-g187147-d718664-Reviews-La_Fontaine_de_Mars-Paris_Ile_de_France.html"
     ],
-    "notes": "7 區經典巴黎 Bistro，1908 年開業至今。主打西南法料理（cassoulet、confit de canard），紅白格紋桌布經典氛圍。距 Eiffel Tower 約 5 分鐘步行，Le Fooding + Gault&Millau 收錄。每日午晚餐營業。"
+    "notes": "7 區經典巴黎 Bistro，1908 年開業至今。主打西南法料理（cassoulet、confit de canard），紅白格紋桌布經典氛圍。距 Eiffel Tower 約 5 分鐘步行，Le Fooding + Gault&Millau 收錄。每日午晚餐營業。從 Cambronne 住宿點步行約 15 分鐘可達，適合作為 Eiffel 一帶住宿附近經典 bistro 選項。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "paris-stohrer",
@@ -797,7 +871,9 @@
     "opening_hours": "Tue-Fri 08:30-16:30; Sat 10:00-18:00; Sun-Mon Closed",
     "visit_priority": "medium",
     "reservation_required": false,
-    "meal_tags": ["coffee"],
+    "meal_tags": [
+      "coffee"
+    ],
     "source_urls": [
       "https://specialtycoffee.paris/shops/boot-cafe",
       "https://coffeebook.net/best-coffee-shop-paris/",

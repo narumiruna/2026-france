@@ -19,7 +19,12 @@
       "https://www.tripadvisor.com/Restaurant_Review-La_Fourchette-Avignon",
       "https://www.viamichelin.com/web/Restaurant/Avignon-La_Fourchette"
     ],
-    "notes": "普羅旺斯風格小酒館，在地老字號，週五晚間常客滿需提前預約。主力晚餐首選。"
+    "notes": "普羅旺斯風格小酒館，在地老字號，週五晚間常客滿需提前預約。主力晚餐首選。距飯店約 12 分鐘步行，適合納入住宿周邊主力晚餐清單。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "avignon-lagape",
@@ -41,7 +46,12 @@
       "https://www.tripadvisor.com/Restaurant_Review-LAgape-Avignon",
       "https://www.viamichelin.com/web/Restaurant/Avignon-LAgape"
     ],
-    "notes": "Place des Carmes 廣場旁，動線友善。菜單以市場當日食材為主，偏輕食現代法式。適合行程中段用餐，建議提前一日預約。"
+    "notes": "Place des Carmes 廣場旁，動線友善。菜單以市場當日食材為主，偏輕食現代法式。適合行程中段用餐，建議提前一日預約。從飯店穿越舊城主動線可達，適合作為住宿附近預約型午晚餐。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "avignon-les-halles-bistro",
@@ -62,7 +72,12 @@
       "https://www.tripadvisor.com/Restaurant_Review-g187212-d13219971-Reviews-Cuisine_Centr_Halles-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
       "https://en.grandavignon-destinations.fr/restaurant/cuisine-centrhalles/"
     ],
-    "notes": "【⚠️ 名稱更正】原記為「Les Halles Bistro」，實際餐廳為 Cuisine Centr'Halles，主廚 Jonathan Chiri。位於 Les Halles Centrales 市場內（18 Place Pie）。每日更換菜單，現場明爐料理，兼辦料理教學。Michelin/Le Fooding 均未收錄，屬當地高人氣非指南型餐廳。官方網站：cuisine-centrhalles-restaurant-avignon.com"
+    "notes": "【⚠️ 名稱更正】原記為「Les Halles Bistro」，實際餐廳為 Cuisine Centr'Halles，主廚 Jonathan Chiri。位於 Les Halles Centrales 市場內（18 Place Pie）。每日更換菜單，現場明爐料理，兼辦料理教學。Michelin/Le Fooding 均未收錄，屬當地高人氣非指南型餐廳。官方網站：cuisine-centrhalles-restaurant-avignon.com。從飯店步行進舊城後即可順路安排，適合中午市場型用餐。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "takeout"
+    ]
   },
   {
     "id": "avignon-latte-re",
@@ -84,7 +99,12 @@
       "https://restaurant.restaurants-de-france.fr/l-atelier-de-belinda-1960243.html",
       "https://fr.restaurantguru.com/LAtelier-de-Belinda-Avignon"
     ],
-    "notes": "【⚠️ 地址更正】正確地址為 17 Place des Corps Saints（非 48）。無官方網站。Michelin/Le Fooding 均未收錄。約 26 席小館，菜單每日更換，以黑板書寫。Tripadvisor 4.7-4.8/5（數百則評語），評價極佳。€20-35，有素食/純素/無麩質選項。電話：+33 4 90 82 69 53"
+    "notes": "【⚠️ 地址更正】正確地址為 17 Place des Corps Saints（非 48）。無官方網站。Michelin/Le Fooding 均未收錄。約 26 席小館，菜單每日更換，以黑板書寫。Tripadvisor 4.7-4.8/5（數百則評語），評價極佳。€20-35，有素食/純素/無麩質選項。電話：+33 4 90 82 69 53。可從飯店沿 Bd Saint-Dominique / 舊城步行約 10-12 分鐘抵達，適合作為住宿附近午晚餐備選。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "avignon-christian-etienne",
@@ -315,7 +335,12 @@
       "https://www.tripadvisor.com/Restaurant_Review-g187212-d6154502-Reviews-Le_Gout_du_Jour-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
       "https://avignon-tourisme.com/en/offres/restaurant-le-gout-du-jour-avignon-en-4143638/"
     ],
-    "notes": "【景點周邊：舊城區，Palais des Papes 步行約 5 分鐘】Michelin 推薦。主廚 Julien Chazal 主理視覺精緻的現代法式季節料理。午間套餐 €25（含一杯酒）；晚間品嚐菜單 3 道 €55–€60 / 4 道 €69 / 6 道 €80–€85。約 40 席，氣氛溫馨。週二、三公休，需提前預約。"
+    "notes": "【景點周邊：舊城區，Palais des Papes 步行約 5 分鐘】Michelin 推薦。主廚 Julien Chazal 主理視覺精緻的現代法式季節料理。午間套餐 €25（含一杯酒）；晚間品嚐菜單 3 道 €55–€60 / 4 道 €69 / 6 道 €80–€85。約 40 席，氣氛溫馨。週二、三公休，需提前預約。由飯店步行約 12 分鐘可達，屬可安排在住宿周邊的穩定晚餐選項。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "avignon-brasserie-horloge",
@@ -338,7 +363,12 @@
       "https://en.grandavignon-destinations.fr/restaurant/brasserie-de-lhorloge/",
       "https://www.provenceguide.com/restaurants/avignon/brasserie-de-lhorloge/provence-5091992-1.html"
     ],
-    "notes": "【景點周邊：Place de l'Horloge 廣場正面，對望歌劇院】普羅旺斯傳統小酒館，招牌菜 Agnolade d'Avignon（慢燉羊肉）。每日午晚全開，無需預約，是行程彈性日的穩定備選。主菜 €19–€26，平均餐費約 €25–€33/人。"
+    "notes": "【景點周邊：Place de l'Horloge 廣場正面，對望歌劇院】普羅旺斯傳統小酒館，招牌菜 Agnolade d'Avignon（慢燉羊肉）。每日午晚全開，無需預約，是行程彈性日的穩定備選。主菜 €19–€26，平均餐費約 €25–€33/人。距飯店約 12-15 分鐘步行，營業彈性高，可作住宿附近臨時正餐補位。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "avignon-grands-bateaux-provence",
@@ -513,7 +543,7 @@
     "google_maps_url": "https://maps.google.com/?q=Première+Édition+Avignon",
     "price_level": "€€€",
     "opening_hours": "Tue-Sat 12:15-14:00; Wed-Sat 19:15-22:00; Mon & Sun closed",
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "landmark_nearby": "Palais des Papes",
     "meal_tags": [
       "lunch",
@@ -528,7 +558,7 @@
       "https://www.tripadvisor.com/Restaurant_Review-g187212-d24172501-Reviews-Premiere_Edition-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html",
       "https://premiereedition.fr/"
     ],
-    "notes": "【舊城區：Rue Prévôt，鄰近 Palais des Papes】Michelin Guide France 2025 + Le Fooding + Gault&Millau 三指南同步收錄。雙主廚（Aurélie & Jonathan）料理結合普羅旺斯食材與創意 comfort food 手法，Tripadvisor 4.4/5。週二~六午餐（12:15-14:00），週三~六晚餐（19:15-22:00）；週一、日全日公休。需提前預約。"
+    "notes": "【舊城區：Rue Prévôt，鄰近 Palais des Papes】Michelin Guide France 2025 + Le Fooding + Gault&Millau 三指南同步收錄。雙主廚（Aurélie & Jonathan）料理結合普羅旺斯食材與創意 comfort food 手法，Tripadvisor 4.4/5。週二~六午餐（12:15-14:00），週三~六晚餐（19:15-22:00）；週一、日全日公休。需提前預約。雖屬預約型餐廳，但仍在飯店步行 15 分鐘左右範圍內，可列為住宿附近高品質備案。"
   },
   {
     "id": "avignon-bibendum",

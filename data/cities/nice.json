@@ -17,7 +17,12 @@
       "https://maps.google.com/?q=La+Merenda+Nice",
       "https://guide.michelin.com/tw/zh_TW/provence-alpes-cote-dazur/nice/restaurant/la-merenda"
     ],
-    "notes": "Michelin Bib Gourmand。包含 Pissaladière 等在地經典，對應 Nice 優先項目。現金付款，不接受電話訂位，需親自前往登記。"
+    "notes": "Michelin Bib Gourmand。包含 Pissaladière 等在地經典，對應 Nice 優先項目。現金付款，不接受電話訂位，需親自前往登記。由飯店步行前往舊城約 15 分鐘，可納入住宿附近主力晚餐名單。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "nice-bistrot-antoine",
@@ -39,7 +44,12 @@
       "https://www.le-fooding.com/restaurant/le-bistrot-dantoine-nice",
       "https://www.tripadvisor.com/Restaurant_Review-Le_Bistrot_d_Antoine-Nice"
     ],
-    "notes": "Vieux Nice 老街核心，Michelin Bib Gourmand 收錄。主打 Daube niçoise 與傳統 Niçoise 菜餚。週末訂位競爭高，建議提前 2-3 天預約。"
+    "notes": "Vieux Nice 老街核心，Michelin Bib Gourmand 收錄。主打 Daube niçoise 與傳統 Niçoise 菜餚。週末訂位競爭高，建議提前 2-3 天預約。與飯店之間可沿 Jean Médecin / 舊城動線步行抵達，適合住宿附近正餐安排。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "nice-acchiardo",
@@ -60,7 +70,12 @@
       "https://www.explorenicecotedazur.com/en/restaurant/restaurant-acchiardo/",
       "https://restaurantguru.com/Acchiardo-Nice"
     ],
-    "notes": "1927 年創業第四代家族餐廳，傳統 Niçoise 料理代表。無官網、無 Michelin、無 Le Fooding 收錄。Tripadvisor 4.5/5（2,000+ 則）。營業時段請旅前電話確認（+33 4 93 85 51 16），週末可能公休。強烈建議訂位。"
+    "notes": "1927 年創業第四代家族餐廳，傳統 Niçoise 料理代表。無官網、無 Michelin、無 Le Fooding 收錄。Tripadvisor 4.5/5（2,000+ 則）。營業時段請旅前電話確認（+33 4 93 85 51 16），週末可能公休。強烈建議訂位。距飯店約 15 分鐘步行，屬住宿附近可直接安排的在地晚餐備案。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "nice-chez-pipo",
@@ -262,7 +277,7 @@
     "opening_hours": "Tue-Sun 12:15-14:00, 19:15-21:30",
     "visit_priority": "high",
     "reservation_required": true,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "meal_tags": [
       "dinner"
     ],
@@ -272,7 +287,7 @@
       "https://fr.gaultmillau.com/en/restaurants/chez-davia",
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d1326339-Reviews-Restaurant_Chez_Davia-Nice"
     ],
-    "notes": "Michelin Bib Gourmand，1953 年起第三代家族傳承。主打在地 Niçoise 菜（barbajuans、osso buco、linguine au pistou）。位於 Vieux Nice 周邊，飯店步行約 20 分鐘。週一公休，建議提前訂位。"
+    "notes": "Michelin Bib Gourmand，1953 年起第三代家族傳承。主打在地 Niçoise 菜（barbajuans、osso buco、linguine au pistou）。位於 Vieux Nice 周邊，飯店步行約 20 分鐘。週一公休，建議提前訂位。距飯店約 12-15 分鐘步行，適合作為住宿附近的傳統 Niçoise 晚餐選項。"
   },
   {
     "id": "nice-boulangerie-jeannot",
@@ -435,14 +450,18 @@
     "opening_hours": "Daily 10:00-22:30",
     "visit_priority": "high",
     "reservation_required": true,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "source_urls": [
       "https://guide.michelin.com/en/provence-alpes-cote-dazur/nice/restaurant/le-bistrot-gourmand",
       "https://www.bistrotgourmand.net/",
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d6587612-Reviews-Le_Bistrot_Gourmand-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
       "https://www.pagesjaunes.fr/pros/02404743"
     ],
-    "notes": "Michelin Bib Gourmand。近 Place Masséna，以法式料理與時令食材為主，全日開放從早餐至晚餐。菜色包括魚湯、鴨胸、燉牛臉頰等。平均消費約 €42–45 每人；建議訂位尤其晚餐時段。"
+    "notes": "Michelin Bib Gourmand。近 Place Masséna，以法式料理與時令食材為主，全日開放從早餐至晚餐。菜色包括魚湯、鴨胸、燉牛臉頰等。平均消費約 €42–45 每人；建議訂位尤其晚餐時段。從飯店步行約 10 分鐘可達，位於 Jean Médecin / Masséna 動線上，可作住宿附近正餐備案。",
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "nice-bar-des-oiseaux",
