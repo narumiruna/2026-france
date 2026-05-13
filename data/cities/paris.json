@@ -881,5 +881,258 @@
       "https://fr-foodie.org/paris/boot-cafe/"
     ],
     "notes": "Le Marais 精品咖啡指標名店，由舊鞋匠鋪改裝。使用 La Marzocco 與 La Cabra 豆源，主打 espresso、V60、Chemex。巴黎第三波咖啡文化代表，適合 Le Marais 行程中安排咖啡時段。"
+  },
+  {
+    "id": "paris-les-freres-bretons",
+    "name": "Les Frères Bretons",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8461,
+    "lng": 2.2945,
+    "score": 34,
+    "address": "90 Rue du Théâtre, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Les+Fr%C3%A8res+Bretons+90+Rue+du+Th%C3%A9%C3%A2tre%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sun 12:00-14:30, 19:00-22:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les+Freres+Bretons+Paris",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d4989697-Reviews-Les_Freres_Bretons-Paris_Ile_de_France.html"
+    ],
+    "notes": "Rue du Théâtre 上的可麗餅正餐補位，從 Cambronne 可步行抵達，能補強住宿附近的平價晚餐選項。"
+  },
+  {
+    "id": "paris-le-cherine",
+    "name": "Le Cherine",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.846,
+    "lng": 2.2944,
+    "score": 32,
+    "address": "62 Rue de la Croix Nivert, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Le+Cherine+62+Rue+de+la+Croix+Nivert%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-22:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Cherine+Paris",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d10771002-Reviews-Le_Cherine-Paris_Ile_de_France.html"
+    ],
+    "notes": "Croix Nivert 上的黎巴嫩餐廳，提供和法式小館不同的晚餐備案，適合連住多天換口味。"
+  },
+  {
+    "id": "paris-il-tronchetto",
+    "name": "Il Tronchetto",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8466,
+    "lng": 2.2877,
+    "score": 32,
+    "address": "114 Rue Saint-Charles, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Il+Tronchetto+114+Rue+Saint-Charles%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-22:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Il+Tronchetto+Paris",
+      "https://www.tripadvisor.com/Restaurant_Review-g187147-d2223117-Reviews-Il_Tronchetto-Paris_Ile_de_France.html"
+    ],
+    "notes": "Saint-Charles 方向的義式正餐補位，對應酒店西側步行圈，適合不想再往熱區移動時使用。"
+  },
+  {
+    "id": "paris-lescudella",
+    "name": "L'Escudella",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8482,
+    "lng": 2.3134,
+    "score": 39,
+    "address": "41 Avenue de Saxe, 75007 Paris",
+    "google_maps_url": "https://maps.google.com/?q=L%27Escudella+41+Avenue+de+Saxe%2C+75007+Paris",
+    "price_level": "€€€",
+    "opening_hours": "Tue-Sat 12:00-14:00, 19:00-22:00（需旅前再確認）",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=L%27Escudella+Paris",
+      "https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/l-escudella"
+    ],
+    "notes": "Avenue de Saxe 的 Michelin 收錄正餐，從飯店延伸到 7 區仍屬可步行範圍，可作較升級版的住宿周邊晚餐。"
+  },
+  {
+    "id": "paris-la-gauloise",
+    "name": "Restaurant La Gauloise",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8516,
+    "lng": 2.3049,
+    "score": 31,
+    "address": "59 Avenue de la Motte-Picquet, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Restaurant+La+Gauloise+59+Avenue+de+la+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 07:00-01:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Restaurant+La+Gauloise+Paris",
+      "https://fr.restaurantguru.com/La-Gauloise-Paris"
+    ],
+    "notes": "Motte-Picquet 大道上的長時段 brasserie，適合早出晚歸時保留一個幾乎隨時可入座的法式備案。"
+  },
+  {
+    "id": "paris-le-filippo",
+    "name": "Le Filippo",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8447,
+    "lng": 2.3035,
+    "score": 31,
+    "address": "54 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Le+Filippo+54+Rue+Cambronne%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-22:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Filippo+Paris",
+      "https://www.thefork.fr/restaurant/le-filippo-r393013"
+    ],
+    "notes": "就在 Rue Cambronne 上，離飯店非常近，適合回飯店前臨時找一間穩定的義式晚餐。"
+  },
+  {
+    "id": "paris-sushi-q",
+    "name": "Sushi Q",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8449,
+    "lng": 2.2994,
+    "score": 30,
+    "address": "33 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Sushi+Q+33+Rue+Cambronne%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 11:30-14:30, 18:30-22:30（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Sushi+Q+Paris",
+      "https://fr.restaurantguru.com/Sushi-Q-Paris"
+    ],
+    "notes": "Cambronne 線上的日料 / 外帶補位，適合需要快速外帶回飯店或想換成輕食晚餐時使用。"
+  },
+  {
+    "id": "paris-les-favorites",
+    "name": "Les Favorites",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.8442,
+    "lng": 2.3144,
+    "score": 32,
+    "address": "125 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Les+Favorites+125+Rue+Cambronne%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 08:00-23:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les+Favorites+Paris",
+      "https://www.thefork.fr/restaurant/les-favorites-r496731"
+    ],
+    "notes": "Rue Cambronne 東段的全日咖啡/小館，能補足住宿周邊從早餐到晚餐的長時段彈性。"
+  },
+  {
+    "id": "paris-primerose",
+    "name": "Primerose",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8522,
+    "lng": 2.3045,
+    "score": 31,
+    "address": "64 Avenue de la Motte-Picquet, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Primerose+64+Avenue+de+la+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-22:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Primerose+Paris",
+      "https://fr.restaurantguru.com/Primerose-Paris"
+    ],
+    "notes": "Motte-Picquet 上的傳統 bistro 補位，步行可接到 Eiffel / École Militaire 方向行程。"
+  },
+  {
+    "id": "paris-gwons-dining",
+    "name": "Gwon's Dining",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8448,
+    "lng": 2.3024,
+    "score": 30,
+    "address": "51 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Gwon%27s+Dining+51+Rue+Cambronne%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sun 18:30-22:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Gwons+Dining+Paris",
+      "https://www.thefork.fr/restaurant/gwon-s-dining-r416695"
+    ],
+    "notes": "Cambronne 周邊的韓式晚餐補位，適合連住多晚時保留非法餐的就近替代方案。"
   }
 ]

@@ -778,5 +778,258 @@
       "https://nicepresse.com/nice-le-bonjour-un-restaurant-a-lambiance-100-locale/"
     ],
     "notes": "精確地址：6 Place de la Gare du Sud。無官網，無 Michelin、無 Le Fooding 收錄。Petit Futé 有收錄（普羅旺斯料理分類）。營業時段為咖啡館型（非晚餐）：週一至六 08:00–19:00、週日 08:00–13:30，**不提供晚餐**。適合午餐或早午餐，非晚餐選項。"
+  },
+  {
+    "id": "nice-cafe-de-max",
+    "name": "Café de Max",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.7085,
+    "lng": 7.2672,
+    "score": 33,
+    "address": "16 Rue Pertinax, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Caf%C3%A9+de+Max+16+Rue+Pertinax%2C+06000+Nice",
+    "price_level": "€",
+    "opening_hours": "Mon-Sat 08:00-17:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Cafe+de+Max+Nice",
+      "https://www.tripadvisor.fr/Restaurant_Review-g187234-d18497900-Reviews-Cafe_de_Max-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Rue Pertinax 就在飯店後方街區，適合作為最近距離的精品咖啡 / 早餐補位。"
+  },
+  {
+    "id": "nice-delices-de-tunis",
+    "name": "Délices de Tunis",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.7047,
+    "lng": 7.2653,
+    "score": 31,
+    "address": "8 Rue de Lépante, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=D%C3%A9lices+de+Tunis+8+Rue+de+L%C3%A9pante%2C+06000+Nice",
+    "price_level": "€",
+    "opening_hours": "Daily 07:30-19:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Delices+de+Tunis+Nice",
+      "https://www.tripadvisor.fr/Restaurant_Review-g187234-d7818882-Reviews-Delices_de_Tunis-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Rue de Lépante 的突尼西亞麵包與甜點店，適合外帶早餐與點心，補強飯店步行圈的便宜快速方案。"
+  },
+  {
+    "id": "nice-thats-amore",
+    "name": "That's Amore",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.7056,
+    "lng": 7.2658,
+    "score": 32,
+    "address": "18 Rue Lamartine, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=That%27s+Amore+18+Rue+Lamartine%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-14:30, 19:00-22:30（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Thats+Amore+Nice",
+      "https://fr.restaurantguru.com/Thats-Amore-Nice"
+    ],
+    "notes": "就在 Rue Lamartine 上，離飯店非常近，可作為晚到或想吃義式 comfort food 時的低風險晚餐備案。"
+  },
+  {
+    "id": "nice-leau-de-vie",
+    "name": "L'Eau de Vie",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.7059,
+    "lng": 7.2667,
+    "score": 33,
+    "address": "15 Rue Biscarra, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=L%27Eau+de+Vie+15+Rue+Biscarra%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 12:00-14:00, 19:00-22:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=L%27Eau+de+Vie+Nice",
+      "https://www.tripadvisor.fr/Restaurant_Review-g187234-d13193416-Reviews-L_Eau_de_Vie-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Rue Biscarra 的在地小館，離飯店近又偏安靜，可補強 Libération 與 Jean Médecin 間的正餐選擇。"
+  },
+  {
+    "id": "nice-le-libertea",
+    "name": "Le Liber’Tea",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.7083,
+    "lng": 7.2648,
+    "score": 32,
+    "address": "35 Avenue Malaussena, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Le+Liber%E2%80%99Tea+35+Avenue+Malaussena%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 09:00-18:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "dessert",
+      "lunch"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+LiberTea+Nice",
+      "https://lefooding.com/fr/restaurants/le-liber-te"
+    ],
+    "notes": "Libération 市場旁的茶館甜點補位，適合早餐後段、輕午餐或下午茶，並有無麩質/純素選項。"
+  },
+  {
+    "id": "nice-chez-mireille",
+    "name": "Chez Mireille",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.707,
+    "lng": 7.2649,
+    "score": 33,
+    "address": "7 Avenue Malaussena, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Chez+Mireille+7+Avenue+Malaussena%2C+06000+Nice",
+    "price_level": "€",
+    "opening_hours": "Mon-Sat 08:00-16:00（需旅前再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "breakfast",
+      "lunch",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Chez+Mireille+Nice",
+      "https://www.tripadvisor.fr/Restaurant_Review-g187234-d1883579-Reviews-Chez_Mireille-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html"
+    ],
+    "notes": "Avenue Malaussena 上的在地小吃補位，可補 pan bagnat / pissaladière / socca 類快速午餐與外帶。"
+  },
+  {
+    "id": "nice-brioche-doree-jean-medecin",
+    "name": "La Brioche Dorée",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.7053,
+    "lng": 7.2639,
+    "score": 30,
+    "address": "64 Avenue Jean Médecin, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=La+Brioche+Dor%C3%A9e+64+Avenue+Jean+M%C3%A9decin%2C+06000+Nice",
+    "price_level": "€",
+    "opening_hours": "Daily 07:30-20:00（需旅前再確認）",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Brioche+Doree+Jean+Medecin+Nice",
+      "https://www.briochedoree.fr/restaurants/064-nice-medicin/"
+    ],
+    "notes": "Jean Médecin 大道上的連鎖烘焙咖啡館，開店早且穩定，適合一早趕行程時快速外帶。"
+  },
+  {
+    "id": "nice-bulliz",
+    "name": "Bulliz",
+    "category": "dessert",
+    "status": "ready",
+    "lat": 43.7052,
+    "lng": 7.269,
+    "score": 31,
+    "address": "19 Rue Pastorelli, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Bulliz+19+Rue+Pastorelli%2C+06000+Nice",
+    "price_level": "€",
+    "opening_hours": "Daily 10:00-18:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "dessert",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Bulliz+Nice",
+      "https://www.bulliz.fr/"
+    ],
+    "notes": "Rue Pastorelli 的泡芙甜點專門店，適合回飯店前帶甜點，補強 Jean Médecin 方向的下午茶選項。"
+  },
+  {
+    "id": "nice-le-17-a-table",
+    "name": "Le 17 à table",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.7049,
+    "lng": 7.2635,
+    "score": 38,
+    "address": "17 Rue d’Italie, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Le+17+%C3%A0+table+17+Rue+d%E2%80%99Italie%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mon-Fri 12:00-14:00, 19:00-21:30（週末公休）",
+    "visit_priority": "high",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+17+a+table+Nice",
+      "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/nice/restaurant/le-17-a-table"
+    ],
+    "notes": "Rue d’Italie 上的 Michelin 收錄小館，從飯店步行可達，是住宿周邊少數可升級為預約型正餐的新增主力。"
+  },
+  {
+    "id": "nice-kiosque-chez-tintin",
+    "name": "Kiosque Chez Tintin",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.7078,
+    "lng": 7.2641,
+    "score": 34,
+    "address": "Place du Général de Gaulle, 06000 Nice",
+    "google_maps_url": "https://maps.google.com/?q=Kiosque+Chez+Tintin+Place+du+G%C3%A9n%C3%A9ral+de+Gaulle%2C+06000+Nice",
+    "price_level": "€",
+    "opening_hours": "Tue-Sun 09:00-16:00（需依市場日再確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Kiosque+Chez+Tintin+Nice",
+      "https://en.nicetourisme.com/places-to-eat/1009-kiosque-chez-tintin"
+    ],
+    "notes": "Libération 廣場市場旁的 socca 補位，從飯店走 10 分鐘內可達，適合市場日快吃快走。"
   }
 ]

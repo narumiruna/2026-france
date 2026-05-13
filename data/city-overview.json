@@ -44,14 +44,14 @@
         "先確認 1-2 間晚餐主力店（可預約）",
         "補齊市場周邊高評價午餐與咖啡",
         "確認週末與週一公休日規則",
-        "住宿點 15 分鐘步行圈已擴充到 20 家，午餐 / 晚餐 / 咖啡皆有低風險備案"
+        "住宿點 15 分鐘步行圈已擴充到 30 家，早餐 / 午餐 / 晚餐 / 甜點皆有低風險備案"
       ],
       "constraints": [
         "部分餐廳午晚分段營業，午後可能休息",
         "熱門店晚餐可能需要提前數天預約"
       ]
     },
-    "notes": "住宿點周邊已補到 20 家（舊城入口到 Place de l’Horloge 動線完整），可依時間壓力直接就近決策。"
+    "notes": "住宿點周邊已補到 30 家（車站口、Rue de la République、舊城核心動線完整），可依時間壓力直接就近決策。"
   },
   {
     "city": "Nice",
@@ -98,7 +98,7 @@
         "Chez Pipo 排為 Socca 專場；Lou Pilha Leva 作 Vieux Nice 區域補位",
         "旅前再次確認 Acchiardo 公休日與訂位方式",
         "飯店周邊（Libération 區）已補強 10 筆 hotel_nearby，含早餐（Panivore、Chez Les Garçons）、全日（La Femme du Boulanger）、晚餐（La Route du Miam、Brasserie Le Gambetta、Restaurant L'Instant）",
-        "住宿點周邊已補到 20 家，從 Libération 延伸到 Jean Médecin / 舊城均有可步行備案"
+        "住宿點周邊已補到 30 家，從 Libération、Jean Médecin 到近車站街區都有早餐 / 小吃 / 晚餐備案"
       ],
       "constraints": [
         "La Merenda 不接受電話訂位，需親自前往登記",
@@ -106,7 +106,7 @@
         "海邊餐廳價格波動較大，需先確認價格帶"
       ]
     },
-    "notes": "Nice 住宿周邊已補到 20 家，涵蓋 Libération、Jean Médecin 與舊城方向，可依時段切換早餐與晚餐。"
+    "notes": "Nice 住宿周邊已補到 30 家，涵蓋 Libération、Jean Médecin 與 Rue Lamartine 近街區，可依時段切換早餐與晚餐。"
   },
   {
     "city": "Mont Saint-Michel",
@@ -150,14 +150,14 @@
         "La Mère Poulard 為島內體驗型必訪（但需管理期待值）",
         "Brioche Dorée 為出發前唯一早餐選項（飯店早餐外）",
         "Crêperie La Sirène 與 Crêperie La Cloche 為島內午餐備選（注意公休日）",
-        "住宿點附近已補到 20 家，La Caserne / Beauvoir / 島內接駁動線皆有正餐與咖啡備案"
+        "住宿點附近已補到 30 家，La Caserne / Beauvoir / 島內進島動線皆有正餐、可麗餅與快速備案"
       ],
       "constraints": [
         "時間窗口短，現場排隊風險高",
         "晚間可用選項可能有限"
       ]
     },
-    "notes": "Mont Saint-Michel 住宿周邊已補到 20 家，La Caserne、Beauvoir 與島內進島動線都有可執行備案。"
+    "notes": "Mont Saint-Michel 住宿周邊已補到 30 家，La Caserne、Beauvoir 與島內進島動線都有可執行備案。"
   },
   {
     "city": "Paris",
@@ -200,7 +200,7 @@
         "Septime / Frenchie 為高優先晚餐，訂位需 3-4 週前完成",
         "Le Comptoir du Relais 覆蓋左岸 Saint-Germain 行程",
         "Le Marais 分區補齊：Jacques Genin（甜點）、Café des Musées（午餐）、Breizh Café（crêperie）",
-        "住宿點周邊已補到 20 家，Cambronne 到左岸延伸動線已有早餐 / bistro / 咖啡完整備案"
+        "住宿點周邊已補到 30 家，Cambronne / Motte-Picquet / Commerce 延伸動線已有早餐 / bistro / 外帶完整備案"
       ],
       "constraints": [
         "熱門餐廳訂位競爭高，需提前規劃",
@@ -208,6 +208,6 @@
         "Le Comptoir du Relais 週間晚餐需提前預約，週末長午餐可現場等位"
       ]
     },
-    "notes": "Paris 住宿周邊已補到 20 家，Cambronne 步行圈與左岸延伸動線可直接支援旅中臨時決策。"
+    "notes": "Paris 住宿周邊已補到 30 家，Cambronne 步行圈、Motte-Picquet 與 Commerce 方向都可直接支援旅中臨時決策。"
   }
 ]
