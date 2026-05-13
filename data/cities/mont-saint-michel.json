@@ -39,7 +39,7 @@
     "opening_hours": "Daily 11:30-16:00 & 18:30-21:00",
     "visit_priority": "high",
     "reservation_required": true,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "meal_tags": [
       "dinner"
     ],
@@ -49,7 +49,7 @@
       "https://www.ot-montsaintmichel.com/en/restaurant/auberge-de-la-mere-poulard/",
       "https://www.tripadvisor.com/Restaurant_Review-g196646-d1368563-Reviews-La_Mere_Poulard-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html"
     ],
-    "notes": "Mont Saint-Michel 地標型主力餐，島內 Grande Rue 上。招牌 Omelette de la Mère Poulard 為必吃目標。2025 年新任主廚 Killian Rosini 加入。Tripadvisor 2.7/5（5,500+ 則），評價兩極：體驗獨特但價位偏高。建議提前訂位。"
+    "notes": "Mont Saint-Michel 地標型主力餐，島內 Grande Rue 上。招牌 Omelette de la Mère Poulard 為必吃目標。2025 年新任主廚 Killian Rosini 加入。Tripadvisor 2.7/5（5,500+ 則），評價兩極：體驗獨特但價位偏高。建議提前訂位。雖位於島內，但與 Hôtel Gabriel 同一晚停留動線，可搭接駁或步行進島安排體驗型用餐。"
   },
   {
     "id": "msm-la-sirene",
@@ -65,7 +65,7 @@
     "opening_hours": "Sun-Wed & Sat 11:45-15:30; Thu-Fri Closed",
     "visit_priority": "medium",
     "reservation_required": false,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "meal_tags": [
       "lunch",
       "takeout"
@@ -76,7 +76,7 @@
       "https://www.ot-montsaintmichel.com/restaurant/creperie-la-sirene/",
       "https://en.normandie-tourisme.fr/restaurants/creperie-la-sirene/"
     ],
-    "notes": "島內隱藏可麗餅名店，Tripadvisor Traveller's Choice，高評價可麗餅與 galette。位於紀念品店樓上，需走旋轉樓梯。週四五公休，建議抵達時間在開門時段前往避免排隊。僅供午餐，非晚餐選項。"
+    "notes": "島內隱藏可麗餅名店，Tripadvisor Traveller's Choice，高評價可麗餅與 galette。位於紀念品店樓上，需走旋轉樓梯。週四五公休，建議抵達時間在開門時段前往避免排隊。僅供午餐，非晚餐選項。雖位於島內，但與住宿點同一停留動線，可搭接駁後步行前往，適合作午餐備案。"
   },
   {
     "id": "msm-restaurant-le-relais",
@@ -144,7 +144,7 @@
     "opening_hours": "Tue-Sat 12:00-17:00; Sun-Mon Closed",
     "visit_priority": "medium",
     "reservation_required": false,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "meal_tags": [
       "lunch",
       "takeout"
@@ -155,7 +155,7 @@
       "https://lescreperies.fr/50/le-mont-saint-michel/la-cloche-3zm",
       "https://www.petitfute.com/v5502-le-mont-saint-michel-50170/c1165-restaurants/c1029-cuisine-regionale/c6-creperie/1752408-la-cloche.html"
     ],
-    "notes": "島內快速用餐選項。Tripadvisor 4.0/5（590+ 則），甜鹹可麗餅、galette、蘋果酒均受好評。週日一公休，週二至六僅午間營業。有高腳椅、素食選項，可外帶。"
+    "notes": "島內快速用餐選項。Tripadvisor 4.0/5（590+ 則），甜鹹可麗餅、galette、蘋果酒均受好評。週日一公休，週二至六僅午間營業。有高腳椅、素食選項，可外帶。雖位於島內，但對住宿點旅程仍屬實用午餐補位，可與進島行程一起安排。"
   },
   {
     "id": "msm-le-pre-sale",
@@ -211,5 +211,319 @@
       "https://restaurantguru.com/breakfast-Mont-Saint-Michel-m9619"
     ],
     "notes": "【街道層級搜尋結果：La Caserne，與 Hôtel Gabriel 同區域】連鎖烘焙咖啡館，每日 08:00 起營業。可麗餅、可頌、咖啡、三明治，適合出發前快速早餐或外帶。價格實惠，無需預約。"
+  },
+  {
+    "id": "msm-la-salicorne",
+    "name": "La Salicorne",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6151,
+    "lng": -1.5099,
+    "score": 34,
+    "address": "Route du Mont Saint-Michel, La Caserne, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La+Salicorne+Mont+Saint+Michel",
+    "price_level": "€€",
+    "opening_hours": "Daily 12:00-14:00 & 18:30-20:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://restaurants.le-mont-saint-michel.com/en/our-restaurants/la-salicorne/",
+      "https://www.ot-montsaintmichel.com/en/restaurant/la-salicorne/",
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d2325862-Reviews-Restaurant_La_Salicorne-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html",
+      "https://www.pagesjaunes.fr/pros/53038824"
+    ],
+    "notes": "La Caserne 區域實用正餐店，距 Hôtel Gabriel 步行數分鐘。午晚餐皆可安排，適合作為 Le Pré Salé / La Ferme Saint-Michel 之外的低風險備選。"
+  },
+  {
+    "id": "msm-la-bergerie",
+    "name": "La Bergerie Restaurant",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6153,
+    "lng": -1.5102,
+    "score": 33,
+    "address": "18 Grande Rue, Lieu-dit La Caserne, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La+Bergerie+Restaurant+Mont+Saint+Michel",
+    "price_level": "€€",
+    "opening_hours": "Seasonal hours; check Facebook / phone before visit",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d1308287-Reviews-La_Bergerie_Restaurant-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html",
+      "https://www.pagesjaunes.fr/pros/57042282",
+      "https://www.facebook.com/people/La-Bergerie/100064029054061/"
+    ],
+    "notes": "La Caserne 區域老字號正餐店，步行可達。官方時段不穩定，建議以 Facebook 或電話確認，但可作雨天或晚到時的住宿附近晚餐備案。"
+  },
+  {
+    "id": "msm-la-digue",
+    "name": "Hôtel-Restaurant La Digue",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.616,
+    "lng": -1.5096,
+    "score": 32,
+    "address": "La Caserne, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Hotel+Restaurant+La+Digue+Mont+Saint+Michel",
+    "price_level": "€€",
+    "opening_hours": "Daily 07:00-20:45（晚餐時段建議先電話確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://www.tripadvisor.com/Restaurant_Review-g196646-d3612411-Reviews-La_Digue-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html",
+      "https://www.petitfute.com/v5502-le-mont-saint-michel-50170/c1165-restaurants/c4-cuisine-francaise/604140-hotel-restaurant-la-digue.html",
+      "https://restaurantguru.com/La-Digue-Pontorson"
+    ],
+    "notes": "La Caserne 區域飯店餐廳，離 Hôtel Gabriel 很近。營業時段長，適合到達日晚餐或午後簡單補位。"
+  },
+  {
+    "id": "msm-le-jardin-danouck",
+    "name": "Le Jardin d'Anouck",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.6154,
+    "lng": -1.5101,
+    "score": 31,
+    "address": "Route du Mont Saint-Michel, La Caserne, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Le+Jardin+d'Anouck+Mont+Saint+Michel",
+    "price_level": "€",
+    "opening_hours": "Daily 11:00-15:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://www.tripadvisor.fr/Restaurant_Review-g196646-d13815156-Reviews-Le_Jardin_d_Anouck-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html",
+      "https://restaurantguru.com/Le-Jardin-dAnouck-Mont-Saint-Michel",
+      "https://www.alentoor.fr/le-mont-saint-michel/restaurant/2692640-le-jardin-d-anouck"
+    ],
+    "notes": "La Caserne 區域的輕食 / 午餐小店，步行即可到達。適合住宿附近快速午餐或進島前補位。"
+  },
+  {
+    "id": "msm-lhippocampe",
+    "name": "L'Hippocampe",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6149,
+    "lng": -1.5094,
+    "score": 34,
+    "address": "8 Route du Mont Saint-Michel, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=L'Hippocampe+Mont+Saint+Michel",
+    "price_level": "€€",
+    "opening_hours": "Tue-Sat 12:00-18:00（Sun-Mon 休）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch"
+    ],
+    "source_urls": [
+      "https://restaurants.le-mont-saint-michel.com/en/our-restaurants/lhippocampe/",
+      "https://www.tripadvisor.co.za/Restaurant_Review-g196646-d25279864-Reviews-L_Hippocampe-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html",
+      "https://www.pagesjaunes.fr/pros/64126478"
+    ],
+    "notes": "靠近住宿區的海鮮 / 午餐型餐廳，適合白天回到 La Caserne 後安排較輕鬆的一餐。"
+  },
+  {
+    "id": "msm-la-table-de-lermitage",
+    "name": "La Table de l'Ermitage",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6002,
+    "lng": -1.5058,
+    "score": 37,
+    "address": "14 Route du Mont Saint-Michel, 50170 Beauvoir",
+    "google_maps_url": "https://maps.google.com/?q=La+Table+de+l'Ermitage+Beauvoir",
+    "price_level": "€€€€",
+    "opening_hours": "Daily 19:00-23:00; Sun lunch 12:00-15:00",
+    "visit_priority": "medium",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "dinner"
+    ],
+    "source_urls": [
+      "https://www.tableermitage.com/",
+      "https://www.normandie-tourisme.fr/restaurants/restaurant-lermitage-mont-saint-michel/",
+      "https://www.tripadvisor.com/Restaurant_Review-g1065824-d5815799-Reviews-L_Ermitage_Mont_Saint_Michel-Beauvoir_Manche_Basse_Normandie_Normandy.html"
+    ],
+    "notes": "Beauvoir 的高端法式晚餐，開車數分鐘可達。適合想避開島上觀光餐廳、改走安靜精緻晚餐路線時使用。"
+  },
+  {
+    "id": "msm-la-bisquin",
+    "name": "La Bisqu'in",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.602,
+    "lng": -1.5057,
+    "score": 33,
+    "address": "32 Route du Mont Saint-Michel, 50170 Beauvoir",
+    "google_maps_url": "https://maps.google.com/?q=La+Bisquin+Beauvoir",
+    "price_level": "€€",
+    "opening_hours": "Daily 09:00-23:00（部分時段請先電話確認）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://www.tripadvisor.com/Restaurant_Review-g1065824-d4282742-Reviews-La_Bisqu_in-Beauvoir_Manche_Basse_Normandie_Normandy.html",
+      "https://en.normandie-tourisme.fr/restaurants/la-bisquin/",
+      "https://www.pagesjaunes.fr/pros/53821463"
+    ],
+    "notes": "Beauvoir 主路上的海鮮 / 法式餐廳，從住宿點短程車程可達。營業時段長，適合晚到或臨時改店時補位。"
+  },
+  {
+    "id": "msm-restaurant-de-la-galette",
+    "name": "Le Restaurant de la Galette",
+    "category": "creperie",
+    "status": "ready",
+    "lat": 48.6033,
+    "lng": -1.5052,
+    "score": 33,
+    "address": "3 Route du Mont Saint Michel, 50170 Beauvoir",
+    "google_maps_url": "https://maps.google.com/?q=Restaurant+de+la+Galette+Beauvoir",
+    "price_level": "€€",
+    "opening_hours": "Thu-Mon 12:00-14:30 & 19:00-21:30（Tue-Wed 休）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://www.tripadvisor.com/Restaurant_Review-g1065824-d2099430-Reviews-Le_Restaurant_de_la_Galette-Beauvoir_Manche_Basse_Normandie_Normandy.html",
+      "https://www.pagesjaunes.fr/pros/51383155",
+      "https://restaurant.autour-de-moi.com/restaurant-de-la-galette-1288079.html"
+    ],
+    "notes": "Beauvoir 的穩定可麗餅 / 正餐店，短程可達。若想避開島上排隊，可直接在住宿外圍安排鹹甜薄餅。"
+  },
+  {
+    "id": "msm-saint-james-cafe",
+    "name": "Saint James Café",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.6035,
+    "lng": -1.5051,
+    "score": 31,
+    "address": "15 Route du Mont Saint-Michel, 50170 Beauvoir",
+    "google_maps_url": "https://maps.google.com/?q=Saint+James+Cafe+Beauvoir",
+    "price_level": "€€",
+    "opening_hours": "Daily 10:00-18:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "dessert",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://fr.saint-james.com/pages/store/beauvoir",
+      "https://www.pagesjaunes.fr/pros/08536844",
+      "https://actu.fr/normandie/beauvoir_50042/saint-james-ouvre-son-premier-concept-store-de-france-pres-du-mont-saint-michel_62399950.html"
+    ],
+    "notes": "Beauvoir 的咖啡 / 輕食新選項，適合作為住宿外圍下午咖啡、甜點或購物順路補給。"
+  },
+  {
+    "id": "msm-la-gourmandise",
+    "name": "La Gourmandise",
+    "category": "creperie",
+    "status": "ready",
+    "lat": 48.6028,
+    "lng": -1.5054,
+    "score": 32,
+    "address": "21 Route du Mont Saint-Michel, 50170 Beauvoir",
+    "google_maps_url": "https://maps.google.com/?q=La+Gourmandise+Beauvoir",
+    "price_level": "€€",
+    "opening_hours": "Seasonal hours; commonly 09:00-21:30（Thu often closed）",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "dessert"
+    ],
+    "source_urls": [
+      "https://en.normandie-tourisme.fr/restaurants/la-gourmandise/",
+      "https://www.tripadvisor.com/Restaurant_Review-g1065824-d2017401-Reviews-La_Gourmandise-Beauvoir_Manche_Basse_Normandie_Normandy.html",
+      "https://www.pagesjaunes.fr/pros/53804464",
+      "https://lescreperies.fr/50/beauvoir/la-gourmandise-1s7"
+    ],
+    "notes": "Beauvoir 主路上的可麗餅 / 家常餐廳，短程可達。可作住宿附近的平價午晚餐與甜點備案。"
+  },
+  {
+    "id": "msm-auberge-de-la-baie",
+    "name": "Auberge de la Baie",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6062,
+    "lng": -1.5188,
+    "score": 32,
+    "address": "44 Route de la Rive, Ardevon, 50170 Pontorson",
+    "google_maps_url": "https://maps.google.com/?q=Auberge+de+la+Baie+Ardevon",
+    "price_level": "€€",
+    "opening_hours": "Breakfast 07:00-10:00; lunch/dinner hours should be confirmed before visit",
+    "visit_priority": "medium",
+    "reservation_required": true,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "breakfast",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://www.aubergedelabaie.fr/",
+      "https://www.tripadvisor.com/Hotel_Review-g1024184-d1750195-Reviews-Auberge_de_la_Baie-Ardevon_Manche_Basse_Normandie_Normandy.html",
+      "https://www.ot-montsaintmichel.com/en/hotel/hotel-auberge-de-la-baie/"
+    ],
+    "notes": "Ardevon 一帶的住宿型餐廳，距 Hôtel Gabriel 為短程車程。適合想避開 La Caserne 核心人潮時改走較安靜的住宿外圍晚餐。"
+  },
+  {
+    "id": "msm-la-fermette",
+    "name": "La Fermette",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6014,
+    "lng": -1.5066,
+    "score": 33,
+    "address": "42 Route du Mont Saint Michel, 50170 Beauvoir",
+    "google_maps_url": "https://maps.google.com/?q=La+Fermette+Beauvoir",
+    "price_level": "€€",
+    "opening_hours": "Sun 12:00-14:00 & 19:00-21:00; Mon 19:00-21:00; Wed-Sat 12:00-14:00 & 19:00-21:00; Tue closed",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://www.tripadvisor.in/Restaurant_Review-g1065824-d3680738-Reviews-La_Fermette-Beauvoir_Manche_Basse_Normandie_Normandy.html",
+      "https://restaurantguru.com/La-Fermette-Beauvoir",
+      "https://www.pagesjaunes.fr/pros/09152621"
+    ],
+    "notes": "Beauvoir 常見的傳統法式正餐選項，短程車程可達。提供穩定午晚餐時段，可作 Mont Saint-Michel 站的外圍補位餐廳。"
   }
 ]
