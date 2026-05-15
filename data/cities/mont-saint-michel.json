@@ -777,5 +777,513 @@
       "https://www.booking.com/hotel/fr/la-vieille-auberge-le-mont-saint-michel.en-gb.html"
     ],
     "notes": "歷史旅館附設餐廳，屬於島內晚餐保底選項，適合希望留在 Mont 內解決正餐時使用。"
+  },
+  {
+    "id": "msm-st-michel-cafe",
+    "name": "St Michel Café",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.614179,
+    "lng": -1.498206,
+    "score": 32,
+    "address": "50170",
+    "google_maps_url": "https://maps.google.com/?q=St+Michel+Caf%C3%A9+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=St+Michel+Caf%C3%A9+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/12331114301"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.9 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線；OSM cuisine=coffee_shop。OSM 提供營業時段：Mo-Su 09:00-18:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-lantre-terre-et-baie",
+    "name": "L'antre Terre et Baie",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.602086,
+    "lng": -1.51304,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=L'antre+Terre+et+Baie+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=L'antre+Terre+et+Baie+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/10159109345"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 1.5 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-lepicerie-de-la-baie",
+    "name": "L'épicerie de la Baie",
+    "category": "creperie",
+    "status": "ready",
+    "lat": 48.598213,
+    "lng": -1.513388,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=L'%C3%A9picerie+de+la+Baie+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=L'%C3%A9picerie+de+la+Baie+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/13188641795",
+      "http://lepiceriedelabaie.com"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 1.9 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線；OSM cuisine=crepe;crepes;pancake。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-bistro-du-mont",
+    "name": "Bistro du Mont",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.598011,
+    "lng": -1.513774,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Bistro+du+Mont+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Bistro+du+Mont+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/12994198032"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.0 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-hotel-restaurant-le-beauvoir",
+    "name": "Hôtel Restaurant Le Beauvoir",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.597769,
+    "lng": -1.513178,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=H%C3%B4tel+Restaurant+Le+Beauvoir+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=H%C3%B4tel+Restaurant+Le+Beauvoir+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/2119648942"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.0 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-terrasse",
+    "name": "La Terrasse",
+    "category": "creperie",
+    "status": "ready",
+    "lat": 48.635009,
+    "lng": -1.511029,
+    "score": 32,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La+Terrasse+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Terrasse+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/way/41676422"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.2 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線；OSM cuisine=crepe。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-confiance",
+    "name": "La Confiance",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.635176,
+    "lng": -1.510383,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La+Confiance+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Confiance+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/5292449066"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.2 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線；OSM cuisine=french。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-auberge-saint-pierre",
+    "name": "Restaurant L'Auberge Saint-Pierre",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.635367,
+    "lng": -1.509969,
+    "score": 35,
+    "address": "50170",
+    "google_maps_url": "https://maps.google.com/?q=Restaurant+L'Auberge+Saint-Pierre+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "08:00-22:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Restaurant+L'Auberge+Saint-Pierre+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/way/41665333",
+      "https://www.auberge-saint-pierre.fr/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.2 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線；OSM cuisine=regional。OSM 提供營業時段：08:00-22:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-cafeteria-la-belle-normande",
+    "name": "Cafétéria La Belle Normande",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.635477,
+    "lng": -1.509965,
+    "score": 33,
+    "address": "Grande Rue 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Caf%C3%A9t%C3%A9ria+La+Belle+Normande+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Caf%C3%A9t%C3%A9ria+La+Belle+Normande+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/846978287"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.2 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線；偏快速外帶 / 臨時補位。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-le-logis-sainte-catherine",
+    "name": "Le Logis Sainte-Catherine",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.635578,
+    "lng": -1.511065,
+    "score": 34,
+    "address": "6 Ruelle Sainte Catherine 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Le+Logis+Sainte-Catherine+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Logis+Sainte-Catherine+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/12512128308",
+      "https://lelogissaintecatherine.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.2 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-croix-blanche",
+    "name": "La Croix Blanche",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.635501,
+    "lng": -1.509855,
+    "score": 34,
+    "address": "Grande Rue 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La+Croix+Blanche+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Croix+Blanche+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/way/948973060",
+      "https://www.hotel-la-croix-blanche.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.2 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-le-mouton-blanc",
+    "name": "Le Mouton Blanc",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.635688,
+    "lng": -1.509828,
+    "score": 34,
+    "address": "Grande Rue 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Le+Mouton+Blanc+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Mouton+Blanc+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/way/41665468",
+      "https://www.lemoutonblanc.fr/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.2 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-hotel-restaurant-le-saint-michel",
+    "name": "Le Saint-Michel",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.635774,
+    "lng": -1.510007,
+    "score": 33,
+    "address": "Grande Rue 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Le+Saint-Michel+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Saint-Michel+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/way/948732583"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.3 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-nouvelle-terrasse",
+    "name": "La Nouvelle Terrasse",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.63584,
+    "lng": -1.509766,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La+Nouvelle+Terrasse+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Nouvelle+Terrasse+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/way/949025767"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.3 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-le-cafe-gourmand",
+    "name": "Le Café Gourmand",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.636084,
+    "lng": -1.510579,
+    "score": 31,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le+Caf%C3%A9+Gourmand+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Caf%C3%A9+Gourmand+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/9044001446"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.3 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-table",
+    "name": "La Table",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.594477,
+    "lng": -1.511463,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La+Table+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Table+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/12198996225"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.3 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-larchange",
+    "name": "L'Archange",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.618688,
+    "lng": -1.460217,
+    "score": 31,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=L'Archange+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=L'Archange+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/6437734740"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 3.7 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-casa-de-quentin",
+    "name": "La Casa de Quentin",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.557221,
+    "lng": -1.509135,
+    "score": 29,
+    "address": "Rue du Mont Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La+Casa+de+Quentin+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Casa+de+Quentin+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/4283973203"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 6.5 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-les-tartines-bavardes",
+    "name": "Les Tartines Bavardes",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.554389,
+    "lng": -1.509176,
+    "score": 29,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Les+Tartines+Bavardes+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les+Tartines+Bavardes+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/way/96737956"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 6.8 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-le-relais-montois",
+    "name": "Le Relais Montois",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.553081,
+    "lng": -1.507737,
+    "score": 30,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le+Relais+Montois+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Relais+Montois+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/way/96736559",
+      "https://www.lerelaismontois.fr/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 6.9 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
   }
 ]

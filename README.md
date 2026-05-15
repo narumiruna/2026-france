@@ -39,9 +39,20 @@ docs/                   # Product/design/process documentation
 - `data/restaurants.json`: one object per place with `id`, `name`, `category`, `lat`, `lng`, `score`, `address`, `google_maps_url`, `price_level`, `opening_hours`, `source_urls`, `notes`.
 - `data/city-overview.json`: one object per city with `city`, `period`, `highlights`, `signature_dishes`, `areas`, `research_strategy`, `top_candidates`, `notes`.
 
+## Data Checks
+
+Verify that each accommodation has at least 50 usable nearby restaurant/cafe candidates:
+
+```bash
+node scripts/verify-hotel-nearby-counts.mjs
+```
+
+Use `--list` to audit counted IDs or `--json` for machine-readable gap output.
+
 ## Key Documentation
 
 - `docs/DESIGN_STATIC_MAP.md` - product and UI behavior spec
+- `docs/HOTEL_NEARBY_GAPS.md` - accommodation-nearby candidate gap tracker
 - `docs/WORKFLOW.md` - research-to-publish operating workflow
 - `docs/ITINERARY.md` - city itinerary and date ranges
 - `docs/STRUCTURE.md` - repository structure and ownership boundaries

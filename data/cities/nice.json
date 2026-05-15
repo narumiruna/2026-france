@@ -95,7 +95,12 @@
       "https://maps.google.com/?q=Chez+Pipo+Nice",
       "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/chez-pipo-nice-en-3014203/"
     ],
-    "notes": "Socca 指標店，近百年傳承。Vieux Nice 外圍，需步行或短程接駁。適合排在小吃路線高優先。"
+    "notes": "Socca 指標店，近百年傳承。Vieux Nice 外圍，需步行或短程接駁。適合排在小吃路線高優先。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "takeout"
+    ]
   },
   {
     "id": "nice-lou-pilha-leva",
@@ -116,7 +121,12 @@
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d1105097-Reviews-Lou_Pilha_Leva-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
       "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/lou-pilha-leva-nice"
     ],
-    "notes": "Vieux Nice 傳統小吃站，即點即食。Socca 與 Pissaladière 備選。有官方網站 loupilhaleva.shop，無 Michelin、無 Le Fooding 收錄。Tripadvisor Nice Quick Bites #14（3.4/5，570+ 則）。"
+    "notes": "Vieux Nice 傳統小吃站，即點即食。Socca 與 Pissaladière 備選。有官方網站 loupilhaleva.shop，無 Michelin、無 Le Fooding 收錄。Tripadvisor Nice Quick Bites #14（3.4/5，570+ 則）。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "takeout"
+    ]
   },
   {
     "id": "nice-fenocchio",
@@ -135,7 +145,12 @@
     "source_urls": [
       "https://maps.google.com/?q=Fenocchio+Nice"
     ],
-    "notes": "Place Rossetti 冰淇淋名店，舊城區步行補給點。指南型來源待補充。"
+    "notes": "Place Rossetti 冰淇淋名店，舊城區步行補給點。指南型來源待補充。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "dessert",
+      "takeout"
+    ]
   },
   {
     "id": "nice-la-rossettisserie",
@@ -157,7 +172,12 @@
       "https://www.explorenicecotedazur.com/en/restaurant/restaurant-la-rossettisserie/",
       "https://www.academiedugout.fr/adresses/la-rossettiserie_1416"
     ],
-    "notes": "有官方網站 larossettisserie.com，無 Michelin、無 Le Fooding 收錄。Tripadvisor 4.4/5（1,300+ 則）、Restaurant Guru 4.4/5（3,000+ 則）。10 人以上需訂位，小團體可直接前往。Académie du Goût 有收錄。"
+    "notes": "有官方網站 larossettisserie.com，無 Michelin、無 Le Fooding 收錄。Tripadvisor 4.4/5（1,300+ 則）、Restaurant Guru 4.4/5（3,000+ 則）。10 人以上需訂位，小團體可直接前往。Académie du Goût 有收錄。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "nice-la-belugue",
@@ -303,7 +323,7 @@
     "opening_hours": "Daily 07:00-21:00",
     "visit_priority": "medium",
     "reservation_required": false,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "meal_tags": [
       "breakfast",
       "takeout"
@@ -355,7 +375,7 @@
     "opening_hours": "Daily 09:00-21:00",
     "visit_priority": "medium",
     "reservation_required": false,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "meal_tags": [
       "coffee",
       "breakfast"
@@ -381,14 +401,18 @@
     "opening_hours": "Tue-Sat 12:00-13:30, 19:30-21:15",
     "visit_priority": "medium",
     "reservation_required": true,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "source_urls": [
       "https://guide.michelin.com/us/en/provence-alpes-cote-dazur/nice/restaurant/flaveur",
       "https://www.restaurant-flaveur.com/",
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d1591476-Reviews-Flaveur-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
       "https://www.explorenicecotedazur.com/en/restaurant/restaurant-flaveur/"
     ],
-    "notes": "Michelin 2 顆星（2018 年起）。主廚 Gaël 與 Mickaël Tourteaux 以地中海食材融合全球風味，創意精緻料理。近 Place Masséna，座位僅約 20 席，務必提前訂位。週日週一公休；品嚐套餐約 €150–220 起。"
+    "notes": "Michelin 2 顆星（2018 年起）。主廚 Gaël 與 Mickaël Tourteaux 以地中海食材融合全球風味，創意精緻料理。近 Place Masséna，座位僅約 20 席，務必提前訂位。週日週一公休；品嚐套餐約 €150–220 起。",
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "nice-jan",
@@ -404,14 +428,17 @@
     "opening_hours": "Tue-Sat 19:00-22:00",
     "visit_priority": "medium",
     "reservation_required": true,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "source_urls": [
       "https://guide.michelin.com/kr/en/provence-alpes-cote-dazur/nice/restaurant/jan",
       "https://janonline.com/restaurantjan/",
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d4975072-Reviews-JAN-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
       "https://www.explorenicecotedazur.com/en/restaurant/restaurant-jan/"
     ],
-    "notes": "Michelin 1 顆星（2016 年起）。南非主廚 Jan Hendrik van der Westhuizen 以南非食材與法式技法打造個人化套餐菜單。位於 Vieux Nice，僅供晚餐，座位約 20 席。週日週一公休；套餐約 €180–250。"
+    "notes": "Michelin 1 顆星（2016 年起）。南非主廚 Jan Hendrik van der Westhuizen 以南非食材與法式技法打造個人化套餐菜單。位於 Vieux Nice，僅供晚餐，座位約 20 席。週日週一公休；套餐約 €180–250。",
+    "meal_tags": [
+      "dinner"
+    ]
   },
   {
     "id": "nice-les-agitateurs",
@@ -427,14 +454,18 @@
     "opening_hours": "Mon, Thu-Fri 19:30-22:00; Sat-Sun 12:00-14:00, 19:30-22:00",
     "visit_priority": "medium",
     "reservation_required": true,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "source_urls": [
       "https://guide.michelin.com/en/provence-alpes-cote-dazur/nice/restaurant/les-agitateurs",
       "https://lesagitateurs.com/",
       "https://fr.gaultmillau.com/en/restaurants/les-agitateurs",
       "https://www.tripadvisor.com.au/Restaurant_Review-g187234-d14106279-Reviews-Les_Agitateurs-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html"
     ],
-    "notes": "Michelin 1 顆星（2021 年起）。主廚 Samuel Victori 以普羅旺斯當季食材為核心，創意精緻料理。位於 Vieux Nice 近 Colline du Château 一帶。週二週三公休；午餐僅週六週日；晚餐套餐約 €135–185。"
+    "notes": "Michelin 1 顆星（2021 年起）。主廚 Samuel Victori 以普羅旺斯當季食材為核心，創意精緻料理。位於 Vieux Nice 近 Colline du Château 一帶。週二週三公休；午餐僅週六週日；晚餐套餐約 €135–185。",
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "nice-le-bistrot-gourmand",
@@ -477,14 +508,18 @@
     "opening_hours": "Tue-Sat 12:00-13:45, 19:00-21:45",
     "visit_priority": "medium",
     "reservation_required": true,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "source_urls": [
       "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/nice/restaurant/bar-des-oiseaux",
       "https://www.explorenicecotedazur.com/fiche/le-bar-des-oiseaux/",
       "https://www.obonparis.com/en/magazine/le-bar-des-oiseaux-old-town-vieux-nice-restaurant",
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d952000-Reviews-Bar_des_Oiseaux-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html"
     ],
-    "notes": "Michelin Guide 收錄。位於 Vieux Nice 核心，法式與地中海料理，手工義式麵食為特色。黑板菜單隨市場日日更換，午間套餐約 €20 起，物超所值。週日週一公休；建議訂位。"
+    "notes": "Michelin Guide 收錄。位於 Vieux Nice 核心，法式與地中海料理，手工義式麵食為特色。黑板菜單隨市場日日更換，午間套餐約 €20 起，物超所值。週日週一公休；建議訂位。",
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "nice-le-safari",
@@ -500,14 +535,18 @@
     "opening_hours": "Daily 12:00-00:00",
     "visit_priority": "medium",
     "reservation_required": false,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "source_urls": [
       "https://www.restaurantsafari.fr/",
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d952443-Reviews-Le_Safari-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
       "https://www.petitfute.com/v33027-nice-06000/c1165-restaurants/c4-cuisine-francaise/c1-bistrot-brasserie/277448-le-safari.html",
       "https://nice.city-life.fr/Sortir/Nice/Restaurants/587/Le-Safari?lang=en"
     ],
-    "notes": "1972 年起立店，Cours Saleya 花市旁地標。主打 Niçoise 與普羅旺斯料理：Bagna Cauda、Daube Niçoise、手工 Ravioli、大蒜蛋黃醬蔬菜盤（Grand Aioli）。觀光客與當地人混雜，露台位置絕佳。每日中午至午夜，可選不訂位。"
+    "notes": "1972 年起立店，Cours Saleya 花市旁地標。主打 Niçoise 與普羅旺斯料理：Bagna Cauda、Daube Niçoise、手工 Ravioli、大蒜蛋黃醬蔬菜盤（Grand Aioli）。觀光客與當地人混雜，露台位置絕佳。每日中午至午夜，可選不訂位。",
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "nice-la-route-du-miam",
@@ -1031,5 +1070,242 @@
       "https://en.nicetourisme.com/places-to-eat/1009-kiosque-chez-tintin"
     ],
     "notes": "Libération 廣場市場旁的 socca 補位，從飯店走 10 分鐘內可達，適合市場日快吃快走。"
+  },
+  {
+    "id": "nice-crazy-wok",
+    "name": "Crazy Wok",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.704199,
+    "lng": 7.265056,
+    "score": 35,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Crazy+Wok+Nice+centre%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mo-Sa 12:00-14:00,19:00-22:00; Su,PH off",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Crazy+Wok+Nice+centre%2C+06000+Nice",
+      "https://www.openstreetmap.org/node/373343489",
+      "http://crazy-wok.com"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.0 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈。OSM 提供營業時段：Mo-Sa 12:00-14:00,19:00-22:00; Su,PH off。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-malongo-cafe",
+    "name": "Malongo Café",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.70363,
+    "lng": 7.265852,
+    "score": 33,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Malongo+Caf%C3%A9+Nice+centre%2C+06000+Nice",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 08:00-19:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Malongo+Caf%C3%A9+Nice+centre%2C+06000+Nice",
+      "https://www.openstreetmap.org/node/5155163230",
+      "https://www.malongo.com/boutiques/boutique-cafe-malongo-nice-jean-medecin/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈；OSM cuisine=coffee_shop。OSM 提供營業時段：Mo-Su 08:00-19:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-le-central",
+    "name": "Le Central",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.703553,
+    "lng": 7.265652,
+    "score": 34,
+    "address": "2 Rue de Suisse",
+    "google_maps_url": "https://maps.google.com/?q=Le+Central+Nice+centre%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Central+Nice+centre%2C+06000+Nice",
+      "https://www.openstreetmap.org/node/6438393794",
+      "https://lecentral-nice.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-le-saetone",
+    "name": "Le Saëtone",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.704004,
+    "lng": 7.264233,
+    "score": 35,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le+Sa%C3%ABtone+Nice+centre%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mo,Th-Su 12:00-14:00,19:00-21:30; Tu,We off",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Sa%C3%ABtone+Nice+centre%2C+06000+Nice",
+      "https://www.openstreetmap.org/node/7052737785",
+      "https://restaurant-le-saetone.eatbu.com"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈；OSM cuisine=mediterranean;traditional;pizza。OSM 提供營業時段：Mo,Th-Su 12:00-14:00,19:00-21:30; Tu,We off。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-la-planxa",
+    "name": "La Planxa",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.705014,
+    "lng": 7.264819,
+    "score": 35,
+    "address": "28 Rue d'Angleterre",
+    "google_maps_url": "https://maps.google.com/?q=La+Planxa+Nice+centre%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mo-Su 12:00-22:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Planxa+Nice+centre%2C+06000+Nice",
+      "https://www.openstreetmap.org/node/4852259724",
+      "https://www.laplanxa.fr/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈；OSM cuisine=french;grill;mediterranean。OSM 提供營業時段：Mo-Su 12:00-22:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-royal-kashmir",
+    "name": "Royal Kashmir",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.705043,
+    "lng": 7.266013,
+    "score": 35,
+    "address": "30 Rue Pertinax",
+    "google_maps_url": "https://maps.google.com/?q=Royal+Kashmir+Nice+centre%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mo-Su 11:30-14:45,18:45-22:45",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Royal+Kashmir+Nice+centre%2C+06000+Nice",
+      "https://www.openstreetmap.org/node/9689821713",
+      "https://www.royalkashmir-nice.fr/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈；OSM cuisine=indian。OSM 提供營業時段：Mo-Su 11:30-14:45,18:45-22:45。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-voyageur-nissart",
+    "name": "Voyageur Nissart",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.70376,
+    "lng": 7.263323,
+    "score": 34,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Voyageur+Nissart+Nice+centre%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Voyageur+Nissart+Nice+centre%2C+06000+Nice",
+      "https://www.openstreetmap.org/node/488715018",
+      "http://www.voyageurnissart.com/home.php"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-le-grand-cafe-de-lyon",
+    "name": "Le Grand Café de Lyon",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.702385,
+    "lng": 7.266637,
+    "score": 33,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le+Grand+Caf%C3%A9+de+Lyon+Nice+centre%2C+06000+Nice",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 07:30-21:45",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Grand+Caf%C3%A9+de+Lyon+Nice+centre%2C+06000+Nice",
+      "https://www.openstreetmap.org/node/453141902",
+      "https://grandcafedelyon.eatbu.com"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈。OSM 提供營業時段：Mo-Su 07:30-21:45。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-la-langouste",
+    "name": "La Langouste",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.702012,
+    "lng": 7.265525,
+    "score": 35,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La+Langouste+Nice+centre%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mo-Sa 12:00-14:30,19:00-22:30; Su off",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Langouste+Nice+centre%2C+06000+Nice",
+      "https://www.openstreetmap.org/node/2066937742",
+      "https://lalangouste.fr"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈。OSM 提供營業時段：Mo-Sa 12:00-14:30,19:00-22:30; Su off。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
   }
 ]

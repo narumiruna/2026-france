@@ -127,7 +127,12 @@
       "https://avignon-tourisme.com/en/offres/restaurant-sevin-avignon-en-4143649/",
       "https://www.provenceguide.co.uk/restaurants/avignon/restaurant-sevin/provence-4616578-1.html"
     ],
-    "notes": "【更名確認】原 Christian Etienne 餐廳於 2020 年更名為 Sevin，由長期副主廚 Guilhem Sevin 接手。Palais des Papes 正旁，Michelin 推薦。週三、週四公休；週日限午餐。套餐 €50–€160，以番茄、松露等當季食材為核心，是 Palais des Papes 周邊最具指南認可的精緻餐廳。需提前預約。"
+    "notes": "【更名確認】原 Christian Etienne 餐廳於 2020 年更名為 Sevin，由長期副主廚 Guilhem Sevin 接手。Palais des Papes 正旁，Michelin 推薦。週三、週四公休；週日限午餐。套餐 €50–€160，以番茄、松露等當季食材為核心，是 Palais des Papes 周邊最具指南認可的精緻餐廳。需提前預約。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "avignon-maison-violette",
@@ -312,7 +317,12 @@
       "https://en.grandavignon-destinations.fr/restaurant/la-mirande-le-restaurant-gastronomique/",
       "https://www.thefork.com/restaurant/le-restaurant-la-mirande-r654465"
     ],
-    "notes": "【景點周邊：Palais des Papes 正旁】Michelin 1 星 + 綠星（2025，永續料理）。主廚 Michele Donvito 主理季節套餐（3/5/7 道），菜單 €80–€195。座落於 5 星歷史酒店內，露台可望教皇宮牆。最多 32 席（主廳）。是 Avignon 最具歷史氛圍的高規格晚餐首選，需提前數週預約。"
+    "notes": "【景點周邊：Palais des Papes 正旁】Michelin 1 星 + 綠星（2025，永續料理）。主廚 Michele Donvito 主理季節套餐（3/5/7 道），菜單 €80–€195。座落於 5 星歷史酒店內，露台可望教皇宮牆。最多 32 席（主廳）。是 Avignon 最具歷史氛圍的高規格晚餐首選，需提前數週預約。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "avignon-le-gout-du-jour",
@@ -873,5 +883,467 @@
       "https://www.tripadvisor.com/Restaurant_Review-g187212-d11690397-Reviews-Le_Goeland-Avignon_Vaucluse_Provence_Alpes_Cote_d_Azur.html"
     ],
     "notes": "靠近 Rue de la Petite Fusterie 的輕食/咖啡補位，適合在舊城南側活動時就近解決飲料與簡餐。"
+  },
+  {
+    "id": "avignon-croq-nem-le-tai",
+    "name": "Croq Nem Le Tai",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.944379,
+    "lng": 4.803679,
+    "score": 35,
+    "address": "15 Boulevard Raspail Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Croq+Nem+Le+Tai+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Tu-Sa 11:30-14:00, 18:30-22:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Croq+Nem+Le+Tai+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/1445366513",
+      "https://www.croqnemletai.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.5 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=vietnamese。OSM 提供營業時段：Tu-Sa 11:30-14:00, 18:30-22:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-pomelo",
+    "name": "Pomelo",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.944817,
+    "lng": 4.805335,
+    "score": 34,
+    "address": "36 Cours Jean Jaurès",
+    "google_maps_url": "https://maps.google.com/?q=Pomelo+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo-Su 12:00-14:00,19:00-22:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Pomelo+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/1540763738"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.6 km】位於Avignon Centre 舊城與車站步行圈。OSM 提供營業時段：Mo-Su 12:00-14:00,19:00-22:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-la-cour-du-louvre",
+    "name": "La Cour du Louvre",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.948529,
+    "lng": 4.804372,
+    "score": 34,
+    "address": "23 84000",
+    "google_maps_url": "https://maps.google.com/?q=La+Cour+du+Louvre+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Cour+du+Louvre+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/4960168124",
+      "https://www.restaurantlacourdulouvre.fr/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=french。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-au-chineur",
+    "name": "Au Chineur",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.943751,
+    "lng": 4.807321,
+    "score": 34,
+    "address": "78 Place des Corps Saints",
+    "google_maps_url": "https://maps.google.com/?q=Au+Chineur+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo,Th-Sa 09:00-15:00,18:00-23:00, Tu-We 09:00-15:00, Su closed",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Au+Chineur+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/6219462848"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=regional;french。OSM 提供營業時段：Mo,Th-Sa 09:00-15:00,18:00-23:00, Tu-We 09:00-15:00, Su closed。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-moliere",
+    "name": "Le Molière",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.944163,
+    "lng": 4.807402,
+    "score": 34,
+    "address": "68 Place des Corps Saints",
+    "google_maps_url": "https://maps.google.com/?q=Le+Moli%C3%A8re+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo-Fr 11:00-15:00; Sa-Su 11:00-23:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Moli%C3%A8re+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/2059747263"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=french。OSM 提供營業時段：Mo-Fr 11:00-15:00; Sa-Su 11:00-23:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-milk",
+    "name": "Milk",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.94492,
+    "lng": 4.807373,
+    "score": 32,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Milk+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 09:30-18:30",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Milk+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/2059766406"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon Centre 舊城與車站步行圈。OSM 提供營業時段：Mo-Su 09:30-18:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-la-princiere",
+    "name": "La Princière",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.944532,
+    "lng": 4.807816,
+    "score": 35,
+    "address": "23 Place des Corps Saints",
+    "google_maps_url": "https://maps.google.com/?q=La+Princi%C3%A8re+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo-Su 12:30-18:30",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Princi%C3%A8re+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/2059750000",
+      "https://la-princiere-avignon.eatbu.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon Centre 舊城與車站步行圈。OSM 提供營業時段：Mo-Su 12:30-18:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-grand-cafe-barretta",
+    "name": "Grand Café Barretta",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.946544,
+    "lng": 4.807066,
+    "score": 32,
+    "address": "12 Place Saint-Didier 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Grand+Caf%C3%A9+Barretta+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Grand+Caf%C3%A9+Barretta+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/3421595304",
+      "www.facebook.com/Grand-Café-Barretta-204295823525980"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon Centre 舊城與車站步行圈。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-milano",
+    "name": "Milano",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.950089,
+    "lng": 4.802668,
+    "score": 35,
+    "address": "21 bis Place Crillon",
+    "google_maps_url": "https://maps.google.com/?q=Milano+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "mo-sa 08:30-14:30; 18:30-22:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Milano+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/303075922",
+      "https://www.restaurantlemilano.fr"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=italian。OSM 提供營業時段：mo-sa 08:30-14:30; 18:30-22:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-la-table-hot",
+    "name": "La Table Hot",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.949836,
+    "lng": 4.803589,
+    "score": 35,
+    "address": "3 Rue Mazan",
+    "google_maps_url": "https://maps.google.com/?q=La+Table+Hot+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo-Sa 12:00-14:30; Fr, Sa 19:00-21:15",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Table+Hot+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/4940164022",
+      "https://latablehot.fr/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon Centre 舊城與車站步行圈。OSM 提供營業時段：Mo-Sa 12:00-14:30; Fr, Sa 19:00-21:15。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-nid",
+    "name": "Le Nid",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.94622,
+    "lng": 4.807618,
+    "score": 32,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le+Nid+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Mo 11:00-19:00; Tu-Sa 10:00-19:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Nid+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/11553826233"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon Centre 舊城與車站步行圈。OSM 提供營業時段：Mo 11:00-19:00; Tu-Sa 10:00-19:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-crillon",
+    "name": "Le Crillon",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.950052,
+    "lng": 4.80323,
+    "score": 35,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le+Crillon+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo-Sa 12:00-14:30",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Crillon+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/303075928",
+      "https://www.restaurantlecrillon.fr/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon Centre 舊城與車站步行圈。OSM 提供營業時段：Mo-Sa 12:00-14:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-vintage",
+    "name": "Le Vintage",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.947901,
+    "lng": 4.806615,
+    "score": 35,
+    "address": "10 Rue Galante",
+    "google_maps_url": "https://maps.google.com/?q=Le+Vintage+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo-Su 11:30-14:00,19:00-22:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Vintage+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/1427774354",
+      "https://levintageavignon.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=french。OSM 提供營業時段：Mo-Su 11:30-14:00,19:00-22:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-saint-chocolat",
+    "name": "Le Saint Chocolat",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.946877,
+    "lng": 4.807448,
+    "score": 32,
+    "address": "1 Place Saint-Didier",
+    "google_maps_url": "https://maps.google.com/?q=Le+Saint+Chocolat+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-18:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Saint+Chocolat+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/1821448855"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon Centre 舊城與車站步行圈。OSM 提供營業時段：Mo-Fr 08:00-18:00; Sa 09:00-18:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-la-canoa",
+    "name": "La Canoa",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.947366,
+    "lng": 4.80767,
+    "score": 34,
+    "address": "50 Rue des Fourbisseurs 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=La+Canoa+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Tu,Fr 12:00-14:30,19:00-21:30; Sa 12:00-17:00,19:30-21:30; Su 12:00-15:00; Mo off",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Canoa+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/1539742950"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.9 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=peruvian。OSM 提供營業時段：Tu,Fr 12:00-14:30,19:00-21:30; Sa 12:00-17:00,19:30-21:30; Su 12:00-15:00; Mo off。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-coeur-dartichaut",
+    "name": "Coeur d'Artichaut",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.947792,
+    "lng": 4.807358,
+    "score": 35,
+    "address": "6 Place de la Principale",
+    "google_maps_url": "https://maps.google.com/?q=Coeur+d'Artichaut+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo-Sa 09:00-17:00; Su 10:30-15:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Coeur+d'Artichaut+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/6810816010",
+      "https://www.coeurdartichautavignon.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.9 km】位於Avignon Centre 舊城與車站步行圈。OSM 提供營業時段：Mo-Sa 09:00-17:00; Su 10:30-15:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-46",
+    "name": "Le 46",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.95154,
+    "lng": 4.805795,
+    "score": 35,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le+46+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo,Tu,Th-Sa 12:00-14:00,19:00-21:30+",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+46+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/8021772609",
+      "https://le46avignon.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 1.1 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=french;regional。OSM 提供營業時段：Mo,Tu,Th-Sa 12:00-14:00,19:00-21:30+。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-ubon-thai",
+    "name": "UBON Thaï Restaurant",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.945027,
+    "lng": 4.808672,
+    "score": 34,
+    "address": "24 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=UBON+Tha%C3%AF+Restaurant+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "We-Sa 12:00-14:00, 19:15-22:00; Tu 19:15-22:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=UBON+Tha%C3%AF+Restaurant+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/9968192496"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.9 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=curry;thai。OSM 提供營業時段：We-Sa 12:00-14:00, 19:15-22:00; Tu 19:15-22:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
   }
 ]

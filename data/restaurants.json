@@ -157,7 +157,12 @@
       "https://avignon-tourisme.com/en/offres/restaurant-sevin-avignon-en-4143649/",
       "https://www.provenceguide.co.uk/restaurants/avignon/restaurant-sevin/provence-4616578-1.html"
     ],
-    "notes": "【更名確認】原 Christian Etienne 餐廳於 2020 年更名為 Sevin，由長期副主廚 Guilhem Sevin 接手。Palais des Papes 正旁，Michelin 推薦。週三、週四公休；週日限午餐。套餐 €50–€160，以番茄、松露等當季食材為核心，是 Palais des Papes 周邊最具指南認可的精緻餐廳。需提前預約。"
+    "notes": "【更名確認】原 Christian Etienne 餐廳於 2020 年更名為 Sevin，由長期副主廚 Guilhem Sevin 接手。Palais des Papes 正旁，Michelin 推薦。週三、週四公休；週日限午餐。套餐 €50–€160，以番茄、松露等當季食材為核心，是 Palais des Papes 周邊最具指南認可的精緻餐廳。需提前預約。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "avignon-fou-de-fafa",
@@ -287,7 +292,12 @@
       "https://en.grandavignon-destinations.fr/restaurant/la-mirande-le-restaurant-gastronomique/",
       "https://www.thefork.com/restaurant/le-restaurant-la-mirande-r654465"
     ],
-    "notes": "【景點周邊：Palais des Papes 正旁】Michelin 1 星 + 綠星（2025，永續料理）。主廚 Michele Donvito 主理季節套餐（3/5/7 道），菜單 €80–€195。座落於 5 星歷史酒店內，露台可望教皇宮牆。最多 32 席（主廳）。是 Avignon 最具歷史氛圍的高規格晚餐首選，需提前數週預約。"
+    "notes": "【景點周邊：Palais des Papes 正旁】Michelin 1 星 + 綠星（2025，永續料理）。主廚 Michele Donvito 主理季節套餐（3/5/7 道），菜單 €80–€195。座落於 5 星歷史酒店內，露台可望教皇宮牆。最多 32 席（主廳）。是 Avignon 最具歷史氛圍的高規格晚餐首選，需提前數週預約。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "avignon-la-soupape",
@@ -709,14 +719,18 @@
     "opening_hours": "Tue-Sat 12:00-13:45, 19:00-21:45",
     "visit_priority": "medium",
     "reservation_required": true,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "source_urls": [
       "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/nice/restaurant/bar-des-oiseaux",
       "https://www.explorenicecotedazur.com/fiche/le-bar-des-oiseaux/",
       "https://www.obonparis.com/en/magazine/le-bar-des-oiseaux-old-town-vieux-nice-restaurant",
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d952000-Reviews-Bar_des_Oiseaux-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html"
     ],
-    "notes": "Michelin Guide 收錄。位於 Vieux Nice 核心，法式與地中海料理，手工義式麵食為特色。黑板菜單隨市場日日更換，午間套餐約 €20 起，物超所值。週日週一公休；建議訂位。"
+    "notes": "Michelin Guide 收錄。位於 Vieux Nice 核心，法式與地中海料理，手工義式麵食為特色。黑板菜單隨市場日日更換，午間套餐約 €20 起，物超所值。週日週一公休；建議訂位。",
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "nice-bistrot-antoine",
@@ -759,7 +773,7 @@
     "opening_hours": "Daily 07:00-21:00",
     "visit_priority": "medium",
     "reservation_required": false,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "meal_tags": [
       "breakfast",
       "takeout"
@@ -895,7 +909,12 @@
       "https://maps.google.com/?q=Chez+Pipo+Nice",
       "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/chez-pipo-nice-en-3014203/"
     ],
-    "notes": "Socca 指標店，近百年傳承。Vieux Nice 外圍，需步行或短程接駁。適合排在小吃路線高優先。"
+    "notes": "Socca 指標店，近百年傳承。Vieux Nice 外圍，需步行或短程接駁。適合排在小吃路線高優先。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "takeout"
+    ]
   },
   {
     "id": "nice-fenocchio",
@@ -914,7 +933,12 @@
     "source_urls": [
       "https://maps.google.com/?q=Fenocchio+Nice"
     ],
-    "notes": "Place Rossetti 冰淇淋名店，舊城區步行補給點。指南型來源待補充。"
+    "notes": "Place Rossetti 冰淇淋名店，舊城區步行補給點。指南型來源待補充。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "dessert",
+      "takeout"
+    ]
   },
   {
     "id": "nice-flaveur",
@@ -930,14 +954,18 @@
     "opening_hours": "Tue-Sat 12:00-13:30, 19:30-21:15",
     "visit_priority": "medium",
     "reservation_required": true,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "source_urls": [
       "https://guide.michelin.com/us/en/provence-alpes-cote-dazur/nice/restaurant/flaveur",
       "https://www.restaurant-flaveur.com/",
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d1591476-Reviews-Flaveur-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
       "https://www.explorenicecotedazur.com/en/restaurant/restaurant-flaveur/"
     ],
-    "notes": "Michelin 2 顆星（2018 年起）。主廚 Gaël 與 Mickaël Tourteaux 以地中海食材融合全球風味，創意精緻料理。近 Place Masséna，座位僅約 20 席，務必提前訂位。週日週一公休；品嚐套餐約 €150–220 起。"
+    "notes": "Michelin 2 顆星（2018 年起）。主廚 Gaël 與 Mickaël Tourteaux 以地中海食材融合全球風味，創意精緻料理。近 Place Masséna，座位僅約 20 席，務必提前訂位。週日週一公休；品嚐套餐約 €150–220 起。",
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "nice-hobo-coffee",
@@ -953,7 +981,7 @@
     "opening_hours": "Daily 09:00-21:00",
     "visit_priority": "medium",
     "reservation_required": false,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "meal_tags": [
       "coffee",
       "breakfast"
@@ -1006,14 +1034,17 @@
     "opening_hours": "Tue-Sat 19:00-22:00",
     "visit_priority": "medium",
     "reservation_required": true,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "source_urls": [
       "https://guide.michelin.com/kr/en/provence-alpes-cote-dazur/nice/restaurant/jan",
       "https://janonline.com/restaurantjan/",
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d4975072-Reviews-JAN-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
       "https://www.explorenicecotedazur.com/en/restaurant/restaurant-jan/"
     ],
-    "notes": "Michelin 1 顆星（2016 年起）。南非主廚 Jan Hendrik van der Westhuizen 以南非食材與法式技法打造個人化套餐菜單。位於 Vieux Nice，僅供晚餐，座位約 20 席。週日週一公休；套餐約 €180–250。"
+    "notes": "Michelin 1 顆星（2016 年起）。南非主廚 Jan Hendrik van der Westhuizen 以南非食材與法式技法打造個人化套餐菜單。位於 Vieux Nice，僅供晚餐，座位約 20 席。週日週一公休；套餐約 €180–250。",
+    "meal_tags": [
+      "dinner"
+    ]
   },
   {
     "id": "nice-la-belugue",
@@ -1167,7 +1198,12 @@
       "https://www.explorenicecotedazur.com/en/restaurant/restaurant-la-rossettisserie/",
       "https://www.academiedugout.fr/adresses/la-rossettiserie_1416"
     ],
-    "notes": "有官方網站 larossettisserie.com，無 Michelin、無 Le Fooding 收錄。Tripadvisor 4.4/5（1,300+ 則）、Restaurant Guru 4.4/5（3,000+ 則）。10 人以上需訂位，小團體可直接前往。Académie du Goût 有收錄。"
+    "notes": "有官方網站 larossettisserie.com，無 Michelin、無 Le Fooding 收錄。Tripadvisor 4.4/5（1,300+ 則）、Restaurant Guru 4.4/5（3,000+ 則）。10 人以上需訂位，小團體可直接前往。Académie du Goût 有收錄。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "nice-la-route-du-miam",
@@ -1262,14 +1298,18 @@
     "opening_hours": "Daily 12:00-00:00",
     "visit_priority": "medium",
     "reservation_required": false,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "source_urls": [
       "https://www.restaurantsafari.fr/",
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d952443-Reviews-Le_Safari-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
       "https://www.petitfute.com/v33027-nice-06000/c1165-restaurants/c4-cuisine-francaise/c1-bistrot-brasserie/277448-le-safari.html",
       "https://nice.city-life.fr/Sortir/Nice/Restaurants/587/Le-Safari?lang=en"
     ],
-    "notes": "1972 年起立店，Cours Saleya 花市旁地標。主打 Niçoise 與普羅旺斯料理：Bagna Cauda、Daube Niçoise、手工 Ravioli、大蒜蛋黃醬蔬菜盤（Grand Aioli）。觀光客與當地人混雜，露台位置絕佳。每日中午至午夜，可選不訂位。"
+    "notes": "1972 年起立店，Cours Saleya 花市旁地標。主打 Niçoise 與普羅旺斯料理：Bagna Cauda、Daube Niçoise、手工 Ravioli、大蒜蛋黃醬蔬菜盤（Grand Aioli）。觀光客與當地人混雜，露台位置絕佳。每日中午至午夜，可選不訂位。",
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "nice-les-agitateurs",
@@ -1285,14 +1325,18 @@
     "opening_hours": "Mon, Thu-Fri 19:30-22:00; Sat-Sun 12:00-14:00, 19:30-22:00",
     "visit_priority": "medium",
     "reservation_required": true,
-    "hotel_nearby": false,
+    "hotel_nearby": true,
     "source_urls": [
       "https://guide.michelin.com/en/provence-alpes-cote-dazur/nice/restaurant/les-agitateurs",
       "https://lesagitateurs.com/",
       "https://fr.gaultmillau.com/en/restaurants/les-agitateurs",
       "https://www.tripadvisor.com.au/Restaurant_Review-g187234-d14106279-Reviews-Les_Agitateurs-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html"
     ],
-    "notes": "Michelin 1 顆星（2021 年起）。主廚 Samuel Victori 以普羅旺斯當季食材為核心，創意精緻料理。位於 Vieux Nice 近 Colline du Château 一帶。週二週三公休；午餐僅週六週日；晚餐套餐約 €135–185。"
+    "notes": "Michelin 1 顆星（2021 年起）。主廚 Samuel Victori 以普羅旺斯當季食材為核心，創意精緻料理。位於 Vieux Nice 近 Colline du Château 一帶。週二週三公休；午餐僅週六週日；晚餐套餐約 €135–185。",
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "nice-lou-pilha-leva",
@@ -1313,7 +1357,12 @@
       "https://www.tripadvisor.com/Restaurant_Review-g187234-d1105097-Reviews-Lou_Pilha_Leva-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html",
       "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/lou-pilha-leva-nice"
     ],
-    "notes": "Vieux Nice 傳統小吃站，即點即食。Socca 與 Pissaladière 備選。有官方網站 loupilhaleva.shop，無 Michelin、無 Le Fooding 收錄。Tripadvisor Nice Quick Bites #14（3.4/5，570+ 則）。"
+    "notes": "Vieux Nice 傳統小吃站，即點即食。Socca 與 Pissaladière 備選。有官方網站 loupilhaleva.shop，無 Michelin、無 Le Fooding 收錄。Tripadvisor Nice Quick Bites #14（3.4/5，570+ 則）。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "takeout"
+    ]
   },
   {
     "id": "nice-panivore",
@@ -2524,7 +2573,12 @@
       "https://petits-parisiens.fr/en",
       "https://www.tripadvisor.com/Restaurant_Review-g187147-d21289189-Reviews-Les_Petits_Parisiens-Paris_Ile_de_France.html"
     ],
-    "notes": "14 區口碑法式小酒館，Michelin 推薦傳統料理並兼顧價格帶。平日午晚餐可排，週末休息，適合作為左岸南側備選。"
+    "notes": "14 區口碑法式小酒館，Michelin 推薦傳統料理並兼顧價格帶。平日午晚餐可排，週末休息，適合作為左岸南側備選。",
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ]
   },
   {
     "id": "paris-los-a-moelle",
@@ -3817,5 +3871,1703 @@
       "https://www.thefork.fr/restaurant/gwon-s-dining-r416695"
     ],
     "notes": "Cambronne 周邊的韓式晚餐補位，適合連住多晚時保留非法餐的就近替代方案。"
+  },
+  {
+    "id": "avignon-croq-nem-le-tai",
+    "name": "Croq Nem Le Tai",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.944379,
+    "lng": 4.803679,
+    "score": 35,
+    "address": "15 Boulevard Raspail Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Croq+Nem+Le+Tai+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Tu-Sa 11:30-14:00, 18:30-22:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Croq+Nem+Le+Tai+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/1445366513",
+      "https://www.croqnemletai.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.5 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=vietnamese。OSM 提供營業時段：Tu-Sa 11:30-14:00, 18:30-22:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-pomelo",
+    "name": "Pomelo",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.944817,
+    "lng": 4.805335,
+    "score": 34,
+    "address": "36 Cours Jean Jaurès",
+    "google_maps_url": "https://maps.google.com/?q=Pomelo+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo-Su 12:00-14:00,19:00-22:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Pomelo+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/1540763738"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.6 km】位於Avignon Centre 舊城與車站步行圈。OSM 提供營業時段：Mo-Su 12:00-14:00,19:00-22:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-la-cour-du-louvre",
+    "name": "La Cour du Louvre",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.948529,
+    "lng": 4.804372,
+    "score": 34,
+    "address": "23 84000",
+    "google_maps_url": "https://maps.google.com/?q=La+Cour+du+Louvre+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Cour+du+Louvre+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/4960168124",
+      "https://www.restaurantlacourdulouvre.fr/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=french。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-au-chineur",
+    "name": "Au Chineur",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.943751,
+    "lng": 4.807321,
+    "score": 34,
+    "address": "78 Place des Corps Saints",
+    "google_maps_url": "https://maps.google.com/?q=Au+Chineur+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo,Th-Sa 09:00-15:00,18:00-23:00, Tu-We 09:00-15:00, Su closed",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Au+Chineur+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/6219462848"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=regional;french。OSM 提供營業時段：Mo,Th-Sa 09:00-15:00,18:00-23:00, Tu-We 09:00-15:00, Su closed。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-moliere",
+    "name": "Le Molière",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.944163,
+    "lng": 4.807402,
+    "score": 34,
+    "address": "68 Place des Corps Saints",
+    "google_maps_url": "https://maps.google.com/?q=Le+Moli%C3%A8re+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo-Fr 11:00-15:00; Sa-Su 11:00-23:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Moli%C3%A8re+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/2059747263"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=french。OSM 提供營業時段：Mo-Fr 11:00-15:00; Sa-Su 11:00-23:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-milk",
+    "name": "Milk",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.94492,
+    "lng": 4.807373,
+    "score": 32,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Milk+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 09:30-18:30",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Milk+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/2059766406"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon Centre 舊城與車站步行圈。OSM 提供營業時段：Mo-Su 09:30-18:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-la-princiere",
+    "name": "La Princière",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.944532,
+    "lng": 4.807816,
+    "score": 35,
+    "address": "23 Place des Corps Saints",
+    "google_maps_url": "https://maps.google.com/?q=La+Princi%C3%A8re+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo-Su 12:30-18:30",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Princi%C3%A8re+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/2059750000",
+      "https://la-princiere-avignon.eatbu.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon Centre 舊城與車站步行圈。OSM 提供營業時段：Mo-Su 12:30-18:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-grand-cafe-barretta",
+    "name": "Grand Café Barretta",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.946544,
+    "lng": 4.807066,
+    "score": 32,
+    "address": "12 Place Saint-Didier 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Grand+Caf%C3%A9+Barretta+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Grand+Caf%C3%A9+Barretta+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/3421595304",
+      "www.facebook.com/Grand-Café-Barretta-204295823525980"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon Centre 舊城與車站步行圈。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-milano",
+    "name": "Milano",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.950089,
+    "lng": 4.802668,
+    "score": 35,
+    "address": "21 bis Place Crillon",
+    "google_maps_url": "https://maps.google.com/?q=Milano+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "mo-sa 08:30-14:30; 18:30-22:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Milano+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/303075922",
+      "https://www.restaurantlemilano.fr"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=italian。OSM 提供營業時段：mo-sa 08:30-14:30; 18:30-22:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-la-table-hot",
+    "name": "La Table Hot",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.949836,
+    "lng": 4.803589,
+    "score": 35,
+    "address": "3 Rue Mazan",
+    "google_maps_url": "https://maps.google.com/?q=La+Table+Hot+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo-Sa 12:00-14:30; Fr, Sa 19:00-21:15",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Table+Hot+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/4940164022",
+      "https://latablehot.fr/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon Centre 舊城與車站步行圈。OSM 提供營業時段：Mo-Sa 12:00-14:30; Fr, Sa 19:00-21:15。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-nid",
+    "name": "Le Nid",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.94622,
+    "lng": 4.807618,
+    "score": 32,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le+Nid+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Mo 11:00-19:00; Tu-Sa 10:00-19:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Nid+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/11553826233"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon Centre 舊城與車站步行圈。OSM 提供營業時段：Mo 11:00-19:00; Tu-Sa 10:00-19:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-crillon",
+    "name": "Le Crillon",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.950052,
+    "lng": 4.80323,
+    "score": 35,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le+Crillon+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo-Sa 12:00-14:30",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Crillon+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/303075928",
+      "https://www.restaurantlecrillon.fr/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon Centre 舊城與車站步行圈。OSM 提供營業時段：Mo-Sa 12:00-14:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-vintage",
+    "name": "Le Vintage",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.947901,
+    "lng": 4.806615,
+    "score": 35,
+    "address": "10 Rue Galante",
+    "google_maps_url": "https://maps.google.com/?q=Le+Vintage+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo-Su 11:30-14:00,19:00-22:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Vintage+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/1427774354",
+      "https://levintageavignon.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=french。OSM 提供營業時段：Mo-Su 11:30-14:00,19:00-22:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-saint-chocolat",
+    "name": "Le Saint Chocolat",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.946877,
+    "lng": 4.807448,
+    "score": 32,
+    "address": "1 Place Saint-Didier",
+    "google_maps_url": "https://maps.google.com/?q=Le+Saint+Chocolat+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-18:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Saint+Chocolat+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/1821448855"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon Centre 舊城與車站步行圈。OSM 提供營業時段：Mo-Fr 08:00-18:00; Sa 09:00-18:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-la-canoa",
+    "name": "La Canoa",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.947366,
+    "lng": 4.80767,
+    "score": 34,
+    "address": "50 Rue des Fourbisseurs 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=La+Canoa+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Tu,Fr 12:00-14:30,19:00-21:30; Sa 12:00-17:00,19:30-21:30; Su 12:00-15:00; Mo off",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Canoa+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/1539742950"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.9 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=peruvian。OSM 提供營業時段：Tu,Fr 12:00-14:30,19:00-21:30; Sa 12:00-17:00,19:30-21:30; Su 12:00-15:00; Mo off。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-coeur-dartichaut",
+    "name": "Coeur d'Artichaut",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.947792,
+    "lng": 4.807358,
+    "score": 35,
+    "address": "6 Place de la Principale",
+    "google_maps_url": "https://maps.google.com/?q=Coeur+d'Artichaut+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo-Sa 09:00-17:00; Su 10:30-15:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Coeur+d'Artichaut+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/6810816010",
+      "https://www.coeurdartichautavignon.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.9 km】位於Avignon Centre 舊城與車站步行圈。OSM 提供營業時段：Mo-Sa 09:00-17:00; Su 10:30-15:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-46",
+    "name": "Le 46",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.95154,
+    "lng": 4.805795,
+    "score": 35,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le+46+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo,Tu,Th-Sa 12:00-14:00,19:00-21:30+",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+46+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/8021772609",
+      "https://le46avignon.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 1.1 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=french;regional。OSM 提供營業時段：Mo,Tu,Th-Sa 12:00-14:00,19:00-21:30+。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-ubon-thai",
+    "name": "UBON Thaï Restaurant",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.945027,
+    "lng": 4.808672,
+    "score": 34,
+    "address": "24 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=UBON+Tha%C3%AF+Restaurant+Avignon+centre%2C+84000+Avignon",
+    "price_level": "€€",
+    "opening_hours": "We-Sa 12:00-14:00, 19:15-22:00; Tu 19:15-22:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=UBON+Tha%C3%AF+Restaurant+Avignon+centre%2C+84000+Avignon",
+      "https://www.openstreetmap.org/node/9968192496"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.9 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=curry;thai。OSM 提供營業時段：We-Sa 12:00-14:00, 19:15-22:00; Tu 19:15-22:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-crazy-wok",
+    "name": "Crazy Wok",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.704199,
+    "lng": 7.265056,
+    "score": 35,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Crazy+Wok+Nice+centre%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mo-Sa 12:00-14:00,19:00-22:00; Su,PH off",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Crazy+Wok+Nice+centre%2C+06000+Nice",
+      "https://www.openstreetmap.org/node/373343489",
+      "http://crazy-wok.com"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.0 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈。OSM 提供營業時段：Mo-Sa 12:00-14:00,19:00-22:00; Su,PH off。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-malongo-cafe",
+    "name": "Malongo Café",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.70363,
+    "lng": 7.265852,
+    "score": 33,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Malongo+Caf%C3%A9+Nice+centre%2C+06000+Nice",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 08:00-19:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Malongo+Caf%C3%A9+Nice+centre%2C+06000+Nice",
+      "https://www.openstreetmap.org/node/5155163230",
+      "https://www.malongo.com/boutiques/boutique-cafe-malongo-nice-jean-medecin/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈；OSM cuisine=coffee_shop。OSM 提供營業時段：Mo-Su 08:00-19:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-le-central",
+    "name": "Le Central",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.703553,
+    "lng": 7.265652,
+    "score": 34,
+    "address": "2 Rue de Suisse",
+    "google_maps_url": "https://maps.google.com/?q=Le+Central+Nice+centre%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Central+Nice+centre%2C+06000+Nice",
+      "https://www.openstreetmap.org/node/6438393794",
+      "https://lecentral-nice.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-le-saetone",
+    "name": "Le Saëtone",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.704004,
+    "lng": 7.264233,
+    "score": 35,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le+Sa%C3%ABtone+Nice+centre%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mo,Th-Su 12:00-14:00,19:00-21:30; Tu,We off",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Sa%C3%ABtone+Nice+centre%2C+06000+Nice",
+      "https://www.openstreetmap.org/node/7052737785",
+      "https://restaurant-le-saetone.eatbu.com"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈；OSM cuisine=mediterranean;traditional;pizza。OSM 提供營業時段：Mo,Th-Su 12:00-14:00,19:00-21:30; Tu,We off。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-la-planxa",
+    "name": "La Planxa",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.705014,
+    "lng": 7.264819,
+    "score": 35,
+    "address": "28 Rue d'Angleterre",
+    "google_maps_url": "https://maps.google.com/?q=La+Planxa+Nice+centre%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mo-Su 12:00-22:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Planxa+Nice+centre%2C+06000+Nice",
+      "https://www.openstreetmap.org/node/4852259724",
+      "https://www.laplanxa.fr/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈；OSM cuisine=french;grill;mediterranean。OSM 提供營業時段：Mo-Su 12:00-22:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-royal-kashmir",
+    "name": "Royal Kashmir",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.705043,
+    "lng": 7.266013,
+    "score": 35,
+    "address": "30 Rue Pertinax",
+    "google_maps_url": "https://maps.google.com/?q=Royal+Kashmir+Nice+centre%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mo-Su 11:30-14:45,18:45-22:45",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Royal+Kashmir+Nice+centre%2C+06000+Nice",
+      "https://www.openstreetmap.org/node/9689821713",
+      "https://www.royalkashmir-nice.fr/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈；OSM cuisine=indian。OSM 提供營業時段：Mo-Su 11:30-14:45,18:45-22:45。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-voyageur-nissart",
+    "name": "Voyageur Nissart",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.70376,
+    "lng": 7.263323,
+    "score": 34,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Voyageur+Nissart+Nice+centre%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Voyageur+Nissart+Nice+centre%2C+06000+Nice",
+      "https://www.openstreetmap.org/node/488715018",
+      "http://www.voyageurnissart.com/home.php"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-le-grand-cafe-de-lyon",
+    "name": "Le Grand Café de Lyon",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.702385,
+    "lng": 7.266637,
+    "score": 33,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le+Grand+Caf%C3%A9+de+Lyon+Nice+centre%2C+06000+Nice",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 07:30-21:45",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Grand+Caf%C3%A9+de+Lyon+Nice+centre%2C+06000+Nice",
+      "https://www.openstreetmap.org/node/453141902",
+      "https://grandcafedelyon.eatbu.com"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈。OSM 提供營業時段：Mo-Su 07:30-21:45。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-la-langouste",
+    "name": "La Langouste",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.702012,
+    "lng": 7.265525,
+    "score": 35,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La+Langouste+Nice+centre%2C+06000+Nice",
+    "price_level": "€€",
+    "opening_hours": "Mo-Sa 12:00-14:30,19:00-22:30; Su off",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Langouste+Nice+centre%2C+06000+Nice",
+      "https://www.openstreetmap.org/node/2066937742",
+      "https://lalangouste.fr"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈。OSM 提供營業時段：Mo-Sa 12:00-14:30,19:00-22:30; Su off。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-st-michel-cafe",
+    "name": "St Michel Café",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.614179,
+    "lng": -1.498206,
+    "score": 32,
+    "address": "50170",
+    "google_maps_url": "https://maps.google.com/?q=St+Michel+Caf%C3%A9+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=St+Michel+Caf%C3%A9+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/12331114301"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.9 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線；OSM cuisine=coffee_shop。OSM 提供營業時段：Mo-Su 09:00-18:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-lantre-terre-et-baie",
+    "name": "L'antre Terre et Baie",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.602086,
+    "lng": -1.51304,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=L'antre+Terre+et+Baie+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=L'antre+Terre+et+Baie+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/10159109345"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 1.5 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-lepicerie-de-la-baie",
+    "name": "L'épicerie de la Baie",
+    "category": "creperie",
+    "status": "ready",
+    "lat": 48.598213,
+    "lng": -1.513388,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=L'%C3%A9picerie+de+la+Baie+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=L'%C3%A9picerie+de+la+Baie+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/13188641795",
+      "http://lepiceriedelabaie.com"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 1.9 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線；OSM cuisine=crepe;crepes;pancake。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-bistro-du-mont",
+    "name": "Bistro du Mont",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.598011,
+    "lng": -1.513774,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Bistro+du+Mont+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Bistro+du+Mont+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/12994198032"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.0 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-hotel-restaurant-le-beauvoir",
+    "name": "Hôtel Restaurant Le Beauvoir",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.597769,
+    "lng": -1.513178,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=H%C3%B4tel+Restaurant+Le+Beauvoir+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=H%C3%B4tel+Restaurant+Le+Beauvoir+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/2119648942"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.0 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-terrasse",
+    "name": "La Terrasse",
+    "category": "creperie",
+    "status": "ready",
+    "lat": 48.635009,
+    "lng": -1.511029,
+    "score": 32,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La+Terrasse+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Terrasse+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/way/41676422"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.2 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線；OSM cuisine=crepe。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-confiance",
+    "name": "La Confiance",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.635176,
+    "lng": -1.510383,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La+Confiance+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Confiance+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/5292449066"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.2 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線；OSM cuisine=french。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-auberge-saint-pierre",
+    "name": "Restaurant L'Auberge Saint-Pierre",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.635367,
+    "lng": -1.509969,
+    "score": 35,
+    "address": "50170",
+    "google_maps_url": "https://maps.google.com/?q=Restaurant+L'Auberge+Saint-Pierre+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "08:00-22:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Restaurant+L'Auberge+Saint-Pierre+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/way/41665333",
+      "https://www.auberge-saint-pierre.fr/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.2 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線；OSM cuisine=regional。OSM 提供營業時段：08:00-22:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-cafeteria-la-belle-normande",
+    "name": "Cafétéria La Belle Normande",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.635477,
+    "lng": -1.509965,
+    "score": 33,
+    "address": "Grande Rue 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Caf%C3%A9t%C3%A9ria+La+Belle+Normande+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Caf%C3%A9t%C3%A9ria+La+Belle+Normande+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/846978287"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.2 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線；偏快速外帶 / 臨時補位。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-le-logis-sainte-catherine",
+    "name": "Le Logis Sainte-Catherine",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.635578,
+    "lng": -1.511065,
+    "score": 34,
+    "address": "6 Ruelle Sainte Catherine 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Le+Logis+Sainte-Catherine+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Logis+Sainte-Catherine+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/12512128308",
+      "https://lelogissaintecatherine.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.2 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-croix-blanche",
+    "name": "La Croix Blanche",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.635501,
+    "lng": -1.509855,
+    "score": 34,
+    "address": "Grande Rue 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La+Croix+Blanche+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Croix+Blanche+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/way/948973060",
+      "https://www.hotel-la-croix-blanche.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.2 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-le-mouton-blanc",
+    "name": "Le Mouton Blanc",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.635688,
+    "lng": -1.509828,
+    "score": 34,
+    "address": "Grande Rue 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Le+Mouton+Blanc+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Mouton+Blanc+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/way/41665468",
+      "https://www.lemoutonblanc.fr/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.2 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-hotel-restaurant-le-saint-michel",
+    "name": "Le Saint-Michel",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.635774,
+    "lng": -1.510007,
+    "score": 33,
+    "address": "Grande Rue 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Le+Saint-Michel+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Saint-Michel+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/way/948732583"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.3 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-nouvelle-terrasse",
+    "name": "La Nouvelle Terrasse",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.63584,
+    "lng": -1.509766,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La+Nouvelle+Terrasse+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Nouvelle+Terrasse+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/way/949025767"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.3 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-le-cafe-gourmand",
+    "name": "Le Café Gourmand",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.636084,
+    "lng": -1.510579,
+    "score": 31,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le+Caf%C3%A9+Gourmand+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Caf%C3%A9+Gourmand+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/9044001446"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.3 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-table",
+    "name": "La Table",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.594477,
+    "lng": -1.511463,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La+Table+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Table+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/12198996225"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 2.3 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-larchange",
+    "name": "L'Archange",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.618688,
+    "lng": -1.460217,
+    "score": 31,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=L'Archange+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=L'Archange+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/6437734740"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 3.7 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-casa-de-quentin",
+    "name": "La Casa de Quentin",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.557221,
+    "lng": -1.509135,
+    "score": 29,
+    "address": "Rue du Mont Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La+Casa+de+Quentin+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La+Casa+de+Quentin+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/node/4283973203"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 6.5 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-les-tartines-bavardes",
+    "name": "Les Tartines Bavardes",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.554389,
+    "lng": -1.509176,
+    "score": 29,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Les+Tartines+Bavardes+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les+Tartines+Bavardes+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/way/96737956"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 6.8 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-le-relais-montois",
+    "name": "Le Relais Montois",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.553081,
+    "lng": -1.507737,
+    "score": 30,
+    "address": "Baie du Mont-Saint-Michel / Pontorson area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le+Relais+Montois+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Relais+Montois+Baie+du+Mont-Saint-Michel+%2F+Pontorson+area",
+      "https://www.openstreetmap.org/way/96736559",
+      "https://www.lerelaismontois.fr/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 6.9 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-the-coffee",
+    "name": "The Coffee",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.848679,
+    "lng": 2.298426,
+    "score": 33,
+    "address": "138 Boulevard de Grenelle 75015",
+    "google_maps_url": "https://maps.google.com/?q=The+Coffee+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 08:00-19:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=The+Coffee+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/node/12889207101",
+      "http://thecoffee.jp"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈；OSM cuisine=coffee_shop。OSM 提供營業時段：Mo-Su 08:00-19:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-le-pierrot",
+    "name": "Le Pierrot",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.849172,
+    "lng": 2.298428,
+    "score": 32,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le+Pierrot+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 07:30-02:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Pierrot+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/node/3522038519"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈。OSM 提供營業時段：Mo-Su 07:30-02:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-hwaro",
+    "name": "Hwaro",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.845352,
+    "lng": 2.297632,
+    "score": 34,
+    "address": "58 rue de la Croix-Nivert 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Hwaro+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Mo-Su 12:00-14:30, 19:00-22:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Hwaro+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/node/1352879262"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈；OSM cuisine=asian;barbecue;korean。OSM 提供營業時段：Mo-Su 12:00-14:30, 19:00-22:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-le-zinc",
+    "name": "Le Zinc",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.849522,
+    "lng": 2.298903,
+    "score": 32,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le+Zinc+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Zinc+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/node/4424838693",
+      "https://lezinc-paris.fr/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-felix",
+    "name": "Félix",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.847388,
+    "lng": 2.305995,
+    "score": 33,
+    "address": "79 Avenue de Ségur 75015",
+    "google_maps_url": "https://maps.google.com/?q=F%C3%A9lix+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=F%C3%A9lix+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/node/2830135681"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈；OSM cuisine=french。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-chez-zymo",
+    "name": "Chez Zymo",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.850124,
+    "lng": 2.301217,
+    "score": 34,
+    "address": "11 Rue du Laos 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Chez+Zymo+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tu 18:00-23:00; We 12:00-15:00, 18:00-23:00; Th 12:00-15:00, 18:00-00:00; Fr 12:00-15:00, 18:00-02:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Chez+Zymo+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/node/13332663130"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈。OSM 提供營業時段：Tu 18:00-23:00; We 12:00-15:00, 18:00-23:00; Th 12:00-15:00, 18:00-00:00; Fr 12:00-15:00, 18:00-02:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-les-tomettes",
+    "name": "Les Tomettes",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.84978,
+    "lng": 2.298554,
+    "score": 34,
+    "address": "64 Avenue de la Motte-Picquet",
+    "google_maps_url": "https://maps.google.com/?q=Les+Tomettes+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Mo-Su 09:00-00:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les+Tomettes+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/node/7115558294"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.4 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈。OSM 提供營業時段：Mo-Su 09:00-00:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-le-phare-saint-louis",
+    "name": "Le Phare Saint-Louis",
+    "category": "creperie",
+    "status": "ready",
+    "lat": 48.85022,
+    "lng": 2.299997,
+    "score": 33,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le+Phare+Saint-Louis+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Phare+Saint-Louis+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/node/10118583964",
+      "https://lepharestlouis.com/creperie-paris-15/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.4 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-claudia-paris",
+    "name": "Claudia Paris",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.850293,
+    "lng": 2.300129,
+    "score": 34,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Claudia+Paris+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Claudia+Paris+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/node/11613816169",
+      "https://restaurant-claudia-paris.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.4 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-lattein-coffee",
+    "name": "Lattein Coffee",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.850395,
+    "lng": 2.300328,
+    "score": 32,
+    "address": "1 Rue du Général de Castelnau 75015",
+    "google_maps_url": "https://maps.google.com/?q=Lattein+Coffee+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€",
+    "opening_hours": "Mo, We-Fr 10:00-18:00; Sa-Su 09:00-18:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Lattein+Coffee+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/node/13587495104"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.4 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈；OSM cuisine=coffee_shop。OSM 提供營業時段：Mo, We-Fr 10:00-18:00; Sa-Su 09:00-18:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-jium",
+    "name": "Jium",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.848695,
+    "lng": 2.29661,
+    "score": 35,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Jium+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Mo 19:00-22:00; Tu-Sa 12:00-15:00,19:00-22:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Jium+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/node/1677212113",
+      "https://www.jium.art/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.4 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈；OSM cuisine=korean。OSM 提供營業時段：Mo 19:00-22:00; Tu-Sa 12:00-15:00,19:00-22:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-ristorantino-shardana",
+    "name": "Ristorantino Shardana",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.845649,
+    "lng": 2.296359,
+    "score": 34,
+    "address": "134 Rue du Théâtre 75015",
+    "google_maps_url": "https://maps.google.com/?q=Ristorantino+Shardana+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Mo-Sa 12:05-14:00,19:00-22:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Ristorantino+Shardana+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/node/9061209417"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.4 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈。OSM 提供營業時段：Mo-Sa 12:05-14:00,19:00-22:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-le-zig-zag",
+    "name": "Le Zig Zag",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.846137,
+    "lng": 2.306882,
+    "score": 33,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le+Zig+Zag+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€",
+    "opening_hours": "Mo-Sa 11:00-01:45; Su 11:00-00:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Zig+Zag+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/node/2528325326",
+      "https://zigzagcafe.eatbu.com/?lang=fr"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.4 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈。OSM 提供營業時段：Mo-Sa 11:00-01:45; Su 11:00-00:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-les-pepites",
+    "name": "Les Pépites",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.846516,
+    "lng": 2.307107,
+    "score": 35,
+    "address": "43 Boulevard Garibaldi",
+    "google_maps_url": "https://maps.google.com/?q=Les+P%C3%A9pites+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Mo-Tu 10:00-15:00; We-Sa 10:00-22:00; Su 10:00-18:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les+P%C3%A9pites+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/node/10832067963",
+      "https://lespepitesparis.fr/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.4 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈。OSM 提供營業時段：Mo-Tu 10:00-15:00; We-Sa 10:00-22:00; Su 10:00-18:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-le-cafe-du-commerce",
+    "name": "Le Café du Commerce",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.846424,
+    "lng": 2.2955,
+    "score": 34,
+    "address": "51 Rue du Commerce 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Le+Caf%C3%A9+du+Commerce+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Caf%C3%A9+du+Commerce+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/node/1186043364",
+      "https://www.lecafeducommerce.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.4 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈；OSM cuisine=french。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-chez-tonton",
+    "name": "Chez Tonton",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.844842,
+    "lng": 2.296344,
+    "score": 35,
+    "address": "20 Rue Gramme 75015",
+    "google_maps_url": "https://maps.google.com/?q=Chez+Tonton+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tu-Sa 12:00-14:00, 19:00-21:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Chez+Tonton+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/node/13620420901",
+      "https://www.cheztonton.fr"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.4 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈；OSM cuisine=chinese。OSM 提供營業時段：Tu-Sa 12:00-14:00, 19:00-21:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-washi-thai",
+    "name": "Washi Thai",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.843413,
+    "lng": 2.298841,
+    "score": 34,
+    "address": "3 Rue Péclet 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Washi+Thai+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Tu-Su 12:00-14:30,19:00-22:30; PH 19:00-22:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Washi+Thai+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/way/680883885"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.4 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈；OSM cuisine=thai。OSM 提供營業時段：Tu-Su 12:00-14:30,19:00-22:30; PH 19:00-22:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-le-radis-beurre",
+    "name": "Le Radis Beurre",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.846333,
+    "lng": 2.307832,
+    "score": 35,
+    "address": "51 Boulevard Garibaldi 75015",
+    "google_maps_url": "https://maps.google.com/?q=Le+Radis+Beurre+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€€",
+    "opening_hours": "Mo-Fr 12:00-14:30, 19:30-22:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le+Radis+Beurre+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/node/5471060105",
+      "https://restaurantleradisbeurre.com/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.5 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈；OSM cuisine=regional。OSM 提供營業時段：Mo-Fr 12:00-14:30, 19:30-22:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-onoul",
+    "name": "Onoul",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.845298,
+    "lng": 2.295187,
+    "score": 33,
+    "address": "8 Rue Gramme 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Onoul+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+    "price_level": "€",
+    "opening_hours": "Tu-Su 09:00-18:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Onoul+Cambronne+%2F+La+Motte-Picquet%2C+75015+Paris",
+      "https://www.openstreetmap.org/node/10902609720",
+      "https://www.instagram.com/onoul_paris/"
+    ],
+    "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.5 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈；OSM cuisine=coffee_shop;korean。OSM 提供營業時段：Tu-Su 09:00-18:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
   }
 ]

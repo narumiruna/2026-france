@@ -18,6 +18,7 @@ There is no build pipeline yet. Use lightweight documentation workflows:
 - `rg --files`: list tracked files quickly.
 - `rg "<keyword>" docs/`: search existing decisions before adding new text.
 - `git status`: verify only intended files are changed.
+- `node scripts/verify-hotel-nearby-counts.mjs`: verify each accommodation has at least 50 usable `hotel_nearby` restaurant/cafe candidates; add `--list` to audit counted IDs or `--json` for machine-readable output.
 
 If automation is added later (lint/test), document commands here and keep examples runnable from repo root.
 
