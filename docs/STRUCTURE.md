@@ -37,12 +37,12 @@ description: 讀這份文件以快速理解文件與程式結構。
 
 ## 各層責任
 - `index.html`, `assets/`：分頁 UI（`overview` / `map`）與互動邏輯。
-- `scripts/`：本機資料一致性檢查，不負責外部查詢或資料抓取。
+- `scripts/`：本機資料一致性檢查與受控資料匯入；外部查詢腳本須保留來源與可重跑性。
 - `data/restaurants.json`：地圖主資料來源（整合後輸入）。
 - `data/city-overview.json`：城市層級美食總覽資料來源。
 - `data/cities/*.json`：各城市原始或分段資料，方便分工與維護。
 - `docs/`：需求、流程、偏好、行程與規則，不存放執行邏輯。
-  - `docs/HOTEL_NEARBY_GAPS.md`：只追蹤住宿附近候選補到 50 間的缺口與補齊方向。
+  - `docs/HOTEL_NEARBY_GAPS.md`：只追蹤住宿附近候選補到 100 間的缺口與補齊方向。
 
 ## 命名規則
 - 城市檔名使用小寫 kebab-case，例如 `mont-saint-michel.json`。

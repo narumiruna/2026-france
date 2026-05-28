@@ -1307,5 +1307,1300 @@
       "https://lalangouste.fr"
     ],
     "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Rue Lamartine / Jean Médecin / Nice-Ville 步行圈。OSM 提供營業時段：Mo-Sa 12:00-14:30,19:00-22:30; Su off。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-boulangerie-patisserie-brunet",
+    "name": "Boulangerie Pâtisserie Brunet",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.704231,
+    "lng": 7.265179,
+    "score": 31,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Boulangerie%20P%C3%A2tisserie%20Brunet%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Boulangerie%20P%C3%A2tisserie%20Brunet%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/12208507677"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.0 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM shop=bakery。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-cesar",
+    "name": "César",
+    "category": "dessert",
+    "status": "ready",
+    "lat": 43.704164,
+    "lng": 7.265534,
+    "score": 31,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=C%C3%A9sar%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=C%C3%A9sar%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/6438379158"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.0 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=ice_cream。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-food-junction",
+    "name": "Food Junction",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.704129,
+    "lng": 7.265559,
+    "score": 33,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Food%20Junction%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Food%20Junction%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/6438393789"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.0 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-smash-and-shake",
+    "name": "Smash and Shake",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.703989,
+    "lng": 7.264994,
+    "score": 36,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Smash%20and%20Shake%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Mo-Sa 11:30–23:30; Su 16:00–23:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Smash%20and%20Shake%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/12811853850"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.0 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=burger。OSM 提供營業時段：Mo-Sa 11:30–23:30; Su 16:00–23:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-burger-king",
+    "name": "Burger King",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.703954,
+    "lng": 7.26566,
+    "score": 36,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Burger%20King%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 11:00-24:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Burger%20King%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/5855725314",
+      "https://burgerking.fr/restaurant/nice-medecin"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.0 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=burger。OSM 提供營業時段：Mo-Su 11:00-24:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-la-rose-des-sables",
+    "name": "La Rose des Sables",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.704579,
+    "lng": 7.265004,
+    "score": 34,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Rose%20des%20Sables%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Rose%20des%20Sables%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/2024661339"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.0 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=kebab。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-nice-falafel-shop",
+    "name": "Nice Falafel Shop",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.704564,
+    "lng": 7.264965,
+    "score": 35,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Nice%20Falafel%20Shop%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Mo-Sa 12:00-22:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Nice%20Falafel%20Shop%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/10116927623"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.0 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food。OSM 提供營業時段：Mo-Sa 12:00-22:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-baguettes-d-argent",
+    "name": "Baguettes d'argent",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.704209,
+    "lng": 7.264691,
+    "score": 34,
+    "address": "26 Rue d'Angleterre",
+    "google_maps_url": "https://maps.google.com/?q=Baguettes%20d'argent%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Baguettes%20d'argent%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/12091926515"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.0 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=restaurant；OSM cuisine=vietnamese。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-la-fabrik",
+    "name": "La Fabrik",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.704547,
+    "lng": 7.265727,
+    "score": 36,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Fabrik%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 11:00-02:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Fabrik%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/10702276890",
+      "https://lafabrik-nice.com/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=pizza。OSM 提供營業時段：Mo-Su 11:00-02:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-la-signature",
+    "name": "La Signature",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.704519,
+    "lng": 7.264827,
+    "score": 33,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Signature%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Signature%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/2024661376"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-little-cafe",
+    "name": "Little Café",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.703902,
+    "lng": 7.264725,
+    "score": 31,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Little%20Caf%C3%A9%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Little%20Caf%C3%A9%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/10763087270"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=cafe。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-quick",
+    "name": "Quick",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.70468,
+    "lng": 7.265651,
+    "score": 36,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Quick%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Mo-Th 11:00-23:00;Fr-Sa 11:00-24:00;Su 11:00-23:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Quick%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/4077174884",
+      "https://www.quick.fr/restaurants/nice-medecin"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=burger。OSM 提供營業時段：Mo-Th 11:00-23:00;Fr-Sa 11:00-24:00;Su 11:00-23:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-nha-que",
+    "name": "Nhà Quê",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.703879,
+    "lng": 7.264694,
+    "score": 34,
+    "address": "2 Place Saetone",
+    "google_maps_url": "https://maps.google.com/?q=Nh%C3%A0%20Qu%C3%AA%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Nh%C3%A0%20Qu%C3%AA%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/13306710101"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=restaurant；OSM cuisine=vietnamese。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-le-sucre",
+    "name": "Le Sucré",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.704721,
+    "lng": 7.265009,
+    "score": 33,
+    "address": "2 Rue de Belgique",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Sucr%C3%A9%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Sucr%C3%A9%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/2024661279"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-mcdonald-s",
+    "name": "McDonald's",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.704768,
+    "lng": 7.265135,
+    "score": 36,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=McDonald's%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 07:30-00:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=McDonald's%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/298829852",
+      "https://www.mcdonalds.fr/restaurants/mcdonalds-nice-jean-medecin/31"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=burger。OSM 提供營業時段：Mo-Su 07:30-00:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-lou-pitchoun",
+    "name": "Lou Pitchoun",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.703809,
+    "lng": 7.264632,
+    "score": 31,
+    "address": "2 Place Saetone",
+    "google_maps_url": "https://maps.google.com/?q=Lou%20Pitchoun%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Lou%20Pitchoun%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/10763087271"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=cafe。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-real-tacos",
+    "name": "Real Tacos",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.704688,
+    "lng": 7.264762,
+    "score": 33,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Real%20Tacos%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Real%20Tacos%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/12091926514"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-cave-a-jazz",
+    "name": "Cave à Jazz",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.703738,
+    "lng": 7.264613,
+    "score": 33,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Cave%20%C3%A0%20Jazz%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Cave%20%C3%A0%20Jazz%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/12091904807"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-gusti",
+    "name": "Gusti",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.704775,
+    "lng": 7.264779,
+    "score": 33,
+    "address": "28 Rue d'Angleterre",
+    "google_maps_url": "https://maps.google.com/?q=Gusti%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Gusti%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/8954208917"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-chungchun",
+    "name": "Chungchun",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.703529,
+    "lng": 7.26558,
+    "score": 36,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Chungchun%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 11:30-22:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Chungchun%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/12563738146",
+      "https://chungchun.fr/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food。OSM 提供營業時段：Mo-Su 11:30-22:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-mezza-rosa",
+    "name": "Mezza Rosa",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.7035,
+    "lng": 7.265489,
+    "score": 36,
+    "address": "4 Rue de Suisse",
+    "google_maps_url": "https://maps.google.com/?q=Mezza%20Rosa%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€€",
+    "opening_hours": "Su-Th 11:00-22:00; Fr-Sa 11:00-22:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Mezza%20Rosa%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/485249894",
+      "https://mezzarosa.com/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=restaurant。OSM 提供營業時段：Su-Th 11:00-22:00; Fr-Sa 11:00-22:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-subway",
+    "name": "Subway",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.703451,
+    "lng": 7.265322,
+    "score": 36,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Subway%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Mo-Sa 11:00-21:00; Su 11:00-20:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Subway%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/297594236",
+      "https://restaurants.subway.com/france/nice/6-rue-de-suisse-notre-dame"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=sandwich。OSM 提供營業時段：Mo-Sa 11:00-21:00; Su 11:00-20:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-le-bon-gout",
+    "name": "Le Bon Goût",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.703826,
+    "lng": 7.2644,
+    "score": 36,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Bon%20Go%C3%BBt%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 11:00-00:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Bon%20Go%C3%BBt%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/11611007135",
+      "https://lebongoutnice.fr/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=pizza;burger;tacos;pates;sandwich。OSM 提供營業時段：Mo-Su 11:00-00:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-best-chicken",
+    "name": "Best Chicken",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.703419,
+    "lng": 7.265248,
+    "score": 35,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Best%20Chicken%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Tu-Th,Sa,Su 12:00-15:00,18:00-22:30; Fr 18:00-22:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Best%20Chicken%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/12563738147"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food。OSM 提供營業時段：Tu-Th,Sa,Su 12:00-15:00,18:00-22:30; Fr 18:00-22:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-original-fried-chicken",
+    "name": "Original Fried Chicken",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.703648,
+    "lng": 7.26445,
+    "score": 36,
+    "address": "27 Rue d'Angleterre",
+    "google_maps_url": "https://maps.google.com/?q=Original%20Fried%20Chicken%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Mo-Sa 12:00-23:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Original%20Fried%20Chicken%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/12091895507"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=chicken。OSM 提供營業時段：Mo-Sa 12:00-23:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-kagura",
+    "name": "Kagura",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.704574,
+    "lng": 7.264258,
+    "score": 34,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Kagura%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Kagura%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/12685556802"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=restaurant；OSM cuisine=japanese;sushi。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-le-faubourg-montmartre",
+    "name": "Le faubourg Montmartre",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.704977,
+    "lng": 7.265814,
+    "score": 33,
+    "address": "32 Rue Pertinax",
+    "google_maps_url": "https://maps.google.com/?q=Le%20faubourg%20Montmartre%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20faubourg%20Montmartre%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/9689821712"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-fresh-burritos",
+    "name": "Fresh Burritos",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.703689,
+    "lng": 7.26628,
+    "score": 36,
+    "address": "48 Avenue Jean Médecin",
+    "google_maps_url": "https://maps.google.com/?q=Fresh%20Burritos%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 11:30-22:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Fresh%20Burritos%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/10699955244",
+      "https://restaurants.freshburritos.fr/nice-jean-medecin/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food。OSM 提供營業時段：Mo-Su 11:30-22:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-restaurant-solidaire-face06",
+    "name": "Restaurant Solidaire - Face06",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.703843,
+    "lng": 7.264135,
+    "score": 33,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Restaurant%20Solidaire%20-%20Face06%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Restaurant%20Solidaire%20-%20Face06%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/12091892644"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-la-goulette",
+    "name": "La Goulette",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.703487,
+    "lng": 7.264446,
+    "score": 31,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Goulette%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Goulette%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/9380199322"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM shop=bakery。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-le-findi",
+    "name": "Le Findi",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.705151,
+    "lng": 7.265368,
+    "score": 33,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Findi%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Findi%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/13200797361"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-beirut-grill-house",
+    "name": "Beirut Grill House",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.703412,
+    "lng": 7.26446,
+    "score": 34,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Beirut%20Grill%20House%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Beirut%20Grill%20House%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/9380199323"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=restaurant；OSM cuisine=barbecue。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-pitaya",
+    "name": "Pitaya",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.705147,
+    "lng": 7.264874,
+    "score": 36,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Pitaya%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 11:30-22:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Pitaya%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/1749731303",
+      "https://pitaya-thaistreetfood.com/r/pitaya-nice-jean-medecin"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=thai。OSM 提供營業時段：Mo-Su 11:30-22:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-kfc",
+    "name": "KFC",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.705219,
+    "lng": 7.265314,
+    "score": 36,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=KFC%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 10:00-01:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=KFC%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/1701090133",
+      "https://www.kfc.fr/nos-restaurants/kfc-nice"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=chicken。OSM 提供營業時段：Mo-Su 10:00-01:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-la-petrie-de-la-gare",
+    "name": "La Pétrie de la Gare",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.705129,
+    "lng": 7.264593,
+    "score": 33,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20P%C3%A9trie%20de%20la%20Gare%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "We-Mo 06:30-19:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20P%C3%A9trie%20de%20la%20Gare%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/3633297080"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM shop=bakery。OSM 提供營業時段：We-Mo 06:30-19:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-planet-sandwichs",
+    "name": "Planet Sandwichs",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.705043,
+    "lng": 7.264312,
+    "score": 33,
+    "address": "3 Avenue Thiers",
+    "google_maps_url": "https://maps.google.com/?q=Planet%20Sandwichs%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Planet%20Sandwichs%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/12091898244"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-le-soleil-d-asie",
+    "name": "Le Soleil d'Asie",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.703567,
+    "lng": 7.263969,
+    "score": 33,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Soleil%20d'Asie%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Soleil%20d'Asie%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/12091903561"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-china-town",
+    "name": "China Town",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.70349,
+    "lng": 7.263986,
+    "score": 34,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=China%20Town%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=China%20Town%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/12091902376"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=restaurant；OSM cuisine=chinese。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-le-leopard",
+    "name": "Le Léopard",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.704802,
+    "lng": 7.263858,
+    "score": 36,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le%20L%C3%A9opard%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€€",
+    "opening_hours": "Mo-Su 12:00-15:00,19:00-23:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20L%C3%A9opard%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/2561894919",
+      "https://restoleopard.fr"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=restaurant；OSM cuisine=asian。OSM 提供營業時段：Mo-Su 12:00-15:00,19:00-23:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-china-12",
+    "name": "China 12",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.703933,
+    "lng": 7.263625,
+    "score": 34,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=China%2012%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=China%2012%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/12091910063"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=restaurant；OSM cuisine=chinese。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-darcom",
+    "name": "Darcom",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.703311,
+    "lng": 7.264007,
+    "score": 33,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Darcom%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Darcom%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/12091882719"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-la-princesse",
+    "name": "La Princesse",
+    "category": "dessert",
+    "status": "ready",
+    "lat": 43.70328,
+    "lng": 7.26402,
+    "score": 31,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Princesse%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Princesse%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/12091895510"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM shop=pastry。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-djourdjoura",
+    "name": "Djourdjoura",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.705089,
+    "lng": 7.266695,
+    "score": 36,
+    "address": "19 Rue Pertinax",
+    "google_maps_url": "https://maps.google.com/?q=Djourdjoura%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€€",
+    "opening_hours": "Mo-Sa 12:00-14:00,19:00-22:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Djourdjoura%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/9689821716"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=restaurant；OSM cuisine=north_african。OSM 提供營業時段：Mo-Sa 12:00-14:00,19:00-22:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-jojo-s-dough",
+    "name": "Jojo's Dough",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.705153,
+    "lng": 7.263965,
+    "score": 31,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Jojo's%20Dough%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Jojo's%20Dough%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/12600904006"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=cafe。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-l-unik",
+    "name": "l'unik",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.702843,
+    "lng": 7.265635,
+    "score": 34,
+    "address": "7 Rue d'Italie",
+    "google_maps_url": "https://maps.google.com/?q=l'unik%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=l'unik%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/10926279783"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=pizza。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-deli-bun",
+    "name": "Deli Bun",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.705308,
+    "lng": 7.264114,
+    "score": 34,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Deli%20Bun%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Deli%20Bun%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/12600904005"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=vietnamese。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-isla-burger",
+    "name": "Isla Burger",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.702802,
+    "lng": 7.26553,
+    "score": 34,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Isla%20Burger%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Isla%20Burger%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/5092112064"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=burger。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-cordial",
+    "name": "Cordial",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.703574,
+    "lng": 7.267059,
+    "score": 33,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Cordial%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Cordial%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/4250654375"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=fast_food。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-sidi-bou-said",
+    "name": "Sidi Bou Said",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.70525,
+    "lng": 7.266637,
+    "score": 32,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Sidi%20Bou%20Said%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Sidi%20Bou%20Said%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/13009668531"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=cafe；OSM cuisine=tunisian。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "nice-maison-jin",
+    "name": "Maison JIN",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.704557,
+    "lng": 7.263306,
+    "score": 36,
+    "address": "Nice centre, 06000 Nice（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Maison%20JIN%20Nice%20centre%2C%2006000%20Nice",
+    "price_level": "€€",
+    "opening_hours": "Mo-Sa 10:00-22:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Maison%20JIN%20Nice%20centre%2C%2006000%20Nice",
+      "https://www.openstreetmap.org/node/469796898"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Nice 住宿、Jean Médecin、Libération 與舊城延伸動線；OSM amenity=restaurant；OSM cuisine=asian。OSM 提供營業時段：Mo-Sa 10:00-22:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
   }
 ]

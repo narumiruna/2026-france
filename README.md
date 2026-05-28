@@ -41,7 +41,7 @@ docs/                   # Product/design/process documentation
 
 ## Data Checks
 
-Verify that each accommodation has at least 50 usable nearby restaurant/cafe candidates:
+Verify that each accommodation has at least 100 usable nearby restaurant/cafe candidates:
 
 ```bash
 node scripts/verify-hotel-nearby-counts.mjs

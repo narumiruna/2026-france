@@ -1285,5 +1285,1285 @@
       "https://www.lerelaismontois.fr/"
     ],
     "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 6.9 km】位於La Caserne、Beauvoir、島內與 Pontorson 外圍動線。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-restaurant-le-pre-sale",
+    "name": "Restaurant Le Pré Salé",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.61488,
+    "lng": -1.510773,
+    "score": 36,
+    "address": "Route du Mont Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Restaurant%20Le%20Pr%C3%A9%20Sal%C3%A9%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Mo-Su 12:30-14:30, 19:00-21:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Restaurant%20Le%20Pr%C3%A9%20Sal%C3%A9%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/4910639621"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant；OSM cuisine=french。OSM 提供營業時段：Mo-Su 12:30-14:30, 19:00-21:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-mercure-le-pre-sale",
+    "name": "Mercure Le Pré salé",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.614254,
+    "lng": -1.510872,
+    "score": 35,
+    "address": "Route du Mont Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=Mercure%20Le%20Pr%C3%A9%20sal%C3%A9%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Mercure%20Le%20Pr%C3%A9%20sal%C3%A9%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/32524967",
+      "http://www.hotelmercure-montsaintmichel.com"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-digue-2",
+    "name": "La digue",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.616984,
+    "lng": -1.51096,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20digue%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20digue%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/5266579559"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-bergerie-2",
+    "name": "La Bergerie",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.61317,
+    "lng": -1.509685,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Bergerie%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Bergerie%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/13014208009"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-biscuiterie-de-la-baie-du-mont-saint-michel",
+    "name": "Biscuiterie de la Baie du Mont Saint- Michel",
+    "category": "dessert",
+    "status": "ready",
+    "lat": 48.614216,
+    "lng": -1.497846,
+    "score": 33,
+    "address": "50170",
+    "google_maps_url": "https://maps.google.com/?q=Biscuiterie%20de%20la%20Baie%20du%20Mont%20Saint-%20Michel%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 09:00-19:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Biscuiterie%20de%20la%20Baie%20du%20Mont%20Saint-%20Michel%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/way/96734472"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 1.0 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM shop=confectionery。OSM 提供營業時段：Mo-Su 09:00-19:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-l-atelier-st-michel",
+    "name": "L'atelier St-Michel",
+    "category": "dessert",
+    "status": "ready",
+    "lat": 48.606009,
+    "lng": -1.510711,
+    "score": 32,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=L'atelier%20St-Michel%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=L'atelier%20St-Michel%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/10159109344",
+      "https://www.atelierstmichel.fr/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 1.1 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM shop=pastry。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-mont-moulin",
+    "name": "Mont Moulin",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.597409,
+    "lng": -1.512658,
+    "score": 30,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Mont%20Moulin%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Mont%20Moulin%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/3012894234"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 2.0 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM shop=bakery。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-boutique-de-la-mere-poulard",
+    "name": "La Boutique de La Mère Poulard",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.63523,
+    "lng": -1.510267,
+    "score": 32,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La%20Boutique%20de%20La%20M%C3%A8re%20Poulard%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Boutique%20de%20La%20M%C3%A8re%20Poulard%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/4151971691",
+      "http://www.merepoulard.com"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 2.2 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM shop=deli。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-sirene-2",
+    "name": "La Sirène",
+    "category": "creperie",
+    "status": "ready",
+    "lat": 48.635326,
+    "lng": -1.51018,
+    "score": 33,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=La%20Sir%C3%A8ne%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Sir%C3%A8ne%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/846963934"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 2.2 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant；OSM cuisine=crepe。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-hotel-restaurant-du-guesclin",
+    "name": "Hôtel - Restaurant Du Guesclin",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.635615,
+    "lng": -1.509898,
+    "score": 34,
+    "address": "Grande Rue, 50170 Le Mont-Saint-Michel",
+    "google_maps_url": "https://maps.google.com/?q=H%C3%B4tel%20-%20Restaurant%20Du%20Guesclin%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=H%C3%B4tel%20-%20Restaurant%20Du%20Guesclin%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/846964059",
+      "http://www.hotelduguesclin.com/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 2.2 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-cafe-la-mere-poulard",
+    "name": "Café La Mère Poulard",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.635703,
+    "lng": -1.50971,
+    "score": 32,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Caf%C3%A9%20La%20M%C3%A8re%20Poulard%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Caf%C3%A9%20La%20M%C3%A8re%20Poulard%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/way/948742296"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 2.2 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-veille-auberge",
+    "name": "La veille Auberge",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.635908,
+    "lng": -1.509693,
+    "score": 32,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20veille%20Auberge%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20veille%20Auberge%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/way/41665469"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 2.3 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-maison-lacorne-hotel-restaurant-la-vieille-auberge",
+    "name": "Maison Lacorne;Hôtel - Restaurant La Vieille Auberge",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.635983,
+    "lng": -1.509837,
+    "score": 32,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Maison%20Lacorne%3BH%C3%B4tel%20-%20Restaurant%20La%20Vieille%20Auberge%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Maison%20Lacorne%3BH%C3%B4tel%20-%20Restaurant%20La%20Vieille%20Auberge%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/way/71128584"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 2.3 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-ferme-d-antan",
+    "name": "Ferme d'Antan",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.584104,
+    "lng": -1.511137,
+    "score": 34,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Ferme%20d'Antan%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€",
+    "opening_hours": "11:30-18:30",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Ferme%20d'Antan%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/10944087663",
+      "https://laferme-dantan.fr"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 3.5 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM shop=deli。OSM 提供營業時段：11:30-18:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-le-marquis-de-la-guintre",
+    "name": "Le Marquis de la Guintre",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.624907,
+    "lng": -1.445291,
+    "score": 33,
+    "address": "Rue du Mont Saint-Michel, 50220 Courtils",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Marquis%20de%20la%20Guintre%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Marquis%20de%20la%20Guintre%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/5607133511"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 4.9 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=fast_food；OSM cuisine=barbecue。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-rustigue",
+    "name": "La Rustigue",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.569068,
+    "lng": -1.545601,
+    "score": 32,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Rustigue%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Rustigue%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/4294458455"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 5.8 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-maison-st-michel",
+    "name": "La Maison St Michel",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.572932,
+    "lng": -1.45773,
+    "score": 32,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Maison%20St%20Michel%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Maison%20St%20Michel%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/6817163355"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 6.1 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=fast_food。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-les-quatre-salines",
+    "name": "Les Quatre Salines",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.595153,
+    "lng": -1.590013,
+    "score": 34,
+    "address": "3 Rue des Quatre Salines",
+    "google_maps_url": "https://maps.google.com/?q=Les%20Quatre%20Salines%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les%20Quatre%20Salines%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/way/96316461",
+      "https://restaurant-mont-saint-michel.com/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 6.2 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-parenthese-de-la-baie",
+    "name": "La Parenthèse de la Baie",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.6294,
+    "lng": -1.428611,
+    "score": 35,
+    "address": "42 Rue du Mont Saint-Michel, 50220",
+    "google_maps_url": "https://maps.google.com/?q=La%20Parenth%C3%A8se%20de%20la%20Baie%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Tu-Su 12:00-14:00, Tu-Su 19:00-21:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Parenth%C3%A8se%20de%20la%20Baie%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/9762362517"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 6.2 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant；OSM cuisine=fish;french;seafood。OSM 提供營業時段：Tu-Su 12:00-14:00, Tu-Su 19:00-21:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-le-manoir-des-abeilles",
+    "name": "Le Manoir des abeilles",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.55971,
+    "lng": -1.494507,
+    "score": 30,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Manoir%20des%20abeilles%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Manoir%20des%20abeilles%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/9681205271"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 6.3 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM shop=deli。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-mcdonald-s",
+    "name": "McDonald's",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.559754,
+    "lng": -1.489201,
+    "score": 36,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=McDonald's%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=McDonald's%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/way/96740025",
+      "https://www.mcdonalds.fr/restaurants/mcdonalds-pontorson/1168"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 6.4 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=fast_food；OSM cuisine=burger。OSM 提供營業時段：Mo-Su 10:00-23:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-le-fournil-de-la-roche-torin",
+    "name": "Le Fournil de la Roche Torin",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.634913,
+    "lng": -1.427159,
+    "score": 34,
+    "address": "24 Route de Roche-Torin, 50220 Courtils",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Fournil%20de%20la%20Roche%20Torin%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€",
+    "opening_hours": "Tu,Fr 16:30-18:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Fournil%20de%20la%20Roche%20Torin%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/7006444573",
+      "https://www.lefournildelarochetorin.com/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 6.5 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM shop=bakery。OSM 提供營業時段：Tu,Fr 16:30-18:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-mie-du-mont",
+    "name": "La Mie du Mont",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.553904,
+    "lng": -1.510341,
+    "score": 30,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Mie%20du%20Mont%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Mie%20du%20Mont%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/9904077850"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 6.8 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM shop=bakery。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-les-couesnons",
+    "name": "Les Couesnons",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.594344,
+    "lng": -1.598678,
+    "score": 34,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Les%20Couesnons%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Sep-Jun: Th-Mo,PH 12:00-13:30,19:00-20:30; Sep-Jun: Tu,We off; Jul-Aug: Mo-Su,PH 12:00-13:30,19:00-20:30",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les%20Couesnons%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/11931092488"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 6.9 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 提供營業時段：Sep-Jun: Th-Mo,PH 12:00-13:30,19:00-20:30; Sep-Jun: Tu,We off; Jul-Aug: Mo-Su,PH 12:00-13:30,19:00-20:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-le-relais-gascon",
+    "name": "Le Relais Gascon",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.553678,
+    "lng": -1.51035,
+    "score": 32,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Relais%20Gascon%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Relais%20Gascon%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/9904077849"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 6.9 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-le-brazza",
+    "name": "Le Brazza",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.553358,
+    "lng": -1.512628,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Brazza%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Brazza%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/9705630555"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 6.9 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant；OSM cuisine=pizza。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-petite-charlotte",
+    "name": "La Petite Charlotte",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.553442,
+    "lng": -1.505113,
+    "score": 32,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Petite%20Charlotte%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Petite%20Charlotte%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/way/96735790"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 6.9 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-squadra-la",
+    "name": "Squadra La",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.553238,
+    "lng": -1.506801,
+    "score": 32,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Squadra%20La%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Squadra%20La%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/way/96735330"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 6.9 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-tour-brette",
+    "name": "La Tour Brette",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.553187,
+    "lng": -1.512622,
+    "score": 32,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Tour%20Brette%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Tour%20Brette%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/9705503393"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 6.9 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-istanbul-kebab",
+    "name": "Istanbul Kebab",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.553112,
+    "lng": -1.509805,
+    "score": 35,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Istanbul%20Kebab%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 12:00-14:30; Mo-Th 18:00-22:30; Fr-Su 18:00-23:00; PH closed",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Istanbul%20Kebab%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/6394790578"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 6.9 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=fast_food；OSM cuisine=kebab。OSM 提供營業時段：Mo-Su 12:00-14:30; Mo-Th 18:00-22:30; Fr-Su 18:00-23:00; PH closed。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-le-grillon",
+    "name": "Le Grillon",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.553109,
+    "lng": -1.510133,
+    "score": 32,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Grillon%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Grillon%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/way/96732992"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 6.9 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-creperie-du-couesnon",
+    "name": "Crêperie du Couesnon",
+    "category": "creperie",
+    "status": "ready",
+    "lat": 48.553044,
+    "lng": -1.510983,
+    "score": 32,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Cr%C3%AAperie%20du%20Couesnon%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Cr%C3%AAperie%20du%20Couesnon%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/way/96734452"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 6.9 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-chicken-cabana",
+    "name": "Chicken Cabana",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.552956,
+    "lng": -1.5091,
+    "score": 33,
+    "address": "72 Rue Couesnon, 50170 Pontorson",
+    "google_maps_url": "https://maps.google.com/?q=Chicken%20Cabana%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Chicken%20Cabana%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/way/96738870"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 7.0 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=fast_food；OSM cuisine=burger;chicken。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-hotel-le-xiv",
+    "name": "Hôtel Le XIV",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.552943,
+    "lng": -1.506693,
+    "score": 35,
+    "address": "14 Rue du Docteur Tizon, 50170 Pontorson",
+    "google_maps_url": "https://maps.google.com/?q=H%C3%B4tel%20Le%20XIV%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=H%C3%B4tel%20Le%20XIV%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/way/96733020",
+      "https://www.le-14.com/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 7.0 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant；OSM cuisine=burger。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-univers-sarrasin",
+    "name": "Univers Sarrasin",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.55283,
+    "lng": -1.510125,
+    "score": 34,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Univers%20Sarrasin%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Univers%20Sarrasin%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/way/96735615",
+      "https://www.facebook.com/universsarrasin/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 7.0 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-festival",
+    "name": "Festival",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.552791,
+    "lng": -1.511002,
+    "score": 32,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Festival%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€",
+    "opening_hours": "Tu-Sa 07:00-13:30,14:30-19:00;Su 07:00-13:00; Mo off",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Festival%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/9860236861"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 7.0 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM shop=bakery。OSM 提供營業時段：Tu-Sa 07:00-13:30,14:30-19:00;Su 07:00-13:00; Mo off。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-creperie-penn-ar-bed",
+    "name": "Crêperie Penn Ar Bed",
+    "category": "creperie",
+    "status": "ready",
+    "lat": 48.552718,
+    "lng": -1.511336,
+    "score": 32,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Cr%C3%AAperie%20Penn%20Ar%20Bed%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Cr%C3%AAperie%20Penn%20Ar%20Bed%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/way/96739486"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 7.0 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-baraka",
+    "name": "La Baraka",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.627936,
+    "lng": -1.406712,
+    "score": 34,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Baraka%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Fr-Tu 12:00-21:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Baraka%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/5190701807"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 7.8 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 提供營業時段：Fr-Tu 12:00-21:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-chez-francois",
+    "name": "Chez François",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.683177,
+    "lng": -1.475509,
+    "score": 35,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Chez%20Fran%C3%A7ois%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Chez%20Fran%C3%A7ois%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/way/145526569",
+      "https://www.chezfrancois.fr/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 8.0 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant；OSM cuisine=french。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-boulangerie-houel",
+    "name": "Boulangerie Houel",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.684583,
+    "lng": -1.478345,
+    "score": 32,
+    "address": "3 Rue de l'Entrepont",
+    "google_maps_url": "https://maps.google.com/?q=Boulangerie%20Houel%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€",
+    "opening_hours": "Mo-We 07:00-13:30,15:00-19:00; Fr-Sa 07:00-13:30,15:00-19:00; Su 07:00-13:15,15:30-19:30",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Boulangerie%20Houel%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/1681796056"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 8.0 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM shop=bakery。OSM 提供營業時段：Mo-We 07:00-13:30,15:00-19:00; Fr-Sa 07:00-13:30,15:00-19:00; Su 07:00-13:15,15:30-19:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-la-pause-des-genets",
+    "name": "La Pause des Genêts",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.684816,
+    "lng": -1.478586,
+    "score": 35,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Pause%20des%20Gen%C3%AAts%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Pause%20des%20Gen%C3%AAts%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/10965125205",
+      "https://www.lapausedesgenets.fr/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 8.1 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant；OSM cuisine=french。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-bar-restaurant-du-bec-d-andaine",
+    "name": "Bar Restaurant du Bec d'Andaine",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.687647,
+    "lng": -1.497353,
+    "score": 32,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Bar%20Restaurant%20du%20Bec%20d'Andaine%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Bar%20Restaurant%20du%20Bec%20d'Andaine%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/3119272720"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 8.1 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-les-genets",
+    "name": "Les Genêts",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.684352,
+    "lng": -1.475497,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Les%20Gen%C3%AAts%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les%20Gen%C3%AAts%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/way/145525706"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 8.1 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant；OSM cuisine=regional。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-l-ecurie",
+    "name": "L'Écurie",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.689551,
+    "lng": -1.486826,
+    "score": 32,
+    "address": "20 Route du Bec d'Andaine, 50530 Genêts",
+    "google_maps_url": "https://maps.google.com/?q=L'%C3%89curie%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€",
+    "opening_hours": "Th-Sa 16:00-23:00; Su 11:00-16:00",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=L'%C3%89curie%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/10161183842"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 8.4 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=cafe。OSM 提供營業時段：Th-Sa 16:00-23:00; Su 11:00-16:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-korydwenn",
+    "name": "Korydwenn",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.552136,
+    "lng": -1.58502,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Korydwenn%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Korydwenn%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/1432609446"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 8.9 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant；OSM cuisine=regional。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-restauratian-snack",
+    "name": "Restauratian Snack",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.626832,
+    "lng": -1.388756,
+    "score": 33,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Restauratian%20Snack%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Restauratian%20Snack%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/11139629777"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 9.1 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant；OSM cuisine=regional。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-au-ptit-quinquin",
+    "name": "Au Ptit Quinquin",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.627096,
+    "lng": -1.388053,
+    "score": 35,
+    "address": "Les Forges, 50220 Céaux",
+    "google_maps_url": "https://maps.google.com/?q=Au%20Ptit%20Quinquin%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Au%20Ptit%20Quinquin%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/5609379941",
+      "https://aupetitquinquin.com/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 9.1 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant；OSM cuisine=french。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-mere-et-fille",
+    "name": "Mère et Fille",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.631036,
+    "lng": -1.387578,
+    "score": 34,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=M%C3%A8re%20et%20Fille%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Tu-Su; Mo off",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=M%C3%A8re%20et%20Fille%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/3471703770"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 9.2 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 提供營業時段：Tu-Su; Mo off。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-creperie-du-telegraphe",
+    "name": "Crêperie du Télégraphe",
+    "category": "creperie",
+    "status": "ready",
+    "lat": 48.579849,
+    "lng": -1.626414,
+    "score": 32,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Cr%C3%AAperie%20du%20T%C3%A9l%C3%A9graphe%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Cr%C3%AAperie%20du%20T%C3%A9l%C3%A9graphe%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/1432260888"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 9.4 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "msm-a-la-miche-marcanaise",
+    "name": "À la Miche Marcanaise",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.588041,
+    "lng": -1.633581,
+    "score": 30,
+    "address": "Baie du Mont-Saint-Michel / Pontorson / Avranches area（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=%C3%80%20la%20Miche%20Marcanaise%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "low",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=%C3%80%20la%20Miche%20Marcanaise%20Baie%20du%20Mont-Saint-Michel%20%2F%20Pontorson%20%2F%20Avranches%20area",
+      "https://www.openstreetmap.org/node/11930973542"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 9.5 km】位於La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線；OSM shop=bakery。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
   }
 ]

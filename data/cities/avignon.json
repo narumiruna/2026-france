@@ -1345,5 +1345,1282 @@
       "https://www.openstreetmap.org/node/9968192496"
     ],
     "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.9 km】位於Avignon Centre 舊城與車站步行圈；OSM cuisine=curry;thai。OSM 提供營業時段：We-Sa 12:00-14:00, 19:15-22:00; Tu 19:15-22:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-patio",
+    "name": "Le Patio",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.942589,
+    "lng": 4.802345,
+    "score": 33,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Patio%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Patio%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/10720473143"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.4 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-cap-de-l-eau",
+    "name": "Cap de l’eau",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.939997,
+    "lng": 4.797996,
+    "score": 34,
+    "address": "13 Avenue Eisenhower",
+    "google_maps_url": "https://maps.google.com/?q=Cap%20de%20l%E2%80%99eau%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Cap%20de%20l%E2%80%99eau%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/7847202557"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.4 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant；OSM cuisine=seafood。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-petit-chaudron",
+    "name": "Le petit chaudron",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.940563,
+    "lng": 4.801519,
+    "score": 33,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le%20petit%20chaudron%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20petit%20chaudron%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/4660471155"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.4 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-beou",
+    "name": "béou",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.945274,
+    "lng": 4.803752,
+    "score": 33,
+    "address": "14 Rue Violette, Avignon",
+    "google_maps_url": "https://maps.google.com/?q=b%C3%A9ou%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=b%C3%A9ou%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/9596673997"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.5 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-la-table-de-saint-louis",
+    "name": "La Table de Saint-Louis",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.944008,
+    "lng": 4.804438,
+    "score": 34,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Table%20de%20Saint-Louis%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Table%20de%20Saint-Louis%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/3766906711"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.5 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant；OSM cuisine=regional。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-o-libanais",
+    "name": "Ô’libanais",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.946089,
+    "lng": 4.803657,
+    "score": 34,
+    "address": "75 Rue Joseph Vernet, Avignon",
+    "google_maps_url": "https://maps.google.com/?q=%C3%94%E2%80%99libanais%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=%C3%94%E2%80%99libanais%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/10787065529"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.5 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=lebanese。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-la-cour-d-honneur",
+    "name": "La cour d'honneur",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.946964,
+    "lng": 4.803198,
+    "score": 33,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20cour%20d'honneur%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20cour%20d'honneur%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/1763844182"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.5 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-les-saveurs-des-sillons",
+    "name": "Les saveurs des sillons",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.94435,
+    "lng": 4.804878,
+    "score": 31,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Les%20saveurs%20des%20sillons%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les%20saveurs%20des%20sillons%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/2093214447"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.5 km】位於Avignon 住宿與舊城延伸動線；OSM shop=bakery。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-quai-des-saveurs",
+    "name": "Le quai des saveurs",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.94233,
+    "lng": 4.804895,
+    "score": 33,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le%20quai%20des%20saveurs%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20quai%20des%20saveurs%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/12431010292"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.6 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-italian-queen",
+    "name": "Italian queen",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.943943,
+    "lng": 4.805267,
+    "score": 34,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Italian%20queen%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Italian%20queen%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/11645436692"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.6 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant；OSM cuisine=italian。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-brasserie-du-theatre",
+    "name": "Brasserie du Théâtre",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.944929,
+    "lng": 4.805376,
+    "score": 33,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Brasserie%20du%20Th%C3%A9%C3%A2tre%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Brasserie%20du%20Th%C3%A9%C3%A2tre%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/9463754718"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.6 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-domus",
+    "name": "Le Domus",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.943974,
+    "lng": 4.805651,
+    "score": 33,
+    "address": "45 Cours Jean Jaurès, 84000",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Domus%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Domus%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/1540755551"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.6 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-moloko",
+    "name": "Moloko",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.947567,
+    "lng": 4.803425,
+    "score": 33,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Moloko%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Moloko%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/1763841281"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.6 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-kfc",
+    "name": "KFC",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.944035,
+    "lng": 4.805711,
+    "score": 34,
+    "address": "43 Cours Jean Jaurès",
+    "google_maps_url": "https://maps.google.com/?q=KFC%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=KFC%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/9498555521"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.6 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=chicken。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-eren-food",
+    "name": "Eren food",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.947567,
+    "lng": 4.803546,
+    "score": 33,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Eren%20food%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Eren%20food%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/11649065410"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.6 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=fast_food。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-cote-sushi",
+    "name": "Côté Sushi",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.945391,
+    "lng": 4.805469,
+    "score": 36,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=C%C3%B4t%C3%A9%20Sushi%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Mo-Th 11:00-14:30,18:00-22:30; Fr,Sa 11:00-23:00; Su 11:00-22:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=C%C3%B4t%C3%A9%20Sushi%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/1540766911"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.6 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=sushi;japanese。OSM 提供營業時段：Mo-Th 11:00-14:30,18:00-22:30; Fr,Sa 11:00-23:00; Su 11:00-22:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-restaurant-le-central",
+    "name": "Restaurant Le central",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.945497,
+    "lng": 4.805742,
+    "score": 33,
+    "address": "35, 84000",
+    "google_maps_url": "https://maps.google.com/?q=Restaurant%20Le%20central%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Restaurant%20Le%20central%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/1540784850"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.6 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-marie-blachere",
+    "name": "Marie Blachère",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.941932,
+    "lng": 4.80582,
+    "score": 33,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Marie%20Blach%C3%A8re%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 06:00-20:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Marie%20Blach%C3%A8re%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/976835859"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.6 km】位於Avignon 住宿與舊城延伸動線；OSM shop=bakery。OSM 提供營業時段：Mo-Su 06:00-20:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-moma-sushi",
+    "name": "Moma sushi",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.945122,
+    "lng": 4.806109,
+    "score": 34,
+    "address": "1 Rue Henri Fabre",
+    "google_maps_url": "https://maps.google.com/?q=Moma%20sushi%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Moma%20sushi%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/2059729435"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant；OSM cuisine=sushi。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-square",
+    "name": "Le square",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.944576,
+    "lng": 4.806491,
+    "score": 33,
+    "address": "Cours Jean Jaurès",
+    "google_maps_url": "https://maps.google.com/?q=Le%20square%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20square%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/2303817989"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-kouk",
+    "name": "Kouk",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.945101,
+    "lng": 4.80638,
+    "score": 36,
+    "address": "1 Rue Henri Fabre",
+    "google_maps_url": "https://maps.google.com/?q=Kouk%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Mo-Fr 11:50-14:15, Sa,Su 11:50-15:15, Su-Th 19:00-22:00, Fr,Sa 19:00-22:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Kouk%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/8059052147"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=snack。OSM 提供營業時段：Mo-Fr 11:50-14:15, Sa,Su 11:50-15:15, Su-Th 19:00-22:00, Fr,Sa 19:00-22:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-yumi",
+    "name": "Yumi",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.946483,
+    "lng": 4.805962,
+    "score": 33,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Yumi%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Yumi%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/1824534079"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=fast_food。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-istanbul-express",
+    "name": "Istanbul express",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.946787,
+    "lng": 4.805846,
+    "score": 34,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Istanbul%20express%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Istanbul%20express%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/5814675684"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=kebab。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-pinocchio",
+    "name": "Pinocchio",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.946603,
+    "lng": 4.806022,
+    "score": 34,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Pinocchio%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Pinocchio%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/1823134214"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant；OSM cuisine=italian。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-edgar",
+    "name": "Edgar",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.947112,
+    "lng": 4.805633,
+    "score": 33,
+    "address": "Rue de la République, Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Edgar%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 07:00-19:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Edgar%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/2123574870"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon 住宿與舊城延伸動線；OSM shop=bakery。OSM 提供營業時段：Mo-Su 07:00-19:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-choux-and-compagnie",
+    "name": "Choux & Compagnie",
+    "category": "dessert",
+    "status": "ready",
+    "lat": 43.945037,
+    "lng": 4.806817,
+    "score": 31,
+    "address": "8 Rue Henri Fabre",
+    "google_maps_url": "https://maps.google.com/?q=Choux%20%26%20Compagnie%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Choux%20%26%20Compagnie%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/8059052137"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon 住宿與舊城延伸動線；OSM shop=pastry。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-comptoir-mbc",
+    "name": "Le comptoir MBC",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.948612,
+    "lng": 4.803921,
+    "score": 33,
+    "address": "4",
+    "google_maps_url": "https://maps.google.com/?q=Le%20comptoir%20MBC%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20comptoir%20MBC%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/4137545289"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-mcdonald-s",
+    "name": "McDonald's",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.946961,
+    "lng": 4.805883,
+    "score": 36,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=McDonald's%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 08:00-01:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=McDonald's%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/1540788705",
+      "https://www.mcdonalds.fr/restaurants/mcdonalds-avignon-centre/44"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=burger。OSM 提供營業時段：Mo-Su 08:00-01:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-o-delices",
+    "name": "Ò délices",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.94513,
+    "lng": 4.806902,
+    "score": 34,
+    "address": "5 Rue Henri Fabre",
+    "google_maps_url": "https://maps.google.com/?q=%C3%92%20d%C3%A9lices%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=%C3%92%20d%C3%A9lices%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/8059052136"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant；OSM cuisine=vietnamese。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-la-tropezienne",
+    "name": "La tropézienne",
+    "category": "dessert",
+    "status": "ready",
+    "lat": 43.948937,
+    "lng": 4.803763,
+    "score": 31,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20trop%C3%A9zienne%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20trop%C3%A9zienne%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/4952116423"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon 住宿與舊城延伸動線；OSM shop=pastry。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-vagabondo",
+    "name": "Vagabondo",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.945069,
+    "lng": 4.807149,
+    "score": 34,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Vagabondo%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Vagabondo%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/13234417575"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=italian。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-petit-grand",
+    "name": "Petit grand",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.944044,
+    "lng": 4.80736,
+    "score": 33,
+    "address": "72 Place des Corps Saints",
+    "google_maps_url": "https://maps.google.com/?q=Petit%20grand%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Petit%20grand%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/7812576811"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-naan-hut",
+    "name": "Naan hut",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.945148,
+    "lng": 4.807183,
+    "score": 36,
+    "address": "9 Rue Henri Fabre",
+    "google_maps_url": "https://maps.google.com/?q=Naan%20hut%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 10:30-15:00, 18:00-23:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Naan%20hut%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/2499280161"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=indian。OSM 提供營業時段：Mo-Su 10:30-15:00, 18:00-23:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-what-s-your-nem",
+    "name": "What's your nem ?",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.947374,
+    "lng": 4.805899,
+    "score": 34,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=What's%20your%20nem%20%3F%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=What's%20your%20nem%20%3F%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/13478932108"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.7 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=asian。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-snack-kebab-de-la-gare",
+    "name": "Snack Kebab de la Gare",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.942062,
+    "lng": 4.807239,
+    "score": 34,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Snack%20Kebab%20de%20la%20Gare%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Snack%20Kebab%20de%20la%20Gare%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/2555482923"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=kebab。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-les-bulleuses",
+    "name": "Les Bulleuses",
+    "category": "creperie",
+    "status": "ready",
+    "lat": 43.944425,
+    "lng": 4.807465,
+    "score": 34,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Les%20Bulleuses%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les%20Bulleuses%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/3421595302"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant；OSM cuisine=crepe。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-angkor-apsara",
+    "name": "Angkor Apsara",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.942276,
+    "lng": 4.807309,
+    "score": 34,
+    "address": "44 Boulevard Saint-Roch",
+    "google_maps_url": "https://maps.google.com/?q=Angkor%20Apsara%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Angkor%20Apsara%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/6150077042"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant；OSM cuisine=cambojian;japanese。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-resto-raj-mahal",
+    "name": "Resto Raj Mahal",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.947271,
+    "lng": 4.806113,
+    "score": 33,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Resto%20Raj%20Mahal%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Resto%20Raj%20Mahal%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/1823308171"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-restaurant-interadministratif",
+    "name": "Restaurant interadministratif",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.943529,
+    "lng": 4.807533,
+    "score": 33,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Restaurant%20interadministratif%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Restaurant%20interadministratif%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/2123711029"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-violette",
+    "name": "Violette",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 43.944767,
+    "lng": 4.807424,
+    "score": 35,
+    "address": "Place des Corps Saints, 84000",
+    "google_maps_url": "https://maps.google.com/?q=Violette%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Tu-Sa 07:30-19:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Violette%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/2059756573",
+      "https://www.facebook.com/Maison-Violette-Boulangerie-Naturelle-316844281838084/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon 住宿與舊城延伸動線；OSM shop=bakery。OSM 提供營業時段：Tu-Sa 07:30-19:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-les-tables-de-la-fontaine",
+    "name": "Les tables de La Fontaine",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.944512,
+    "lng": 4.807495,
+    "score": 33,
+    "address": "62 Place des Corps Saints",
+    "google_maps_url": "https://maps.google.com/?q=Les%20tables%20de%20La%20Fontaine%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les%20tables%20de%20La%20Fontaine%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/2059747850"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-snack-de-la-gare-routiere",
+    "name": "Snack de la Gare Routière",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.942143,
+    "lng": 4.807313,
+    "score": 34,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Snack%20de%20la%20Gare%20Routi%C3%A8re%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Snack%20de%20la%20Gare%20Routi%C3%A8re%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/3474901128"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=kebab。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-le-pili",
+    "name": "Le pili",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.944652,
+    "lng": 4.807472,
+    "score": 36,
+    "address": "34 Place des Corps Saints",
+    "google_maps_url": "https://maps.google.com/?q=Le%20pili%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20pili%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/2059752413"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant；OSM cuisine=pizza。OSM 提供營業時段：Mo-Su 10:00-22:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-raj-mahal",
+    "name": "Raj mahal",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.947261,
+    "lng": 4.806209,
+    "score": 34,
+    "address": "2 Rue Mignard, Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Raj%20mahal%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Raj%20mahal%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/1823306634"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=indian。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-vivotto",
+    "name": "Vivotto",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.945343,
+    "lng": 4.807409,
+    "score": 35,
+    "address": "Avignon centre, 84000 Avignon（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Vivotto%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Vivotto%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/5088929266",
+      "https://vivotto.com/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-restaurant-pollen",
+    "name": "Restaurant Pollen",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.949419,
+    "lng": 4.803495,
+    "score": 35,
+    "address": "28bis Rue Joseph Vernet, 84000 Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Restaurant%20Pollen%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Fr-We open \"midi et soir\"",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Restaurant%20Pollen%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/3515659038"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=restaurant。OSM 提供營業時段：Fr-We open \"midi et soir\"。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-taksim-kebab",
+    "name": "Taksim kebab",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.942269,
+    "lng": 4.807534,
+    "score": 36,
+    "address": "46 Boulevard Saint-Roch",
+    "google_maps_url": "https://maps.google.com/?q=Taksim%20kebab%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Taksim%20kebab%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/6150077044"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=kebab。OSM 提供營業時段：Mo-Su 11:00-23:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-istanbul-kebap",
+    "name": "Istanbul kebap",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.944769,
+    "lng": 4.807627,
+    "score": 34,
+    "address": "9 Place des Corps Saints, Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Istanbul%20kebap%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Istanbul%20kebap%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/2059763119"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=fast_food；OSM cuisine=kebab。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-snack-le-cesar",
+    "name": "Snack Le César",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 43.945098,
+    "lng": 4.807573,
+    "score": 33,
+    "address": "1 Place des Corps Saints",
+    "google_maps_url": "https://maps.google.com/?q=Snack%20Le%20C%C3%A9sar%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Snack%20Le%20C%C3%A9sar%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/2059738808"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=fast_food。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "avignon-amorino",
+    "name": "Amorino",
+    "category": "dessert",
+    "status": "ready",
+    "lat": 43.948846,
+    "lng": 4.804658,
+    "score": 33,
+    "address": "16 Rue Saint-Agricol, Avignon",
+    "google_maps_url": "https://maps.google.com/?q=Amorino%20Avignon%20centre%2C%2084000%20Avignon",
+    "price_level": "€€",
+    "opening_hours": "Mo-Th 10:00-00:30, Fr,Sa 10:00-01:00, Su 10:00-00:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Amorino%20Avignon%20centre%2C%2084000%20Avignon",
+      "https://www.openstreetmap.org/node/1825791809"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.8 km】位於Avignon 住宿與舊城延伸動線；OSM amenity=ice_cream。OSM 提供營業時段：Mo-Th 10:00-00:30, Fr,Sa 10:00-01:00, Su 10:00-00:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
   }
 ]

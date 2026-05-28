@@ -14,7 +14,7 @@
 - Candidate search coverage:
   - During new restaurant research, always include hotel-nearby options in addition to major sightseeing and food districts.
   - Treat hotel-nearby options as practical fallback candidates for tight schedules or late arrivals.
-  - Each accommodation location must have at least 50 usable nearby restaurant or cafe candidates before the hotel-nearby coverage is considered complete.
+  - Each accommodation location must have at least 100 usable nearby restaurant or cafe candidates before the hotel-nearby coverage is considered complete.
   - Hotel-nearby search methodology:
     1. First confirm the hotel's exact address (street name, area, district).
     2. Search for food options on/near that specific street first.

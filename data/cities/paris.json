@@ -1630,5 +1630,1286 @@
       "https://www.instagram.com/onoul_paris/"
     ],
     "notes": "【外部查詢補齊 50 間門檻：OSM/Overpass，距住宿點約 0.5 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 步行圈；OSM cuisine=coffee_shop;korean。OSM 提供營業時段：Tu-Su 09:00-18:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-place-gustave",
+    "name": "Place Gustave",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.847246,
+    "lng": 2.3009,
+    "score": 34,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Place%20Gustave%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Place%20Gustave%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/5959888185"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.0 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant；OSM cuisine=french。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-piou",
+    "name": "Piou",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.847532,
+    "lng": 2.301246,
+    "score": 33,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Piou%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Piou%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/1244411728"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-croc-nivert",
+    "name": "Croc Nivert",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.847345,
+    "lng": 2.300557,
+    "score": 33,
+    "address": "8 rue de la Croix-Nivert",
+    "google_maps_url": "https://maps.google.com/?q=Croc%20Nivert%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Croc%20Nivert%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/12078840771"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=fast_food。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-la-boulange-de-cambronne",
+    "name": "La Boulange de Cambronne",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.84636,
+    "lng": 2.301704,
+    "score": 33,
+    "address": "22 Rue Cambronne, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=La%20Boulange%20de%20Cambronne%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Mo-Fr 06:30-20:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Boulange%20de%20Cambronne%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/308685976"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM shop=bakery。OSM 提供營業時段：Mo-Fr 06:30-20:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-le-royal-cambronne",
+    "name": "Le Royal Cambronne",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.847674,
+    "lng": 2.30097,
+    "score": 33,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Royal%20Cambronne%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Mo-Fr 06:00-02:00; Sa 07:00-02:00; Su 08:00-02:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Royal%20Cambronne%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/1244411690"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=cafe。OSM 提供營業時段：Mo-Fr 06:00-02:00; Sa 07:00-02:00; Su 08:00-02:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-pinoy-services",
+    "name": "Pinoy services",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.84713,
+    "lng": 2.300235,
+    "score": 31,
+    "address": "14 rue de la Croix-Nivert",
+    "google_maps_url": "https://maps.google.com/?q=Pinoy%20services%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Pinoy%20services%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/12078821917"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM shop=deli。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-tavola-calda",
+    "name": "Tavola Calda",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.847649,
+    "lng": 2.300746,
+    "score": 36,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Tavola%20Calda%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Mo-Fr 11:30-20:00, Sa 11:30-16:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Tavola%20Calda%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/10837281192",
+      "https://tavolacaldaparis15.business.site"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=fast_food；OSM cuisine=italian。OSM 提供營業時段：Mo-Fr 11:30-20:00, Sa 11:30-16:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-pepegusto",
+    "name": "Pepegusto",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.846926,
+    "lng": 2.299925,
+    "score": 34,
+    "address": "20 rue de la Croix-Nivert",
+    "google_maps_url": "https://maps.google.com/?q=Pepegusto%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Pepegusto%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/12078842333"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant；OSM cuisine=pizza。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-umai-ramen",
+    "name": "Umai Ramen",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.847335,
+    "lng": 2.302809,
+    "score": 34,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Umai%20Ramen%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Umai%20Ramen%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/2935106309"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant；OSM cuisine=japanese。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-el-fares",
+    "name": "El Fares",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.847974,
+    "lng": 2.300734,
+    "score": 36,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=El%20Fares%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Mo-Sa 12:00-15:00,19:00-22:45; Su 12:00-15:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=El%20Fares%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/1244411703",
+      "https://www.elfares.fr"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant；OSM cuisine=lebanese。OSM 提供營業時段：Mo-Sa 12:00-15:00,19:00-22:45; Su 12:00-15:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-co-tu",
+    "name": "Cô Tư",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.846776,
+    "lng": 2.299734,
+    "score": 36,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=C%C3%B4%20T%C6%B0%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Mo-Sa 12:00-14:30,19:30-22:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=C%C3%B4%20T%C6%B0%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/5341018043"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant；OSM cuisine=vietnamese。OSM 提供營業時段：Mo-Sa 12:00-14:30,19:30-22:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-mina-mahal",
+    "name": "Mina Mahal",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.845967,
+    "lng": 2.302071,
+    "score": 34,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Mina%20Mahal%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Mina%20Mahal%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/8354774852"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant；OSM cuisine=indian。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-le-comptoir-moderne",
+    "name": "Le Comptoir Moderne",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.846712,
+    "lng": 2.299627,
+    "score": 34,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Comptoir%20Moderne%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Comptoir%20Moderne%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/2162624279"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant；OSM cuisine=french。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-so-good",
+    "name": "so good",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.847505,
+    "lng": 2.299702,
+    "score": 34,
+    "address": "32 Rue Frémicourt, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=so%20good%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=so%20good%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/10580941367"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=fast_food；OSM cuisine=kebab;burger;tacos;pizza。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-nouilles-fraiches",
+    "name": "Nouilles Fraiches",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.847493,
+    "lng": 2.299637,
+    "score": 36,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Nouilles%20Fraiches%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "12:00-15:00,18:00-23:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Nouilles%20Fraiches%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/4190110350",
+      "https://nouillesfraiches.wixsite.com/nouillesfraiches"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant；OSM cuisine=chinese。OSM 提供營業時段：12:00-15:00,18:00-23:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-l-oustal",
+    "name": "L'Oustal",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.848303,
+    "lng": 2.301152,
+    "score": 33,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=L'Oustal%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=L'Oustal%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/4292750930",
+      "https://www.loustal-paris.fr/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.1 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=cafe。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-akiyoshi",
+    "name": "Akiyoshi",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.84697,
+    "lng": 2.298941,
+    "score": 36,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Akiyoshi%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Akiyoshi%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/5228002921",
+      "https://chakaiseki-akiyoshi.fr"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant；OSM cuisine=japanese。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-marie-edith",
+    "name": "Marie Edith",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.84869,
+    "lng": 2.301238,
+    "score": 33,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Marie%20Edith%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Marie%20Edith%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/4292750932"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-la-bodega-cambronne",
+    "name": "La Bodega Cambronne",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.845324,
+    "lng": 2.302195,
+    "score": 35,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Bodega%20Cambronne%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Tu-Sa 10:00-01:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Bodega%20Cambronne%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/10042715019"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant。OSM 提供營業時段：Tu-Sa 10:00-01:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-le-cappiello-etc",
+    "name": "Le Cappiello etc...",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.84689,
+    "lng": 2.298737,
+    "score": 35,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Cappiello%20etc...%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Tu-Fr 11:30-17:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Cappiello%20etc...%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/5465475336"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=fast_food。OSM 提供營業時段：Tu-Fr 11:30-17:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-happy-grill",
+    "name": "Happy Grill",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.847364,
+    "lng": 2.298727,
+    "score": 34,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Happy%20Grill%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Happy%20Grill%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/3522038520"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant；OSM cuisine=korean。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-le-rocher",
+    "name": "Le Rocher",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.847346,
+    "lng": 2.298652,
+    "score": 33,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Rocher%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Rocher%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/4190110351"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-myung-ka",
+    "name": "Myung Ka",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.847386,
+    "lng": 2.304169,
+    "score": 34,
+    "address": "19 Boulevard Garibaldi, 75015 Paris",
+    "google_maps_url": "https://maps.google.com/?q=Myung%20Ka%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Myung%20Ka%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/11185492579"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant；OSM cuisine=korean。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-laxman",
+    "name": "Laxman",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.847336,
+    "lng": 2.29858,
+    "score": 36,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Laxman%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Mo-Sa 11:30-14:30,18:30-22:30",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Laxman%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/4190110352"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant；OSM cuisine=indian;nepalese。OSM 提供營業時段：Mo-Sa 11:30-14:30,18:30-22:30。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-les-saveurs",
+    "name": "Les Saveurs",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.848395,
+    "lng": 2.299319,
+    "score": 36,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Les%20Saveurs%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Mo-Fr 11:00-23:30; Sa 11:00-15:00,18:00-23:30; Su 12:00-23:30; 2025 Jul 5-2025 Jul 31 closed",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les%20Saveurs%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/10827395660"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=fast_food；OSM cuisine=asian。OSM 提供營業時段：Mo-Fr 11:00-23:30; Sa 11:00-15:00,18:00-23:30; Su 12:00-23:30; 2025 Jul 5-2025 Jul 31 closed。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-les-delices-du-maroc",
+    "name": "Les Délices du Maroc",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.847315,
+    "lng": 2.298391,
+    "score": 34,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Les%20D%C3%A9lices%20du%20Maroc%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les%20D%C3%A9lices%20du%20Maroc%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/10837281187"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant；OSM cuisine=moroccan。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-bhcr",
+    "name": "BHCR",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.846879,
+    "lng": 2.304446,
+    "score": 32,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=BHCR%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=BHCR%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/1244411731"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=cafe；OSM cuisine=coffee_shop。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-la-regalade",
+    "name": "La regalade",
+    "category": "creperie",
+    "status": "ready",
+    "lat": 48.845687,
+    "lng": 2.29904,
+    "score": 34,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20regalade%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20regalade%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/9813161971"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=fast_food；OSM cuisine=pizza;crepe;sandwich;panini。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-la-ficelle",
+    "name": "La Ficelle",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.8473,
+    "lng": 2.298291,
+    "score": 35,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Ficelle%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Ficelle%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/10837281188",
+      "https://www.la-ficelle.com/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-hotel-wallace",
+    "name": "Hôtel Wallace",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.846114,
+    "lng": 2.298504,
+    "score": 35,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=H%C3%B4tel%20Wallace%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=H%C3%B4tel%20Wallace%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/11613691269",
+      "https://www.marriott.com/PARWA"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-homer-food-group",
+    "name": "Homer Food Group",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.848818,
+    "lng": 2.299494,
+    "score": 33,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Homer%20Food%20Group%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Homer%20Food%20Group%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/11810446332"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-chez-rami",
+    "name": "Chez Rami",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.84679,
+    "lng": 2.304796,
+    "score": 34,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Chez%20Rami%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Chez%20Rami%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/1244411732"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.2 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant；OSM cuisine=lebanese。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-swann-et-vincent",
+    "name": "Swann et Vincent",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.846772,
+    "lng": 2.304854,
+    "score": 33,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Swann%20et%20Vincent%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Swann%20et%20Vincent%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/6482742686"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-deliziosa-pizza",
+    "name": "Deliziosa Pizza",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.845304,
+    "lng": 2.299057,
+    "score": 34,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Deliziosa%20Pizza%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Deliziosa%20Pizza%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/10042691611"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=fast_food；OSM cuisine=pizza。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-le-comptoir-du-perou",
+    "name": "Le Comptoir du Pérou",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.845656,
+    "lng": 2.298513,
+    "score": 34,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Comptoir%20du%20P%C3%A9rou%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Comptoir%20du%20P%C3%A9rou%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/9977259189"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant；OSM cuisine=peruvian。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-le-sept-quinze",
+    "name": "Le Sept Quinze",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.848921,
+    "lng": 2.303439,
+    "score": 33,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Sept%20Quinze%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Sept%20Quinze%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/4292750935"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-food-store",
+    "name": "Food Store",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.84844,
+    "lng": 2.298452,
+    "score": 35,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Food%20Store%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Mo-Su 11:30-24:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Food%20Store%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/5465475333"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=fast_food。OSM 提供營業時段：Mo-Su 11:30-24:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-les-pieds-dans-le-plat",
+    "name": "Les Pieds dans le Plat",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.846676,
+    "lng": 2.305073,
+    "score": 36,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Les%20Pieds%20dans%20le%20Plat%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Les%20Pieds%20dans%20le%20Plat%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/2925648934",
+      "http://www.lespiedsdansleplat15.com/"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant；OSM cuisine=french。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-la-cucina",
+    "name": "La Cucina",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.846652,
+    "lng": 2.305146,
+    "score": 34,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Cucina%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Cucina%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/2925648932"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=fast_food；OSM cuisine=italian。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-food-palace",
+    "name": "Food palace",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.845676,
+    "lng": 2.29815,
+    "score": 33,
+    "address": "rue de la Croix-Nivert",
+    "google_maps_url": "https://maps.google.com/?q=Food%20palace%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Food%20palace%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/2917317489"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=fast_food。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-la-maison-de-l-escargot",
+    "name": "La Maison de l'Escargot",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.846457,
+    "lng": 2.297665,
+    "score": 35,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Maison%20de%20l'Escargot%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Tu-Sa 10:00-14:00,15:00-19:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Maison%20de%20l'Escargot%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/4555735824",
+      "https://www.maison-escargot.com"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM shop=deli。OSM 提供營業時段：Tu-Sa 10:00-14:00,15:00-19:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-thai-lao",
+    "name": "Thai-Lao",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.846634,
+    "lng": 2.305213,
+    "score": 34,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Thai-Lao%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Thai-Lao%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/2925648936"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant；OSM cuisine=thai。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-le-lowendal",
+    "name": "Le Lowendal",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.849074,
+    "lng": 2.303681,
+    "score": 31,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Le%20Lowendal%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Le%20Lowendal%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/6292597792"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=cafe。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-laouna",
+    "name": "Laouna",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.846274,
+    "lng": 2.305253,
+    "score": 33,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Laouna%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Laouna%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/3758275629"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-poupart-piquot",
+    "name": "Poupart-Piquot",
+    "category": "cafe",
+    "status": "ready",
+    "lat": 48.84908,
+    "lng": 2.298657,
+    "score": 33,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Poupart-Piquot%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Mo-Fr 07:30-20:00, Su 07:00-14:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "coffee",
+      "breakfast",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Poupart-Piquot%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/11810446323"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM shop=bakery。OSM 提供營業時段：Mo-Fr 07:30-20:00, Su 07:00-14:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-sushi-shop",
+    "name": "Sushi Shop",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.848765,
+    "lng": 2.298108,
+    "score": 36,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=Sushi%20Shop%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Mo-Sa 11:00-22:00; Su 12:00-22:00",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=Sushi%20Shop%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/5068921435",
+      "https://www.sushishop.fr/fr/restaurant/grenelle"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=fast_food；OSM cuisine=sushi。OSM 提供營業時段：Mo-Sa 11:00-22:00; Su 12:00-22:00。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-the-groovy",
+    "name": "The Groovy",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.846475,
+    "lng": 2.305701,
+    "score": 33,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=The%20Groovy%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=The%20Groovy%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/13195285075"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-l-archelle",
+    "name": "L'Archelle",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.847164,
+    "lng": 2.305787,
+    "score": 33,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=L'Archelle%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=L'Archelle%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/13195285070"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-la-cantina",
+    "name": "La Cantina",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.847244,
+    "lng": 2.305845,
+    "score": 34,
+    "address": "Cambronne / La Motte-Picquet, 75015 Paris（OSM 未提供門牌）",
+    "google_maps_url": "https://maps.google.com/?q=La%20Cantina%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Cantina%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/4825877424"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=restaurant；OSM cuisine=french。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
+  },
+  {
+    "id": "paris-la-sandwicherie-du-xve",
+    "name": "La Sandwicherie du XVe",
+    "category": "restaurant",
+    "status": "ready",
+    "lat": 48.849447,
+    "lng": 2.298792,
+    "score": 33,
+    "address": "61bis Avenue de la Motte-Picquet",
+    "google_maps_url": "https://maps.google.com/?q=La%20Sandwicherie%20du%20XVe%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+    "price_level": "€",
+    "opening_hours": "Unknown (旅前再確認)",
+    "visit_priority": "medium",
+    "reservation_required": false,
+    "hotel_nearby": true,
+    "meal_tags": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "source_urls": [
+      "https://maps.google.com/?q=La%20Sandwicherie%20du%20XVe%20Cambronne%20%2F%20La%20Motte-Picquet%2C%2075015%20Paris",
+      "https://www.openstreetmap.org/node/4424859589"
+    ],
+    "notes": "【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 0.3 km】位於Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線；OSM amenity=fast_food。OSM 未提供營業時段，旅前需再確認。定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。"
   }
 ]
