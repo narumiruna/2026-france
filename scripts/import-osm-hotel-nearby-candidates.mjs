@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { execFileSync } from "node:child_process";
 
-const TARGET_COUNT = 100;
+const TARGET_COUNT = 400;
 const COUNTED_CATEGORIES = new Set(["restaurant", "cafe", "creperie", "dessert"]);
 const FOOD_AMENITIES = /^(restaurant|cafe|fast_food|ice_cream|food_court)$/;
 const FOOD_SHOPS = /^(bakery|pastry|confectionery|deli)$/;
@@ -21,8 +21,8 @@ const cityConfigs = [
     hotel: "ibis Avignon Centre Pont de l'Europe",
     lat: 43.9437,
     lng: 4.7981,
-    radiusMeters: 4000,
-    areaLabel: "Avignon 住宿與舊城延伸動線",
+    radiusMeters: 12000,
+    areaLabel: "Avignon 住宿、舊城、Villeneuve-lès-Avignon 與近郊延伸動線",
     queryLabel: "Avignon centre, 84000 Avignon",
   },
   {
@@ -32,8 +32,8 @@ const cityConfigs = [
     hotel: "ibis Nice Centre Notre-Dame",
     lat: 43.7042,
     lng: 7.2653,
-    radiusMeters: 3500,
-    areaLabel: "Nice 住宿、Jean Médecin、Libération 與舊城延伸動線",
+    radiusMeters: 8500,
+    areaLabel: "Nice 住宿、Jean Médecin、Libération、舊城、港區與近郊延伸動線",
     queryLabel: "Nice centre, 06000 Nice",
   },
   {
@@ -43,8 +43,8 @@ const cityConfigs = [
     hotel: "Hôtel Gabriel",
     lat: 48.6155,
     lng: -1.5109,
-    radiusMeters: 25000,
-    areaLabel: "La Caserne、Beauvoir、Pontorson、Avranches 與 Mont Saint-Michel 外圍短程車程動線",
+    radiusMeters: 65000,
+    areaLabel: "La Caserne、Beauvoir、Pontorson、Avranches、Granville、Dol-de-Bretagne、Saint-Malo 與 Mont Saint-Michel 外圍車程 / 轉乘動線",
     queryLabel: "Baie du Mont-Saint-Michel / Pontorson / Avranches area",
   },
   {
@@ -54,8 +54,8 @@ const cityConfigs = [
     hotel: "ibis Paris Tour Eiffel Cambronne 15ème",
     lat: 48.847,
     lng: 2.3014,
-    radiusMeters: 2500,
-    areaLabel: "Cambronne、La Motte-Picquet、Commerce、Ségur 與左岸南側延伸動線",
+    radiusMeters: 6000,
+    areaLabel: "Cambronne、La Motte-Picquet、Commerce、Ségur、左岸與 Paris 核心延伸動線",
     queryLabel: "Cambronne / La Motte-Picquet, 75015 Paris",
   },
 ];
@@ -325,7 +325,7 @@ function candidateFromElement(element, config, ids) {
     ? `OSM 提供營業時段：${tags.opening_hours}。`
     : "OSM 未提供營業時段，旅前需再確認。";
   row.notes =
-    `【外部查詢補齊 100 間門檻：OSM/Overpass，距住宿點約 ${km.toFixed(1)} km】` +
+    `【外部查詢補齊 400 間門檻：OSM/Overpass，距住宿點約 ${km.toFixed(1)} km】` +
     `位於${config.areaLabel}；${typeNote}${cuisineNote}。${hoursNote}` +
     "定位為住宿附近實用備案，適合旅中依營業狀態臨時選用。";
 

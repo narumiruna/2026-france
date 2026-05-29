@@ -1,7 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 
-const MINIMUM_HOTEL_NEARBY_COUNT = 100;
+const MINIMUM_HOTEL_NEARBY_COUNT = 400;
 const COUNTED_CATEGORIES = new Set(["restaurant", "cafe", "creperie", "dessert"]);
 const CITIES_DIR = path.join("data", "cities");
 const RESTAURANTS_FILE = path.join("data", "restaurants.json");

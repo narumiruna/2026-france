@@ -42,7 +42,7 @@ description: 讀這份文件以快速理解文件與程式結構。
 - `data/city-overview.json`：城市層級美食總覽資料來源。
 - `data/cities/*.json`：各城市原始或分段資料，方便分工與維護。
 - `docs/`：需求、流程、偏好、行程與規則，不存放執行邏輯。
-  - `docs/HOTEL_NEARBY_GAPS.md`：只追蹤住宿附近候選補到 100 間的缺口與補齊方向。
+  - `docs/HOTEL_NEARBY_GAPS.md`：只追蹤住宿附近候選補到 400 間的缺口與補齊方向。
 
 ## 命名規則
 - 城市檔名使用小寫 kebab-case，例如 `mont-saint-michel.json`。
