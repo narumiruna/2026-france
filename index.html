@@ -2,8 +2,12 @@
 <html lang="zh-Hant">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <title>France Food Map 2026</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23fffaf2'/%3E%3Ctext x='50%25' y='56%25' text-anchor='middle' font-size='38'%3E%F0%9F%8D%B4%3C/text%3E%3C/svg%3E"
+    />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -50,10 +54,20 @@
     <main class="main-layout">
       <div class="container">
         <section id="overview" class="panel is-active" aria-label="城市美食總覽">
+          <div class="section-intro">
+            <p class="section-kicker">行前快速判斷</p>
+            <h2>城市總覽</h2>
+            <p>先看每個城市的住宿位置、必吃風格與用餐限制，再決定要不要打開地圖找附近店家。</p>
+          </div>
           <div id="overview-list" class="overview-grid"></div>
         </section>
 
         <section id="top-picks" class="panel" aria-label="各城市精選餐廳">
+          <div class="section-intro">
+            <p class="section-kicker">不用滑完整份資料</p>
+            <h2>各城市精選餐廳</h2>
+            <p>每張卡片保留分數、價格、營業資訊與備註，手機上可直接開 Google Maps 或跳到該城市地圖。</p>
+          </div>
           <div id="top-picks-list"></div>
         </section>
       </div>
